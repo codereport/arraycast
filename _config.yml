@@ -6,7 +6,10 @@ lang: en
 copyright: "&#x2117; &amp; &#xA9; 2021–2026 The Array Cast"
 logo: /assets/img/logo.webp
 url: "https://www.arraycast.com"
-# baseurl: "/" # the subpath of your site, e.g. /blog
+# For temporary deployment at codereport.github.io/arraycast/, use:
+# baseurl: "/arraycast"
+# For final deployment at www.arraycast.com, use:
+baseurl: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="/"><img id="logo" src="{{site.logo | relative_url}}" alt="The Array Cast Logo" title="Home"/></a><a id="rss" href="/podcast.rss"><img src="/assets/img/rss.svg" alt="RSS" title="RSS feed"></a>
+        <a href="{{ "/" | relative_url }}"><img id="logo" src="{{site.logo | relative_url}}" alt="The Array Cast Logo" title="Home"/></a><a id="rss" href="{{ "/podcast.rss" | relative_url }}"><img src="{{ "/assets/img/rss.svg" | relative_url }}" alt="RSS" title="RSS feed"></a>
         <p>{{ site.description }}</p>
         <hr>
         <p><strong>Host:</strong> <a href="https://www.youtube.com/codereport" target="_blank">Conor Hoekstra</a> is the host of ArrayCast and ADSP: The Podcast, and runs the code_report YouTube channel.</p>
