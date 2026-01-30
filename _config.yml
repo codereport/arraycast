@@ -17,3 +17,7 @@ baseurl: ""
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md
+  - LICENSE
