@@ -68,7 +68,7 @@ Thanks to Bob Therriault, Stephen Taylor, Richard Park and Marshall Lochbaum for
 - [Dyalog APL programming language](https://www.dyalog.com/)
 - [J programming language](https://www.jsoftware.com/#/)
 - [k programming language](https://aplwiki.com/wiki/K)
-- [q programming language](https://trykdb.[kx.com](http://kx.com/))/kx/signup/)
+- [q programming language](https://trykdb.[kx.com](http:/kx.com/))/kx/signup/)
 
 **[07] 00:14:41**
 
@@ -116,8 +116,8 @@ Thanks to Bob Therriault, Stephen Taylor, Richard Park and Marshall Lochbaum for
 
 **[15] 00:35:25**
 
-- [q diagramshttps://code.](http://kx.com/)
-- [/q/ref/uj/https://code.](http://kx.com/)
+- [q diagramshttps://code.](http:/kx.com/)
+- [/q/ref/uj/https://code.](http:/kx.com/)
 - [/q/ref/maps/#each-left-and-each-right](https://www.arraycast.com/episodes/episode21-morten-kromberg)
 
 **[16] 00:38:27**

@@ -50,7 +50,7 @@ Thanks to Bob Therriault and Conor Hoekstra for gathering these links:
 - [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
 - [Geoff Streeter](https://aplwiki.com/wiki/Geoff_Streeter)
 - [Geoff Streeter - 40 years with Dyalog](https://www.dyalog.com/news/113/420/Geoff-Streeter-40-Years-with-Dyalog.htm)
-- [Dyadic](https://aplwiki.com//wiki/Dyalog_Ltd).#Dyadic_Systems_consulting)
+- [Dyadic](https://aplwiki.com/wiki/Dyalog_Ltd).#Dyadic_Systems_consulting)
 - [Dyalog APL](https://aplwiki.com/wiki/Dyalog_Ltd)
 - [.Atkins Engineering](https://en.wikipedia.org/wiki/Atkins_(company))
 - [Zilog 8000 Processor](https://en.wikipedia.org/wiki/Zilog_Z8000)

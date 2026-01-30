@@ -33,4 +33,4 @@ In this episode our guest is Jeremy Howard, entrepreneur and data scientist. A v
 
 ## Show Notes
 
-- [https://youtu.be/0AlSPyGWNr4](https://youtu.be/0AlSPyGWNr4)
+- [https://youtu.be/0AlSPyGWNr4](https:/youtu.be/0AlSPyGWNr4)

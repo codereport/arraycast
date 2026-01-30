@@ -73,13 +73,13 @@ Thanks to Bob Therriault, Marshall Lochbaum, Adám Brudzewsky and Conor Hoekstra
 - [Lua programming language](https://en.wikipedia.org/wiki/Lua)
 - [HyperTalk programming language](https://en.wikipedia.org/wiki/HyperTalk)
 - [Itchio platform](https://en.wikipedia.org/wiki/Itch.io)
-- [Claude 4](https://en.wikipedia.org/wiki/Claude_(language_model))#Claude_4)
+- [Claude 4](https://en.wikipedia.org/wiki/Claude_(language_model)#Claude_4)
 - [Python programming language](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 **[03] 00:20:54**
 
 - [Nil in Lil Blog Post](https://beyondloom.com/blog/nil.html)
-- [k2 programming language](http://web.archive.org/web/20050504070651/http://www.kx.com/technical/documents/kreflite.pdf)
+- [k2 programming language](http://web.archive.org/web/20050504070651/http:/www.kx.com/technical/documents/kreflite.pdf)
 - [APL programming language](https://aplwiki.com/)
 - [Stencil operator in Dyalog APL](https://www.dyalog.com/blog/author/roger/)
 - [Fill in k5](https://wiki.k-language.dev/wiki/Fill)

@@ -54,12 +54,12 @@ Thanks to Bob Therriault, Adám Brudzewsky, and James Price for gathering these 
 - [James Price/SolarBreeze Medium](https://medium.com/@solarbreeze69)
 - [James Price/SolarBreeze](http://itch.io/)
 - [itch.io/](http://itch.io/)
-- [/profile/solarbreezehttps://solarbreeze.](http://itch.io/)
-- [/River Thames Game Jamhttps://](http://itch.io/)
+- [/profile/solarbreezehttps://solarbreeze.](http:/itch.io/)
+- [/River Thames Game Jamhttps://](http:/itch.io/)
 - [/jam/thames-jamCommodore Super Pet computer](https://www.commodore.ca/commodore-brochures/commodore-superpet-brochure/)
 - [zimmers.net/cbmpics/csp9000.html](https://www.zimmers.net/cbmpics/csp9000.html)
 - [Commodore 64 computer](https://en.wikipedia.org/wiki/Commodore_64)
-- [Dracularkhttps://solarbreeze.](http://itch.io/)
+- [Dracularkhttps://solarbreeze.](http:/itch.io/)
 - [/draculark](https://medium.com/@solarbreeze69)
 - [/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1aMudlarking](https://en.wikipedia.org/wiki/Mudlarking)
 - [Henry Mayhew](https://en.wikipedia.org/wiki/Henry_Mayhew)
@@ -101,7 +101,7 @@ Thanks to Bob Therriault, Adám Brudzewsky, and James Price for gathering these 
 
 **[06] 00:34:09**
 
-- [APL\360](https://en.wikipedia.org/wiki/APL_(programming_language))#APL)
+- [APL\\360](https://en.wikipedia.org/wiki/APL_(programming_language)#APL\\360)
 - [\360Rodney Zaks](https://en.wikipedia.org/wiki/Rodnay_Zaks)
 - [Powell's books](https://en.wikipedia.org/wiki/Powell%27s_Books)
 - [John Von Neumann](https://en.wikipedia.org/wiki/Jon_Von_Neumann)

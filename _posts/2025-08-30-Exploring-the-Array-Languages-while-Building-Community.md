@@ -75,7 +75,7 @@ Thanks to Bob Therriault, Mark Shure, and Alex Alejandre for gathering these lin
 **[03] 00:19:56**
 
 - [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming)
-- [Rank Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))#Rank_polymorphism)
+- [Rank Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Rank_polymorphism)
 - [Uiua Tutorial](https://www.uiua.org/tutorial/introduction)
 - [Uiua Programming Language](https://www.uiua.org/)
 - [TryAPL](https://tryapl.org/)

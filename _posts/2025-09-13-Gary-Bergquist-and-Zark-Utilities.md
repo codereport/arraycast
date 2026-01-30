@@ -43,7 +43,7 @@ Thanks to Bob Therriault, Adám Brudzewsky, and Conor Hoekstra for gathering the
 
 - [Jon McGrew's obituary](https://www.dailyfreeman.com/obituaries/jon-mcgrew-kingston-ny/)
 - [Jon McGrew's Service](https://www.eventbrite.com/e/jon-mcgrew-memorial-tickets-1666048639329)
-- [Quote Squad on the APL Farm](https://aplwiki.com//wiki/APL_Farm)#Quote_Squad)
+- [Quote Squad on the APL Farm](https://aplwiki.com/wiki/APL_Farm#Quote_Squad)
 - [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
 - [Ken Iverson Episode #92 on the ArrayCast](https://www.arraycast.com/episodes/episode92-iverson)
 - [Bob Smith Episode #80 on the ArrayCast](https://www.arraycast.com/episodes/episode80-nars2000)

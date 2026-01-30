@@ -36,7 +36,7 @@ Thanks to Bob Therriault and Marshall Lochbaum for gathering these links:
 
 **[01] 00:01:40**
 
-- [Blog posters on BQN Community page](https://mlochbaum.github.io/BQN//community/index.html)
+- [Blog posters on BQN Community page](https://mlochbaum.github.io/BQN/community/index.html)
 - [Tony Zorman New Blog AOC 2017](https://tony-zorman.com/tags/BQN.html)
 - [Dyalog 24 videos](https://www.youtube.com/user/DyalogConference)
 - [LambdaWorld 2024](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
@@ -55,7 +55,7 @@ Thanks to Bob Therriault and Marshall Lochbaum for gathering these links:
 
 - [Reverse in BQN](https://mlochbaum.github.io/BQN/)
 - doc/reverse.html)
-- [Transpose in BQN](https://mlochbaum.github.io/BQN//doc/transpose.html)
+- [Transpose in BQN](https://mlochbaum.github.io/BQN/doc/transpose.html)
 - [BQNCrate](https://mlochbaum.github.io/bqncrate/)
 - [tinyapl Programming Language](https://github.com/RubenVerg/tinyapl/blob/main/README.md)
 - [Goal](https://aplwiki.com//)/wiki/Goal)

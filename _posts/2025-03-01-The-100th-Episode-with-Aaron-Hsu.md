@@ -66,7 +66,7 @@ Thanks to Bob Therriault, Adám Brudzewsky, Conor Hoekstra and Mark Shure for ga
 - [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
 - [Bracket Indexing](https://aplwiki.com/wiki/Bracket_indexing)
 - [Strand Notation](https://aplwiki.com/wiki/Strand_notation)
-- [Lexical Scoping](https://en.wikipedia.org/wiki/Scope_(computer_science))#Lexical_scope_vs._dynamic_scope_2)
+- [Lexical Scoping](https://en.wikipedia.org/wiki/Scope_(computer_science)#Lexical_scope_vs._dynamic_scope_2)
 
 **[03] 00:28:47**
 
@@ -93,7 +93,7 @@ Thanks to Bob Therriault, Adám Brudzewsky, Conor Hoekstra and Mark Shure for ga
 
 **[05] 00:59:15**
 
-- [Codfns vs. BQN](https://mlochbaum.github.io/BQN//implementation/codfns.html)
+- [Codfns vs. BQN](https://mlochbaum.github.io/BQN/implementation/codfns.html)
 - [Alexander Aiken The FL Project](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9615d796624bf761e8ed17a80ae171fe72be3611)
 - [LLM's](https://en.wikipedia.org/wiki/Large_language_model)
 - [Claude 3.7](https://en.wikipedia.org/wiki/Claude_(language_model))

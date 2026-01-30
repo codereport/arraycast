@@ -70,8 +70,8 @@ Thanks to Bob Therriault for gathering these links:
 
 **[03] 00:23:55**
 
-- [Catalan Numbers](https://en.wikipedia.org/wiki//Catalan_number)
-- [Ruby programming language](https://en.wikipedia.org/wiki//Ruby_(programming_language))
+- [Catalan Numbers](https://en.wikipedia.org/wiki/Catalan_number)
+- [Ruby programming language](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 - [q programming language](https://en.wikipedia.org/wiki/)
 - [J pronouns x, y, m, n, u, v](https://code.jsoftware.com/wiki/Help/Release/J_6.01/:_Explicit_Names_Changed)
 - [Fold Diagrams](https://code.jsoftware.com/wiki/Vocabulary/fcap)

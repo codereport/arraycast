@@ -59,7 +59,7 @@ Thanks to Bob Therriault, Marshall Lochbaum and Conor Hoekstra for gathering the
 - [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
 - [Cocos Library](https://www.cocos.com/en)
 - [Thrust Library](https://developer.nvidia.com/thrust)
-- [Rank Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))#Rank_polymorphism)
+- [Rank Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Rank_polymorphism)
 - [Conor's Algorithms as a Tool of Thought](https://www.youtube.com/watch?v=GZuZgCDql6g)
 - [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
 - [LLVM Compiler](https://en.wikipedia.org/wiki/LLVM)

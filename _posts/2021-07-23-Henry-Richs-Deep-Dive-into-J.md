@@ -38,7 +38,7 @@ excerpt_separator: <!--more-->
 - [Dyalog APL’s Experimental Parallel Feature](https://help.dyalog.com/latest/#Language/Introduction/Parallel%20Execution.htm)
 - [Dyalog APL’s Experimental Future Feature](https://github.com/Dyalog/isolate)
 - [Fold in J](https://code.jsoftware.com/wiki/Vocabulary/fcap)
-- [J406 Dictionary](https://web.archive.org/web/20010127031200/http://www.jsoftware.com/dict/main.htm)
+- [J406 Dictionary](https://web.archive.org/web/20010127031200/http:/www.jsoftware.com/dict/main.htm)
 - [Nuvoc](https://code.jsoftware.com/wiki/NuVoc)
 - [J for C Programmers](https://www.jsoftware.com/help/jforc/contents.htm)
 - [Quintana’s Jx](https://www.2bestsystems.com/foundation/j/jx1/)

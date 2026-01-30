@@ -40,9 +40,9 @@ Thanks to Bob Therriault, and Adám Brudzewsky for gathering these links:
 
 - [APL Quest videos](https://www.dyalog.com/blog/2024/03/the-apl-quest-series/)
 
-- [APL Quest blog post](https://www.dyalog.com//blog/2024/03/the-apl-quest-series/)
-- [APLSeeds '24](https://www.dyalog.com//apl-seeds-user-meetings/aplseeds24.htm)
-- [Dyalog 19.0](https://www.dyalog.com//dyalog/dyalog-versions/190.htm)
+- [APL Quest blog post](https://www.dyalog.com/blog/2024/03/the-apl-quest-series/)
+- [APLSeeds '24](https://www.dyalog.com/apl-seeds-user-meetings/aplseeds24.htm)
+- [Dyalog 19.0](https://www.dyalog.com/dyalog/dyalog-versions/190.htm)
 - [ProgLangCast episode with Adám](https://www.youtube.com/watch?v=9KN2nZNLv7A)
 - [J9.6 in beta](https://code.jsoftware.com/wiki/System/Installation#J9.6_BETA)
 - [Gitte Christensen ArrayCast Episode](https://www.arraycast.com/episodes/episode12-gitte-christensen)
@@ -91,7 +91,7 @@ Thanks to Bob Therriault, and Adám Brudzewsky for gathering these links:
 - [J Stand-alone Applications](https://code.jsoftware.com/wiki/Guides/J9_Standalone)
 - [J Folders and Projects](https://code.jsoftware.com/wiki/Guides/Folders_and_Projects)
 - [Haskell Programming Language](https://en.wikipedia.org/wiki/Haskell)
-- [Rank Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))#Rank_polymorphism)
+- [Rank Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Rank_polymorphism)
 
 **[07] 00:48:52**
 

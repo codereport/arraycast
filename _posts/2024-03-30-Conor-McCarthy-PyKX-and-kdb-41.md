@@ -45,7 +45,7 @@ Thanks to Bob Therriault, Stephen Taylor and Adám Brudzewsky for gathering thes
 - [Invitations](mailto:warden@iversoncollege.com)
 - [DYNA](https://dyna.dyalog.com/)
 - [APL Germany Meetup](https://apl-germany.de/apl-germany-fruehjahrstagung-2024/)
-- [KXCon 23](https://kx.com//events/kx-con-2023/)
+- [KXCon 23](https://kx.com/events/kx-con-2023/)
 - [KX.com](http://kx.com/)
 - [kx.com](https://kx.com/)
 - [PyKX](https://code.kx.com/pykx/2.4/index.html)
@@ -80,13 +80,13 @@ Thanks to Bob Therriault, Stephen Taylor and Adám Brudzewsky for gathering thes
 - [Video kdb+ features Andrew Wilson](https://www.youtube.com/watch?v=EUGJPO7ObNg)
 - [KXCon 23 Andrew and Pierre talk](https://youtu.be/EUGJPO7ObNg?si=I5UAR02e3MI8KEEO)
 - [Peach operator in q](https://code.kx.com/q/ref/each/)
-- [Release Notes of kdb+ 4.1](https://code.kx.com/q//releases/ChangesIn4.1/)
+- [Release Notes of kdb+ 4.1](https://code.kx.com/q/releases/ChangesIn4.1/)
 - [k Programming Language](https://en.wikipedia.org/wiki/K_(programming_language))
 - [Dictionaries in q](https://code.kx.com/q/basics/dictsandtables/)
 
 **[05] 00:26:28**
 
-- [Multi-threaded](https://en.wikipedia.org/wiki/Thread_(computing))#Single-threaded_vs_multithreaded_programs)
+- [Multi-threaded](https://en.wikipedia.org/wiki/Thread_(computing)#Single-threaded_vs_multithreaded_programs)
 - [Pierre's Pattern Matching Presentation at KXCon 23](https://youtu.be/EUGJPO7ObNg?si=44U7gTnA4Ji2r7da&t=1440)
 - [Type Checking](https://en.wikipedia.org/wiki/Type_checking#Type_checking)
 - [Erlang Programming Language](https://en.wikipedia.org/wiki/Erlang_(programming_language))

@@ -35,9 +35,9 @@ Array Cast -  June 7th, 2024
 Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 
 - [Iverson College Warden](mailto:warden@iversoncollege.com)
-- [q201.org](http://[q201.org](http://q201.org/)/)
+- [q201.org](http://[q201.org](http:/q201.org/)/)
 - [meetup and workshop in Madrid](https://www.meetup.com/everything-everywhere-all-with-kdb-q/)
-- [q201.org](http://[q201.org](http://q201.org/)/)
+- [q201.org](http://[q201.org](http:/q201.org/)/)
 - [q201.org](http://q201.org/)
 - [/q Workshop in London](mailto:dean@iversoncollege.com)
 - [APL Forge](https://forge.dyalog.com/)

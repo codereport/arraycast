@@ -48,7 +48,7 @@ Thanks to Bob Therriault, Marshall Lochbaum, Adám Brudzewsky, Phineas Porter, a
 - [Madeline Vergani Episode 88 on the ArrayCast](https://www.arraycast.com/episodes/episode88-tinyapl)
 - [OmniBar](https://omnibar.rubenverg.com/?s=rank&ig=true&in=true&id=false&hid=true)
 - [tinyAPL Programming Language](https://github.com/RubenVerg/tinyapl/blob/main/README.md)
-- [BQN Rank function](https://mlochbaum.github.io/BQN//doc/shape.html)
+- [BQN Rank function](https://mlochbaum.github.io/BQN/doc/shape.html)
 - [Nub In](https://aplwiki.com/wiki/Nub_in)
 - [ADSP 176](https://adspthepodcast.com/2024/04/05/Episode-176.html)
 - [Nick Psaris Episode 42 on the ArrayCast](https://www.arraycast.com/episodes/episode42-nick-psaris-q)

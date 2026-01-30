@@ -111,7 +111,7 @@ Thanks to Bob Therriault, Adám Brudzewsky, and David Zwitser for gathering thes
 
 **[09] 00:54:55**
 
-- [APLcart](https://aplwiki.com/wiki//APLcart)
+- [APLcart](https://aplwiki.com/wiki/APLcart)
 - [J phrases](https://code.jsoftware.com/wiki/Phrases)
 - [APLwiki](https://aplwiki.com/wiki/)
 - [J wiki](https://code.jsoftware.com/wiki/Main_Page)

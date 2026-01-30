@@ -52,7 +52,7 @@ Thanks to Bob Therriault, Conor Hoekstra, Marshall Lochbaum and Adám Brudzewsky
 - [Go Programming Language](https://en.wikipedia.org/wiki/Go_(programming_language))
 - [The Go Programming Language and environment](https://www.youtube.com/watch?v=YXV7sa4oM4I)
 - [Ivy Programming Language](https://pkg.go.dev/robpike.io/ivy)
-- [aplwiki.com/wiki](https://aplwiki.com/wiki//Ivy)
+- [aplwiki.com/wiki](https://aplwiki.com/wiki/Ivy)
 
 **[03] 00:05:50**
 

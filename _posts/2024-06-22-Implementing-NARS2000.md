@@ -87,7 +87,7 @@ Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 - [Ball Arithmetic](https://en.wikipedia.org/wiki/Interval_arithmetic)
 - #Complex_interval_arithmetic
 
-- [Recommended book - Validated Numerics: A Short Introduction to Rigorous Computations](https://dl.acm.org/doi/10.5555/2025241https://dl.acm.org/doi/10.5555/2025241)
+- [Recommended book - Validated Numerics: A Short Introduction to Rigorous Computations](https://dl.acm.org/doi/10.5555/2025241https:/dl.acm.org/doi/10.5555/2025241)
 - [Numerical Analysis](https://en.wikipedia.org/wiki/Numerical_analysis)
 - [Boolean datatype](https://en.wikipedia.org/wiki/Boolean_data_type)
 
