@@ -32,27 +32,112 @@ Exploring the Array Languages while Building CommunityAlex Alejandre is a modera
 
 ## Show Notes
 
-Array Cast -  August 29, 2025Show Notes
+Array Cast -  August 29, 2025
 
 Thanks to Bob Therriault, Mark Shure, and Alex Alejandre for gathering these links:
 
-[01] 00:01:13 Iverson College Video[https://www.youtube.com/watch?v=w-MyzJLHfmc](https://www.youtube.com/watch?v=w-MyzJLHfmc)DYNA 2025[https://dyna.dyalog.com](https://dyna.dyalog.com/)Alex Alejandre Site[https://alexalejandre.com](https://alexalejandre.com/)apljk subreddit[https://www.reddit.com/r/apljk/](https://www.reddit.com/r/apljk/)J Programming Language[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)Common Lisp Programming Language[https://en.wikipedia.org/wiki/Common_Lisp](https://en.wikipedia.org/wiki/Common_Lisp)Esperanto[https://en.wikipedia.org/wiki/Esperanto](https://en.wikipedia.org/wiki/Esperanto)Interlingua[https://en.wikipedia.org/wiki/Interlingua](https://en.wikipedia.org/wiki/Interlingua)DSL Domain Specific Language[https://en.wikipedia.org/wiki/Domain-specific_language](https://en.wikipedia.org/wiki/Domain-specific_language)Racket Programming Language[https://en.wikipedia.org/wiki/Racket_(programming_language)](https://en.wikipedia.org/wiki/Racket_(programming_language))Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Peter Naur[https://en.wikipedia.org/wiki/Peter_Naur](https://en.wikipedia.org/wiki/Peter_Naur)Notation as a Tool of Thought[https://www.jsoftware.com/papers/tot.htm](https://www.jsoftware.com/papers/tot.htm)Alan Perlis[https://en.wikipedia.org/wiki/Alan_Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)Many of Ken Iverson's Writings[https://code.jsoftware.com/wiki/Essays/Bibliography](https://code.jsoftware.com/wiki/Essays/Bibliography)J Labs[https://code.jsoftware.com/wiki/Category:Labs_N.8](https://code.jsoftware.com/wiki/Category:Labs_N.8)
+**[01] 00:01:13**
 
-[02] 00:08:35 APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)April Programming Language[https://aplwiki.com](https://aplwiki.com/)/wiki/AprilA Practical Introduction to APL 1 and APL 2[http://www.robertson.uk.net/Files/APL1+2.pdf](http://www.robertson.uk.net/Files/APL1+2.pdf)
+- [Iverson College Video](https://www.youtube.com/watch?v=w-MyzJLHfmc)
+- [DYNA 2025](https://dyna.dyalog.com/)
+- [Alex Alejandre Site](https://alexalejandre.com/)
+- [apljk subreddit](https://www.reddit.com/r/apljk/)
+- [J Programming Language](https://code.jsoftware.com/wiki/Category:Home)
+- [Common Lisp Programming Language](https://en.wikipedia.org/wiki/Common_Lisp)
+- [Esperanto](https://en.wikipedia.org/wiki/Esperanto)
+- [Interlingua](https://en.wikipedia.org/wiki/Interlingua)
+- [DSL Domain Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language)
+- [Racket Programming Language](https://en.wikipedia.org/wiki/Racket_(programming_language))
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Peter Naur](https://en.wikipedia.org/wiki/Peter_Naur)
+- [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm)
+- [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+- [Many of Ken Iverson's Writings](https://code.jsoftware.com/wiki/Essays/Bibliography)
+- [J Labs](https://code.jsoftware.com/wiki/Category:Labs_N.8)
 
-A Practical Introduction to APL 3 and APL 4[http://robertson.uk.net/Files/APL3+4.pdf](http://robertson.uk.net/Files/APL3+4.pdf)Tacit Programming[https://en.wikipedia.org/wiki/Tacit_programming](https://en.wikipedia.org/wiki/Tacit_programming)Array Notation[https://aplwiki.com/wiki/Array_notation](https://aplwiki.com/wiki/Array_notation)Clojure Programming Language[https://en.wikipedia.org/wiki/Clojure](https://en.wikipedia.org/wiki/Clojure)Janet Programming Language[https://janet-lang.org](https://janet-lang.org/)Andrew Sengul Episode #23 on the ArrayCast[https://www.arraycast.com/episodes/episode23-andrew-sengul](https://www.arraycast.com/episodes/episode23-andrew-sengul)Quaker Consensus[https://en.wikipedia.org/wiki/Consensus_decision-making#History](https://en.wikipedia.org/wiki/Consensus_decision-making#History)SICP[https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)Scheme Programming Language[https://en.wikipedia.org/wiki/Scheme_(programming_language)](https://en.wikipedia.org/wiki/Scheme_(programming_language))
+**[02] 00:08:35**
 
-[03] 00:19:56 Concepts, Techniques, and Models of Computer Programming[https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming)Rank Polymorphism[https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Rank_polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Rank_polymorphism)Uiua Tutorial[[https://www.uiua.org](https://www.uiua.org/)/tutorial/introduction]([https://www.uiua.org](https://www.uiua.org/)/tutorial/introduction)Uiua Programming Language[https://www.uiua.org](https://www.uiua.org/)TryAPL[https://tryapl.org](https://tryapl.org/)APL Tutor[https://tutorial.dyalog.com](https://tutorial.dyalog.com/)Learning APL Stefan Krueger[https://xpqz.github.io/learnapl/intro.html](https://xpqz.github.io/learnapl/intro.html)
+- [APL Programming Language](https://aplwiki.com/)
+- [Dyalog APL](https://www.dyalog.com/)
+- [April Programming Language](https://aplwiki.com/)
+- [/wiki/AprilA Practical Introduction to APL 1 and APL 2](http://www.robertson.uk.net/Files/APL1+2.pdf)
 
-[04] 00:28:41 Catherine Lathwell's YouTube[https://www.youtube.com/@cjlathwell](https://www.youtube.com/@cjlathwell)J 2014 Conference[https://code.jsoftware.com/wiki/Community/Conference2014](https://code.jsoftware.com/wiki/Community/Conference2014)Eric Iverson Episode #10 on the ArrayCast[https://www.arraycast.com/episode-10-transcript](https://www.arraycast.com/episode-10-transcript)IP Sharp Associates Episode #91 on the ArrayCast[https://www.arraycast.com/episodes/episode91-ipsharpdoc](https://www.arraycast.com/episodes/episode91-ipsharpdoc)Video Origins of APL[https://www.youtube.com/watch?v=8kUQWuK1L4w](https://www.youtube.com/watch?v=8kUQWuK1L4w)Campfire Episodes[https://aplwiki.com/wiki/APL_Campfire](https://aplwiki.com/wiki/APL_Campfire)Adám and Richard's podcast[https://aplwiki.com/wiki/APL_Show](https://aplwiki.com/wiki/APL_Show)Forth[https://en.wikipedia.org/wiki/Forth_(programming_language)](https://en.wikipedia.org/wiki/Forth_(programming_language))
+- [A Practical Introduction to APL 3 and APL 4](http://robertson.uk.net/Files/APL3+4.pdf)
+- [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
+- [Array Notation](https://aplwiki.com/wiki/Array_notation)
+- [Clojure Programming Language](https://en.wikipedia.org/wiki/Clojure)
+- [Janet Programming Language](https://janet-lang.org/)
+- [Andrew Sengul Episode #23 on the ArrayCast](https://www.arraycast.com/episodes/episode23-andrew-sengul)
+- [Quaker Consensus](https://en.wikipedia.org/wiki/Consensus_decision-making#History)
+- [SICP](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
+- [Scheme Programming Language](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 
-[05] 00:40:28 APL2 Programming Language[https://aplwiki.com/wiki/APL2](https://aplwiki.com/wiki/APL2)Array Model[https://aplwiki.com/wiki/Array_model](https://aplwiki.com/wiki/Array_model)Index origin[https://aplwiki.com/wiki/Index_origin](https://aplwiki.com/wiki/Index_origin)Trains[https://aplwiki.com/wiki/Train](https://aplwiki.com/wiki/Train)TinyAPL Programming Language[https://tinyapl.rubenverg.com](https://tinyapl.rubenverg.com/)Kap Programming Language[https://kapdemo.dhsdevelopments.com](https://kapdemo.dhsdevelopments.com/)HackerNews APL Bingo[https://aplwiki.com/wiki/APL_Bingo](https://aplwiki.com/wiki/APL_Bingo)KX[https://kx.com](https://kx.com/)Jsoftware[https://www.jsoftware.com/#/](https://www.jsoftware.com/#/)J Wiki[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)J Playground[https://jsoftware.github.io/j-playground/bin/html2/](https://jsoftware.github.io/j-playground/bin/html2/)ArrayPortal[https://www.arrayportal.com](https://www.arrayportal.com/)KX Slack Channel[https://kx-community.slack.com/join/shared_invite/zt-3bbptqo6p-99EFjhDy0VOF7Ne_0p3O1A#/shared-invite/email](https://kx-community.slack.com/join/shared_invite/zt-3bbptqo6p-99EFjhDy0VOF7Ne_0p3O1A#/shared-invite/email)KDB-X Episode #112 on the ArrayCast[https://www.arraycast.com/episodes/episode112-kdbx](https://www.arraycast.com/episodes/episode112-kdbx)APLFarm[https://aplwiki.com/wiki/APL_Farm](https://aplwiki.com/wiki/APL_Farm)APL Orchard[https://aplwiki.com/wiki/APL_Orchard](https://aplwiki.com/wiki/APL_Orchard)
+**[03] 00:19:56**
 
-[06] 00:49:31 Iverson College[https://iversoncollege.com](https://iversoncollege.com/)Eternal September[https://en.wikipedia.org/wiki/Eternal_September](https://en.wikipedia.org/wiki/Eternal_September)
+- [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming)
+- [Rank Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))#Rank_polymorphism)
+- [Uiua Tutorial](https://www.uiua.org/tutorial/introduction)
+- [Uiua Programming Language](https://www.uiua.org/)
+- [TryAPL](https://tryapl.org/)
+- [APL Tutor](https://tutorial.dyalog.com/)
+- [Learning APL Stefan Krueger](https://xpqz.github.io/learnapl/intro.html)
 
-[07] 00:55:30 Contact AT ArrayCast DOT Comapljk subreddit[https://www.reddit.com/r/apljk/](https://www.reddit.com/r/apljk/)APL2000[https://aplwiki.com/wiki/APL2000](https://aplwiki.com/wiki/APL2000)APL+Win[https://aplwiki.com/wiki/APL%2BWin](https://aplwiki.com/wiki/APL%2BWin)APL Developer Network[http://forum.apl2000.com](http://forum.apl2000.com/)
+**[04] 00:28:41**
 
-[08] 01:00:34 John Daintree[https://aplwiki.com/wiki/John_Daintree](https://aplwiki.com/wiki/John_Daintree)John Scholes[https://aplwiki.com/wiki/John_Scholes](https://aplwiki.com/wiki/John_Scholes)Dfn[https://aplwiki.com/wiki/Dfn](https://aplwiki.com/wiki/Dfn)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)IP Sharp Associates[https://en.wikipedia.org/wiki/I._P._Sharp_Associates](https://en.wikipedia.org/wiki/I._P._Sharp_Associates)Julia Programming Language[https://en.wikipedia.org/wiki/Julia_(programming_language)](https://en.wikipedia.org/wiki/Julia_(programming_language))May[https://github.com/justin2004/may](https://github.com/justin2004/may)J in Janet[https://git.sr.ht/~subsetpark/jnj](https://git.sr.ht/~subsetpark/jnj)MATLAB Programming Language[https://en.wikipedia.org/wiki/MATLAB](https://en.wikipedia.org/wiki/MATLAB)Circle Programming Language[https://www.circle-lang.org/site/index.html](https://www.circle-lang.org/site/index.html)Contact AT ArrayCast DOT ComJ forums[https://code.jsoftware.com/wiki/System/Forum](https://code.jsoftware.com/wiki/System/Forum)
+- [Catherine Lathwell's YouTube](https://www.youtube.com/@cjlathwell)
+- [J 2014 Conference](https://code.jsoftware.com/wiki/Community/Conference2014)
+- [Eric Iverson Episode #10 on the ArrayCast](https://www.arraycast.com/episode-10-transcript)
+- [IP Sharp Associates Episode #91 on the ArrayCast](https://www.arraycast.com/episodes/episode91-ipsharpdoc)
+- [Video Origins of APL](https://www.youtube.com/watch?v=8kUQWuK1L4w)
+- [Campfire Episodes](https://aplwiki.com/wiki/APL_Campfire)
+- [Adám and Richard's podcast](https://aplwiki.com/wiki/APL_Show)
+- [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))
+
+**[05] 00:40:28**
+
+- [APL2 Programming Language](https://aplwiki.com/wiki/APL2)
+- [Array Model](https://aplwiki.com/wiki/Array_model)
+- [Index origin](https://aplwiki.com/wiki/Index_origin)
+- [Trains](https://aplwiki.com/wiki/Train)
+- [TinyAPL Programming Language](https://tinyapl.rubenverg.com/)
+- [Kap Programming Language](https://kapdemo.dhsdevelopments.com/)
+- [HackerNews APL Bingo](https://aplwiki.com/wiki/APL_Bingo)
+- [KX](https://kx.com/)
+- [Jsoftware](https://www.jsoftware.com/#/)
+- [J Wiki](https://code.jsoftware.com/wiki/Category:Home)
+- [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
+- [ArrayPortal](https://www.arrayportal.com/)
+- [KX Slack Channel](https://kx-community.slack.com/join/shared_invite/zt-3bbptqo6p-99EFjhDy0VOF7Ne_0p3O1A#/shared-invite/email)
+- [KDB-X Episode #112 on the ArrayCast](https://www.arraycast.com/episodes/episode112-kdbx)
+- [APLFarm](https://aplwiki.com/wiki/APL_Farm)
+- [APL Orchard](https://aplwiki.com/wiki/APL_Orchard)
+
+**[06] 00:49:31**
+
+- [Iverson College](https://iversoncollege.com/)
+- [Eternal September](https://en.wikipedia.org/wiki/Eternal_September)
+
+**[07] 00:55:30**
+
+- [Contact AT ArrayCast DOT Comapljk subreddit](https://www.reddit.com/r/apljk/)
+- [APL2000](https://aplwiki.com/wiki/APL2000)
+- [APL+Win](https://aplwiki.com/wiki/APL%2BWin)
+- [APL Developer Network](http://forum.apl2000.com/)
+
+**[08] 01:00:34**
+
+- [John Daintree](https://aplwiki.com/wiki/John_Daintree)
+- [John Scholes](https://aplwiki.com/wiki/John_Scholes)
+- [Dfn](https://aplwiki.com/wiki/Dfn)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [IP Sharp Associates](https://en.wikipedia.org/wiki/I._P._Sharp_Associates)
+- [Julia Programming Language](https://en.wikipedia.org/wiki/Julia_(programming_language))
+- [May](https://github.com/justin2004/may)
+- [J in Janet](https://git.sr.ht/~subsetpark/jnj)
+- [MATLAB Programming Language](https://en.wikipedia.org/wiki/MATLAB)
+- [Circle Programming Language](https://www.circle-lang.org/site/index.html)
+- [Contact AT ArrayCast DOT ComJ forums](https://code.jsoftware.com/wiki/System/Forum)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

@@ -34,29 +34,102 @@ Single Assignment CSven-Bodo Scholz explains the motivation for the SAC (Single 
 
 ## Show Notes
 
-Array Cast -  June 6, 2025Show Notes
+Array Cast -  June 6, 2025
 
 Thanks to Bob Therriault, Marshall Lochbaum and Conor Hoekstra for gathering these links:
 
-[01] 00:01:35 Sven-Bodo Scholz[[https://www.ru.nl/en](https://www.ru.nl/en)/people/scholz-s]([https://www.ru.nl/en](https://www.ru.nl/en)/people/scholz-s)SAC Single Assignment C Programming Language[https://en.wikipedia.org/wiki/SAC_programming_language](https://en.wikipedia.org/wiki/SAC_programming_language)Radboud University[https://www.ru.nl/en](https://www.ru.nl/en)Single Assigment C Home Page[https://www.sac-home.org/index](https://www.sac-home.org/index)Lambda Calculus[https://en.wikipedia.org/wiki/Lambda_calculus](https://en.wikipedia.org/wiki/Lambda_calculus)Basic Programming Language[https://en.wikipedia.org/wiki/BASIC](https://en.wikipedia.org/wiki/BASIC)Assembly Language[https://en.wikipedia.org/wiki/Assembly_language](https://en.wikipedia.org/wiki/Assembly_language)Quicksort Algorithm[https://en.wikipedia.org/wiki/Quicksort](https://en.wikipedia.org/wiki/Quicksort)SPARC Workstation[https://en.wikipedia.org/wiki/SPARCstation](https://en.wikipedia.org/wiki/SPARCstation)Functional Programming[https://en.wikipedia.org/wiki/Functional_programming](https://en.wikipedia.org/wiki/Functional_programming)C Programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))C Pointers[https://en.wikipedia.org/wiki/Pointer_(computer_programming)](https://en.wikipedia.org/wiki/Pointer_(computer_programming))Combinators[https://en.wikipedia.org/wiki/Combinatory_logic](https://en.wikipedia.org/wiki/Combinatory_logic)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Bob Bernecky Episode #55 on the ArrayCast[https://www.arraycast.com/episodes/episode55-bob-bernecky](https://www.arraycast.com/episodes/episode55-bob-bernecky)Jim Brown[https://aplwiki.com](https://aplwiki.com/)/wiki/Jim_BrownConcurrency[https://en.wikipedia.org/wiki/Concurrency_(computer_science)](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+**[01] 00:01:35**
 
-[02] 00:12:08 GPU[https://en.wikipedia.org/wiki/Graphics_processing_unit](https://en.wikipedia.org/wiki/Graphics_processing_unit)Rank Polymorphism[https://en.wikipedia.org/wiki/Parametric_polymorphism#Rank-1_(predicative)_polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism#Rank-1_(predicative)_polymorphism)Matrix Multiplication[https://en.wikipedia.org/wiki/Matrix_multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)MKL Library[https://en.wikipedia.org/wiki/Math_Kernel_Library](https://en.wikipedia.org/wiki/Math_Kernel_Library)OpenBLAS Library[https://en.wikipedia.org/wiki/OpenBLAS](https://en.wikipedia.org/wiki/OpenBLAS)Agda Programming Language[https://en.wikipedia.org/wiki/Agda_(programming_language)](https://en.wikipedia.org/wiki/Agda_(programming_language))Scan in BQN[https://mlochbaum.github.io/BQN/implementation/primitive/fold.html#scan-architecture](https://mlochbaum.github.io/BQN/implementation/primitive/fold.html#scan-architecture)Multi-dimensional Scan[https://ashinkarov.github.io/pubs/2022-scan.pdf](https://ashinkarov.github.io/pubs/2022-scan.pdf)Type Systems[https://en.wikipedia.org/wiki/Type_system](https://en.wikipedia.org/wiki/Type_system)
+- [Sven-Bodo Scholz](https://www.ru.nl/en/people/scholz-s)
+- [SAC Single Assignment C Programming Language](https://en.wikipedia.org/wiki/SAC_programming_language)
+- [Radboud University](https://www.ru.nl/en)
+- [Single Assigment C Home Page](https://www.sac-home.org/index)
+- [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
+- [Basic Programming Language](https://en.wikipedia.org/wiki/BASIC)
+- [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
+- [Quicksort Algorithm](https://en.wikipedia.org/wiki/Quicksort)
+- [SPARC Workstation](https://en.wikipedia.org/wiki/SPARCstation)
+- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+- [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [C Pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+- [Combinators](https://en.wikipedia.org/wiki/Combinatory_logic)
+- [APL Programming Language](https://aplwiki.com/)
+- [Bob Bernecky Episode #55 on the ArrayCast](https://www.arraycast.com/episodes/episode55-bob-bernecky)
+- [Jim Brown](https://aplwiki.com/)
+- [/wiki/Jim_BrownConcurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
 
-Rank Polymorphism for Shape-Guided Blocking[https://dl.acm.org/doi/10.1145/3609024.3609410](https://dl.acm.org/doi/10.1145/3609024.3609410)Scalars[https://en.wikipedia.org/wiki/Scalar_processor#Scalar_data_type](https://en.wikipedia.org/wiki/Scalar_processor#Scalar_data_type)Deep Learning Networks[https://en.wikipedia.org/wiki/Deep_learning](https://en.wikipedia.org/wiki/Deep_learning)
+**[02] 00:12:08**
 
-[03] 00:25:00 Jupyter Notebook[https://en.wikipedia.org/wiki/Project_Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)SAC Compiler GitLab[https://gitlab.sac-home.org/sac-group/sac2c](https://gitlab.sac-home.org/sac-group/sac2c)Lenore Mullin[https://www.researchgate.net/profile/Lenore-Mullin](https://www.researchgate.net/profile/Lenore-Mullin)Mathematics of Arrays (MOA)[https://www.researchgate.net/publication/308893116_A_Mathematics_of_Arrays](https://www.researchgate.net/publication/308893116_A_Mathematics_of_Arrays)Psi Calculus[https://www.researchgate.net/publication/264758384_Effective_data_parallel_computation_using_the_Psi_calculus](https://www.researchgate.net/publication/264758384_Effective_data_parallel_computation_using_the_Psi_calculus)Henry Rich J Interpreter Episode #106 on The ArrayCast[https://www.arraycast.com/episodes/episode106-interpreters](https://www.arraycast.com/episodes/episode106-interpreters)Object Oriented Programming[https://en.wikipedia.org/wiki/Object-oriented_programming](https://en.wikipedia.org/wiki/Object-oriented_programming)Machine Learning[https://en.wikipedia.org/wiki/Machine_learning](https://en.wikipedia.org/wiki/Machine_learning)
+- [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+- [Rank Polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism#Rank-1_(predicative))_polymorphism)
+- [Matrix Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
+- [MKL Library](https://en.wikipedia.org/wiki/Math_Kernel_Library)
+- [OpenBLAS Library](https://en.wikipedia.org/wiki/OpenBLAS)
+- [Agda Programming Language](https://en.wikipedia.org/wiki/Agda_(programming_language))
+- [Scan in BQN](https://mlochbaum.github.io/BQN/implementation/primitive/fold.html#scan-architecture)
+- [Multi-dimensional Scan](https://ashinkarov.github.io/pubs/2022-scan.pdf)
+- [Type Systems](https://en.wikipedia.org/wiki/Type_system)
 
-[04] 00:35:36 SIMD Programming[https://en.wikipedia.org/wiki/Single_instruction,_multiple_data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Numerical Stability[https://en.wikipedia.org/wiki/Numerical_stability](https://en.wikipedia.org/wiki/Numerical_stability)SAC 2.0 Syntax[https://www.sac-home.org/_media/docs:tutorial.pdf](https://www.sac-home.org/_media/docs:tutorial.pdf)SAC Standard Library[https://github.com/SacBase](https://github.com/SacBase)Affine Selection[https://en.wikipedia.org/wiki/Affine_transformation](https://en.wikipedia.org/wiki/Affine_transformation)High Performance Computing (HPC)[https://en.wikipedia.org/wiki/High-performance_computing](https://en.wikipedia.org/wiki/High-performance_computing)Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)
+- [Rank Polymorphism for Shape-Guided Blocking](https://dl.acm.org/doi/10.1145/3609024.3609410)
+- [Scalars](https://en.wikipedia.org/wiki/Scalar_processor#Scalar_data_type)
+- [Deep Learning Networks](https://en.wikipedia.org/wiki/Deep_learning)
 
-[05] 00:50:42 C Compilers[https://en.wikipedia.org/wiki/List_of_compilers#C_compilers](https://en.wikipedia.org/wiki/List_of_compilers#C_compilers)CUDA Programming Interface[https://en.wikipedia.org/wiki/CUDA](https://en.wikipedia.org/wiki/CUDA)C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)Futhark Episode #37 on the ArrayCast[https://www.arraycast.com/episodes/episode37-futhark](https://www.arraycast.com/episodes/episode37-futhark)Haskell Programming Language[https://en.wikipedia.org/wiki/Haskell](https://en.wikipedia.org/wiki/Haskell)Sisal Programming Language[https://en.wikipedia.org/wiki/SISAL](https://en.wikipedia.org/wiki/SISAL)Monads Category Theory[https://en.wikipedia.org/wiki/Monad_(functional_programming)](https://en.wikipedia.org/wiki/Monad_(functional_programming))ChatGPT[https://en.wikipedia.org/wiki/ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)J Programming Language[https://www.jsoftware.com/#/README](https://www.jsoftware.com/#/README)
+**[03] 00:25:00**
 
-[06] 01:00:52 Task Parallelism[https://en.wikipedia.org/wiki/Task_parallelism](https://en.wikipedia.org/wiki/Task_parallelism)Data Parallelism[https://en.wikipedia.org/wiki/Data_parallelism](https://en.wikipedia.org/wiki/Data_parallelism)TryAPL[https://tryapl.org](https://tryapl.org/)Comparing Parallel Functional Array Languages: Programming and Performance[https://arxiv.org/abs/2505.08906](https://arxiv.org/abs/2505.08906)DaCe Programming Language[https://spcldace.readthedocs.io/en/latest/](https://spcldace.readthedocs.io/en/latest/)
+- [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter)
+- [SAC Compiler GitLab](https://gitlab.sac-home.org/sac-group/sac2c)
+- [Lenore Mullin](https://www.researchgate.net/profile/Lenore-Mullin)
+- [Mathematics of Arrays (MOA)](https://www.researchgate.net/publication/308893116_A_Mathematics_of_Arrays)
+- [Psi Calculus](https://www.researchgate.net/publication/264758384_Effective_data_parallel_computation_using_the_Psi_calculus)
+- [Henry Rich J Interpreter Episode #106 on The ArrayCast](https://www.arraycast.com/episodes/episode106-interpreters)
+- [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 
-[07] 01:12:06 Alan Perlis[https://en.wikipedia.org/wiki/Alan_Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)FPGA[https://en.wikipedia.org/wiki/Field-programmable_gate_array](https://en.wikipedia.org/wiki/Field-programmable_gate_array)APEX Compiler[http://www.snakeisland.com/ms.pdf](http://www.snakeisland.com/ms.pdf)
+**[04] 00:35:36**
 
-[08] 01:19:45 Numpy Library[https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/NumPy)Sven-Bodo Scholz[sbscholz@gmail.com](mailto:sbscholz@gmail.com)
+- [SIMD Programming](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [Numerical Stability](https://en.wikipedia.org/wiki/Numerical_stability)
+- [SAC 2.0 Syntax](https://www.sac-home.org/_media/docs:tutorial.pdf)
+- [SAC Standard Library](https://github.com/SacBase)
+- [Affine Selection](https://en.wikipedia.org/wiki/Affine_transformation)
+- [High Performance Computing (HPC)](https://en.wikipedia.org/wiki/High-performance_computing)
+- [Dyalog APL](https://www.dyalog.com/)
 
-[09] 01:25:35 Contact AT ArrayCast DOT Com
+**[05] 00:50:42**
+
+- [C Compilers](https://en.wikipedia.org/wiki/List_of_compilers#C_compilers)
+- [CUDA Programming Interface](https://en.wikipedia.org/wiki/CUDA)
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Futhark Episode #37 on the ArrayCast](https://www.arraycast.com/episodes/episode37-futhark)
+- [Haskell Programming Language](https://en.wikipedia.org/wiki/Haskell)
+- [Sisal Programming Language](https://en.wikipedia.org/wiki/SISAL)
+- [Monads Category Theory](https://en.wikipedia.org/wiki/Monad_(functional_programming))
+- [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+- [J Programming Language](https://www.jsoftware.com/#/README)
+
+**[06] 01:00:52**
+
+- [Task Parallelism](https://en.wikipedia.org/wiki/Task_parallelism)
+- [Data Parallelism](https://en.wikipedia.org/wiki/Data_parallelism)
+- [TryAPL](https://tryapl.org/)
+- [Comparing Parallel Functional Array Languages: Programming and Performance](https://arxiv.org/abs/2505.08906)
+- [DaCe Programming Language](https://spcldace.readthedocs.io/en/latest/)
+
+**[07] 01:12:06**
+
+- [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+- [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+- [APEX Compiler](http://www.snakeisland.com/ms.pdf)
+
+**[08] 01:19:45**
+
+- [Numpy Library](https://en.wikipedia.org/wiki/NumPy)
+- [Sven-Bodo Scholz](mailto:sbscholz@gmail.com)
+
+**[09] 01:25:35**
+
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

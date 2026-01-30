@@ -34,27 +34,122 @@ Alex Unterrainer tells us about being a q developer and his learning site Defcon
 
 ## Show Notes
 
-Array Cast -  June 20, 2025Show Notes
+Array Cast -  June 20, 2025
 
 Thanks to Bob Therriault, Marshall Lochbaum and Alex Unterrainer for gathering these links:
 
-[01] 00:01:20 Nested Array Model in APLWiki[https://aplwiki.com/wiki/Nested_array_model](https://aplwiki.com/wiki/Nested_array_model)APL Forge[https://forge.dyalog.com](https://forge.dyalog.com/)HyperCard Programming Language[https://en.wikipedia.org/wiki/HyperCard](https://en.wikipedia.org/wiki/HyperCard)Bill Atkinson[https://en.wikipedia.org/wiki/Bill_Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson)John Earnest Episode #96 of the ArrayCast[https://www.arraycast.com/episodes/episode96-decker](https://www.arraycast.com/episodes/episode96-decker)Decker and Lil development[https://internet-janitor.itch.io/decker/devlog](https://internet-janitor.itch.io/decker/devlog)Decker Fantasy Camp[https://itch.io/jam/decker-fantasy-camp-2025](https://itch.io/jam/decker-fantasy-camp-2025)Aaron Hsu Episode Episode #100 of the ArrayCast[https://www.arraycast.com/episodes/episode100-100hsu](https://www.arraycast.com/episodes/episode100-100hsu)Aaron Hsu APL's Surprising Learning Curve[https://www.youtube.com/watch?v=9xCJ3BCIudI](https://www.youtube.com/watch?v=9xCJ3BCIudI)Aaron Hsu APL Style Patterns and Anti-patterns[https://sway.cloud.microsoft/b1pRwmzuGjqB30On?ref=Link](https://sway.cloud.microsoft/b1pRwmzuGjqB30On?ref=Link)Alex Unterrainer Linkedin[https://www.linkedin.com/in/alexanderunterrainer/](https://www.linkedin.com/in/alexanderunterrainer/)About DefconQ[https://[www.defconq.tech](http://www.defconq.tech/)/about/about](https://[www.defconq.tech](http://www.defconq.tech/)/about/about)DefConQ[www.defconq.tech](http://www.defconq.tech/)Turbo Pascal Programming Language[https://en.wikipedia.org/wiki/Turbo_Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal)Delphi Programming Language[https://en.wikipedia.org/wiki/Delphi_(software)](https://en.wikipedia.org/wiki/Delphi_(software))Java Programming Language[https://en.wikipedia.org/wiki/Java_(programming_language)](https://en.wikipedia.org/wiki/Java_(programming_language))Citigroup[https://en.wikipedia.org/wiki/Citigroup](https://en.wikipedia.org/wiki/Citigroup)k Programming Language[https://wiki.k-language.dev/wiki/Main_Page](https://wiki.k-language.dev/wiki/Main_Page)Shakti Programming Language[https://shakti.com/](https://shakti.com/)APL Programming Language[https://aplwiki.com/wiki/Main_Page](https://aplwiki.com/wiki/Main_Page)Declarative Programming[https://dfns.dyalog.com/n_declarative.htm](https://dfns.dyalog.com/n_declarative.htm)
+**[01] 00:01:20**
 
-[02] 00:08:40 ChatGPT[https://en.wikipedia.org/wiki/ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)VBA Programming Language[https://en.wikipedia.org/wiki/Visual_Basic_(.NET)](https://en.wikipedia.org/wiki/Visual_Basic_(.NET))Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))q Programming Language[https://code.kx.com/q/learn/](https://code.kx.com/q/learn/)A+ Programming Language[https://en.wikipedia.org/wiki/A%2B_(programming_language)](https://en.wikipedia.org/wiki/A%2B_(programming_language))KDB+[https://kx.com/products/kdb/](https://kx.com/products/kdb/)UBS[https://en.wikipedia.org/wiki/UBS](https://en.wikipedia.org/wiki/UBS)Loughbourough University[https://en.wikipedia.org/wiki/Loughborough_University](https://en.wikipedia.org/wiki/Loughborough_University)Dennis Shasha[https://en.wikipedia.org/wiki/Dennis_Shasha](https://en.wikipedia.org/wiki/Dennis_Shasha)Nick Psaris Episode #42 of the ArrayCast[https://www.arraycast.com/episodes/episode42-nick-psaris-q](https://www.arraycast.com/episodes/episode42-nick-psaris-q)Fun Q[https://www.goodreads.com/book/show/54656615-fun-q](https://www.goodreads.com/book/show/54656615-fun-q)Q Tips[https://www.goodreads.com/book/show/25221469-q-tips](https://www.goodreads.com/book/show/25221469-q-tips)Q for Mortals[https://code.kx.com/q4m3/](https://code.kx.com/q4m3/)DefConQ blog[https://www.defconq.tech/blog](https://www.defconq.tech/blog)DefconQ Learning Resources[https://www.defconq.tech/blog](https://www.defconq.tech/blog)/Go-To%20KDB/Q%20Learning%20Resources
+- [Nested Array Model in APLWiki](https://aplwiki.com/wiki/Nested_array_model)
+- [APL Forge](https://forge.dyalog.com/)
+- [HyperCard Programming Language](https://en.wikipedia.org/wiki/HyperCard)
+- [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson)
+- [John Earnest Episode #96 of the ArrayCast](https://www.arraycast.com/episodes/episode96-decker)
+- [Decker and Lil development](https://internet-janitor.itch.io/decker/devlog)
+- [Decker Fantasy Camp](https://itch.io/jam/decker-fantasy-camp-2025)
+- [Aaron Hsu Episode Episode #100 of the ArrayCast](https://www.arraycast.com/episodes/episode100-100hsu)
+- [Aaron Hsu APL's Surprising Learning Curve](https://www.youtube.com/watch?v=9xCJ3BCIudI)
+- [Aaron Hsu APL Style Patterns and Anti-patterns](https://sway.cloud.microsoft/b1pRwmzuGjqB30On?ref=Link)
+- [Alex Unterrainer Linkedin](https://www.linkedin.com/in/alexanderunterrainer/)
+- [About DefconQ](http://www.defconq.tech/about/about)
+- [DefConQ](http://www.defconq.tech/)
+- [Turbo Pascal Programming Language](https://en.wikipedia.org/wiki/Turbo_Pascal)
+- [Delphi Programming Language](https://en.wikipedia.org/wiki/Delphi_(software))
+- [Java Programming Language](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Citigroup](https://en.wikipedia.org/wiki/Citigroup)
+- [k Programming Language](https://wiki.k-language.dev/wiki/Main_Page)
+- [Shakti Programming Language](https://shakti.com/)
+- [APL Programming Language](https://aplwiki.com/wiki/Main_Page)
+- [Declarative Programming](https://dfns.dyalog.com/n_declarative.htm)
 
-[03] 00:16:08 Iverson College[https://iversoncollege.com](https://iversoncollege.com/)Iverson College (almost live) Episode #87 of the ArrayCast[https://www.arraycast.com/episodes/episode87-iversonsession](https://www.arraycast.com/episodes/episode87-iversonsession)Iverson College Reflections Episode #89 of the ArrayCast[https://www.arraycast.com/episodes/episode89-iversonreflect](https://www.arraycast.com/episodes/episode89-iversonreflect)[Code.KX.com](http://code.kx.com/)[https://code.kx.com/](https://code.kx.com/)Stephen's iterator white paper[https://kx.com/blog/enhancing-your-kdb-q-toolkit-real-world-examples-of-iterators/](https://kx.com/blog/enhancing-your-kdb-q-toolkit-real-world-examples-of-iterators/)Stevan Apter Episode #26 of the ArrayCast[https://www.arraycast.com/episodes/episode26-stevan-apter](https://www.arraycast.com/episodes/episode26-stevan-apter)Richard Feynman on teaching[https://www.csinow.edu/career-tips/the-feynman-technique-the-best-learning-method-youve-never-heard-of-before/](https://www.csinow.edu/career-tips/the-feynman-technique-the-best-learning-method-youve-never-heard-of-before/)
+**[02] 00:08:40**
 
-[04] 00:24:18 John Scholes[https://aplwiki.com/wiki/John_Scholes](https://aplwiki.com/wiki/John_Scholes)Social Skills for Programmers[https://www.youtube.com/watch?v=3qGsCrkWT-4](https://www.youtube.com/watch?v=3qGsCrkWT-4)Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)Scholes Dyalog Videos[https://aplwiki.com/wiki/John_Scholes](https://aplwiki.com/wiki/John_Scholes)#Dyalog_user_meetingsGame of Life Video[https://aplwiki.com/wiki/John_Scholes](https://aplwiki.com/wiki/John_Scholes)%27_Conway%27s_Game_of_LifeDefConQ Understanding KDB+ and q[https://www.defconq.tech/blog/How%20to%20Read,%20Understand%20and%20Learn%20KDB/Q%20code](https://www.defconq.tech/blog/How%20to%20Read,%20Understand%20and%20Learn%20KDB/Q%20code)Palindrome[https://en.wikipedia.org/wiki/Palindrome](https://en.wikipedia.org/wiki/Palindrome)Scan in q[https://code.kx.com/q4m3/6_Functions/#678-scan](https://code.kx.com/q4m3/6_Functions/#678-scan)
+- [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+- [VBA Programming Language](https://en.wikipedia.org/wiki/Visual_Basic_(.NET))
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [q Programming Language](https://code.kx.com/q/learn/)
+- [A+ Programming Language](https://en.wikipedia.org/wiki/A%2B_(programming_language))
+- [KDB+](https://kx.com/products/kdb/)
+- [UBS](https://en.wikipedia.org/wiki/UBS)
+- [Loughbourough University](https://en.wikipedia.org/wiki/Loughborough_University)
+- [Dennis Shasha](https://en.wikipedia.org/wiki/Dennis_Shasha)
+- [Nick Psaris Episode #42 of the ArrayCast](https://www.arraycast.com/episodes/episode42-nick-psaris-q)
+- [Fun Q](https://www.goodreads.com/book/show/54656615-fun-q)
+- [Q Tips](https://www.goodreads.com/book/show/25221469-q-tips)
+- [Q for Mortals](https://code.kx.com/q4m3/)
+- [DefConQ blog](https://www.defconq.tech/blog)
+- [DefconQ Learning Resources](https://www.defconq.tech/blog)
 
-[05] 00:35:11 C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)KX[https://kx.com](https://kx.com/)C# Programming Language[https://en.wikipedia.org/wiki/C_Sharp_(programming_language)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))VSCode Programming Language[https://en.wikipedia.org/wiki/Visual_Studio_Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)Jonny Press Episode #85 of the ArrayCast[https://www.arraycast.com/episodes/episode85-jonnypress](https://www.arraycast.com/episodes/episode85-jonnypress)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))Attila Vrbecz Episode #8 of ArrayCast[https://www.arraycast.com/episodes/episode-08-attila-vrabecz-and-the-k-group-of-programming-languages](https://www.arraycast.com/episodes/episode-08-attila-vrabecz-and-the-k-group-of-programming-languages)KX Slack Channel[https://kx-community.slack.com/join/shared_invite/zt-2xdd6ln75-1MyNtCPm3t6ZmCpD5Fnbkw#/shared-invite/email](https://kx-community.slack.com/join/shared_invite/zt-2xdd6ln75-1MyNtCPm3t6ZmCpD5Fnbkw#/shared-invite/email)k on Stack Overflow[https://stackoverflow.com/questions/tagged/kdb](https://stackoverflow.com/questions/tagged/kdb)
+**[03] 00:16:08**
 
-[06] 00:43:15 q201[https://q201.org](https://q201.org/)Malcom Gladwell Tipping Point[https://en.wikipedia.org/wiki/The_Tipping_Point](https://en.wikipedia.org/wiki/The_Tipping_Point)
+- [Iverson College](https://iversoncollege.com/)
+- [Iverson College (almost live) Episode #87 of the ArrayCast](https://www.arraycast.com/episodes/episode87-iversonsession)
+- [Iverson College Reflections Episode #89 of the ArrayCast](https://www.arraycast.com/episodes/episode89-iversonreflect)
+- [Code.KX.com](http://code.kx.com/)
+- [code.kx.com](https://code.kx.com/)
+- [Stephen's iterator white paper](https://kx.com/blog/enhancing-your-kdb-q-toolkit-real-world-examples-of-iterators/)
+- [Stevan Apter Episode #26 of the ArrayCast](https://www.arraycast.com/episodes/episode26-stevan-apter)
+- [Richard Feynman on teaching](https://www.csinow.edu/career-tips/the-feynman-technique-the-best-learning-method-youve-never-heard-of-before/)
 
-[07] 00:50:24 q personal license[https://kx.com/trial-options/](https://kx.com/trial-options/)Dyalog default license[https://www.dyalog.com/prices-and-licences.htm](https://www.dyalog.com/prices-and-licences.htm)J Programming Language[https://www.jsoftware.com/#/README](https://www.jsoftware.com/#/README)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)BQNPad[https://bqnpad.mechanize.systems](https://bqnpad.mechanize.systems/)TryAPL[https://tryapl.org](https://tryapl.org/)J Playground[https://jsoftware.github.io/j-playground/bin/html2/](https://jsoftware.github.io/j-playground/bin/html2/)Loading KDB+ and q[https://www.defconq.tech/docs/intro](https://www.defconq.tech/docs/intro)Jupyter Notebooks[https://en.wikipedia.org/wiki/Project_Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)REPL[https://en.wikipedia.org/wiki/Read–eval–print_loop](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
+**[04] 00:24:18**
 
-[08] 00:54:24 JSON[https://en.wikipedia.org/wiki/JSON](https://en.wikipedia.org/wiki/JSON)SQL[https://en.wikipedia.org/wiki/SQL](https://en.wikipedia.org/wiki/SQL)Excel[https://en.wikipedia.org/wiki/Microsoft_Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)Pandas Platform[https://en.wikipedia.org/wiki/Pandas_(software)](https://en.wikipedia.org/wiki/Pandas_(software))Gordon Hoekstra[https://vancouversun.com/author/gordhoekstrasun/](https://vancouversun.com/author/gordhoekstrasun/)Microfiche[https://en.wikipedia.org/wiki/Microform](https://en.wikipedia.org/wiki/Microform)Rebel Rebel[https://en.wikipedia.org/wiki/Rebel_Rebel](https://en.wikipedia.org/wiki/Rebel_Rebel)David Bowie[https://en.wikipedia.org/wiki/David_Bowie](https://en.wikipedia.org/wiki/David_Bowie)Alex's Substack[https://defconq.substack.com](https://defconq.substack.com/)Bolzano[https://en.wikipedia.org/wiki/Bolzano](https://en.wikipedia.org/wiki/Bolzano)Janick Sinner[https://en.wikipedia.org/wiki/Jannik_Sinner](https://en.wikipedia.org/wiki/Jannik_Sinner)South Tyrol[https://en.wikipedia.org/wiki/South_Tyrol](https://en.wikipedia.org/wiki/South_Tyrol)
+- [John Scholes](https://aplwiki.com/wiki/John_Scholes)
+- [Social Skills for Programmers](https://www.youtube.com/watch?v=3qGsCrkWT-4)
+- [Dyalog APL](https://www.dyalog.com/)
+- [Scholes Dyalog Videos](https://aplwiki.com/wiki/John_Scholes)
+- [#Dyalog_user_meetingsGame of Life Video](https://aplwiki.com/wiki/John_Scholes)
+- [%27_Conway%27s_Game_of_LifeDefConQ Understanding KDB+ and q](https://www.defconq.tech/blog/How%20to%20Read,%20Understand%20and%20Learn%20KDB/Q%20code)
+- [Palindrome](https://en.wikipedia.org/wiki/Palindrome)
+- [Scan in q](https://code.kx.com/q4m3/6_Functions/#678-scan)
 
-[09] 01:02:05 Contact AT ArrayCast DOT Com
+**[05] 00:35:11**
+
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [KX](https://kx.com/)
+- [C# Programming Language](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- [VSCode Programming Language](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+- [Jonny Press Episode #85 of the ArrayCast](https://www.arraycast.com/episodes/episode85-jonnypress)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [Attila Vrbecz Episode #8 of ArrayCast](https://www.arraycast.com/episodes/episode-08-attila-vrabecz-and-the-k-group-of-programming-languages)
+- [KX Slack Channel](https://kx-community.slack.com/join/shared_invite/zt-2xdd6ln75-1MyNtCPm3t6ZmCpD5Fnbkw#/shared-invite/email)
+- [k on Stack Overflow](https://stackoverflow.com/questions/tagged/kdb)
+
+**[06] 00:43:15**
+
+- [q201](https://q201.org/)
+- [Malcom Gladwell Tipping Point](https://en.wikipedia.org/wiki/The_Tipping_Point)
+
+**[07] 00:50:24**
+
+- [q personal license](https://kx.com/trial-options/)
+- [Dyalog default license](https://www.dyalog.com/prices-and-licences.htm)
+- [J Programming Language](https://www.jsoftware.com/#/README)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [BQNPad](https://bqnpad.mechanize.systems/)
+- [TryAPL](https://tryapl.org/)
+- [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
+- [Loading KDB+ and q](https://www.defconq.tech/docs/intro)
+- [Jupyter Notebooks](https://en.wikipedia.org/wiki/Project_Jupyter)
+- [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
+
+**[08] 00:54:24**
+
+- [JSON](https://en.wikipedia.org/wiki/JSON)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)
+- [Pandas Platform](https://en.wikipedia.org/wiki/Pandas_(software))
+- [Gordon Hoekstra](https://vancouversun.com/author/gordhoekstrasun/)
+- [Microfiche](https://en.wikipedia.org/wiki/Microform)
+- [Rebel Rebel](https://en.wikipedia.org/wiki/Rebel_Rebel)
+- [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)
+- [Alex's Substack](https://defconq.substack.com/)
+- [Bolzano](https://en.wikipedia.org/wiki/Bolzano)
+- [Janick Sinner](https://en.wikipedia.org/wiki/Jannik_Sinner)
+- [South Tyrol](https://en.wikipedia.org/wiki/South_Tyrol)
+
+**[09] 01:02:05**
+
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

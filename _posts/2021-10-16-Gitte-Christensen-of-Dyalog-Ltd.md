@@ -29,3 +29,16 @@ In our twelfth episode, we talk to Gitte Christensen, the CEO of Dyalog Ltd. abo
 
 [Original episode on ArrayCast](https://www.arraycast.com/episodes/episode12-gitte-christensen)
 
+## Show Notes
+
+[Source](https://www.arraycast.com/episode-12-show-notes)
+
+- [Dyalog 21 November 8-9](https://www.dyalog.com/user-meetings/dyalog21.htm)
+- [APL Campfire](https://aplwiki.com/wiki/APL_Campfire)
+- [APL Logo Design](https://apl.wiki/APL_Logo)
+- [Dyalog Forums](https://forums.dyalog.com)
+- [APL Wiki](https://aplwiki.com/wiki/)
+- [Dyalog Search Resource Map](https://www.dyalog.com/resource-map.htm)
+- [APL Orchard](http://apl.chat)
+- [Joel Hough 2011 Contest Winner](https://dyalog.tv/Dyalog11/?v=_r1-Q4KxxrA)
+- [Asher Mancinelli’s YouTube channel](https://www.youtube.com/channel/UCZ5sL4E662VP1ZwC4h85ttQ/videos)

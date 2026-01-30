@@ -35,11 +35,108 @@ Asher Mancinelli's Ideal Array LanguageThe ways that we represent arrays can inf
 
 ## Show Notes
 
-Array Cast -  August 1, 2025Show Notes
+Array Cast -  August 1, 2025
 
 Thanks to Bob Therriault, Marshall Lochbaum and Conor Hoekstra for gathering these links:
 
-[01] 00:01:20 APLQuest[https://apl.quest](https://apl.quest/)Alex Unterrainer's post[https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose](https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose)KDB-X[https://kx.com/trial-options/](https://kx.com/trial-options/)Ashok Reddy on episode #94 of the ArrayCast[https://www.arraycast.com/episodes/episode94-kx](https://www.arraycast.com/episodes/episode94-kx)NVIDIA[https://en.wikipedia.org/wiki/Nvidia](https://en.wikipedia.org/wiki/Nvidia)NVIDIA Cuda Compiler[https://en.wikipedia.org/wiki/Nvidia](https://en.wikipedia.org/wiki/Nvidia)_CUDA_CompilerPacific NorthWest National Laboratory[https://en.wikipedia.org/wiki/Pacific_Northwest_National_Laboratory](https://en.wikipedia.org/wiki/Pacific_Northwest_National_Laboratory)Asher Mancinellii's Website[https://www.ashermancinelli.com/about.html](https://www.ashermancinelli.com/about.html)Asher Mancinelli's YouTube Channel[https://www.youtube.com/@AsherMancinelli](https://www.youtube.com/@AsherMancinelli)BQN Programming Language[https://mlochbaum.github.io/BQN](https://mlochbaum.github.io/BQN)APLFarm Discord[[https://aplwiki.com](https://aplwiki.com/)/wiki/APL_Farm]([https://aplwiki.com](https://aplwiki.com/)/wiki/APL_Farm)Fortran Programming Language[https://en.wikipedia.org/wiki/Fortran](https://en.wikipedia.org/wiki/Fortran)[02] 00:10:05 C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)Cocos Library[https://www.cocos.com/en](https://www.cocos.com/en)Thrust Library[https://developer.nvidia.com/thrust](https://developer.nvidia.com/thrust)Rank Polymorphism[https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Rank_polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)#Rank_polymorphism)Conor's Algorithms as a Tool of Thought[https://www.youtube.com/watch?v=GZuZgCDql6g](https://www.youtube.com/watch?v=GZuZgCDql6g)My Ideal Array Language[https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)LLVM Compiler[https://en.wikipedia.org/wiki/LLVM](https://en.wikipedia.org/wiki/LLVM)LLVM Flang Compiler[[https://en.wikipedia.org/wiki/Clang](https://en.wikipedia.org/wiki/Clang)#Flang_-_Fortran]([https://en.wikipedia.org/wiki/Clang](https://en.wikipedia.org/wiki/Clang)#Flang_-_Fortran)Troels Henriksen Episode #37 of the ArrayCast[https://www.arraycast.com/episodes/episode37-futhark](https://www.arraycast.com/episodes/episode37-futhark)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Futhark Programming Language[https://futhark-lang.org/](https://futhark-lang.org/)DACE Programming Language[https://spcldace.readthedocs.io/en/latest/](https://spcldace.readthedocs.io/en/latest/)Co-dfns Compiler[https://apl.wiki/Co-dfns](https://apl.wiki/Co-dfns)[03] 00:20:29 C Programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))LLVMIR Intermediate Representation[https://en.wikipedia.org/wiki/LLVM](https://en.wikipedia.org/wiki/LLVM)#Intermediate_representationMemory Allocation in C[https://en.wikipedia.org/wiki/C_dynamic_memory_allocation](https://en.wikipedia.org/wiki/C_dynamic_memory_allocation)Clang Compiler[https://en.wikipedia.org/wiki/Clang](https://en.wikipedia.org/wiki/Clang)Abstract Syntax Tree (AST)[https://en.wikipedia.org/wiki/Abstract_syntax_tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)SAC Programming Language[https://www.sac-home.org/index](https://www.sac-home.org/index)SAC Episode #107 on the Arraycast[https://www.arraycast.com/episodes/episode107-sac](https://www.arraycast.com/episodes/episode107-sac)Implementing Replicate Episode #110 on the ArrayCast[https://www.arraycast.com/episodes/episode110-replicate](https://www.arraycast.com/episodes/episode110-replicate)Functional Programming Languages[https://en.wikipedia.org/wiki/Functional_programming](https://en.wikipedia.org/wiki/Functional_programming)[04] 00:30:55 Interpreted Language[https://en.wikipedia.org/wiki/Interpreter_(computing)](https://en.wikipedia.org/wiki/Interpreter_(computing))Replicate Graph[https://mlochbaum.github.io/BQN](https://mlochbaum.github.io/BQN)/implementation/versusc.htmlTCC Compiler[https://en.wikipedia.org/wiki/Tiny_C_Compiler](https://en.wikipedia.org/wiki/Tiny_C_Compiler)Stride of Array[https://en.wikipedia.org/wiki/Stride_of_an_array](https://en.wikipedia.org/wiki/Stride_of_an_array)Where in Fortran[https://www.ibm.com/docs/en/openxl-fortran-aix/17.1.1?topic=assignment-where-construct](https://www.ibm.com/docs/en/openxl-fortran-aix/17.1.1?topic=assignment-where-construct)SUMIF in Excel[https://support.microsoft.com/en-us/office/sumif-function-169b8c99-c05c-4483-a712-1697a653039b](https://support.microsoft.com/en-us/office/sumif-function-169b8c99-c05c-4483-a712-1697a653039b)[05] 00:40:02 Loop Fusion[https://en.wikipedia.org/wiki/Loop_fission_and_fusion](https://en.wikipedia.org/wiki/Loop_fission_and_fusion)JAX Library[https://en.wikipedia.org/wiki/JAX_(software)](https://en.wikipedia.org/wiki/JAX_(software))XLA[https://openxla.org/xla](https://openxla.org/xla)Stable HLO[https://github.com/openxla/stablehlo](https://github.com/openxla/stablehlo)MLIR[https://mlir.llvm.org](https://mlir.llvm.org/)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))Tensor Dialect of MLIR[https://mlir.llvm.org](https://mlir.llvm.org/)/docs/Dialects/Linalg/MemRef Dialect of MLIR[https://mlir.llvm.org](https://mlir.llvm.org/)/docs/Dialects/Vector/NumPy Library[https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/NumPy)Julia Programming Language[https://en.wikipedia.org/wiki/Julia_(programming_language)](https://en.wikipedia.org/wiki/Julia_(programming_language))Co-Dfns Episode #100 of the ArrayCast[https://www.arraycast.com/episodes/episode100-100hsu](https://www.arraycast.com/episodes/episode100-100hsu)ArrayFire Episode #105 of the ArrayCast[https://www.arraycast.com/episodes/episode105-arrayfire](https://www.arraycast.com/episodes/episode105-arrayfire)GPU[https://en.wikipedia.org/wiki/Graphics_processing_unit](https://en.wikipedia.org/wiki/Graphics_processing_unit)[06] 00:49:19 SIMD[https://en.wikipedia.org/wiki/Single_instruction,_multiple_data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)The Saga of Multicore OCaml[https://www.youtube.com/watch?v=XGGSPpk1IB0](https://www.youtube.com/watch?v=XGGSPpk1IB0)Is APL Really Processing Arrays[https://dl.acm.org/doi/abs/10.1145/602312.602314](https://dl.acm.org/doi/abs/10.1145/602312.602314)J's Mulithreading[https://code.jsoftware.com/wiki/Vocabulary/tcapdot](https://code.jsoftware.com/wiki/Vocabulary/tcapdot)Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)Chris Lattner[https://en.wikipedia.org/wiki/Chris_Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)[07] 00:55:09 MOJO Programming Language[https://en.wikipedia.org/wiki/Mojo_(programming_language)](https://en.wikipedia.org/wiki/Mojo_(programming_language))Chris Latner Episode on Software Unscripted Podcast[https://www.youtube.com/watch?v=ah9Tfebk7JA](https://www.youtube.com/watch?v=ah9Tfebk7JA)Comparing Parallel Functional Array Languages: Programming and Performance[https://arxiv.org/pdf/2505.08906](https://arxiv.org/pdf/2505.08906)[08] 01:01:40 One Billion Row Challenge[https://www.morling.dev/blog/one-billion-row-challenge/](https://www.morling.dev/blog/one-billion-row-challenge/)Dzaima's One Billion Row in Singeli[https://github.com/dzaima/1brc](https://github.com/dzaima/1brc)Kotlin Programming Language[https://en.wikipedia.org/wiki/Kotlin_(programming_language)](https://en.wikipedia.org/wiki/Kotlin_(programming_language))Haskell Programming Language[https://en.wikipedia.org/wiki/Haskell](https://en.wikipedia.org/wiki/Haskell)PyTorch Library[https://en.wikipedia.org/wiki/PyTorch](https://en.wikipedia.org/wiki/PyTorch)Adam Paszke Episode #58 on the ArrayCast[https://www.arraycast.com/episodes/episode58-adam-paszke](https://www.arraycast.com/episodes/episode58-adam-paszke)Marshall's Update on BQN Performance vs. C[https://mlochbaum.github.io/BQN](https://mlochbaum.github.io/BQN)/implementation/versusc.htmlBQN Commentary Section[https://mlochbaum.github.io/BQN](https://mlochbaum.github.io/BQN)/commentary/BQN Implementation Section[https://mlochbaum.github.io/BQN](https://mlochbaum.github.io/BQN)/implementation/Futhark Blog[https://futhark-lang.org/](https://futhark-lang.org/)blog.htmlTypes in Prgramming Languages[https://en.wikipedia.org/wiki/Type_system](https://en.wikipedia.org/wiki/Type_system)Structuring Array with Algebraic Types[https://www.youtube.com/watch?v=3Lbs0pJ_OHI](https://www.youtube.com/watch?v=3Lbs0pJ_OHI)[09] 01:10:09 Contact AT ArrayCast DOT Com
+**[01] 00:01:20**
+
+- [APLQuest](https://apl.quest/)
+- [Alex Unterrainer's post](https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose)
+- [KDB-X](https://kx.com/trial-options/)
+- [Ashok Reddy on episode #94 of the ArrayCast](https://www.arraycast.com/episodes/episode94-kx)
+- [NVIDIA](https://en.wikipedia.org/wiki/Nvidia)
+- [NVIDIA Cuda Compiler](https://en.wikipedia.org/wiki/Nvidia)
+- [_CUDA_CompilerPacific NorthWest National Laboratory](https://en.wikipedia.org/wiki/Pacific_Northwest_National_Laboratory)
+- [Asher Mancinellii's Website](https://www.ashermancinelli.com/about.html)
+- [Asher Mancinelli's YouTube Channel](https://www.youtube.com/@AsherMancinelli)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN)
+- [APLFarm Discord](https://aplwiki.com/wiki/APL_Farm)
+- [Fortran Programming Language](https://en.wikipedia.org/wiki/Fortran)
+
+**[02] 00:10:05**
+
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Cocos Library](https://www.cocos.com/en)
+- [Thrust Library](https://developer.nvidia.com/thrust)
+- [Rank Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))#Rank_polymorphism)
+- [Conor's Algorithms as a Tool of Thought](https://www.youtube.com/watch?v=GZuZgCDql6g)
+- [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
+- [LLVM Compiler](https://en.wikipedia.org/wiki/LLVM)
+- [LLVM Flang Compiler](https://en.wikipedia.org/wiki/Clang/#Flang_-_Fortran)
+- [Troels Henriksen Episode #37 of the ArrayCast](https://www.arraycast.com/episodes/episode37-futhark)
+- [APL Programming Language](https://aplwiki.com/)
+- [Futhark Programming Language](https://futhark-lang.org/)
+- [DACE Programming Language](https://spcldace.readthedocs.io/en/latest/)
+- [Co-dfns Compiler](https://apl.wiki/Co-dfns)
+
+**[03] 00:20:29**
+
+- [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [LLVMIR Intermediate Representation](https://en.wikipedia.org/wiki/LLVM)
+- [#Intermediate_representationMemory Allocation in C](https://en.wikipedia.org/wiki/C_dynamic_memory_allocation)
+- [Clang Compiler](https://en.wikipedia.org/wiki/Clang)
+- [Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
+- [SAC Programming Language](https://www.sac-home.org/index)
+- [SAC Episode #107 on the Arraycast](https://www.arraycast.com/episodes/episode107-sac)
+- [Implementing Replicate Episode #110 on the ArrayCast](https://www.arraycast.com/episodes/episode110-replicate)
+- [Functional Programming Languages](https://en.wikipedia.org/wiki/Functional_programming)
+
+**[04] 00:30:55**
+
+- [Interpreted Language](https://en.wikipedia.org/wiki/Interpreter_(computing))
+- [Replicate Graph](https://mlochbaum.github.io/BQN)
+- [/implementation/versusc.htmlTCC Compiler](https://en.wikipedia.org/wiki/Tiny_C_Compiler)
+- [Stride of Array](https://en.wikipedia.org/wiki/Stride_of_an_array)
+- [Where in Fortran](https://www.ibm.com/docs/en/openxl-fortran-aix/17.1.1?topic=assignment-where-construct)
+- [SUMIF in Excel](https://support.microsoft.com/en-us/office/sumif-function-169b8c99-c05c-4483-a712-1697a653039b)
+
+**[05] 00:40:02**
+
+- [Loop Fusion](https://en.wikipedia.org/wiki/Loop_fission_and_fusion)
+- [JAX Library](https://en.wikipedia.org/wiki/JAX_(software))
+- [XLA](https://openxla.org/xla)
+- [Stable HLO](https://github.com/openxla/stablehlo)
+- [MLIR](https://mlir.llvm.org/)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Tensor Dialect of MLIR](https://mlir.llvm.org/)
+- [/docs/Dialects/Linalg/MemRef Dialect of MLIR](https://mlir.llvm.org/)
+- [/docs/Dialects/Vector/NumPy Library](https://en.wikipedia.org/wiki/NumPy)
+- [Julia Programming Language](https://en.wikipedia.org/wiki/Julia_(programming_language))
+- [Co-Dfns Episode #100 of the ArrayCast](https://www.arraycast.com/episodes/episode100-100hsu)
+- [ArrayFire Episode #105 of the ArrayCast](https://www.arraycast.com/episodes/episode105-arrayfire)
+- [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+
+**[06] 00:49:19**
+
+- [SIMD](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)
+- [The Saga of Multicore OCaml](https://www.youtube.com/watch?v=XGGSPpk1IB0)
+- [Is APL Really Processing Arrays](https://dl.acm.org/doi/abs/10.1145/602312.602314)
+- [J's Mulithreading](https://code.jsoftware.com/wiki/Vocabulary/tcapdot)
+- [Dyalog APL](https://www.dyalog.com/)
+- [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)
+
+**[07] 00:55:09**
+
+- [MOJO Programming Language](https://en.wikipedia.org/wiki/Mojo_(programming_language))
+- [Chris Latner Episode on Software Unscripted Podcast](https://www.youtube.com/watch?v=ah9Tfebk7JA)
+- [Comparing Parallel Functional Array Languages: Programming and Performance](https://arxiv.org/pdf/2505.08906)
+
+**[08] 01:01:40**
+
+- [One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+- [Dzaima's One Billion Row in Singeli](https://github.com/dzaima/1brc)
+- [Kotlin Programming Language](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+- [Haskell Programming Language](https://en.wikipedia.org/wiki/Haskell)
+- [PyTorch Library](https://en.wikipedia.org/wiki/PyTorch)
+- [Adam Paszke Episode #58 on the ArrayCast](https://www.arraycast.com/episodes/episode58-adam-paszke)
+- [Marshall's Update on BQN Performance vs. C](https://mlochbaum.github.io/BQN)
+- [/implementation/versusc.htmlBQN Commentary Section](https://mlochbaum.github.io/BQN)
+- [/commentary/BQN Implementation Section](https://mlochbaum.github.io/BQN)
+- [/implementation/Futhark Blog](https://futhark-lang.org/)
+- [blog.htmlTypes in Prgramming Languages](https://en.wikipedia.org/wiki/Type_system)
+- [Structuring Array with Algebraic Types](https://www.youtube.com/watch?v=3Lbs0pJ_OHI)
+- [09] 01:10:09 Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

@@ -46,9 +46,9 @@ Thanks to Bob Therriault, Stephen Taylor, and Adám Brudzewsky for gathering the
 
 [Nuvoc - J Vocabulary](https://code.jsoftware.com/wiki/NuVoc)
 
-[APL](https://apl.wi[k](http://shakti.com)i)[J](https://www.jsoftware.com)[k](http://shakti.com)[BQN](https://mlochbaum.github.io/BQN/)[q](https://code.kx.com/q/)
+[APL](https://apl.wi[k](http://shakti.com))i)[J](https://www.jsoftware.com)[k](http://shakti.com)[BQN](https://mlochbaum.github.io/BQN/)[q](https://code.kx.com/q/)
 
-[APL](https://tryapl.org)[J](https://code.jsoftware.com/wi[k](https://estradajke.github.io/k9-simples/)i/Playground)[k](https://estradajke.github.io/k9-simples/)[BQN](https://b[q](https://code.kx.com/q/learn/)npad.mechanize.systems)[q](https://code.kx.com/q/learn/)
+[APL](https://tryapl.org)[J](https://code.jsoftware.com/wi[k](https://estradajke.github.io/k9-simples/))i/Playground)[k](https://estradajke.github.io/k9-simples/)[BQN](https://b[q](https://code.kx.com/q/learn/))npad.mechanize.systems)[q](https://code.kx.com/q/learn/)
 
 [Stephen Taylor ‘Discovering APL’](https://aplwiki.com/wiki/Discovering_APL)
 

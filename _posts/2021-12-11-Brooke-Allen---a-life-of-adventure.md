@@ -28,3 +28,22 @@ In our sixteenth episode, we spoke with Brooke Allen, a very successful APL prog
 
 [Original episode on ArrayCast](https://www.arraycast.com/episodes/episode16-brooke-allen-a-life-of-adventure)
 
+## Show Notes
+
+[Source](https://www.arraycast.com/episode-16-show-notes)
+
+- [https://dyalog.tv/Dyalog21](https://dyalog.tv/Dyalog21)
+- [https://apl.wiki/APL_∊_BCN](https://apl.wiki/APL_∊_BCN)
+- [https://apl.wiki/Advent_of_Code](https://apl.wiki/Advent_of_Code)
+- [https://code.jsoftware.com/wiki/System/Installation#J903_BETA](https://code.jsoftware.com/wiki/System/Installation#J903_BETA)
+- [https://brookeallen.com/](https://brookeallen.com/)
+- [https://en.wikipedia.org/wiki/COBOL](https://en.wikipedia.org/wiki/COBOL)
+- [https://www.ibm.com/docs/en/iis/9.1?topic=words-cobol-reserved](https://www.ibm.com/docs/en/iis/9.1?topic=words-cobol-reserved)
+- [https://en.wikipedia.org/wiki/Fortran](https://en.wikipedia.org/wiki/Fortran)
+- [http://apl.wiki/A_Programming_Language](http://apl.wiki/A_Programming_Language)
+- [http://www.bitsavers.org/pdf/ibm/apl/GH20-0683-1_APL_360_Users_Manual_Mar70.pdf](http://www.bitsavers.org/pdf/ibm/apl/GH20-0683-1_APL_360_Users_Manual_Mar70.pdf)
+- [https://www.jsoftware.com/books/pdf/algebra.pdf](https://www.jsoftware.com/books/pdf/algebra.pdf)
+- [https://en.wikipedia.org/wiki/BASIC](https://en.wikipedia.org/wiki/BASIC)
+- [https://en.wikipedia.org/wiki/IBM_5110](https://en.wikipedia.org/wiki/IBM_5110)
+- [https://en.wikipedia.org/wiki/IBM_Personal_Computer](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
+- [https://en.wikipedia.org/wiki/Dennis_Shasha](https://en.wikipedia.org/wiki/Dennis_Shasha)

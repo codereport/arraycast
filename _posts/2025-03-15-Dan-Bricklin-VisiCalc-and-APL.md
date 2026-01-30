@@ -31,27 +31,107 @@ Dan Bricklin, VisiCalc and APLWe had no idea how much APL had influenced Dan Bri
 
 ## Show Notes
 
-Array Cast -  March 14, 2025Show Notes
+Array Cast -  March 14, 2025
 
 Thanks to Bob Therriault, Adám Brudzewsky, and Conor Hoekstra for gathering these links:
 
-[01] 00:02:06 Juno IDE[https://jsoftware.github.io/juno/app/](https://jsoftware.github.io/juno/app/)British APL Live Meet-up[https://britishaplassociation.org/webinar-schedule-2025/](https://britishaplassociation.org/webinar-schedule-2025/)APL Germany Meeting[https://apl-germany.de/apl-germany-fruehjahrstagung-2025/](https://apl-germany.de/apl-germany-fruehjahrstagung-2025/)DYNA Dyalog North America[https://dyna.dyalog.com](https://dyna.dyalog.com/)Dan Bricklin[https://en.wikipedia.org/wiki/Dan_Bricklin](https://en.wikipedia.org/wiki/Dan_Bricklin)Software Arts[https://en.wikipedia.org/wiki/Dan_Bricklin](https://en.wikipedia.org/wiki/Dan_Bricklin)#Software_ArtsVisiCalc[https://en.wikipedia.org/wiki/VisiCalc](https://en.wikipedia.org/wiki/VisiCalc)Excel[https://en.wikipedia.org/wiki/Microsoft_Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)Google Sheets[https://en.wikipedia.org/wiki/Google_Sheets](https://en.wikipedia.org/wiki/Google_Sheets)Apple 2 Computer[https://en.wikipedia.org/wiki/Apple_II](https://en.wikipedia.org/wiki/Apple_II)Bob Frankston[https://en.wikipedia.org/wiki/Bob_Frankston](https://en.wikipedia.org/wiki/Bob_Frankston)Fortran Programming Language[https://en.wikipedia.org/wiki/Fortran](https://en.wikipedia.org/wiki/Fortran)
+**[01] 00:02:06**
 
-[02] 00:09:03 Multics[https://en.wikipedia.org/wiki/Multics](https://en.wikipedia.org/wiki/Multics)Bell Labs[https://en.wikipedia.org/wiki/Bell_Labs](https://en.wikipedia.org/wiki/Bell_Labs)Unix[https://en.wikipedia.org/wiki/Unix](https://en.wikipedia.org/wiki/Unix)Linux[https://en.wikipedia.org/wiki/Linux](https://en.wikipedia.org/wiki/Linux)Lisp Programming Language[https://en.wikipedia.org/wiki/Lisp_(programming_language)](https://en.wikipedia.org/wiki/Lisp_(programming_language))Maclisp[https://en.wikipedia.org/wiki/Maclisp](https://en.wikipedia.org/wiki/Maclisp)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Ward Cunningham[https://en.wikipedia.org/wiki/Ward_Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham)Digital Corporation DEC[https://en.wikipedia.org/wiki/Digital_Equipment_Corporation](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation)Harvard Business School[https://en.wikipedia.org/wiki/Harvard_Business_School](https://en.wikipedia.org/wiki/Harvard_Business_School)Dan Bricklin's TEDTalk[https://www.ted.com/talks/dan_bricklin_meet_the_inventor_of_the_electronic_spreadsheet](https://www.ted.com/talks/dan_bricklin_meet_the_inventor_of_the_electronic_spreadsheet)SuperCalc[https://en.wikipedia.org/wiki/SuperCalc](https://en.wikipedia.org/wiki/SuperCalc)Lotus 1-2-3[https://en.wikipedia.org/wiki/Lotus_1-2-3](https://en.wikipedia.org/wiki/Lotus_1-2-3)
+- [Juno IDE](https://jsoftware.github.io/juno/app/)
+- [British APL Live Meet-up](https://britishaplassociation.org/webinar-schedule-2025/)
+- [APL Germany Meeting](https://apl-germany.de/apl-germany-fruehjahrstagung-2025/)
+- [DYNA Dyalog North America](https://dyna.dyalog.com/)
+- [Dan Bricklin](https://en.wikipedia.org/wiki/Dan_Bricklin)
+- [Software Arts](https://en.wikipedia.org/wiki/Dan_Bricklin)
+- [#Software_ArtsVisiCalc](https://en.wikipedia.org/wiki/VisiCalc)
+- [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)
+- [Google Sheets](https://en.wikipedia.org/wiki/Google_Sheets)
+- [Apple 2 Computer](https://en.wikipedia.org/wiki/Apple_II)
+- [Bob Frankston](https://en.wikipedia.org/wiki/Bob_Frankston)
+- [Fortran Programming Language](https://en.wikipedia.org/wiki/Fortran)
 
-[03] 00:19:27 Notetaker HD[http://www.notetakerhd.com](http://www.notetakerhd.com/)Simon Peyton Jones[https://en.wikipedia.org/wiki/Simon_Peyton_Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones)Macros[https://en.wikipedia.org/wiki/Macro_(computer_science)](https://en.wikipedia.org/wiki/Macro_(computer_science))IPSA Episode 91 on the ArrayCast[https://www.arraycast.com/episodes/episode91-ipsharpdoc](https://www.arraycast.com/episodes/episode91-ipsharpdoc)Ken Iverson Episode 92 on the ArrayCast[https://www.arraycast.com/episodes/episode92-iverson](https://www.arraycast.com/episodes/episode92-iverson)Computer History Museum[https://en.wikipedia.org/wiki/Computer_History_Museum](https://en.wikipedia.org/wiki/Computer_History_Museum)Donald Knuth[https://en.wikipedia.org/wiki/Donald_Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Perl Programming Language[https://en.wikipedia.org/wiki/Perl](https://en.wikipedia.org/wiki/Perl)
+**[02] 00:09:03**
 
-[04] 00:29:50 IBM Selectric Typeball[https://en.wikipedia.org/wiki/IBM_Selectric#Type_elements_and_fonts](https://en.wikipedia.org/wiki/IBM_Selectric#Type_elements_and_fonts)PL/1 Programming Language[https://en.wikipedia.org/wiki/PL/I](https://en.wikipedia.org/wiki/PL/I)Alan Kay[https://en.wikipedia.org/wiki/Alan_Kay](https://en.wikipedia.org/wiki/Alan_Kay)Dynabook[https://en.wikipedia.org/wiki/Dynabook](https://en.wikipedia.org/wiki/Dynabook)Xerox PARC[https://en.wikipedia.org/wiki/PARC_(company)](https://en.wikipedia.org/wiki/PARC_(company))Fernando Corbató[https://en.wikipedia.org/wiki/Fernando_J._Corbató](https://en.wikipedia.org/wiki/Fernando_J._Corbat%C3%B3)Gordon Bell[https://en.wikipedia.org/wiki/Gordon_Bell](https://en.wikipedia.org/wiki/Gordon_Bell)PDP-11[https://en.wikipedia.org/wiki/PDP-11](https://en.wikipedia.org/wiki/PDP-11)PDP-8[https://en.wikipedia.org/wiki/PDP-8](https://en.wikipedia.org/wiki/PDP-8)NVIDIA[https://en.wikipedia.org/wiki/Nvidia](https://en.wikipedia.org/wiki/Nvidia)Aaron Hsu's Episode 100 on ArrayCast[https://www.arraycast.com/episodes/episode100-100hsu](https://www.arraycast.com/episodes/episode100-100hsu)Co-dfns compiler[https://github.com/Co-dfns/?ref=sacrideo.us](https://github.com/Co-dfns/?ref=sacrideo.us)
+- [Multics](https://en.wikipedia.org/wiki/Multics)
+- [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs)
+- [Unix](https://en.wikipedia.org/wiki/Unix)
+- [Linux](https://en.wikipedia.org/wiki/Linux)
+- [Lisp Programming Language](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+- [Maclisp](https://en.wikipedia.org/wiki/Maclisp)
+- [APL Programming Language](https://aplwiki.com/)
+- [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham)
+- [Digital Corporation DEC](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation)
+- [Harvard Business School](https://en.wikipedia.org/wiki/Harvard_Business_School)
+- [Dan Bricklin's TEDTalk](https://www.ted.com/talks/dan_bricklin_meet_the_inventor_of_the_electronic_spreadsheet)
+- [SuperCalc](https://en.wikipedia.org/wiki/SuperCalc)
+- [Lotus 1-2-3](https://en.wikipedia.org/wiki/Lotus_1-2-3)
 
-[05] 00:39:37 C Programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))Webkit Browsing engine[https://en.wikipedia.org/wiki/WebKit](https://en.wikipedia.org/wiki/WebKit)Mozilla[https://en.wikipedia.org/wiki/Mozilla](https://en.wikipedia.org/wiki/Mozilla)V8 JavaScript Engine[https://en.wikipedia.org/wiki/V8_(JavaScript_engine)](https://en.wikipedia.org/wiki/V8_(JavaScript_engine))JavaScript Programming Language[https://en.wikipedia.org/wiki/JavaScript](https://en.wikipedia.org/wiki/JavaScript)WASM[https://en.wikipedia.org/wiki/WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)CSS[https://en.wikipedia.org/wiki/CSS](https://en.wikipedia.org/wiki/CSS)Objective C Programming Language[https://en.wikipedia.org/wiki/Objective-C](https://en.wikipedia.org/wiki/Objective-C)
+**[03] 00:19:27**
 
-[06] 00:49:58 GOTO's[https://en.wikipedia.org/wiki/Goto](https://en.wikipedia.org/wiki/Goto)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))NumPy Library[https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/NumPy)Transcendental Functions[https://en.wikipedia.org/wiki/Transcendental_function](https://en.wikipedia.org/wiki/Transcendental_function)Monte Davidoff[https://en.wikipedia.org/wiki/Monte_Davidoff](https://en.wikipedia.org/wiki/Monte_Davidoff)Bill Gates "Source Code"[https://www.gatesnotes.com/meet-bill/source-code](https://www.gatesnotes.com/meet-bill/source-code)
+- [Notetaker HD](http://www.notetakerhd.com/)
+- [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones)
+- [Macros](https://en.wikipedia.org/wiki/Macro_(computer_science))
+- [IPSA Episode 91 on the ArrayCast](https://www.arraycast.com/episodes/episode91-ipsharpdoc)
+- [Ken Iverson Episode 92 on the ArrayCast](https://www.arraycast.com/episodes/episode92-iverson)
+- [Computer History Museum](https://en.wikipedia.org/wiki/Computer_History_Museum)
+- [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Perl Programming Language](https://en.wikipedia.org/wiki/Perl)
 
-[07] 01:03:14 Inner Product[https://aplwiki.com/wiki/Inner_Product](https://aplwiki.com/wiki/Inner_Product)Outer Product[https://aplwiki.com/wiki/Outer_Product](https://aplwiki.com/wiki/Outer_Product)Alan Perlis[https://en.wikipedia.org/wiki/Alan_Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)APL is More French than English paper[https://www.jsoftware.com/papers/perlis78.htm](https://www.jsoftware.com/papers/perlis78.htm)APL is More French than English Tacit Talk[https://tacittalk.com/2025/03/11/Episode-24.html](https://tacittalk.com/2025/03/11/Episode-24.html)Procedural Programming[https://en.wikipedia.org/wiki/Procedural_programming](https://en.wikipedia.org/wiki/Procedural_programming)
+**[04] 00:29:50**
 
-[08] 01:09:04 B Programming Lanaguage[https://en.wikipedia.org/wiki/B_(programming_language)](https://en.wikipedia.org/wiki/B_(programming_language))Day-Timer[https://en.wikipedia.org/wiki/Day-Timer](https://en.wikipedia.org/wiki/Day-Timer)Desktop Publishing[https://en.wikipedia.org/wiki/Desktop_publishing](https://en.wikipedia.org/wiki/Desktop_publishing)List Comprehensions[https://en.wikipedia.org/wiki/List_comprehension](https://en.wikipedia.org/wiki/List_comprehension)
+- [IBM Selectric Typeball](https://en.wikipedia.org/wiki/IBM_Selectric#Type_elements_and_fonts)
+- [PL/1 Programming Language](https://en.wikipedia.org/wiki/PL/I)
+- [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
+- [Dynabook](https://en.wikipedia.org/wiki/Dynabook)
+- [Xerox PARC](https://en.wikipedia.org/wiki/PARC_(company))
+- [Fernando Corbató](https://en.wikipedia.org/wiki/Fernando_J._Corbat%C3%B3)
+- [Gordon Bell](https://en.wikipedia.org/wiki/Gordon_Bell)
+- [PDP-11](https://en.wikipedia.org/wiki/PDP-11)
+- [PDP-8](https://en.wikipedia.org/wiki/PDP-8)
+- [NVIDIA](https://en.wikipedia.org/wiki/Nvidia)
+- [Aaron Hsu's Episode 100 on ArrayCast](https://www.arraycast.com/episodes/episode100-100hsu)
+- [Co-dfns compiler](https://github.com/Co-dfns/?ref=sacrideo.us)
 
-[09] 01:20:26 Contact AT ArrayCast DOT Com
+**[05] 00:39:37**
+
+- [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Webkit Browsing engine](https://en.wikipedia.org/wiki/WebKit)
+- [Mozilla](https://en.wikipedia.org/wiki/Mozilla)
+- [V8 JavaScript Engine](https://en.wikipedia.org/wiki/V8_(JavaScript_engine))
+- [JavaScript Programming Language](https://en.wikipedia.org/wiki/JavaScript)
+- [WASM](https://en.wikipedia.org/wiki/WebAssembly)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [Objective C Programming Language](https://en.wikipedia.org/wiki/Objective-C)
+
+**[06] 00:49:58**
+
+- [GOTO's](https://en.wikipedia.org/wiki/Goto)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [NumPy Library](https://en.wikipedia.org/wiki/NumPy)
+- [Transcendental Functions](https://en.wikipedia.org/wiki/Transcendental_function)
+- [Monte Davidoff](https://en.wikipedia.org/wiki/Monte_Davidoff)
+- [Bill Gates "Source Code"](https://www.gatesnotes.com/meet-bill/source-code)
+
+**[07] 01:03:14**
+
+- [Inner Product](https://aplwiki.com/wiki/Inner_Product)
+- [Outer Product](https://aplwiki.com/wiki/Outer_Product)
+- [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+- [APL is More French than English paper](https://www.jsoftware.com/papers/perlis78.htm)
+- [APL is More French than English Tacit Talk](https://tacittalk.com/2025/03/11/Episode-24.html)
+- [Procedural Programming](https://en.wikipedia.org/wiki/Procedural_programming)
+
+**[08] 01:09:04**
+
+- [B Programming Lanaguage](https://en.wikipedia.org/wiki/B_(programming_language))
+- [Day-Timer](https://en.wikipedia.org/wiki/Day-Timer)
+- [Desktop Publishing](https://en.wikipedia.org/wiki/Desktop_publishing)
+- [List Comprehensions](https://en.wikipedia.org/wiki/List_comprehension)
+
+**[09] 01:20:26**
+
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

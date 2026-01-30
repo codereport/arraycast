@@ -33,27 +33,117 @@ Paul Teetor, author of the R Cookbook is the guest on this episode of ArrayCast.
 
 ## Show Notes
 
-Array Cast -  August 16, 2024Show Notes
+Array Cast -  August 16, 2024
 
 Thanks to Bob Therriault, Conor Hoekstra and Adám Brudzewsky for gathering these links:
 
-[01] 00:01:55 Lambda World Conference[https://www.lambda.world](https://www.lambda.world/)Stephen's talk[https://www.lambda.world](https://www.lambda.world/)/speakers/?speaker=Stephen%20TaylorConor's talk[https://www.lambda.world](https://www.lambda.world/)/speakers/?speaker=Conor%20HoekstraTacit Talk Adám Brudzewsky[https://www.youtube.com/watch?v=6LrQithKj8w](https://www.youtube.com/watch?v=6LrQithKj8w)BQN programming language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)BQN Constant Modifier[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/constant.htmlDyalog APL[https://www.dyalog.com](https://www.dyalog.com/)APL programming language[https://aplwiki.com](https://aplwiki.com/)R programming language[https://en.wikipedia.org/wiki/R_(programming_language)](https://en.wikipedia.org/wiki/R_(programming_language))[https://www.r-project.org](https://www.r-project.org/)The R Cookbook[https://www.oreilly.com/library/view/r-cookbook-2nd/9781492040675/](https://www.oreilly.com/library/view/r-cookbook-2nd/9781492040675/)25 Recipes for Getting Started with R[https://www.oreilly.com/library/view/25-recipes-for/9781449303631/](https://www.oreilly.com/library/view/25-recipes-for/9781449303631/)S programming language[https://en.wikipedia.org/wiki/S_(programming_language)](https://en.wikipedia.org/wiki/S_(programming_language))PPL programming language[https://en.wikipedia.org/wiki/Polymorphic_Programming_Language](https://en.wikipedia.org/wiki/Polymorphic_Programming_Language)Bell Labs[https://en.wikipedia.org/wiki/Bell_Labs](https://en.wikipedia.org/wiki/Bell_Labs)John Chambers[https://en.wikipedia.org/wiki/John_Chambers_(statistician)](https://en.wikipedia.org/wiki/John_Chambers_(statistician))Trevor Hastie[https://en.wikipedia.org/wiki/Trevor_Hastie](https://en.wikipedia.org/wiki/Trevor_Hastie)William Cleveland[https://en.wikipedia.org/wiki/William_S._Cleveland](https://en.wikipedia.org/wiki/William_S._Cleveland)C programming language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))Fortran programming language[https://en.wikipedia.org/wiki/Fortran](https://en.wikipedia.org/wiki/Fortran)BLAS[https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms)LAPACK[https://en.wikipedia.org/wiki/LAPACK](https://en.wikipedia.org/wiki/LAPACK)Tibco[https://en.wikipedia.org/wiki/TIBCO_Software](https://en.wikipedia.org/wiki/TIBCO_Software)S-PLUS[https://en.wikipedia.org/wiki/S-PLUS](https://en.wikipedia.org/wiki/S-PLUS)
+**[01] 00:01:55**
 
-[02] 00:10:00 Monte Carlo Method in Finance[https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)Bayesian Network Model[https://en.wikipedia.org/wiki/Bayesian_network](https://en.wikipedia.org/wiki/Bayesian_network)Ross Ihaka[https://en.wikipedia.org/wiki/Ross_Ihaka](https://en.wikipedia.org/wiki/Ross_Ihaka)Robert Gentleman[https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician))University of Aukland[https://en.wikipedia.org/wiki/University_of_Auckland](https://en.wikipedia.org/wiki/University_of_Auckland)Scheme programming language[https://en.wikipedia.org/wiki/Scheme_(programming_language)](https://en.wikipedia.org/wiki/Scheme_(programming_language))SAS statistics package[https://en.wikipedia.org/wiki/SAS_(software)](https://en.wikipedia.org/wiki/SAS_(software))O'Reilly press[https://www.oreilly.com](https://www.oreilly.com/)RStudio[https://en.wikipedia.org/wiki/RStudio](https://en.wikipedia.org/wiki/RStudio)VSCode[https://en.wikipedia.org/wiki/Visual_Studio_Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)Object Oriented Programming Style[https://en.wikipedia.org/wiki/Object-oriented_programming](https://en.wikipedia.org/wiki/Object-oriented_programming)C++ programming language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)Java programming language[https://en.wikipedia.org/wiki/Java_(programming_language)](https://en.wikipedia.org/wiki/Java_(programming_language))Pipe operator in R[https://www.datacamp.com/tutorial/pipe-r-tutorial](https://www.datacamp.com/tutorial/pipe-r-tutorial)
+- [Lambda World Conference](https://www.lambda.world/)
+- [Stephen's talk](https://www.lambda.world/)
+- [/speakers/?speaker=Stephen%20TaylorConor's talk](https://www.lambda.world/)
+- [/speakers/?speaker=Conor%20HoekstraTacit Talk Adám Brudzewsky](https://www.youtube.com/watch?v=6LrQithKj8w)
+- [BQN programming language](https://mlochbaum.github.io/BQN/)
+- [BQN Constant Modifier](https://mlochbaum.github.io/BQN/)
+- [doc/constant.htmlDyalog APL](https://www.dyalog.com/)
+- [APL programming language](https://aplwiki.com/)
+- [R programming language](https://en.wikipedia.org/wiki/R_(programming_language))
+- [r-project.org](https://www.r-project.org/)
+- [The R Cookbook](https://www.oreilly.com/library/view/r-cookbook-2nd/9781492040675/)
+- [25 Recipes for Getting Started with R](https://www.oreilly.com/library/view/25-recipes-for/9781449303631/)
+- [S programming language](https://en.wikipedia.org/wiki/S_(programming_language))
+- [PPL programming language](https://en.wikipedia.org/wiki/Polymorphic_Programming_Language)
+- [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs)
+- [John Chambers](https://en.wikipedia.org/wiki/John_Chambers_(statistician))
+- [Trevor Hastie](https://en.wikipedia.org/wiki/Trevor_Hastie)
+- [William Cleveland](https://en.wikipedia.org/wiki/William_S._Cleveland)
+- [C programming language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Fortran programming language](https://en.wikipedia.org/wiki/Fortran)
+- [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms)
+- [LAPACK](https://en.wikipedia.org/wiki/LAPACK)
+- [Tibco](https://en.wikipedia.org/wiki/TIBCO_Software)
+- [S-PLUS](https://en.wikipedia.org/wiki/S-PLUS)
 
-[03] 00:19:00 Tacit Programming[ttps://en.wikipedia.org/wiki/Tacit_programming](ttps://en.wikipedia.org/wiki/Tacit_programming)Imperative Programming Style[https://en.wikipedia.org/wiki/Imperative_programming](https://en.wikipedia.org/wiki/Imperative_programming)Functional Programming Style[https://en.wikipedia.org/wiki/Functional_programming](https://en.wikipedia.org/wiki/Functional_programming)Reactive Programming Style[https://en.wikipedia.org/wiki/Reactive_programming](https://en.wikipedia.org/wiki/Reactive_programming)Scala programming language[https://en.wikipedia.org/wiki/Scala_(programming_language)](https://en.wikipedia.org/wiki/Scala_(programming_language))Swift programming language[https://en.wikipedia.org/wiki/Swift_(programming_language)](https://en.wikipedia.org/wiki/Swift_(programming_language))Declaritive Programming Style[https://en.wikipedia.org/wiki/Declarative_programming](https://en.wikipedia.org/wiki/Declarative_programming)Rust programming language[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))Hadley Wickham[https://en.wikipedia.org/wiki/Hadley_Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham)Tidy Data Format[https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)Tidyverse[https://en.wikipedia.org/wiki/Tidyverse](https://en.wikipedia.org/wiki/Tidyverse)Dataframes in R[https://www.r-tutor.com/r-introduction/data-frame](https://www.r-tutor.com/r-introduction/data-frame)Google Style Guide for R[https://google.github.io/styleguide/Rguide.html](https://google.github.io/styleguide/Rguide.html)PURRR[https://purrr.tidyverse.org/](https://purrr.tidyverse.org/)PURRR cheatsheet[https://github.com/rstudio/cheatsheets/blob/main/purrr.pdf](https://github.com/rstudio/cheatsheets/blob/main/purrr.pdf)
+**[02] 00:10:00**
 
-[04] 00:27:40 MATLAB[https://en.wikipedia.org/wiki/MATLAB](https://en.wikipedia.org/wiki/MATLAB)MATLAB Episode of ArrayCast[https://www.arraycast.com/episodes/episode79-matlab](https://www.arraycast.com/episodes/episode79-matlab)Excel[https://en.wikipedia.org/wiki/Microsoft_Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)Lazy evaluation[https://en.wikipedia.org/wiki/Lazy_evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation)Strides of Arrays[https://en.wikipedia.org/wiki/Stride_of_an_array](https://en.wikipedia.org/wiki/Stride_of_an_array)
+- [Monte Carlo Method in Finance](https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance)
+- [Bayesian Network Model](https://en.wikipedia.org/wiki/Bayesian_network)
+- [Ross Ihaka](https://en.wikipedia.org/wiki/Ross_Ihaka)
+- [Robert Gentleman](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician))
+- [University of Aukland](https://en.wikipedia.org/wiki/University_of_Auckland)
+- [Scheme programming language](https://en.wikipedia.org/wiki/Scheme_(programming_language))
+- [SAS statistics package](https://en.wikipedia.org/wiki/SAS_(software))
+- [O'Reilly press](https://www.oreilly.com/)
+- [RStudio](https://en.wikipedia.org/wiki/RStudio)
+- [VSCode](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+- [Object Oriented Programming Style](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- [C++ programming language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Java programming language](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Pipe operator in R](https://www.datacamp.com/tutorial/pipe-r-tutorial)
 
-[05] 00:33:28 Numpy Package[https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/NumPy)New shape suggestion in J[https://code.jsoftware.com/wiki/Vocabulary/dollar#reshapeblank](https://code.jsoftware.com/wiki/Vocabulary/dollar#reshapeblank)Conor's Language Venn Diagram[https://github.com/codereport/array-language-comparisons](https://github.com/codereport/array-language-comparisons)
+**[03] 00:19:00**
 
-[06] 00:44:50 Turing Complete Language[https://en.wikipedia.org/wiki/Turing_completeness](https://en.wikipedia.org/wiki/Turing_completeness)Each Operator in APL[https://aplwiki.com/wiki/Each](https://aplwiki.com/wiki/Each)
+- [Tacit Programming](ttps://en.wikipedia.org/wiki/Tacit_programming)
+- [Imperative Programming Style](https://en.wikipedia.org/wiki/Imperative_programming)
+- [Functional Programming Style](https://en.wikipedia.org/wiki/Functional_programming)
+- [Reactive Programming Style](https://en.wikipedia.org/wiki/Reactive_programming)
+- [Scala programming language](https://en.wikipedia.org/wiki/Scala_(programming_language))
+- [Swift programming language](https://en.wikipedia.org/wiki/Swift_(programming_language))
+- [Declaritive Programming Style](https://en.wikipedia.org/wiki/Declarative_programming)
+- [Rust programming language](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham)
+- [Tidy Data Format](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
+- [Tidyverse](https://en.wikipedia.org/wiki/Tidyverse)
+- [Dataframes in R](https://www.r-tutor.com/r-introduction/data-frame)
+- [Google Style Guide for R](https://google.github.io/styleguide/Rguide.html)
+- [PURRR](https://purrr.tidyverse.org/)
+- [PURRR cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/purrr.pdf)
 
-[07] 00:55:20 Julia programming language[https://en.wikipedia.org/wiki/Julia_(programming_language)](https://en.wikipedia.org/wiki/Julia_(programming_language))Python programming language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))Statically Typing[https://en.wikipedia.org/wiki/Type_system#Static_type_checking](https://en.wikipedia.org/wiki/Type_system#Static_type_checking)Dynamically Typing[https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information)Shiny Interactive Interface[https://en.wikipedia.org/wiki/Shiny_(software)](https://en.wikipedia.org/wiki/Shiny_(software))
+**[04] 00:27:40**
 
-[08] 01:00:10 Lisp programming language[https://en.wikipedia.org/wiki/Lisp_(programming_language)](https://en.wikipedia.org/wiki/Lisp_(programming_language))gg.plot2[https://r-graph-gallery.com/ggplot2-package.html](https://r-graph-gallery.com/ggplot2-package.html)State[https://en.wikipedia.org/wiki/State_(computer_science)](https://en.wikipedia.org/wiki/State_(computer_science))Functional Programming[https://en.wikipedia.org/wiki/Functional_programming](https://en.wikipedia.org/wiki/Functional_programming)Call by Value[https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_value](https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_value)Call by Reference[https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_reference](https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_reference)Immutable objects[https://en.wikipedia.org/wiki/Immutable_object](https://en.wikipedia.org/wiki/Immutable_object)
+- [MATLAB](https://en.wikipedia.org/wiki/MATLAB)
+- [MATLAB Episode of ArrayCast](https://www.arraycast.com/episodes/episode79-matlab)
+- [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)
+- [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation)
+- [Strides of Arrays](https://en.wikipedia.org/wiki/Stride_of_an_array)
 
-[09] 01:11:54 SQL[https://en.wikipedia.org/wiki/SQL](https://en.wikipedia.org/wiki/SQL)RSconnect Library in Dyalogn APL[https://github.com/kimmolinna/rsconnect](https://github.com/kimmolinna/rsconnect)CRAN[https://cran.r-project.org](https://cran.r-project.org/)Docker package manager[https://www.docker.com](https://www.docker.com/)Paul's Teetor's blog[https://quantdevel.com](https://quantdevel.com/)Contact AT ArrayCast DOT ComChicago R User group[http://www.meetup.com/ChicagoRUG/](http://www.meetup.com/ChicagoRUG/)
+**[05] 00:33:28**
+
+- [Numpy Package](https://en.wikipedia.org/wiki/NumPy)
+- [New shape suggestion in J](https://code.jsoftware.com/wiki/Vocabulary/dollar#reshapeblank)
+- [Conor's Language Venn Diagram](https://github.com/codereport/array-language-comparisons)
+
+**[06] 00:44:50**
+
+- [Turing Complete Language](https://en.wikipedia.org/wiki/Turing_completeness)
+- [Each Operator in APL](https://aplwiki.com/wiki/Each)
+
+**[07] 00:55:20**
+
+- [Julia programming language](https://en.wikipedia.org/wiki/Julia_(programming_language))
+- [Python programming language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Statically Typing](https://en.wikipedia.org/wiki/Type_system#Static_type_checking)
+- [Dynamically Typing](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information)
+- [Shiny Interactive Interface](https://en.wikipedia.org/wiki/Shiny_(software))
+
+**[08] 01:00:10**
+
+- [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+- [gg.plot2](https://r-graph-gallery.com/ggplot2-package.html)
+- [State](https://en.wikipedia.org/wiki/State_(computer_science))
+- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+- [Call by Value](https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_value)
+- [Call by Reference](https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_reference)
+- [Immutable objects](https://en.wikipedia.org/wiki/Immutable_object)
+
+**[09] 01:11:54**
+
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [RSconnect Library in Dyalogn APL](https://github.com/kimmolinna/rsconnect)
+- [CRAN](https://cran.r-project.org/)
+- [Docker package manager](https://www.docker.com/)
+- [Paul's Teetor's blog](https://quantdevel.com/)
+- [Contact AT ArrayCast DOT ComChicago R User group](http://www.meetup.com/ChicagoRUG/)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

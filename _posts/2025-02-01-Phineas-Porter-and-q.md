@@ -32,13 +32,121 @@ Conor's title for this episode is "My Life as a Quant - Phineas Porter and q"If 
 
 ## Show Notes
 
-Array Cast -  January 31, 2025Show Notes
+Array Cast -  January 31, 2025
 
 Thanks to Bob Therriault, Marshall Lochbaum, Adám Brudzewsky, Phineas Porter, and Conor Hoekstra for gathering these links:
 
-[01] 00:01:30 Dyalog APL Challenge[https://challenge.dyalog.com/](https://challenge.dyalog.com/)Functional Programming Madrid Meetup[https://www.meetup.com/en-AU/fp-madrid/events/305624889/](https://www.meetup.com/en-AU/fp-madrid/events/305624889/)APL Spring Meeting for APL Germany[https://apl-germany.de/tagungen/](https://apl-germany.de/tagungen/)ArrayPortal Beta[https://www.arrayportal.com](https://www.arrayportal.com/)BAA Vector BiWeekly Meetups[https://britishaplassociation.org/webinar-schedule-2025/](https://britishaplassociation.org/webinar-schedule-2025/)Tacit Talk Episode 14 with Madeline Vergani[https://tacittalk.com/2025/01/25/Episode-14.html](https://tacittalk.com/2025/01/25/Episode-14.html)Tacit Talk Episode 15 Array Theory and Nial[https://tacittalk.com/2025/01/29/Episode-15.html](https://tacittalk.com/2025/01/29/Episode-15.html)Madeline Vergani Episode 88 on the ArrayCast[https://www.arraycast.com/episodes/episode88-tinyapl](https://www.arraycast.com/episodes/episode88-tinyapl)OmniBar[https://omnibar.rubenverg.com/?s=rank&ig=true&in=true&id=false&hid=true](https://omnibar.rubenverg.com/?s=rank&ig=true&in=true&id=false&hid=true)tinyAPL Programming Language[https://github.com/RubenVerg/tinyapl/blob/main/README.md](https://github.com/RubenVerg/tinyapl/blob/main/README.md)BQN Rank function[[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/shape.html]([https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/shape.html)Nub In[https://aplwiki.com/wiki/Nub_in](https://aplwiki.com/wiki/Nub_in)ADSP 176[https://adspthepodcast.com/2024/04/05/Episode-176.html](https://adspthepodcast.com/2024/04/05/Episode-176.html)Nick Psaris Episode 42 on the ArrayCast[https://www.arraycast.com/episodes/episode42-nick-psaris-q](https://www.arraycast.com/episodes/episode42-nick-psaris-q)Jump Trading[https://www.jumptrading.com](https://www.jumptrading.com/)UBS[https://www.ubs.com/ca/en.html](https://www.ubs.com/ca/en.html)CitiBank[https://en.wikipedia.org/wiki/Citibank](https://en.wikipedia.org/wiki/Citibank)Jonny Press Episode 85 on the ArrayCast[https://www.arraycast.com/episodes/episode85-jonnypress](https://www.arraycast.com/episodes/episode85-jonnypress)Hadley Wickham Spit Apply Combine paper[https://vita.had.co.nz/papers/plyr.pdf](https://vita.had.co.nz/papers/plyr.pdf)q Programming Language[https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))[02] 00:12:06 J Wiki[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)"Is a Scalar an Array?" Roger Hui[https://code.jsoftware.com/wiki/Essays/Scalars](https://code.jsoftware.com/wiki/Essays/Scalars)NumPy another Iverson Ghost[https://dev.to/bakerjd99/numpy-another-iverson-ghost-9mc](https://dev.to/bakerjd99/numpy-another-iverson-ghost-9mc)Numpy EcoSystem[https://numpy.org](https://numpy.org/)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))Scala Programming Language[https://en.wikipedia.org/wiki/Scala_(programming_language)](https://en.wikipedia.org/wiki/Scala_(programming_language))Haskell Programming Language[https://en.wikipedia.org/wiki/Haskell](https://en.wikipedia.org/wiki/Haskell)JavaScript Programming Language[https://en.wikipedia.org/wiki/JavaScript](https://en.wikipedia.org/wiki/JavaScript)Microservice Framework[https://en.wikipedia.org/wiki/Microservices](https://en.wikipedia.org/wiki/Microservices)Volcker Rule[https://en.wikipedia.org/wiki/Volcker_Rule](https://en.wikipedia.org/wiki/Volcker_Rule)RobinHood Markets[https://en.wikipedia.org/wiki/Robinhood_Markets](https://en.wikipedia.org/wiki/Robinhood_Markets)Citadel[https://en.wikipedia.org/wiki/Citadel_LLC](https://en.wikipedia.org/wiki/Citadel_LLC)Virtu Financial[https://en.wikipedia.org/wiki/Virtu_Financial](https://en.wikipedia.org/wiki/Virtu_Financial)Asof Joins[https://duckdb.org/docs/guides/sql_features/asof_join](https://duckdb.org/docs/guides/sql_features/asof_join)Priority Queue[https://en.wikipedia.org/wiki/Priority_queue](https://en.wikipedia.org/wiki/Priority_queue)Uiua Programming Language[https://www.uiua.org/](https://www.uiua.org/)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Heap[https://en.wikipedia.org/wiki/Heap_(data_structure)](https://en.wikipedia.org/wiki/Heap_(data_structure))FIFO[https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))q for Mortals Jeffry Borror[https://code.kx.com/q4m3/](https://code.kx.com/q4m3/)[03] 00:31:39 Outer Product[https://aplwiki.com/wiki/Outer_Product](https://aplwiki.com/wiki/Outer_Product)
+**[01] 00:01:30**
 
-Phineas' blog IABDB[https://iabdb.me](https://iabdb.me)GhostBusters[https://en.wikipedia.org/wiki/Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters)Phineas' Blog post[https://iabdb.me](https://iabdb.me)/2020/01/27/fifo-allocation-in-kdb/My Life as a Quant Emanuel Dermon[https://emanuelderman.com/books/my-life-as-a-quant/](https://emanuelderman.com/books/my-life-as-a-quant/)[04] 00:43:29 ClickHouse[https://clickhouse.com/](https://clickhouse.com/)SQL DataBase[https://en.wikipedia.org/wiki/SQL](https://en.wikipedia.org/wiki/SQL)Array Functions in ClickHouse[https://clickhouse.com/](https://clickhouse.com/)docs/en/sql-reference/functions/array-functionsAPL Programming Language[https://aplwiki.com/wiki/Main_Page](https://aplwiki.com/wiki/Main_Page)[05] 00:52:38 KX Systems[https://en.wikipedia.org/wiki/Kx_Systems](https://en.wikipedia.org/wiki/Kx_Systems)Ashok Reddy Episode 94 on ArrayCast[https://www.arraycast.com/episodes/episode94-kx](https://www.arraycast.com/episodes/episode94-kx)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))Arthur’s Stats Library[https://github.com/KxSystems/kdb/blob/28d14cde9840ddb1d98613560cf5e051ae108a4d/stat.q](https://github.com/KxSystems/kdb/blob/28d14cde9840ddb1d98613560cf5e051ae108a4d/stat.q)Ken Iverson[https://aplwiki.com/wiki/Ken_Iverson](https://aplwiki.com/wiki/Ken_Iverson)[06] 01:00:02 Aaron Hsu Episode 19 on the ArrayCast[https://www.arraycast.com/episodes/episode19-aaron-hsu](https://www.arraycast.com/episodes/episode19-aaron-hsu)Roc Programming Language[https://www.roc-lang.org](https://www.roc-lang.org/)Go Programming Language[https://go.dev](https://go.dev/)Sublime Editor[https://www.sublimetext.com](https://www.sublimetext.com/)Gary Stevenson[https://en.wikipedia.org/wiki/Gary_Stevenson_(economist)](https://en.wikipedia.org/wiki/Gary_Stevenson_(economist))"The Trading Game" Gary Stevenson[https://openlibrary.org/books/OL50630319M/Trading_Game](https://openlibrary.org/books/OL50630319M/Trading_Game)Gappy[https://x.com/__paleologo?lang=en&mx=2](https://x.com/__paleologo?lang=en&mx=2)Gappy's wisdom[https://www.reddit.com/r/quant/comments/1d5z1vl/gappys_wisdom/](https://www.reddit.com/r/quant/comments/1d5z1vl/gappys_wisdom/)Flirting with Models podcast[[https://www.youtube.com/watch?v=yxqTervPZe8](https://www.youtube.com/watch?v=yxqTervPZe8)]([https://www.youtube.com/watch?v=yxqTervPZe8](https://www.youtube.com/watch?v=yxqTervPZe8))Odd Lots podcast[[https://www.youtube.com/watch?v=yxqTervPZe8](https://www.youtube.com/watch?v=yxqTervPZe8)]([https://www.youtube.com/watch?v=yxqTervPZe8](https://www.youtube.com/watch?v=yxqTervPZe8))[07] 01:08:40 Kdb+[https://en.wikipedia.org/wiki/Kdb%2B](https://en.wikipedia.org/wiki/Kdb%2B)The Big Short[https://en.wikipedia.org/wiki/The_Big_Short_(film)](https://en.wikipedia.org/wiki/The_Big_Short_(film))Conor McCarthy Episode 76 on the ArrayCast[https://www.arraycast.com/episodes/episode76-conor-mccarthy](https://www.arraycast.com/episodes/episode76-conor-mccarthy)KXCon Review Episode 54 on the ArrayCast[https://www.arraycast.com/episodes/episode54-kxcon23](https://www.arraycast.com/episodes/episode54-kxcon23)Rentehc Hedge Fund[https://en.wikipedia.org/wiki/Renaissance_Technologies](https://en.wikipedia.org/wiki/Renaissance_Technologies)Michael Higginson Episode 46 on the ArrayCast[https://www.arraycast.com/episodes/episode46-michael-higginson](https://www.arraycast.com/episodes/episode46-michael-higginson)IP Sharp Episode 91 on the Arraycast[https://www.arraycast.com/episodes/episode91-ipsharpdoc](https://www.arraycast.com/episodes/episode91-ipsharpdoc)Leslie Goldsmith Episode 47 on the ArrayCast[https://www.arraycast.com/episodes/episode47-leslie-goldsmith](https://www.arraycast.com/episodes/episode47-leslie-goldsmith)[08] 01:16:29 Dynamic Programming[https://en.wikipedia.org/wiki/Dynamic_programming](https://en.wikipedia.org/wiki/Dynamic_programming)Memoization[https://en.wikipedia.org/wiki/Memoization](https://en.wikipedia.org/wiki/Memoization)Memoization Primitive in J[https://code.jsoftware.com/wiki/Vocabulary/mcapdot](https://code.jsoftware.com/wiki/Vocabulary/mcapdot)Sparse Array Primitive in J[https://code.jsoftware.com/wiki/Vocabulary/dollardot](https://code.jsoftware.com/wiki/Vocabulary/dollardot)BQN Sortedness Page[https://mlochbaum.github.io/BQN/implementation/primitive/sort.html](https://mlochbaum.github.io/BQN/implementation/primitive/sort.html)C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)[09] 01:24:55 DeepSeek R1[https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)BQN Indices Inverse[https://mlochbaum.github.io/BQN/doc/replicate.html#inverse](https://mlochbaum.github.io/BQN/doc/replicate.html#inverse)Jd Database[https://code.jsoftware.com/wiki/Jd/Overview](https://code.jsoftware.com/wiki/Jd/Overview)ngn/k Programming Language[https://codeberg.org/ngn/k](https://codeberg.org/ngn/k)Contact AT ArrayCast DOT Com
+- [Dyalog APL Challenge](https://challenge.dyalog.com/)
+- [Functional Programming Madrid Meetup](https://www.meetup.com/en-AU/fp-madrid/events/305624889/)
+- [APL Spring Meeting for APL Germany](https://apl-germany.de/tagungen/)
+- [ArrayPortal Beta](https://www.arrayportal.com/)
+- [BAA Vector BiWeekly Meetups](https://britishaplassociation.org/webinar-schedule-2025/)
+- [Tacit Talk Episode 14 with Madeline Vergani](https://tacittalk.com/2025/01/25/Episode-14.html)
+- [Tacit Talk Episode 15 Array Theory and Nial](https://tacittalk.com/2025/01/29/Episode-15.html)
+- [Madeline Vergani Episode 88 on the ArrayCast](https://www.arraycast.com/episodes/episode88-tinyapl)
+- [OmniBar](https://omnibar.rubenverg.com/?s=rank&ig=true&in=true&id=false&hid=true)
+- [tinyAPL Programming Language](https://github.com/RubenVerg/tinyapl/blob/main/README.md)
+- [BQN Rank function](https://mlochbaum.github.io/BQN//doc/shape.html)
+- [Nub In](https://aplwiki.com/wiki/Nub_in)
+- [ADSP 176](https://adspthepodcast.com/2024/04/05/Episode-176.html)
+- [Nick Psaris Episode 42 on the ArrayCast](https://www.arraycast.com/episodes/episode42-nick-psaris-q)
+- [Jump Trading](https://www.jumptrading.com/)
+- [UBS](https://www.ubs.com/ca/en.html)
+- [CitiBank](https://en.wikipedia.org/wiki/Citibank)
+- [Jonny Press Episode 85 on the ArrayCast](https://www.arraycast.com/episodes/episode85-jonnypress)
+- [Hadley Wickham Spit Apply Combine paper](https://vita.had.co.nz/papers/plyr.pdf)
+- [q Programming Language](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))
+
+**[02] 00:12:06**
+
+- [J Wiki](https://code.jsoftware.com/wiki/Category:Home)
+- ["Is a Scalar an Array?" Roger Hui](https://code.jsoftware.com/wiki/Essays/Scalars)
+- [NumPy another Iverson Ghost](https://dev.to/bakerjd99/numpy-another-iverson-ghost-9mc)
+- [Numpy EcoSystem](https://numpy.org/)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Scala Programming Language](https://en.wikipedia.org/wiki/Scala_(programming_language))
+- [Haskell Programming Language](https://en.wikipedia.org/wiki/Haskell)
+- [JavaScript Programming Language](https://en.wikipedia.org/wiki/JavaScript)
+- [Microservice Framework](https://en.wikipedia.org/wiki/Microservices)
+- [Volcker Rule](https://en.wikipedia.org/wiki/Volcker_Rule)
+- [RobinHood Markets](https://en.wikipedia.org/wiki/Robinhood_Markets)
+- [Citadel](https://en.wikipedia.org/wiki/Citadel_LLC)
+- [Virtu Financial](https://en.wikipedia.org/wiki/Virtu_Financial)
+- [Asof Joins](https://duckdb.org/docs/guides/sql_features/asof_join)
+- [Priority Queue](https://en.wikipedia.org/wiki/Priority_queue)
+- [Uiua Programming Language](https://www.uiua.org/)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
+- [FIFO](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
+- [q for Mortals Jeffry Borror](https://code.kx.com/q4m3/)
+
+**[03] 00:31:39**
+
+- [Outer Product](https://aplwiki.com/wiki/Outer_Product)
+
+- [Phineas' blog IABDB](https://iabdb.me)
+- [GhostBusters](https://en.wikipedia.org/wiki/Ghostbusters)
+- [Phineas' Blog post](https://iabdb.me)
+- [/2020/01/27/fifo-allocation-in-kdb/My Life as a Quant Emanuel Dermon](https://emanuelderman.com/books/my-life-as-a-quant/)
+
+**[04] 00:43:29**
+
+- [ClickHouse](https://clickhouse.com/)
+- [SQL DataBase](https://en.wikipedia.org/wiki/SQL)
+- [Array Functions in ClickHouse](https://clickhouse.com/)
+- [docs/en/sql-reference/functions/array-functionsAPL Programming Language](https://aplwiki.com/wiki/Main_Page)
+
+**[05] 00:52:38**
+
+- [KX Systems](https://en.wikipedia.org/wiki/Kx_Systems)
+- [Ashok Reddy Episode 94 on ArrayCast](https://www.arraycast.com/episodes/episode94-kx)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [Arthur’s Stats Library](https://github.com/KxSystems/kdb/blob/28d14cde9840ddb1d98613560cf5e051ae108a4d/stat.q)
+- [Ken Iverson](https://aplwiki.com/wiki/Ken_Iverson)
+
+**[06] 01:00:02**
+
+- [Aaron Hsu Episode 19 on the ArrayCast](https://www.arraycast.com/episodes/episode19-aaron-hsu)
+- [Roc Programming Language](https://www.roc-lang.org/)
+- [Go Programming Language](https://go.dev/)
+- [Sublime Editor](https://www.sublimetext.com/)
+- [Gary Stevenson](https://en.wikipedia.org/wiki/Gary_Stevenson_(economist))
+- ["The Trading Game" Gary Stevenson](https://openlibrary.org/books/OL50630319M/Trading_Game)
+- [Gappy](https://x.com/__paleologo?lang=en&mx=2)
+- [Gappy's wisdom](https://www.reddit.com/r/quant/comments/1d5z1vl/gappys_wisdom/)
+- [Flirting with Models podcast](https://www.youtube.com/watch?v=yxqTervPZe8)
+- [Odd Lots podcast](https://www.youtube.com/watch?v=yxqTervPZe8)
+
+**[07] 01:08:40**
+
+- [Kdb+](https://en.wikipedia.org/wiki/Kdb%2B)
+- [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film))
+- [Conor McCarthy Episode 76 on the ArrayCast](https://www.arraycast.com/episodes/episode76-conor-mccarthy)
+- [KXCon Review Episode 54 on the ArrayCast](https://www.arraycast.com/episodes/episode54-kxcon23)
+- [Rentehc Hedge Fund](https://en.wikipedia.org/wiki/Renaissance_Technologies)
+- [Michael Higginson Episode 46 on the ArrayCast](https://www.arraycast.com/episodes/episode46-michael-higginson)
+- [IP Sharp Episode 91 on the Arraycast](https://www.arraycast.com/episodes/episode91-ipsharpdoc)
+- [Leslie Goldsmith Episode 47 on the ArrayCast](https://www.arraycast.com/episodes/episode47-leslie-goldsmith)
+
+**[08] 01:16:29**
+
+- [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+- [Memoization](https://en.wikipedia.org/wiki/Memoization)
+- [Memoization Primitive in J](https://code.jsoftware.com/wiki/Vocabulary/mcapdot)
+- [Sparse Array Primitive in J](https://code.jsoftware.com/wiki/Vocabulary/dollardot)
+- [BQN Sortedness Page](https://mlochbaum.github.io/BQN/implementation/primitive/sort.html)
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Dyalog APL](https://www.dyalog.com/)
+
+**[09] 01:24:55**
+
+- [DeepSeek R1](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
+- [BQN Indices Inverse](https://mlochbaum.github.io/BQN/doc/replicate.html#inverse)
+- [Jd Database](https://code.jsoftware.com/wiki/Jd/Overview)
+- [ngn/k Programming Language](https://codeberg.org/ngn/k)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

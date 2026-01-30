@@ -32,27 +32,126 @@ Ashok Reddy announces a change to the corporate structure of KX and the challeng
 
 ## Show Notes
 
-Array Cast -  December 6, 2024Show Notes
+Array Cast -  December 6, 2024
 
 Thanks to Bob Therriault, Ashok Reddy, Stephen Taylor and Marshall Lochbaum for gathering these links:
 
-[01] 00:01:20 Advent of Code[https://en.wikipedia.org/wiki/Advent_of_Code](https://en.wikipedia.org/wiki/Advent_of_Code)Marshall's Live Tracker[https://gist.githubusercontent.com/mlochbaum/03d1b3ca918f324a08fb30f2be79fd5e/raw/aoc2024.svg](https://gist.githubusercontent.com/mlochbaum/03d1b3ca918f324a08fb30f2be79fd5e/raw/aoc2024.svg)CBQN[https://github.com/dzaima/CBQN](https://github.com/dzaima/CBQN)ShareMyScreen[https://code.jsoftware.com/wiki/ShareMyScreen](https://code.jsoftware.com/wiki/ShareMyScreen)December Adventure[https://eli.li/december-adventure](https://eli.li/december-adventure)APL Wiki Advent of Code[https://aplwiki.com/wiki/Advent_of_Code](https://aplwiki.com/wiki/Advent_of_Code)Conor's Advent of Code Videos[https://www.youtube.com/playlist?list=PLVFrD1dmDdvfejkfvQEI2bNfVlNO4iGkK](https://www.youtube.com/playlist?list=PLVFrD1dmDdvfejkfvQEI2bNfVlNO4iGkK)Tacit Sanctuary[https://www.youtube.com/@TacitSanc/featured](https://www.youtube.com/@TacitSanc/featured)
+**[01] 00:01:20**
 
-Uiua Advent of Code Discord[https://discord.com/channels/1156339038748413952/1308998046536958093](https://discord.com/channels/1156339038748413952/1308998046536958093)Conor's CPP North 2024 Video[https://www.youtube.com/watch?v=Tsa5JK4nnQE](https://www.youtube.com/watch?v=Tsa5JK4nnQE)Ashok Reddy's first episode on the ArrayCast[https://www.arraycast.com/episodes/episode45-ashok-reddy-kx](https://www.arraycast.com/episodes/episode45-ashok-reddy-kx)KX Systems[https://kx.com](https://kx.com/)First Derivative[https://firstderivative.com](https://firstderivative.com/)First Derivative Technologies[https://fdtechnologies.com](https://fdtechnologies.com/)KX News Release[https://www.bbc.com/news/articles/cglk8386167o](https://www.bbc.com/news/articles/cglk8386167o)EPam Systems[https://en.wikipedia.org/wiki/EPAM_Systems](https://en.wikipedia.org/wiki/EPAM_Systems)MRP Acquisition[https://finance.yahoo.com/news/mrp-contentgine-market-pharosiq-following-130500305.html](https://finance.yahoo.com/news/mrp-contentgine-market-pharosiq-following-130500305.html)
+- [Advent of Code](https://en.wikipedia.org/wiki/Advent_of_Code)
+- [Marshall's Live Tracker](https://gist.githubusercontent.com/mlochbaum/03d1b3ca918f324a08fb30f2be79fd5e/raw/aoc2024.svg)
+- [CBQN](https://github.com/dzaima/CBQN)
+- [ShareMyScreen](https://code.jsoftware.com/wiki/ShareMyScreen)
+- [December Adventure](https://eli.li/december-adventure)
+- [APL Wiki Advent of Code](https://aplwiki.com/wiki/Advent_of_Code)
+- [Conor's Advent of Code Videos](https://www.youtube.com/playlist?list=PLVFrD1dmDdvfejkfvQEI2bNfVlNO4iGkK)
+- [Tacit Sanctuary](https://www.youtube.com/@TacitSanc/featured)
 
-[02] 00:13:52 Axis Insurance[https://axisinsurance.ca](https://axisinsurance.ca/)Data Intellect[https://dataintellect.com](https://dataintellect.com/)Slalom[https://www.slalom.com/us/en](https://www.slalom.com/us/en)KPMG[https://en.wikipedia.org/wiki/KPMG](https://en.wikipedia.org/wiki/KPMG)k programming language[https://en.wikipedia.org/wiki/K_(programming_language)](https://en.wikipedia.org/wiki/K_(programming_language))q programming langauge[https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))Jonny Press episode on the ArrayCast[https://www.arraycast.com/episodes/episode85-jonnypress](https://www.arraycast.com/episodes/episode85-jonnypress)KXCon Review episode on the ArrayCast[https://www.arraycast.com/episodes/episode54-kxcon23](https://www.arraycast.com/episodes/episode54-kxcon23)Nick Psaris episode on the ArrayCast[https://www.arraycast.com/episodes/episode42-nick-psaris-q](https://www.arraycast.com/episodes/episode42-nick-psaris-q)KX Events[https://kx.com/about/events/](https://kx.com/about/events/)Kdb+[https://kx.com/products/kdb/](https://kx.com/products/kdb/)Finspace[https://docs.aws.amazon.com/finspace/](https://docs.aws.amazon.com/finspace/)Citadel LLC[https://en.wikipedia.org/wiki/Citadel_LLC](https://en.wikipedia.org/wiki/Citadel_LLC)Conor McCarthy episode on the ArrayCast[https://www.arraycast.com/episodes/episode76-conor-mccarthy](https://www.arraycast.com/episodes/episode76-conor-mccarthy)PyKx[https://code.kx.com/pykx/2.5/](https://code.kx.com/pykx/2.5/)Using PykX with Q[https://code.kx.com/pykx/3.0/pykx-under-q/intro.html](https://code.kx.com/pykx/3.0/pykx-under-q/intro.html)
+- [Uiua Advent of Code Discord](https://discord.com/channels/1156339038748413952/1308998046536958093)
+- [Conor's CPP North 2024 Video](https://www.youtube.com/watch?v=Tsa5JK4nnQE)
+- [Ashok Reddy's first episode on the ArrayCast](https://www.arraycast.com/episodes/episode45-ashok-reddy-kx)
+- [KX Systems](https://kx.com/)
+- [First Derivative](https://firstderivative.com/)
+- [First Derivative Technologies](https://fdtechnologies.com/)
+- [KX News Release](https://www.bbc.com/news/articles/cglk8386167o)
+- [EPam Systems](https://en.wikipedia.org/wiki/EPAM_Systems)
+- [MRP Acquisition](https://finance.yahoo.com/news/mrp-contentgine-market-pharosiq-following-130500305.html)
 
-[03] 00:26:15 SQL[https://en.wikipedia.org/wiki/SQL](https://en.wikipedia.org/wiki/SQL)PostGres[https://en.wikipedia.org/wiki/PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)[Kdb.AI](http://kdb.ai/)[https://kdb.ai](https://kdb.ai/)Python programming language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))Zero-copy[https://en.wikipedia.org/wiki/Zero-copy](https://en.wikipedia.org/wiki/Zero-copy)Personal Edition of Kdb+[https://kx.com/download-kdb/](https://kx.com/download-kdb/)Declarative programming language[https://en.wikipedia.org/wiki/Declarative_programming](https://en.wikipedia.org/wiki/Declarative_programming)Large Language Model (LLM)[https://en.wikipedia.org/wiki/Large_language_model](https://en.wikipedia.org/wiki/Large_language_model)Jensen Huang[https://en.wikipedia.org/wiki/Jensen_Huang](https://en.wikipedia.org/wiki/Jensen_Huang)NVIDIA[https://en.wikipedia.org/wiki/Nvidia](https://en.wikipedia.org/wiki/Nvidia)Machine Learning[https://en.wikipedia.org/wiki/Machine_learning](https://en.wikipedia.org/wiki/Machine_learning)
+**[02] 00:13:52**
 
-[04] 00:34:50 NumPy[https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/NumPy)BQN programming language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Time Series data[https://en.wikipedia.org/wiki/Time_series_database](https://en.wikipedia.org/wiki/Time_series_database)MAMBA time based models[https://en.wikipedia.org/wiki/Mamba_(deep_learning_architecture)](https://en.wikipedia.org/wiki/Mamba_(deep_learning_architecture))Graphical Processing Unit (GPU)[https://en.wikipedia.org/wiki/Graphics_processing_unit](https://en.wikipedia.org/wiki/Graphics_processing_unit)Artificial General Intelligence (AGI)[https://en.wikipedia.org/wiki/Artificial_general_intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)Lockheed Martin[https://en.wikipedia.org/wiki/Lockheed_Martin](https://en.wikipedia.org/wiki/Lockheed_Martin)[https://kx.com/news/lockheed-martins-skunk-works-and-kx-shaping-the-future-of-open-mission-system-architectures/](https://kx.com/news/lockheed-martins-skunk-works-and-kx-shaping-the-future-of-open-mission-system-architectures/)F-35 fighter[https://www.f35.com/f35/about.html](https://www.f35.com/f35/about.html)Chip Fabs[https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant](https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant)Predictive Maintenance[https://en.wikipedia.org/wiki/Predictive_maintenance](https://en.wikipedia.org/wiki/Predictive_maintenance)Ashok's motivation for Machine Learning[https://www.linkedin.com/pulse/started-spider-bite-ashok-reddy/](https://www.linkedin.com/pulse/started-spider-bite-ashok-reddy/)[05] 00:43:48 Microsoft CoPilot[https://en.wikipedia.org/wiki/Microsoft_Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)Dyalog Ltd.[https://www.dyalog.com](https://www.dyalog.com/)Dyalog Licensing Models[https://www.dyalog.com](https://www.dyalog.com/)/prices-and-licences.htmElon Musk[https://en.wikipedia.org/wiki/Elon_Musk](https://en.wikipedia.org/wiki/Elon_Musk)NeuraLink[https://neuralink.com](https://neuralink.com/)
+- [Axis Insurance](https://axisinsurance.ca/)
+- [Data Intellect](https://dataintellect.com/)
+- [Slalom](https://www.slalom.com/us/en)
+- [KPMG](https://en.wikipedia.org/wiki/KPMG)
+- [k programming language](https://en.wikipedia.org/wiki/K_(programming_language))
+- [q programming langauge](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))
+- [Jonny Press episode on the ArrayCast](https://www.arraycast.com/episodes/episode85-jonnypress)
+- [KXCon Review episode on the ArrayCast](https://www.arraycast.com/episodes/episode54-kxcon23)
+- [Nick Psaris episode on the ArrayCast](https://www.arraycast.com/episodes/episode42-nick-psaris-q)
+- [KX Events](https://kx.com/about/events/)
+- [Kdb+](https://kx.com/products/kdb/)
+- [Finspace](https://docs.aws.amazon.com/finspace/)
+- [Citadel LLC](https://en.wikipedia.org/wiki/Citadel_LLC)
+- [Conor McCarthy episode on the ArrayCast](https://www.arraycast.com/episodes/episode76-conor-mccarthy)
+- [PyKx](https://code.kx.com/pykx/2.5/)
+- [Using PykX with Q](https://code.kx.com/pykx/3.0/pykx-under-q/intro.html)
 
-[06] 00:57:14 ChatGPT[https://en.wikipedia.org/wiki/ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)Anthropic[https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)Grace Hopper[https://en.wikipedia.org/wiki/Grace_Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)Grace Hopper Chip[https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/)Henry Rich J9.4 episode on the ArrayCast[https://www.arraycast.com/episodes/episode48-henry-rich](https://www.arraycast.com/episodes/episode48-henry-rich)J programming language[https://en.wikipedia.org/wiki/J_(programming_language)](https://en.wikipedia.org/wiki/J_(programming_language))Aaron Hsu[https://aplwiki.com/wiki/Aaron_Hsu](https://aplwiki.com/wiki/Aaron_Hsu)Co-dfns[https://aplwiki.com/wiki/Co-dfns](https://aplwiki.com/wiki/Co-dfns)Cuda[https://en.wikipedia.org/wiki/CUDA](https://en.wikipedia.org/wiki/CUDA)t. thread primitive in J[https://code.jsoftware.com/wiki/Vocabulary/tdot](https://code.jsoftware.com/wiki/Vocabulary/tdot)Amdahl's Law[https://en.wikipedia.org/wiki/Amdahl%27s_law](https://en.wikipedia.org/wiki/Amdahl%27s_law)Gustafson's Law[https://en.wikipedia.org/wiki/Gustafson%27s_law](https://en.wikipedia.org/wiki/Gustafson%27s_law)
+**[03] 00:26:15**
 
-[07] 01:09:05 Cerebras[https://cerebras.ai/](https://cerebras.ai/)Austin Powers Dr. Evil Ransom[https://www.youtube.com/watch?v=6GyBTNFKQ_Q](https://www.youtube.com/watch?v=6GyBTNFKQ_Q)q201[https://q201.org](https://q201.org/)KX Academy[https://learninghub.kx.com/academy/](https://learninghub.kx.com/academy/)KX Job Board[http://www.kdbplusjobs.com/](http://www.kdbplusjobs.com/)Ryan Hamilton's episode on the ArrayCast[https://www.arraycast.com/episodes/episode90-ryanhamilton](https://www.arraycast.com/episodes/episode90-ryanhamilton)PyPy[https://en.wikipedia.org/wiki/PyPy](https://en.wikipedia.org/wiki/PyPy)Open Source Software[https://en.wikipedia.org/wiki/Open-source_software](https://en.wikipedia.org/wiki/Open-source_software)GitHub[https://en.wikipedia.org/wiki/GitHub](https://en.wikipedia.org/wiki/GitHub)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [PostGres](https://en.wikipedia.org/wiki/PostgreSQL)
+- [Kdb.AI](http://kdb.ai/)
+- [kdb.ai](https://kdb.ai/)
+- [Python programming language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Zero-copy](https://en.wikipedia.org/wiki/Zero-copy)
+- [Personal Edition of Kdb+](https://kx.com/download-kdb/)
+- [Declarative programming language](https://en.wikipedia.org/wiki/Declarative_programming)
+- [Large Language Model (LLM)](https://en.wikipedia.org/wiki/Large_language_model)
+- [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang)
+- [NVIDIA](https://en.wikipedia.org/wiki/Nvidia)
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 
-[08] 01:15:05 TorQ[https://dataintellecttech.github.io/TorQ/](https://dataintellecttech.github.io/TorQ/)
+**[04] 00:34:50**
 
-[awesome-q.org](http://awesome-q.org/)[https://github.com/qbists/awesome-q](https://github.com/qbists/awesome-q)APL programming language[https://aplwiki.com](https://aplwiki.com/)Research in Motion[https://en.wikipedia.org/wiki/BlackBerry_Limited](https://en.wikipedia.org/wiki/BlackBerry_Limited)Dyadic Systems Consulting[https://aplwiki.com](https://aplwiki.com/)/wiki/Dyalog_Ltd.#Dyadic_Systems_consultingMorten Kromberg's episode on the ArrayCast[https://www.arraycast.com/episodes/episode21-morten-kromberg](https://www.arraycast.com/episodes/episode21-morten-kromberg)Contact AT ArrayCast DOT Com
+- [NumPy](https://en.wikipedia.org/wiki/NumPy)
+- [BQN programming language](https://mlochbaum.github.io/BQN/)
+- [Time Series data](https://en.wikipedia.org/wiki/Time_series_database)
+- [MAMBA time based models](https://en.wikipedia.org/wiki/Mamba_(deep_learning_architecture))
+- [Graphical Processing Unit (GPU)](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+- [Artificial General Intelligence (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+- [Lockheed Martin](https://en.wikipedia.org/wiki/Lockheed_Martin)
+- [kx.com/news/lockheed-martins-skunk-works-and-kx-shaping-the-future-of-open-mission-system-architectures](https://kx.com/news/lockheed-martins-skunk-works-and-kx-shaping-the-future-of-open-mission-system-architectures/)
+- [F-35 fighter](https://www.f35.com/f35/about.html)
+- [Chip Fabs](https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant)
+- [Predictive Maintenance](https://en.wikipedia.org/wiki/Predictive_maintenance)
+- [Ashok's motivation for Machine Learning](https://www.linkedin.com/pulse/started-spider-bite-ashok-reddy/)
+
+**[05] 00:43:48**
+
+- [Microsoft CoPilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
+- [Dyalog Ltd.](https://www.dyalog.com/)
+- [Dyalog Licensing Models](https://www.dyalog.com/)
+- [/prices-and-licences.htmElon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
+- [NeuraLink](https://neuralink.com/)
+
+**[06] 00:57:14**
+
+- [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+- [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
+- [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
+- [Grace Hopper Chip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/)
+- [Henry Rich J9.4 episode on the ArrayCast](https://www.arraycast.com/episodes/episode48-henry-rich)
+- [J programming language](https://en.wikipedia.org/wiki/J_(programming_language))
+- [Aaron Hsu](https://aplwiki.com/wiki/Aaron_Hsu)
+- [Co-dfns](https://aplwiki.com/wiki/Co-dfns)
+- [Cuda](https://en.wikipedia.org/wiki/CUDA)
+- [t. thread primitive in J](https://code.jsoftware.com/wiki/Vocabulary/tdot)
+- [Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
+- [Gustafson's Law](https://en.wikipedia.org/wiki/Gustafson%27s_law)
+
+**[07] 01:09:05**
+
+- [Cerebras](https://cerebras.ai/)
+- [Austin Powers Dr. Evil Ransom](https://www.youtube.com/watch?v=6GyBTNFKQ_Q)
+- [q201](https://q201.org/)
+- [KX Academy](https://learninghub.kx.com/academy/)
+- [KX Job Board](http://www.kdbplusjobs.com/)
+- [Ryan Hamilton's episode on the ArrayCast](https://www.arraycast.com/episodes/episode90-ryanhamilton)
+- [PyPy](https://en.wikipedia.org/wiki/PyPy)
+- [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software)
+- [GitHub](https://en.wikipedia.org/wiki/GitHub)
+
+**[08] 01:15:05**
+
+- [TorQ](https://dataintellecttech.github.io/TorQ/)
+
+- [awesome-q.org](http://awesome-q.org/)
+- [github.com/qbists/awesome-q](https://github.com/qbists/awesome-q)
+- [APL programming language](https://aplwiki.com/)
+- [Research in Motion](https://en.wikipedia.org/wiki/BlackBerry_Limited)
+- [Dyadic Systems Consulting](https://aplwiki.com/)
+- [/wiki/Dyalog_Ltd.#Dyadic_Systems_consultingMorten Kromberg's episode on the ArrayCast](https://www.arraycast.com/episodes/episode21-morten-kromberg)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

@@ -33,25 +33,93 @@ The ArrayFire GPU LibraryOur guests are John Melonakos and Umar Arshad of ArrayF
 
 ## Show Notes
 
-Array Cast -  May 9, 2025Show Notes
+Array Cast -  May 9, 2025
 
 Thanks to Bob Therriault for gathering these links:
 
-[01] 00:01:40 Juno J on the Web[https://jsoftware.github.io/juno/app/](https://jsoftware.github.io/juno/app/)Dyalog APL Challenge[https://challenge.dyalog.com](https://challenge.dyalog.com/)FinnAPL Spring Meeting[https://www.finnapl.fi/tapahtumat/](https://www.finnapl.fi/tapahtumat/)Aaron Hsu Episode #100 of the ArrayCast[https://www.arraycast.com/episodes/episode100-100hsu](https://www.arraycast.com/episodes/episode100-100hsu)Co-dfns compiler[https://github.com/Co-dfns/?ref=sacrideo.us](https://github.com/Co-dfns/?ref=sacrideo.us)[ArrayFire.com](http://arrayfire.com/)[https://arrayfire.com](https://arrayfire.com/)[ArrayFire.org](http://arrayfire.org/)[https://arrayfire.org/docs/index.htm#gsc.tab=0](https://arrayfire.org/docs/index.htm#gsc.tab=0)OpenGL[https://www.khronos.org/opengl/wiki/](https://www.khronos.org/opengl/wiki/)MATLAB[[https://www.mathworks.com](https://www.mathworks.com/)/products/matlab.html]([https://www.mathworks.com](https://www.mathworks.com/)/products/matlab.html)NVIDIA[https://en.wikipedia.org/wiki/Nvidia](https://en.wikipedia.org/wiki/Nvidia)CUDA[https://en.wikipedia.org/wiki/CUDA](https://en.wikipedia.org/wiki/CUDA)GPU[https://en.wikipedia.org/wiki/Graphics_processing_unit](https://en.wikipedia.org/wiki/Graphics_processing_unit)MathWorks[https://www.mathworks.com](https://www.mathworks.com/)Intel[https://en.wikipedia.org/wiki/Intel](https://en.wikipedia.org/wiki/Intel)SYCL[https://www.khronos.org/api/index_2017/sycl](https://www.khronos.org/api/index_2017/sycl)OneAPI[https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html#gs.m4jjb8](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html#gs.m4jjb8)
+**[01] 00:01:40**
 
-[02] 00:11:21 C Programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)Forth Programming Language[https://en.wikipedia.org/wiki/Forth_(programming_language)](https://en.wikipedia.org/wiki/Forth_(programming_language))APL  Programming Language[https://aplwiki.com](https://aplwiki.com/)JavaScript Programming Language[https://en.wikipedia.org/wiki/JavaScript](https://en.wikipedia.org/wiki/JavaScript)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))NumPy Library[https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/NumPy)J Programming Language[https://www.jsoftware.com/#/README](https://www.jsoftware.com/#/README)J ArrayFire add-on[https://code.jsoftware.com/wiki/Addons/math/arrayfire](https://code.jsoftware.com/wiki/Addons/math/arrayfire)Array Language Paradigm[https://en.wikipedia.org/wiki/Array_programming](https://en.wikipedia.org/wiki/Array_programming)Eric Iverson Episode #10 of the ArrayCast[https://www.arraycast.com/episodes/episode10-eric-iverson](https://www.arraycast.com/episodes/episode10-eric-iverson)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Google Scholar[https://en.wikipedia.org/wiki/Google_Scholar](https://en.wikipedia.org/wiki/Google_Scholar)
+- [Juno J on the Web](https://jsoftware.github.io/juno/app/)
+- [Dyalog APL Challenge](https://challenge.dyalog.com/)
+- [FinnAPL Spring Meeting](https://www.finnapl.fi/tapahtumat/)
+- [Aaron Hsu Episode #100 of the ArrayCast](https://www.arraycast.com/episodes/episode100-100hsu)
+- [Co-dfns compiler](https://github.com/Co-dfns/?ref=sacrideo.us)
+- [ArrayFire.com](http://arrayfire.com/)
+- [arrayfire.com](https://arrayfire.com/)
+- [ArrayFire.org](http://arrayfire.org/)
+- [arrayfire.org/docs/index.htm#gsc.tab=0](https://arrayfire.org/docs/index.htm#gsc.tab=0)
+- [OpenGL](https://www.khronos.org/opengl/wiki/)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [NVIDIA](https://en.wikipedia.org/wiki/Nvidia)
+- [CUDA](https://en.wikipedia.org/wiki/CUDA)
+- [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+- [MathWorks](https://www.mathworks.com/)
+- [Intel](https://en.wikipedia.org/wiki/Intel)
+- [SYCL](https://www.khronos.org/api/index_2017/sycl)
+- [OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html#gs.m4jjb8)
 
-[03] 00:23:28 Reduce[https://aplwiki.com/wiki/Reduce](https://aplwiki.com/wiki/Reduce)Scan[https://aplwiki.com/wiki/Scan](https://aplwiki.com/wiki/Scan)q Programming Language[https://code.kx.com/q/](https://code.kx.com/q/)Reductions in ArrayFire[https://arrayfire.org/docs/group__reduce__mat.htm#gsc.tab=0](https://arrayfire.org/docs/group__reduce__mat.htm#gsc.tab=0)
+**[02] 00:11:21**
 
-[04] 00:30:06 JIT compiling[https://en.wikipedia.org/wiki/Just-in-time_compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)JAX[https://en.wikipedia.org/wiki/JAX_(software)](https://en.wikipedia.org/wiki/JAX_(software))Rust Programming Language[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))Tensorflow Library[https://en.wikipedia.org/wiki/TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)Julia  Programming Language[https://en.wikipedia.org/wiki/Julia_(programming_language)](https://en.wikipedia.org/wiki/Julia_(programming_language))Anaconda Installer[https://en.wikipedia.org/wiki/Anaconda_(installer)](https://en.wikipedia.org/wiki/Anaconda_(installer))
+- [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Forth Programming Language](https://en.wikipedia.org/wiki/Forth_(programming_language))
+- [APL  Programming Language](https://aplwiki.com/)
+- [JavaScript Programming Language](https://en.wikipedia.org/wiki/JavaScript)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [NumPy Library](https://en.wikipedia.org/wiki/NumPy)
+- [J Programming Language](https://www.jsoftware.com/#/README)
+- [J ArrayFire add-on](https://code.jsoftware.com/wiki/Addons/math/arrayfire)
+- [Array Language Paradigm](https://en.wikipedia.org/wiki/Array_programming)
+- [Eric Iverson Episode #10 of the ArrayCast](https://www.arraycast.com/episodes/episode10-eric-iverson)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [Google Scholar](https://en.wikipedia.org/wiki/Google_Scholar)
 
-[05] 00:40:04 NVIDIA GTC[https://en.wikipedia.org/wiki/Nvidia_GTC](https://en.wikipedia.org/wiki/Nvidia_GTC)Open Source Code[https://en.wikipedia.org/wiki/Open_source](https://en.wikipedia.org/wiki/Open_source)GitHub[https://en.wikipedia.org/wiki/GitHub](https://en.wikipedia.org/wiki/GitHub)Mag 7[https://en.wikipedia.org/wiki/Big_Tech#Magnificent_Seven](https://en.wikipedia.org/wiki/Big_Tech#Magnificent_Seven)Go Programming Language[https://en.wikipedia.org/wiki/Go_(programming_language)](https://en.wikipedia.org/wiki/Go_(programming_language))Kubernetes Package Manager[https://en.wikipedia.org/wiki/Kubernetes](https://en.wikipedia.org/wiki/Kubernetes)IBM[https://en.wikipedia.org/wiki/IBM](https://en.wikipedia.org/wiki/IBM)
+**[03] 00:23:28**
 
-[06] 00:50:32 Dyalog APL Ltd.[https://www.dyalog.com](https://www.dyalog.com/)Clojure Programming Language[https://en.wikipedia.org/wiki/Clojure](https://en.wikipedia.org/wiki/Clojure)Mathematica Programming Language[https://en.wikipedia.org/wiki/Wolfram_Mathematica](https://en.wikipedia.org/wiki/Wolfram_Mathematica)k Programming Language[https://wiki.k-language.dev/wiki/Main_Page](https://wiki.k-language.dev/wiki/Main_Page)Octave Programming Language[https://en.wikipedia.org/wiki/GNU_Octave](https://en.wikipedia.org/wiki/GNU_Octave)GNU APL Programming Language[https://aplwiki.com/wiki/GNU_APL](https://aplwiki.com/wiki/GNU_APL)
+- [Reduce](https://aplwiki.com/wiki/Reduce)
+- [Scan](https://aplwiki.com/wiki/Scan)
+- [q Programming Language](https://code.kx.com/q/)
+- [Reductions in ArrayFire](https://arrayfire.org/docs/group__reduce__mat.htm#gsc.tab=0)
 
-[07] 00:58:02 ArrayFire CoLab access[https://arrayfire.com/blog/cuda-computing-on-google-colab-with-arrayfire/](https://arrayfire.com/blog/cuda-computing-on-google-colab-with-arrayfire/)ArrayFire Binaries[https://arrayfire.org/docs/index.htm#gsc.tab=0](https://arrayfire.org/docs/index.htm#gsc.tab=0)
+**[04] 00:30:06**
 
-[08] 01:02:05 Richard Branson[https://en.wikipedia.org/wiki/Richard_Branson](https://en.wikipedia.org/wiki/Richard_Branson)Crypto Currency[https://en.wikipedia.org/wiki/Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)Miguel Raz - Julia Episode #103 of the ArrayCast[https://www.arraycast.com/episodes/episode103-julia](https://www.arraycast.com/episodes/episode103-julia)Contact AT ArrayCast DOT Com
+- [JIT compiling](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+- [JAX](https://en.wikipedia.org/wiki/JAX_(software))
+- [Rust Programming Language](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [Tensorflow Library](https://en.wikipedia.org/wiki/TensorFlow)
+- [Julia  Programming Language](https://en.wikipedia.org/wiki/Julia_(programming_language))
+- [Anaconda Installer](https://en.wikipedia.org/wiki/Anaconda_(installer))
+
+**[05] 00:40:04**
+
+- [NVIDIA GTC](https://en.wikipedia.org/wiki/Nvidia_GTC)
+- [Open Source Code](https://en.wikipedia.org/wiki/Open_source)
+- [GitHub](https://en.wikipedia.org/wiki/GitHub)
+- [Mag 7](https://en.wikipedia.org/wiki/Big_Tech#Magnificent_Seven)
+- [Go Programming Language](https://en.wikipedia.org/wiki/Go_(programming_language))
+- [Kubernetes Package Manager](https://en.wikipedia.org/wiki/Kubernetes)
+- [IBM](https://en.wikipedia.org/wiki/IBM)
+
+**[06] 00:50:32**
+
+- [Dyalog APL Ltd.](https://www.dyalog.com/)
+- [Clojure Programming Language](https://en.wikipedia.org/wiki/Clojure)
+- [Mathematica Programming Language](https://en.wikipedia.org/wiki/Wolfram_Mathematica)
+- [k Programming Language](https://wiki.k-language.dev/wiki/Main_Page)
+- [Octave Programming Language](https://en.wikipedia.org/wiki/GNU_Octave)
+- [GNU APL Programming Language](https://aplwiki.com/wiki/GNU_APL)
+
+**[07] 00:58:02**
+
+- [ArrayFire CoLab access](https://arrayfire.com/blog/cuda-computing-on-google-colab-with-arrayfire/)
+- [ArrayFire Binaries](https://arrayfire.org/docs/index.htm#gsc.tab=0)
+
+**[08] 01:02:05**
+
+- [Richard Branson](https://en.wikipedia.org/wiki/Richard_Branson)
+- [Crypto Currency](https://en.wikipedia.org/wiki/Cryptocurrency)
+- [Miguel Raz - Julia Episode #103 of the ArrayCast](https://www.arraycast.com/episodes/episode103-julia)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

@@ -35,27 +35,110 @@ Implementing NARS2000The journey can be as important as the destination when you
 
 ## Show Notes
 
-Array Cast -  June 21st, 2024Show Notes
+Array Cast -  June 21st, 2024
 
 Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 
-[01] 00:02:02 APLBug meetup[https://sigapl.org/APLBUG.php](https://sigapl.org/APLBUG.php)Futhark annnouncement[https://futhark-lang.org/blog/2024-06-17-automap.html](https://futhark-lang.org/blog/2024-06-17-automap.html)Hacker News article[https://news.ycombinator.com/item?id=40704179](https://news.ycombinator.com/item?id=40704179)Futhark episode on the ArrayCast[https://www.arraycast.com/episodes/episode37-futhark](https://www.arraycast.com/episodes/episode37-futhark)BQN on GitHub[https://github.com/mlochbaum/BQN](https://github.com/mlochbaum/BQN)Codeberg[https://en.wikipedia.org/wiki/Codeberg](https://en.wikipedia.org/wiki/Codeberg)NARS2000 episode of ArrayCast[https://www.arraycast.com/episodes/episode80-nars2000](https://www.arraycast.com/episodes/episode80-nars2000)NARS2000 programming language[http://www.nars2000.org/](http://www.nars2000.org/)Bob Smith[https://aplwiki.com/wiki/Bob_Smith](https://aplwiki.com/wiki/Bob_Smith)APL Programming language[https://en.wikipedia.org/wiki/APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language))Ken Iverson[https://aplwiki.com/wiki/Ken_Iverson](https://aplwiki.com/wiki/Ken_Iverson)Adin Falkoff[https://aplwiki.com/wiki/Adin_Falkoff](https://aplwiki.com/wiki/Adin_Falkoff)Larry Breed[https://aplwiki.com/wiki/Larry_Breed](https://aplwiki.com/wiki/Larry_Breed)Dick Lathwell[https://aplwiki.com/wiki/Dick_Lathwell](https://aplwiki.com/wiki/Dick_Lathwell)Roger Moore[https://en.wikipedia.org/wiki/Roger_Moore_(computer_scientist)](https://en.wikipedia.org/wiki/Roger_Moore_(computer_scientist))Quaker consensus[https://en.wikipedia.org/wiki/Consensus_decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making)
+**[01] 00:02:02**
 
-[02] 00:09:16 Finite State Automata[https://en.wikipedia.org/wiki/Finite-state_machine](https://en.wikipedia.org/wiki/Finite-state_machine)Syntax Colouring[https://en.wikipedia.org/wiki/Syntax_highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting)Look Ahead Left Right Parser[https://en.wikipedia.org/wiki/LALR_parser](https://en.wikipedia.org/wiki/LALR_parser)YACC compiler[https://en.wikipedia.org/wiki/Yacc](https://en.wikipedia.org/wiki/Yacc)BISON compiler[https://en.wikipedia.org/wiki/GNU_Bison](https://en.wikipedia.org/wiki/GNU_Bison)Hypercomplex separators[http://www.sudleyplace.com/APL/Hypercomplex%20Notation%20in%20APL.pdf](http://www.sudleyplace.com/APL/Hypercomplex%20Notation%20in%20APL.pdf)
+- [APLBug meetup](https://sigapl.org/APLBUG.php)
+- [Futhark annnouncement](https://futhark-lang.org/blog/2024-06-17-automap.html)
+- [Hacker News article](https://news.ycombinator.com/item?id=40704179)
+- [Futhark episode on the ArrayCast](https://www.arraycast.com/episodes/episode37-futhark)
+- [BQN on GitHub](https://github.com/mlochbaum/BQN)
+- [Codeberg](https://en.wikipedia.org/wiki/Codeberg)
+- [NARS2000 episode of ArrayCast](https://www.arraycast.com/episodes/episode80-nars2000)
+- [NARS2000 programming language](http://www.nars2000.org/)
+- [Bob Smith](https://aplwiki.com/wiki/Bob_Smith)
+- [APL Programming language](https://en.wikipedia.org/wiki/APL_(programming_language))
+- [Ken Iverson](https://aplwiki.com/wiki/Ken_Iverson)
+- [Adin Falkoff](https://aplwiki.com/wiki/Adin_Falkoff)
+- [Larry Breed](https://aplwiki.com/wiki/Larry_Breed)
+- [Dick Lathwell](https://aplwiki.com/wiki/Dick_Lathwell)
+- [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore_(computer_scientist))
+- [Quaker consensus](https://en.wikipedia.org/wiki/Consensus_decision-making)
 
-[03] 00:16:28 Apl 2 by 2 Syntax Analysis by Pairwise Reduction APL84[https://dl.acm.org/doi/10.1145/384283.801081](https://dl.acm.org/doi/10.1145/384283.801081)Syntactic Parsing[https://en.wikipedia.org/wiki/Syntactic_parsing_(computational_linguistics)](https://en.wikipedia.org/wiki/Syntactic_parsing_(computational_linguistics))HyperComplex numbers papers[http://www.sudleyplace.com/APL/Hypercomplex%20Implementation%20in%20APL.pdf](http://www.sudleyplace.com/APL/Hypercomplex%20Implementation%20in%20APL.pdf)[http://www.sudleyplace.com/APL/Hypercomplex%20Numbers%20in%20APL.pdf](http://www.sudleyplace.com/APL/Hypercomplex%20Numbers%20in%20APL.pdf)Complex numbers[https://en.wikipedia.org/wiki/Complex_number](https://en.wikipedia.org/wiki/Complex_number)Quaternions[https://en.wikipedia.org/wiki/Quaternion](https://en.wikipedia.org/wiki/Quaternion)Octonions[https://en.wikipedia.org/wiki/Octonion](https://en.wikipedia.org/wiki/Octonion)Ordering property[https://en.wikipedia.org/wiki/Well-order](https://en.wikipedia.org/wiki/Well-order)Commutative Property[https://en.wikipedia.org/wiki/Commutative_property](https://en.wikipedia.org/wiki/Commutative_property)Associative Property[https://en.wikipedia.org/wiki/Associative_property](https://en.wikipedia.org/wiki/Associative_property)Gauss-Jordan Inversion[https://en.wikipedia.org/wiki/Gaussian_elimination#Finding_the_inverse_of_a_matrix](https://en.wikipedia.org/wiki/Gaussian_elimination#Finding_the_inverse_of_a_matrix)50 years of Data Structures in APL[http://www.sudleyplace.com/APL/50%20Years%20of%20APL%20Datatypes.pdf](http://www.sudleyplace.com/APL/50%20Years%20of%20APL%20Datatypes.pdf)MPIR library[https://en.wikipedia.org/wiki/MPIR_(mathematics_software)](https://en.wikipedia.org/wiki/MPIR_(mathematics_software))MPFR library[https://en.wikipedia.org/wiki/GNU_MPFR](https://en.wikipedia.org/wiki/GNU_MPFR)Interval Arithmetic[https://en.wikipedia.org/wiki/Interval_arithmetic](https://en.wikipedia.org/wiki/Interval_arithmetic)Ball Arithmetic[https://en.wikipedia.org/wiki/Interval_arithmetic](https://en.wikipedia.org/wiki/Interval_arithmetic)#Complex_interval_arithmetic
+**[02] 00:09:16**
 
-Recommended book - Validated Numerics: A Short Introduction to Rigorous Computations[https://dl.acm.org/doi/10.5555/2025241https://dl.acm.org/doi/10.5555/2025241](https://dl.acm.org/doi/10.5555/2025241https://dl.acm.org/doi/10.5555/2025241)Numerical Analysis[https://en.wikipedia.org/wiki/Numerical_analysis](https://en.wikipedia.org/wiki/Numerical_analysis)Boolean datatype[https://en.wikipedia.org/wiki/Boolean_data_type](https://en.wikipedia.org/wiki/Boolean_data_type)
+- [Finite State Automata](https://en.wikipedia.org/wiki/Finite-state_machine)
+- [Syntax Colouring](https://en.wikipedia.org/wiki/Syntax_highlighting)
+- [Look Ahead Left Right Parser](https://en.wikipedia.org/wiki/LALR_parser)
+- [YACC compiler](https://en.wikipedia.org/wiki/Yacc)
+- [BISON compiler](https://en.wikipedia.org/wiki/GNU_Bison)
+- [Hypercomplex separators](http://www.sudleyplace.com/APL/Hypercomplex%20Notation%20in%20APL.pdf)
 
-[04] 00:29:52 Sudley Place Software[http://www.sudleyplace.com](http://www.sudleyplace.com/)Bob Smith's APL papers[http://www.sudleyplace.com](http://www.sudleyplace.com/)/APL/projects.htmlREGEX[https://en.wikipedia.org/wiki/Regular_expression](https://en.wikipedia.org/wiki/Regular_expression)John Baez[https://en.wikipedia.org/wiki/John_C._Baez](https://en.wikipedia.org/wiki/John_C._Baez)John Baez Quote[https://math.ucr.edu/home/baez/octonions/node1.html](https://math.ucr.edu/home/baez/octonions/node1.html)Group Theory[https://en.wikipedia.org/wiki/Group_theory](https://en.wikipedia.org/wiki/Group_theory)Lie Groups[https://en.wikipedia.org/wiki/Lie_group](https://en.wikipedia.org/wiki/Lie_group)String theory[https://en.wikipedia.org/wiki/String_theory](https://en.wikipedia.org/wiki/String_theory)Paul Jackson episodes of the APL Campfire[https://www.youtube.com/watch?v=65HOCGnLNXk&list=PLYKQVqyrAEj91hZHbJiWOENHZP4JT8VFv](https://www.youtube.com/watch?v=65HOCGnLNXk&list=PLYKQVqyrAEj91hZHbJiWOENHZP4JT8VFv)[https://www.youtube.com/watch?v=aECx5M590u0&list=PLYKQVqyrAEj91hZHbJiWOENHZP4JT8VFv](https://www.youtube.com/watch?v=aECx5M590u0&list=PLYKQVqyrAEj91hZHbJiWOENHZP4JT8VFv)Cohl Furey and Octoniions in Quanta[https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720](https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720)J's parsing table[https://code.jsoftware.com/wiki/Help/JforC/39_Parsing_and_Execution_II](https://code.jsoftware.com/wiki/Help/JforC/39_Parsing_and_Execution_II)Roger Hui[https://en.wikipedia.org/wiki/Roger_Hui](https://en.wikipedia.org/wiki/Roger_Hui)Roger Hui Memorial episode on ArrayCast[https://www.arraycast.com/episodes/episode13-roger-hui](https://www.arraycast.com/episodes/episode13-roger-hui)
+**[03] 00:16:28**
 
-[06] 00:42:08 Singeli programming language[https://github.com/mlochbaum/Singeli/](https://github.com/mlochbaum/Singeli/)COBOL programming language[https://en.wikipedia.org/wiki/COBOL](https://en.wikipedia.org/wiki/COBOL)Fortran programming language[https://en.wikipedia.org/wiki/Fortran](https://en.wikipedia.org/wiki/Fortran)⎕FMT in APL[https://microapl.com/apl_help/ch_020_070_320.htm](https://microapl.com/apl_help/ch_020_070_320.htm)APLX[https://aplwiki.com/wiki/APLX](https://aplwiki.com/wiki/APLX)APL2[https://aplwiki.com/wiki/APL2](https://aplwiki.com/wiki/APL2)Dual-Under[https://aplwiki.com/wiki/Under](https://aplwiki.com/wiki/Under)Jim Brown[https://aplwiki.com/wiki/Jim_Brown](https://aplwiki.com/wiki/Jim_Brown)Uiua programming language[https://www.uiua.org/](https://www.uiua.org/)Continued fractions[https://en.wikipedia.org/wiki/Continued_fraction](https://en.wikipedia.org/wiki/Continued_fraction)
+- [Apl 2 by 2 Syntax Analysis by Pairwise Reduction APL84](https://dl.acm.org/doi/10.1145/384283.801081)
+- [Syntactic Parsing](https://en.wikipedia.org/wiki/Syntactic_parsing_(computational_linguistics))
+- [HyperComplex numbers papers](http://www.sudleyplace.com/APL/Hypercomplex%20Implementation%20in%20APL.pdf)
+- [sudleyplace.com/APL/Hypercomplex%20Numbers%20in%20APL.pdf](http://www.sudleyplace.com/APL/Hypercomplex%20Numbers%20in%20APL.pdf)
+- [Complex numbers](https://en.wikipedia.org/wiki/Complex_number)
+- [Quaternions](https://en.wikipedia.org/wiki/Quaternion)
+- [Octonions](https://en.wikipedia.org/wiki/Octonion)
+- [Ordering property](https://en.wikipedia.org/wiki/Well-order)
+- [Commutative Property](https://en.wikipedia.org/wiki/Commutative_property)
+- [Associative Property](https://en.wikipedia.org/wiki/Associative_property)
+- [Gauss-Jordan Inversion](https://en.wikipedia.org/wiki/Gaussian_elimination#Finding_the_inverse_of_a_matrix)
+- [50 years of Data Structures in APL](http://www.sudleyplace.com/APL/50%20Years%20of%20APL%20Datatypes.pdf)
+- [MPIR library](https://en.wikipedia.org/wiki/MPIR_(mathematics_software))
+- [MPFR library](https://en.wikipedia.org/wiki/GNU_MPFR)
+- [Interval Arithmetic](https://en.wikipedia.org/wiki/Interval_arithmetic)
+- [Ball Arithmetic](https://en.wikipedia.org/wiki/Interval_arithmetic)
+- #Complex_interval_arithmetic
 
-[07] 01:00:09 I programming language[https://aplwiki.com/wiki/I](https://aplwiki.com/wiki/I)Total Array Ordering[https://aplwiki.com/wiki/Total_array_ordering](https://aplwiki.com/wiki/Total_array_ordering)
+- [Recommended book - Validated Numerics: A Short Introduction to Rigorous Computations](https://dl.acm.org/doi/10.5555/2025241https://dl.acm.org/doi/10.5555/2025241)
+- [Numerical Analysis](https://en.wikipedia.org/wiki/Numerical_analysis)
+- [Boolean datatype](https://en.wikipedia.org/wiki/Boolean_data_type)
 
-[08] 01:08:51 Dual operator[https://en.wikipedia.org/wiki/Duality_(mathematics)](https://en.wikipedia.org/wiki/Duality_(mathematics))Commutator operator[https://en.wikipedia.org/wiki/Commutator](https://en.wikipedia.org/wiki/Commutator)Rubik's Cube[https://en.wikipedia.org/wiki/Rubik%27s_Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube)Boolean paper[http://www.sudleyplace.com/APL/boolean.pdf](http://www.sudleyplace.com/APL/boolean.pdf)
+**[04] 00:29:52**
 
-[09] 01:13:16 Diophantine Equations[https://en.wikipedia.org/wiki/Diophantine_equation](https://en.wikipedia.org/wiki/Diophantine_equation)QR Decompositions[https://en.wikipedia.org/wiki/QR_decomposition](https://en.wikipedia.org/wiki/QR_decomposition)Eigenvalues and Eigenvectors[https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)Contact AT ArrayCast DOT Com
+- [Sudley Place Software](http://www.sudleyplace.com/)
+- [Bob Smith's APL papers](http://www.sudleyplace.com/)
+- [/APL/projects.htmlREGEX](https://en.wikipedia.org/wiki/Regular_expression)
+- [John Baez](https://en.wikipedia.org/wiki/John_C._Baez)
+- [John Baez Quote](https://math.ucr.edu/home/baez/octonions/node1.html)
+- [Group Theory](https://en.wikipedia.org/wiki/Group_theory)
+- [Lie Groups](https://en.wikipedia.org/wiki/Lie_group)
+- [String theory](https://en.wikipedia.org/wiki/String_theory)
+- [Paul Jackson episodes of the APL Campfire](https://www.youtube.com/watch?v=65HOCGnLNXk&list=PLYKQVqyrAEj91hZHbJiWOENHZP4JT8VFv)
+- [youtube.com/watch?v=aECx5M590u0&list=PLYKQVqyrAEj91hZHbJiWOENHZP4JT8VFv](https://www.youtube.com/watch?v=aECx5M590u0&list=PLYKQVqyrAEj91hZHbJiWOENHZP4JT8VFv)
+- [Cohl Furey and Octoniions in Quanta](https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720)
+- [J's parsing table](https://code.jsoftware.com/wiki/Help/JforC/39_Parsing_and_Execution_II)
+- [Roger Hui](https://en.wikipedia.org/wiki/Roger_Hui)
+- [Roger Hui Memorial episode on ArrayCast](https://www.arraycast.com/episodes/episode13-roger-hui)
+
+**[06] 00:42:08**
+
+- [Singeli programming language](https://github.com/mlochbaum/Singeli/)
+- [COBOL programming language](https://en.wikipedia.org/wiki/COBOL)
+- [Fortran programming language](https://en.wikipedia.org/wiki/Fortran)
+- [⎕FMT in APL](https://microapl.com/apl_help/ch_020_070_320.htm)
+- [APLX](https://aplwiki.com/wiki/APLX)
+- [APL2](https://aplwiki.com/wiki/APL2)
+- [Dual-Under](https://aplwiki.com/wiki/Under)
+- [Jim Brown](https://aplwiki.com/wiki/Jim_Brown)
+- [Uiua programming language](https://www.uiua.org/)
+- [Continued fractions](https://en.wikipedia.org/wiki/Continued_fraction)
+
+**[07] 01:00:09**
+
+- [I programming language](https://aplwiki.com/wiki/I)
+- [Total Array Ordering](https://aplwiki.com/wiki/Total_array_ordering)
+
+**[08] 01:08:51**
+
+- [Dual operator](https://en.wikipedia.org/wiki/Duality_(mathematics))
+- [Commutator operator](https://en.wikipedia.org/wiki/Commutator)
+- [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
+- [Boolean paper](http://www.sudleyplace.com/APL/boolean.pdf)
+
+**[09] 01:13:16**
+
+- [Diophantine Equations](https://en.wikipedia.org/wiki/Diophantine_equation)
+- [QR Decompositions](https://en.wikipedia.org/wiki/QR_decomposition)
+- [Eigenvalues and Eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

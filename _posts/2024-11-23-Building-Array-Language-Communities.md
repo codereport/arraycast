@@ -30,11 +30,97 @@ A discussion about the challenges and approaches to trying to build Array langua
 
 ## Show Notes
 
-Array Cast -  November 22, 2024Show Notes
+Array Cast -  November 22, 2024
 
 Thanks to Bob Therriault and Marshall Lochbaum for gathering these links:
 
-[01] 00:01:40 Blog posters on BQN Community page[[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)community/index.html]([https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)community/index.html)Tony Zorman New Blog AOC 2017[https://tony-zorman.com/tags/BQN.html](https://tony-zorman.com/tags/BQN.html)Dyalog 24 videos[https://www.youtube.com/user/DyalogConference](https://www.youtube.com/user/DyalogConference)LambdaWorld 2024[https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)Conor's talk[https://www.youtube.com/watch?v=W7fjzdEJnvY](https://www.youtube.com/watch?v=W7fjzdEJnvY)Stephen's talk[https://www.youtube.com/watch?v=dbXH6Bmr6NA](https://www.youtube.com/watch?v=dbXH6Bmr6NA)Advent of Code[https://en.wikipedia.org/wiki/Advent_of_Code](https://en.wikipedia.org/wiki/Advent_of_Code)ShareMyScreen[https://code.jsoftware.com/wiki/ShareMyScreen](https://code.jsoftware.com/wiki/ShareMyScreen)J Wiki[https://code.jsoftware.com/wiki/Main_Page](https://code.jsoftware.com/wiki/Main_Page)Prototype of New J Wiki[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)J Playground[https://jsoftware.github.io/j-playground/bin/html2/](https://jsoftware.github.io/j-playground/bin/html2/)TryAPL[https://tryapl.org](https://tryapl.org/)BQNPad[https://bqnpad.mechanize.systems](https://bqnpad.mechanize.systems/)UiuaPad[https://www.uiua.org/pad?src=0_14_0-dev_2__](https://www.uiua.org/pad?src=0_14_0-dev_2__)[02] 00:12:45 Reverse in BQN[[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/reverse.html]([https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/reverse.html)Transpose in BQN[[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/transpose.html]([https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/transpose.html)BQNCrate[https://mlochbaum.github.io/bqncrate/](https://mlochbaum.github.io/bqncrate/)tinyapl Programming Language[https://github.com/RubenVerg/tinyapl/blob/main/README.md](https://github.com/RubenVerg/tinyapl/blob/main/README.md)Goal[[[https://aplwiki.com](https://aplwiki.com/)]([https://aplwiki.com](https://aplwiki.com/)/)/wiki/Goal]([[https://aplwiki.com](https://aplwiki.com/)]([https://aplwiki.com](https://aplwiki.com/)/)/wiki/Goal)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Uiua Programming Language[[[https://aplwiki.com](https://aplwiki.com/)]([https://aplwiki.com](https://aplwiki.com/)/)/wiki/Uiua]([[https://aplwiki.com](https://aplwiki.com/)]([https://aplwiki.com](https://aplwiki.com/)/)/wiki/Uiua)Madeline Vergani Episode[https://www.arraycast.com/episodes/episode88-tinyapl](https://www.arraycast.com/episodes/episode88-tinyapl)J Viewer[https://code.jsoftware.com/wiki/J_Viewer](https://code.jsoftware.com/wiki/J_Viewer)J Wiki Meeting minutes[https://code.jsoftware.com/wiki/Wiki_Development](https://code.jsoftware.com/wiki/Wiki_Development)[03] 00:23:50 APL Wiki[[https://aplwiki.com](https://aplwiki.com/)]([https://aplwiki.com](https://aplwiki.com/)/)APL Programming Language[[https://aplwiki.com](https://aplwiki.com/)]([https://aplwiki.com](https://aplwiki.com/)/)APL3000[[https://aplwiki.com](https://aplwiki.com/)]([https://aplwiki.com](https://aplwiki.com/)/)/wiki/APL%5C3000[04] 00:31:10 J Forums[https://code.jsoftware.com/wiki/System/Forum](https://code.jsoftware.com/wiki/System/Forum)J 9.6 Beta[https://code.jsoftware.com/wiki/System/Installation#J9.6_BETA](https://code.jsoftware.com/wiki/System/Installation#J9.6_BETA)Fold in J[https://code.jsoftware.com/wiki/Vocabulary/fcap](https://code.jsoftware.com/wiki/Vocabulary/fcap)[05] 00:37:48 Code_Report Videos[https://www.youtube.com/c/codereport](https://www.youtube.com/c/codereport)LeetCode[https://leetcode.com](https://leetcode.com/)Start Coding in Seconds[https://www.youtube.com/watch?v=jZMMkOvvPT0](https://www.youtube.com/watch?v=jZMMkOvvPT0)Rust Programming[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))C++ programming[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)ADSP podcast[https://adspthepodcast.com](https://adspthepodcast.com/)Tacit Talk[https://www.youtube.com/watch?v=az0yrnTjpWM&list=PLVFrD1dmDdvenJhYti3HomLRkC4_Y9AXA](https://www.youtube.com/watch?v=az0yrnTjpWM&list=PLVFrD1dmDdvenJhYti3HomLRkC4_Y9AXA)Elias Martenson episode[https://www.arraycast.com/episodes/episode72-kap](https://www.arraycast.com/episodes/episode72-kap)Django[https://en.wikipedia.org/wiki/Django_(web_framework)](https://en.wikipedia.org/wiki/Django_(web_framework))Dyalog APL[ttps://www.dyalog.com](ttps://www.dyalog.com)CPPCast[https://cppcast.com](https://cppcast.com/)[06] 00:54:14 BQN forums[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)community/forums.htmlSocial Blade[https://socialblade.com](https://socialblade.com/)ProgLangCast[https://www.youtube.com/playlist?list=PLeC-4KM2-YJekeunVyJrE0iuXeCCJ8I5D](https://www.youtube.com/playlist?list=PLeC-4KM2-YJekeunVyJrE0iuXeCCJ8I5D)LambdaCast Podcast[https://soundcloud.com/lambda-cast](https://soundcloud.com/lambda-cast)Type Theory Forall podcast[https://www.typetheoryforall.com](https://www.typetheoryforall.com/)Haskell programming language[https://en.wikipedia.org/wiki/Haskell](https://en.wikipedia.org/wiki/Haskell)[07] 01:05:18 March on Armonk[[https://aplwiki.com](https://aplwiki.com/)]([https://aplwiki.com](https://aplwiki.com/)/)/wiki/APL_conference#1969SIGAPL[[https://aplwiki.com](https://aplwiki.com/)]([https://aplwiki.com](https://aplwiki.com/)/)/wiki/SIGAPLAlan Perlis[https://en.wikipedia.org/wiki/Alan_Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)Smalltalk[https://en.wikipedia.org/wiki/Smalltalk](https://en.wikipedia.org/wiki/Smalltalk)Arthur Whitney Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))Roger Hui[https://en.wikipedia.org/wiki/Roger_Hui](https://en.wikipedia.org/wiki/Roger_Hui)Hacker news[https://news.ycombinator.com](https://news.ycombinator.com/)Edsgar Dijkstra[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)Dijkstra's Conference notes[https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD847.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD847.html)[08] 01:14:05 Ken Iverson episode[https://www.arraycast.com/episodes/episode92-iverson](https://www.arraycast.com/episodes/episode92-iverson)Whitney Smith - Wild Culture[https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture](https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture)Contact AT ArrayCast DOT ComArrayCast Youtube Channel[https://www.youtube.com/@arraycast](https://www.youtube.com/@arraycast)
+**[01] 00:01:40**
+
+- [Blog posters on BQN Community page](https://mlochbaum.github.io/BQN//community/index.html)
+- [Tony Zorman New Blog AOC 2017](https://tony-zorman.com/tags/BQN.html)
+- [Dyalog 24 videos](https://www.youtube.com/user/DyalogConference)
+- [LambdaWorld 2024](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
+- [Conor's talk](https://www.youtube.com/watch?v=W7fjzdEJnvY)
+- [Stephen's talk](https://www.youtube.com/watch?v=dbXH6Bmr6NA)
+- [Advent of Code](https://en.wikipedia.org/wiki/Advent_of_Code)
+- [ShareMyScreen](https://code.jsoftware.com/wiki/ShareMyScreen)
+- [J Wiki](https://code.jsoftware.com/wiki/Main_Page)
+- [Prototype of New J Wiki](https://code.jsoftware.com/wiki/Category:Home)
+- [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
+- [TryAPL](https://tryapl.org/)
+- [BQNPad](https://bqnpad.mechanize.systems/)
+- [UiuaPad](https://www.uiua.org/pad?src=0_14_0-dev_2__)
+
+**[02] 00:12:45**
+
+- [Reverse in BQN](https://mlochbaum.github.io/BQN/)
+- doc/reverse.html)
+- [Transpose in BQN](https://mlochbaum.github.io/BQN//doc/transpose.html)
+- [BQNCrate](https://mlochbaum.github.io/bqncrate/)
+- [tinyapl Programming Language](https://github.com/RubenVerg/tinyapl/blob/main/README.md)
+- [Goal](https://aplwiki.com//)/wiki/Goal)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [Uiua Programming Language](https://aplwiki.com//)/wiki/Uiua)
+- [Madeline Vergani Episode](https://www.arraycast.com/episodes/episode88-tinyapl)
+- [J Viewer](https://code.jsoftware.com/wiki/J_Viewer)
+- [J Wiki Meeting minutes](https://code.jsoftware.com/wiki/Wiki_Development)
+
+**[03] 00:23:50**
+
+- [APL Wiki](https://aplwiki.com/)
+
+- [APL Programming Language](https://aplwiki.com)
+- [APL3000](https://aplwiki.com)
+- [/wiki/APL%5C3000](https://code.jsoftware.com/wiki/System/Forum)
+
+**[04] 00:31:10**
+
+- J Forums
+- [J 9.6 Beta](https://code.jsoftware.com/wiki/System/Installation#J9.6_BETA)
+- [Fold in J](https://code.jsoftware.com/wiki/Vocabulary/fcap)
+
+**[05] 00:37:48**
+
+- [Code_Report Videos](https://www.youtube.com/c/codereport)
+- [LeetCode](https://leetcode.com/)
+- [Start Coding in Seconds](https://www.youtube.com/watch?v=jZMMkOvvPT0)
+- [Rust Programming](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [C++ programming](https://en.wikipedia.org/wiki/C%2B%2B)
+- [ADSP podcast](https://adspthepodcast.com/)
+- [Tacit Talk](https://www.youtube.com/watch?v=az0yrnTjpWM&list=PLVFrD1dmDdvenJhYti3HomLRkC4_Y9AXA)
+- [Elias Martenson episode](https://www.arraycast.com/episodes/episode72-kap)
+- [Django](https://en.wikipedia.org/wiki/Django_(web_framework))
+- [Dyalog APL](ttps://www.dyalog.com)
+- [CPPCast](https://cppcast.com/)
+
+**[06] 00:54:14**
+
+- [BQN forums](https://mlochbaum.github.io/BQN/)
+- [community/forums.htmlSocial Blade](https://socialblade.com/)
+- [ProgLangCast](https://www.youtube.com/playlist?list=PLeC-4KM2-YJekeunVyJrE0iuXeCCJ8I5D)
+- [LambdaCast Podcast](https://soundcloud.com/lambda-cast)
+- [Type Theory Forall podcast](https://www.typetheoryforall.com/)
+- [Haskell programming language](https://en.wikipedia.org/wiki/Haskell)
+
+**[07] 01:05:18**
+
+- [March on Armonk](https://aplwiki.com/)
+
+- [/wiki/APL_conference#1969SIGAPL](https://aplwiki.com)
+- [/wiki/SIGAPLAlan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+- [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk)
+- [Arthur Whitney Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [Roger Hui](https://en.wikipedia.org/wiki/Roger_Hui)
+- [Hacker news](https://news.ycombinator.com/)
+- [Edsgar Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+- [Dijkstra's Conference notes](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD847.html)
+
+**[08] 01:14:05**
+
+- [Ken Iverson episode](https://www.arraycast.com/episodes/episode92-iverson)
+- [Whitney Smith - Wild Culture](https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture)
+- [Contact AT ArrayCast DOT ComArrayCast Youtube Channel](https://www.youtube.com/@arraycast)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

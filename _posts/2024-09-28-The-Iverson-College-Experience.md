@@ -31,27 +31,80 @@ Participants of the 2024 Iverson College reflect.https://www.arraycast.com/episo
 
 ## Show Notes
 
-Array Cast -  September 27, 2024Show Notes
+Array Cast -  September 27, 2024
 
 Thanks to Bob Therriault for gathering these links:
 
-[01] 00:01:55 Iverson College[https://iversoncollege.com](https://iversoncollege.com/)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Aldus Manutius[https://en.wikipedia.org/wiki/Aldus_Manutius](https://en.wikipedia.org/wiki/Aldus_Manutius)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))Trinity Hall Cambridge[https://en.wikipedia.org/wiki/Trinity_Hall,_Cambridge](https://en.wikipedia.org/wiki/Trinity_Hall,_Cambridge)St. Edmund Hall Oxford[https://en.wikipedia.org/wiki/St_Edmund_Hall,_Oxford](https://en.wikipedia.org/wiki/St_Edmund_Hall,_Oxford)Suffolk Farm[https://iversoncollege.com](https://iversoncollege.com/)/milden-hall-2018/
+**[01] 00:01:55**
 
-[02] 00:09:50 The ArrayCast podcast[https://www.arraycast.com](https://www.arraycast.com/)Kai Schmidt Episode 77 on ArrayCast[https://www.arraycast.com](https://www.arraycast.com/)/episodes/episode77-uiuaKai Schmidt Episode 63 on ArrayCast[https://www.arraycast.com](https://www.arraycast.com/)/episodes/episode63-uiuaBrian Ellingsgaard Episode 68 on ArrayCast[https://www.arraycast.com](https://www.arraycast.com/)/episodes/episode68-brian-ellingsgaardRayLib APL[https://www.dyalog.com/user-meetings/dyalog24/presentations.htm](https://www.dyalog.com/user-meetings/dyalog24/presentations.htm)Kamila  Episode 74 on ArrayCast[https://www.arraycast.com](https://www.arraycast.com/)/episodes/episode74-kamilalispKamila's presentation at LambdaWorld[https://lambda.world/speakers/?speaker=Kamila%20Szewczyk](https://lambda.world/speakers/?speaker=Kamila%20Szewczyk)
+- [Iverson College](https://iversoncollege.com/)
+- [APL Programming Language](https://aplwiki.com/)
+- [Aldus Manutius](https://en.wikipedia.org/wiki/Aldus_Manutius)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [Trinity Hall Cambridge](https://en.wikipedia.org/wiki/Trinity_Hall,_Cambridge)
+- [St. Edmund Hall Oxford](https://en.wikipedia.org/wiki/St_Edmund_Hall,_Oxford)
+- [Suffolk Farm](https://iversoncollege.com/)
 
-[03] 00:21:50 Alex Unterrainer's blog[https://www.defconq.tech](https://www.defconq.tech/)Iverson College Episode 87 on ArrayCast[https://www.arraycast.com/episodes/episode87-iversonsession](https://www.arraycast.com/episodes/episode87-iversonsession)q Programming Language[https://en.wikipedia.org](https://en.wikipedia.org/)/wiki/Q_(programming_language_from_Kx_Systems)k Programming Language[https://en.wikipedia.org](https://en.wikipedia.org/)/wiki/K_(programming_language)J Programming Language[https://en.wikipedia.org](https://en.wikipedia.org/)/wiki/J_(programming_language)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Uiua Programming Language[https://aplwiki.com/wiki/Uiua](https://aplwiki.com/wiki/Uiua)Data Intellect[https://dataintellect.com](https://dataintellect.com/)Data Intellect BootCamp[https://dataintellect.com](https://dataintellect.com/)/solutions/our-services/kdb-training/classroom-training/[q201.org](http://q201.org/)https://[q201.org](http://q201.org/)[KX.com](http://kx.com/)[https://kx.com](https://kx.com/)New York City J User's Group NYCJUG[https://code.jsoftware.com/wiki/NYCJUG](https://code.jsoftware.com/wiki/NYCJUG)Hope Conference 2024[https://hope.net](https://hope.net/)Past NYCJUG Meetings[https://code.jsoftware.com/wiki/NYCJUG](https://code.jsoftware.com/wiki/NYCJUG)#Notes_on_Past_Meetings
+**[02] 00:09:50**
 
-[04] 00:34:00 Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)Aaron Hsu Episode 19 on ArrayCast[https://www.arraycast.com/episodes/episode19-aaron-hsu](https://www.arraycast.com/episodes/episode19-aaron-hsu)
+- [The ArrayCast podcast](https://www.arraycast.com/)
+- [Kai Schmidt Episode 77 on ArrayCast](https://www.arraycast.com/)
+- [/episodes/episode77-uiuaKai Schmidt Episode 63 on ArrayCast](https://www.arraycast.com/)
+- [/episodes/episode63-uiuaBrian Ellingsgaard Episode 68 on ArrayCast](https://www.arraycast.com/)
+- [/episodes/episode68-brian-ellingsgaardRayLib APL](https://www.dyalog.com/user-meetings/dyalog24/presentations.htm)
+- [Kamila  Episode 74 on ArrayCast](https://www.arraycast.com/)
+- [/episodes/episode74-kamilalispKamila's presentation at LambdaWorld](https://lambda.world/speakers/?speaker=Kamila%20Szewczyk)
 
-[05] 00:42:08 Brandon Wilson Yaml Presentation[https://www.youtube.com/watch?v=bb6sIAJjMeM](https://www.youtube.com/watch?v=bb6sIAJjMeM)Co-dfns Compiler[https://scholarworks.iu.edu/dspace/items/3ab772c9-92c9-4f59-bd95-40aff99e8c7a](https://scholarworks.iu.edu/dspace/items/3ab772c9-92c9-4f59-bd95-40aff99e8c7a)Morten Kromberg Episode 21 on ArrayCast[https://www.arraycast.com/episodes/episode21-morten-kromberg](https://www.arraycast.com/episodes/episode21-morten-kromberg)Christ's College Cambridge[https://en.wikipedia.org/wiki/Christ%27s_College,_Cambridge](https://en.wikipedia.org/wiki/Christ%27s_College,_Cambridge)
+**[03] 00:21:50**
 
-[06] 00:49:20 Combinators[https://combinatorylogic.com](https://combinatorylogic.com/)APEX Compiler[https://www.academia.edu/81780487/An_Overview_of_the_APEX_Compiler](https://www.academia.edu/81780487/An_Overview_of_the_APEX_Compiler)
+- [Alex Unterrainer's blog](https://www.defconq.tech/)
+- [Iverson College Episode 87 on ArrayCast](https://www.arraycast.com/episodes/episode87-iversonsession)
+- [q Programming Language](https://en.wikipedia.org/)
+- [/wiki/Q_(programming_language_from_Kx_Systems)k Programming Language](https://en.wikipedia.org/)
+- [/wiki/K_(programming_language)J Programming Language](https://en.wikipedia.org/)
+- [/wiki/J_(programming_language)BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [Uiua Programming Language](https://aplwiki.com/wiki/Uiua)
+- [Data Intellect](https://dataintellect.com/)
+- [Data Intellect BootCamp](https://dataintellect.com/)
+- [/solutions/our-services/kdb-training/classroom-training/](http://q201.org/)
+- [q201.org/](http://q201.org/)
+- [KX.com](http://kx.com/)
+- [kx.com](https://kx.com/)
+- [New York City J User's Group NYCJUG](https://code.jsoftware.com/wiki/NYCJUG)
+- [Hope Conference 2024](https://hope.net/)
+- [Past NYCJUG Meetings](https://code.jsoftware.com/wiki/NYCJUG)
+- #Notes_on_Past_Meetings
 
-[07] 00:58:11 APL Orchard[https://aplwiki.com/wiki/APL_Orchard](https://aplwiki.com/wiki/APL_Orchard)
+**[04] 00:34:00**
 
-[08] 01:01:10 ADSP # 196 Aaron Hsu[https://adspthepodcast.com/2024/08/23/Episode-196.html](https://adspthepodcast.com/2024/08/23/Episode-196.html)ADSP # 197 Aaron Hsu[https://adspthepodcast.com/2024/08/30/Episode-197.html](https://adspthepodcast.com/2024/08/30/Episode-197.html)
+- [Dyalog APL](https://www.dyalog.com/)
+- [Aaron Hsu Episode 19 on ArrayCast](https://www.arraycast.com/episodes/episode19-aaron-hsu)
 
-[09] 01:10:54 Westwood Lake[https://www.nanaimo.ca/parks-search/Parks/32-Westwood-Lake-Park](https://www.nanaimo.ca/parks-search/Parks/32-Westwood-Lake-Park)Contact AT ArrayCast DOT Com
+**[05] 00:42:08**
+
+- [Brandon Wilson Yaml Presentation](https://www.youtube.com/watch?v=bb6sIAJjMeM)
+- [Co-dfns Compiler](https://scholarworks.iu.edu/dspace/items/3ab772c9-92c9-4f59-bd95-40aff99e8c7a)
+- [Morten Kromberg Episode 21 on ArrayCast](https://www.arraycast.com/episodes/episode21-morten-kromberg)
+- [Christ's College Cambridge](https://en.wikipedia.org/wiki/Christ%27s_College,_Cambridge)
+
+**[06] 00:49:20**
+
+- [Combinators](https://combinatorylogic.com/)
+- [APEX Compiler](https://www.academia.edu/81780487/An_Overview_of_the_APEX_Compiler)
+
+**[07] 00:58:11**
+
+- [APL Orchard](https://aplwiki.com/wiki/APL_Orchard)
+
+**[08] 01:01:10**
+
+- [ADSP # 196 Aaron Hsu](https://adspthepodcast.com/2024/08/23/Episode-196.html)
+- [ADSP # 197 Aaron Hsu](https://adspthepodcast.com/2024/08/30/Episode-197.html)
+
+**[09] 01:10:54**
+
+- [Westwood Lake](https://www.nanaimo.ca/parks-search/Parks/32-Westwood-Lake-Park)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

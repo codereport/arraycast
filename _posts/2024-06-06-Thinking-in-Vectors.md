@@ -30,27 +30,88 @@ Thinking in VectorsStephen is delivering a talk on how to think in vectors and w
 
 ## Show Notes
 
-Array Cast -  June 7th, 2024Show Notes
+Array Cast -  June 7th, 2024
 
 Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 
-Iverson College Warden[warden@iversoncollege.com](mailto:warden@iversoncollege.com)[[q201.org]([http://q201.org/](http://q201.org/))](http://[q201.org]([http://q201.org/](http://q201.org/))/)meetup and workshop in Madrid[https://www.meetup.com/everything-everywhere-all-with-kdb-q/](https://www.meetup.com/everything-everywhere-all-with-kdb-q/)[[q201.org]([http://q201.org/](http://q201.org/))](http://[q201.org]([http://q201.org/](http://q201.org/))/)http://[[q201.org]([http://q201.org/](http://q201.org/))](http://[q201.org]([http://q201.org/](http://q201.org/))/)/q Workshop in London[dean@iversoncollege.com](mailto:dean@iversoncollege.com)APL Forge[https://forge.dyalog.com/](https://forge.dyalog.com/)Tacit Talk with Marshall Lochbaum[https://www.youtube.com/watch?v=uJUXcPmZJPQ](https://www.youtube.com/watch?v=uJUXcPmZJPQ)
+- [Iverson College Warden](mailto:warden@iversoncollege.com)
+- [q201.org](http://[q201.org](http://q201.org/)/)
+- [meetup and workshop in Madrid](https://www.meetup.com/everything-everywhere-all-with-kdb-q/)
+- [q201.org](http://[q201.org](http://q201.org/)/)
+- [q201.org](http://q201.org/)
+- [/q Workshop in London](mailto:dean@iversoncollege.com)
+- [APL Forge](https://forge.dyalog.com/)
+- [Tacit Talk with Marshall Lochbaum](https://www.youtube.com/watch?v=uJUXcPmZJPQ)
 
-[02] 00:10:16 JavaScript programming language[https://en.wikipedia.org/wiki/Javascript](https://en.wikipedia.org/wiki/Javascript)Python programming language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))Java programming language[https://en.wikipedia.org/wiki/Java_programming](https://en.wikipedia.org/wiki/Java_programming)APL programming language[https://en.wikipedia.org/wiki/APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language))[TryAPL.org](http://tryapl.org/)[https://tryapl.org/](https://tryapl.org/)NumPy package[https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/NumPy)
+**[02] 00:10:16**
 
-[03] 00:16:00 Excel spreadsheet[https://en.wikipedia.org/wiki/Microsoft_Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)VSCode[https://en.wikipedia.org/wiki/VScode](https://en.wikipedia.org/wiki/VScode)Visual Basic Applications[https://en.wikipedia.org/wiki/Visual_Basic_for_Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications)C++ programming language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)Haskell programming language[https://en.wikipedia.org/wiki/Haskell](https://en.wikipedia.org/wiki/Haskell)Collection Oriented programming[https://www.cs.cmu.edu/~guyb/papers/collections.pdf](https://www.cs.cmu.edu/~guyb/papers/collections.pdf)SQL database[https://en.wikipedia.org/wiki/SQL](https://en.wikipedia.org/wiki/SQL)Minnowbrook conference[https://aplwiki.com/wiki/APL_Implementer%27s_Workshop](https://aplwiki.com/wiki/APL_Implementer%27s_Workshop)APL reverse compose[https://aplwiki.com/wiki/Reverse_Compose](https://aplwiki.com/wiki/Reverse_Compose)BQN programming language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Before and After in BQN[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/hook.htmlJello programming language[https://github.com/codereport/jello](https://github.com/codereport/jello)KAP programming language[https://kapdemo.dhsdevelopments.com/](https://kapdemo.dhsdevelopments.com/)KAP episode on ArrayCast[https://www.arraycast.com/episodes/episode72-kap](https://www.arraycast.com/episodes/episode72-kap)Uiua programming language[https://www.uiua.org/](https://www.uiua.org/)Uiua #1 episode on ArrayCast[https://www.arraycast.com/episodes/episode63-uiua](https://www.arraycast.com/episodes/episode63-uiua)Uiua #2 episode on ArrayCast[https://www.arraycast.com/episodes/episode77-uiua](https://www.arraycast.com/episodes/episode77-uiua)Combinators[https://en.wikipedia.org/wiki/Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)J programming language[https://en.wikipedia.org/wiki/J_(programming_language)](https://en.wikipedia.org/wiki/J_(programming_language))
+- [JavaScript programming language](https://en.wikipedia.org/wiki/Javascript)
+- [Python programming language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Java programming language](https://en.wikipedia.org/wiki/Java_programming)
+- [APL programming language](https://en.wikipedia.org/wiki/APL_(programming_language))
+- [TryAPL.org](http://tryapl.org/)
+- [tryapl.org](https://tryapl.org/)
+- [NumPy package](https://en.wikipedia.org/wiki/NumPy)
 
-[04] 00:31:20 Codegolf[https://code.golf/](https://code.golf/)q programming language[https://code.kx.com/q/ref/](https://code.kx.com/q/ref/)k programming language[https://aplwiki.com/wiki/K](https://aplwiki.com/wiki/K)Differ in q[https://code.kx.com/q/ref/](https://code.kx.com/q/ref/)differ/Stevan Apter episode on ArrayCast[https://www.arraycast.com/episodes/episode26-stevan-apter](https://www.arraycast.com/episodes/episode26-stevan-apter)Jelly programming language[https://github.com/DennisMitchell/jellylanguage](https://github.com/DennisMitchell/jellylanguage)Unicode[https://en.wikipedia.org/wiki/Unicode](https://en.wikipedia.org/wiki/Unicode)Mathematica programming language[https://en.wikipedia.org/wiki/Wolfram_Mathematica](https://en.wikipedia.org/wiki/Wolfram_Mathematica)
+**[03] 00:16:00**
 
-[05] 00:40:17 Totient function[https://en.wikipedia.org/wiki/Euler%27s_totient_function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)Stencil in APL[https://aplwiki.com/wiki/Stencil](https://aplwiki.com/wiki/Stencil)C programming language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))Partition in APL[https://aplwiki.com/wiki/Partition](https://aplwiki.com/wiki/Partition)APL Partitioned Enclose[https://aplwiki.com/wiki/Partition](https://aplwiki.com/wiki/Partition)ed_Enclose#Non-Boolean_left_argument
+- [Excel spreadsheet](https://en.wikipedia.org/wiki/Microsoft_Excel)
+- [VSCode](https://en.wikipedia.org/wiki/VScode)
+- [Visual Basic Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications)
+- [C++ programming language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Haskell programming language](https://en.wikipedia.org/wiki/Haskell)
+- [Collection Oriented programming](https://www.cs.cmu.edu/~guyb/papers/collections.pdf)
+- [SQL database](https://en.wikipedia.org/wiki/SQL)
+- [Minnowbrook conference](https://aplwiki.com/wiki/APL_Implementer%27s_Workshop)
+- [APL reverse compose](https://aplwiki.com/wiki/Reverse_Compose)
+- [BQN programming language](https://mlochbaum.github.io/BQN/)
+- [Before and After in BQN](https://mlochbaum.github.io/BQN/)
+- [doc/hook.htmlJello programming language](https://github.com/codereport/jello)
+- [KAP programming language](https://kapdemo.dhsdevelopments.com/)
+- [KAP episode on ArrayCast](https://www.arraycast.com/episodes/episode72-kap)
+- [Uiua programming language](https://www.uiua.org/)
+- [Uiua #1 episode on ArrayCast](https://www.arraycast.com/episodes/episode63-uiua)
+- [Uiua #2 episode on ArrayCast](https://www.arraycast.com/episodes/episode77-uiua)
+- [Combinators](https://en.wikipedia.org/wiki/Combinatorics)
+- [J programming language](https://en.wikipedia.org/wiki/J_(programming_language))
 
-[06] 00:50:16 Jef Raskin[https://en.wikipedia.org/wiki/Jef_Raskin](https://en.wikipedia.org/wiki/Jef_Raskin)Jef Raskin paper[https://bitsavers.org/pdf/apple/mac/The_Macintosh_Project_Selected_Papers_Feb80.pdf#page=47](https://bitsavers.org/pdf/apple/mac/The_Macintosh_Project_Selected_Papers_Feb80.pdf#page=47)
+**[04] 00:31:20**
 
-[07] 01:01:09 Grade in J[https://code.jsoftware.com/wiki/Vocabulary/slashco](https://code.jsoftware.com/wiki/Vocabulary/slashco)
+- [Codegolf](https://code.golf/)
+- [q programming language](https://code.kx.com/q/ref/)
+- [k programming language](https://aplwiki.com/wiki/K)
+- [Differ in q](https://code.kx.com/q/ref/)
+- [differ/Stevan Apter episode on ArrayCast](https://www.arraycast.com/episodes/episode26-stevan-apter)
+- [Jelly programming language](https://github.com/DennisMitchell/jellylanguage)
+- [Unicode](https://en.wikipedia.org/wiki/Unicode)
+- [Mathematica programming language](https://en.wikipedia.org/wiki/Wolfram_Mathematica)
 
-[08] 01:09:51 Scrabble[https://en.wikipedia.org/wiki/Scrabble](https://en.wikipedia.org/wiki/Scrabble)
+**[05] 00:40:17**
 
-[09] 01:18:50 Large Language Model LLM[https://en.wikipedia.org/wiki/Large_language_model](https://en.wikipedia.org/wiki/Large_language_model)Contact AT ArrayCast DOT Com
+- [Totient function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
+- [Stencil in APL](https://aplwiki.com/wiki/Stencil)
+- [C programming language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Partition in APL](https://aplwiki.com/wiki/Partition)
+- [APL Partitioned Enclose](https://aplwiki.com/wiki/Partition)
+- ed_Enclose#Non-Boolean_left_argument
+
+**[06] 00:50:16**
+
+- [Jef Raskin](https://en.wikipedia.org/wiki/Jef_Raskin)
+- [Jef Raskin paper](https://bitsavers.org/pdf/apple/mac/The_Macintosh_Project_Selected_Papers_Feb80.pdf#page=47)
+
+**[07] 01:01:09**
+
+- [Grade in J](https://code.jsoftware.com/wiki/Vocabulary/slashco)
+
+**[08] 01:09:51**
+
+- [Scrabble](https://en.wikipedia.org/wiki/Scrabble)
+
+**[09] 01:18:50**
+
+- [Large Language Model LLM](https://en.wikipedia.org/wiki/Large_language_model)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

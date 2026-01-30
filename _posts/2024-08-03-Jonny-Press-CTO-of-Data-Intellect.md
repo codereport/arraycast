@@ -30,27 +30,76 @@ Jonny Press has a long history of working with the q language from First Derivat
 
 ## Show Notes
 
-Array Cast -  August 2, 2024Show Notes
+Array Cast -  August 2, 2024
 
 Thanks to Bob Therriault, Stephen Taylor and Adám Brudzewsky for gathering these links:
 
-[01] 00:01:07 Dyalog User Meeting[https://www.dyalog.com/user-meetings/dyalog24.htm](https://www.dyalog.com/user-meetings/dyalog24.htm)APL Challenge[https://www.dyalog.com/apl-challenge.htm](https://www.dyalog.com/apl-challenge.htm)APL Forge[https://forge.dyalog.com](https://forge.dyalog.com/)Tokyo APL/J/K Meetup[https://www.meetup.com/apl-j-k-meetup/](https://www.meetup.com/apl-j-k-meetup/)Data Intellect[https://dataintellect.com](https://dataintellect.com/)KXCon '23[https://kx.com/events/kx-con-2023/](https://kx.com/events/kx-con-2023/)Nic Psaris' Matching Algorithms in q and kdb[https://www.youtube.com/watch?v=Cegm1cqbSs8](https://www.youtube.com/watch?v=Cegm1cqbSs8)York University (England)[https://www.york.ac.uk](https://www.york.ac.uk/)Scheme programming language[https://en.wikipedia.org/wiki/Scheme_(programming_language)](https://en.wikipedia.org/wiki/Scheme_(programming_language))Haskell programming language[https://en.wikipedia.org/wiki/Haskell](https://en.wikipedia.org/wiki/Haskell)Java programming language[https://en.wikipedia.org/wiki/Java_(programming_language)](https://en.wikipedia.org/wiki/Java_(programming_language))
+**[01] 00:01:07**
 
-[02] 00:09:55 First Derivative[https://firstderivative.com](https://firstderivative.com/)Brian Conlon[https://firstderivative.com](https://firstderivative.com/)/brian-conlon/Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))q programming language[https://code.kx.com/q/ref/](https://code.kx.com/q/ref/)k programming language[https://aplwiki.com/wiki/K](https://aplwiki.com/wiki/K)KX[https://kx.com](https://kx.com/)
+- [Dyalog User Meeting](https://www.dyalog.com/user-meetings/dyalog24.htm)
+- [APL Challenge](https://www.dyalog.com/apl-challenge.htm)
+- [APL Forge](https://forge.dyalog.com/)
+- [Tokyo APL/J/K Meetup](https://www.meetup.com/apl-j-k-meetup/)
+- [Data Intellect](https://dataintellect.com/)
+- [KXCon '23](https://kx.com/events/kx-con-2023/)
+- [Nic Psaris' Matching Algorithms in q and kdb](https://www.youtube.com/watch?v=Cegm1cqbSs8)
+- [York University (England)](https://www.york.ac.uk/)
+- [Scheme programming language](https://en.wikipedia.org/wiki/Scheme_(programming_language))
+- [Haskell programming language](https://en.wikipedia.org/wiki/Haskell)
+- [Java programming language](https://en.wikipedia.org/wiki/Java_(programming_language))
 
-[03] 00:14:34 Data structures in q[https://code.kx.com/q/basics/datatypes/](https://code.kx.com/q/basics/datatypes/)Nick Psaris Episode on the ArrayCast[https://www.arraycast.com/episodes/episode42-nick-psaris-q](https://www.arraycast.com/episodes/episode42-nick-psaris-q)
+**[02] 00:09:55**
 
-[04] 00:19:40 kdb+[https://kx.com/products/kdb/](https://kx.com/products/kdb/)Moving Minimum in q[https://code.kx.com/q/ref/min/#mmin](https://code.kx.com/q/ref/min/#mmin)Over and Scan in q[https://code.kx.com/q/ref/over/](https://code.kx.com/q/ref/over/)Punched cards[https://en.wikipedia.org/wiki/Punched_card](https://en.wikipedia.org/wiki/Punched_card)APL programming language[https://aplwiki.com](https://aplwiki.com/)[https://en.wikipedia.org/wiki/APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language))
+- [First Derivative](https://firstderivative.com/)
+- [Brian Conlon](https://firstderivative.com/)
+- [/brian-conlon/Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [q programming language](https://code.kx.com/q/ref/)
+- [k programming language](https://aplwiki.com/wiki/K)
+- [KX](https://kx.com/)
 
-[05] 00:26:18 k4.topicbox[https://k4.topicbox.com](https://k4.topicbox.com/)Code golfing[https://aplwiki.com/wiki/Code_golf](https://aplwiki.com/wiki/Code_golf)Stack Overflow[https://en.wikipedia.org/wiki/Stack_Overflow](https://en.wikipedia.org/wiki/Stack_Overflow)
+**[03] 00:14:34**
 
-[06] 00:30:50 q201[https://q201.org](https://q201.org/)Joel Kaplan episode on The ArrayCast[https://www.arraycast.com/episodes/episode27-joel-kaplan](https://www.arraycast.com/episodes/episode27-joel-kaplan)Dictionaries, Tables and Lists in q[https://code.kx.com/q/basics/dictsandtables/](https://code.kx.com/q/basics/dictsandtables/)Select statements[https://code.kx.com/q/ref/select/](https://code.kx.com/q/ref/select/)
+- [Data structures in q](https://code.kx.com/q/basics/datatypes/)
+- [Nick Psaris Episode on the ArrayCast](https://www.arraycast.com/episodes/episode42-nick-psaris-q)
 
-[07] 00:40:20 High Frequency Trading[https://en.wikipedia.org/wiki/High-frequency_trading](https://en.wikipedia.org/wiki/High-frequency_trading)Rapid Development Cycle[https://en.wikipedia.org/wiki/Rapid_application_development](https://en.wikipedia.org/wiki/Rapid_application_development)
+**[04] 00:19:40**
 
-[08] 00:43:27 PyKX[https://pypi.org/project/pykx/](https://pypi.org/project/pykx/)Python programming language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [kdb+](https://kx.com/products/kdb/)
+- [Moving Minimum in q](https://code.kx.com/q/ref/min/#mmin)
+- [Over and Scan in q](https://code.kx.com/q/ref/over/)
+- [Punched cards](https://en.wikipedia.org/wiki/Punched_card)
+- [APL programming language](https://aplwiki.com/)
+- [en.wikipedia.org/wiki/APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language))
 
-[09] 00:45:54 Shakti[https://shakti.com](https://shakti.com/)Open source Jq[https://www.timestored.com/jq/](https://www.timestored.com/jq/)k wiki[https://wiki.k-language.dev/wiki/Main_Page](https://wiki.k-language.dev/wiki/Main_Page)Contact AT ArrayCast DOT Com (edited)
+**[05] 00:26:18**
+
+- [k4.topicbox](https://k4.topicbox.com/)
+- [Code golfing](https://aplwiki.com/wiki/Code_golf)
+- [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow)
+
+**[06] 00:30:50**
+
+- [q201](https://q201.org/)
+- [Joel Kaplan episode on The ArrayCast](https://www.arraycast.com/episodes/episode27-joel-kaplan)
+- [Dictionaries, Tables and Lists in q](https://code.kx.com/q/basics/dictsandtables/)
+- [Select statements](https://code.kx.com/q/ref/select/)
+
+**[07] 00:40:20**
+
+- [High Frequency Trading](https://en.wikipedia.org/wiki/High-frequency_trading)
+- [Rapid Development Cycle](https://en.wikipedia.org/wiki/Rapid_application_development)
+
+**[08] 00:43:27**
+
+- [PyKX](https://pypi.org/project/pykx/)
+- [Python programming language](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+**[09] 00:45:54**
+
+- [Shakti](https://shakti.com/)
+- [Open source Jq](https://www.timestored.com/jq/)
+- [k wiki](https://wiki.k-language.dev/wiki/Main_Page)
+- Contact AT ArrayCast DOT Com (edited)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

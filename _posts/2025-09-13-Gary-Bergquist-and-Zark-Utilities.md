@@ -35,11 +35,87 @@ Gary Bergquist and Zark UtilitiesTo Gary Bergquist APL is more than the primitiv
 
 ## Show Notes
 
-Array Cast -  September 12, 2025Show Notes
+Array Cast -  September 12, 2025
 
 Thanks to Bob Therriault, Adám Brudzewsky, and Conor Hoekstra for gathering these links:
 
-[01] 00:01:56 Jon McGrew's obituary[https://www.dailyfreeman.com/obituaries/jon-mcgrew-kingston-ny/](https://www.dailyfreeman.com/obituaries/jon-mcgrew-kingston-ny/)Jon McGrew's Service[https://www.eventbrite.com/e/jon-mcgrew-memorial-tickets-1666048639329](https://www.eventbrite.com/e/jon-mcgrew-memorial-tickets-1666048639329)Quote Squad on the APL Farm[[[https://aplwiki.com](https://aplwiki.com/)/wiki/APL_Farm]([https://aplwiki.com](https://aplwiki.com/)/wiki/APL_Farm)#Quote_Squad]([[https://aplwiki.com](https://aplwiki.com/)/wiki/APL_Farm]([https://aplwiki.com](https://aplwiki.com/)/wiki/APL_Farm)#Quote_Squad)Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Ken Iverson Episode #92 on the ArrayCast[https://www.arraycast.com/episodes/episode92-iverson](https://www.arraycast.com/episodes/episode92-iverson)Bob Smith Episode #80 on the ArrayCast[https://www.arraycast.com/episodes/episode80-nars2000](https://www.arraycast.com/episodes/episode80-nars2000)Bob Smith Episode #82 on the ArrayCast[https://www.arraycast.com/episodes/episode82-nars2000-implementation](https://www.arraycast.com/episodes/episode82-nars2000-implementation)Jim Brown[[https://aplwiki.com](https://aplwiki.com/)/wiki/Jim_Brown]([https://aplwiki.com](https://aplwiki.com/)/wiki/Jim_Brown)Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)James Price Episode #70 on the ArrayCast[https://www.arraycast.com/episodes/episode70-james-price](https://www.arraycast.com/episodes/episode70-james-price)Adin Falkoff[[https://aplwiki.com](https://aplwiki.com/)/wiki/Adin_Falkoff]([https://aplwiki.com](https://aplwiki.com/)/wiki/Adin_Falkoff)Strand Notation[[https://aplwiki.com](https://aplwiki.com/)/wiki/Strand_notation]([https://aplwiki.com](https://aplwiki.com/)/wiki/Strand_notation)APL Farm[[https://aplwiki.com](https://aplwiki.com/)/wiki/APL_Farm]([https://aplwiki.com](https://aplwiki.com/)/wiki/APL_Farm)Gary's publications[https://dl.acm.org/profile/81100521417](https://dl.acm.org/profile/81100521417)Zark Inc.[https://zarkapl.com](https://zarkapl.com/)APL Tutor[[https://tutorial.dyalog.com/](https://tutorial.dyalog.com/)]([https://tutorial.dyalog.com/](https://tutorial.dyalog.com/))APL Programming Language[https://aplwiki.com](https://aplwiki.com/)14 Misconceptions About APL[https://vector.johnbutlerassociates.co.uk/art10000280](https://vector.johnbutlerassociates.co.uk/art10000280)[02] 00:15:40 Scientific Time Sharing Company STSC[https://en.wikipedia.org/wiki/Scientific_Time_Sharing_Corporation](https://en.wikipedia.org/wiki/Scientific_Time_Sharing_Corporation)I.P. Sharp Associates[https://en.wikipedia.org/wiki/I._P._Sharp_Associates](https://en.wikipedia.org/wiki/I._P._Sharp_Associates)I.P. Sharp Associates Episode #91 on the ArrayCast[https://www.arraycast.com/episodes/episode91-ipsharpdoc](https://www.arraycast.com/episodes/episode91-ipsharpdoc)Quad FMT[https://help.dyalog.com/19.0/#Language/System%20Functions/Format%20Dyadic.htm](https://help.dyalog.com/19.0/#Language/System%20Functions/Format%20Dyadic.htm)Personal Computers[https://en.wikipedia.org/wiki/Personal_computer](https://en.wikipedia.org/wiki/Personal_computer)[03] 00:21:46 APL 2000 Programming Language[https://aplwiki.com](https://aplwiki.com/)/wiki/APL2000GUI environemnt[https://en.wikipedia.org/wiki/Graphical_user_interface](https://en.wikipedia.org/wiki/Graphical_user_interface)[04] 00:29:51 ACM 1998 Zark Library of Utility Functions[https://dl.acm.org/doi/10.1145/312627.312707](https://dl.acm.org/doi/10.1145/312627.312707)Open Source[https://en.wikipedia.org/wiki/Open_source](https://en.wikipedia.org/wiki/Open_source)Tatin Package Manager[https://www.dyalog.com](https://www.dyalog.com/)/uploads/conference/dyalog24/materials/D11_NewTatinPackages.pdfScreen Shots of Zark Library[https://www.arraycast.com/zark](https://www.arraycast.com/zark)Excel Programming Language[https://en.wikipedia.org/wiki/Microsoft_Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)[05] 00:41:28 Namespace[https://aplwiki.com](https://aplwiki.com/)/wiki/NamespaceMOM objects[http://www.apl2000.com/productwin.php#info3](http://www.apl2000.com/productwin.php#info3)Phineas Porter Episode #98 of the ArrayCast[https://www.arraycast.com/episodes/episode98-phineas-porter](https://www.arraycast.com/episodes/episode98-phineas-porter)Nick Psaris Episode #42 of the ArrayCast[https://www.arraycast.com/episodes/episode42-nick-psaris-q](https://www.arraycast.com/episodes/episode42-nick-psaris-q)q Programming Language[https://code.kx.com/q/learn/](https://code.kx.com/q/learn/)C Programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))Functional Programming[https://en.wikipedia.org/wiki/Functional_programming](https://en.wikipedia.org/wiki/Functional_programming)[06] 00:56:04 Reverse Function[https://help.dyalog.com/19.0/#Language/Primitive%20Functions/Reverse.htm](https://help.dyalog.com/19.0/#Language/Primitive%20Functions/Reverse.htm)System Functions[https://help.dyalog.com/19.0/#Language/System%20Functions/Summary%20Tables/Introduction.htm](https://help.dyalog.com/19.0/#Language/System%20Functions/Summary%20Tables/Introduction.htm)Primitives[https://aplwiki.com](https://aplwiki.com/)/wiki/PrimitiveReplicate Episode #110 on the ArrayCast[https://www.arraycast.com/episodes/episode110-replicate](https://www.arraycast.com/episodes/episode110-replicate)J Programming Language[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)[07] 00:59:30 APL 2[https://aplwiki.com](https://aplwiki.com/)/wiki/CDC_APL_2NARS Programming Language[https://aplwiki.com](https://aplwiki.com/)/wiki/NARSJ Cycle Permutation Verb[https://code.jsoftware.com/wiki/Vocabulary/ccapdot](https://code.jsoftware.com/wiki/Vocabulary/ccapdot)Lisp Programmimg Language[https://en.wikipedia.org/wiki/Lisp_(programming_language)](https://en.wikipedia.org/wiki/Lisp_(programming_language))[08] 01:08:00 APL Tutor[[https://tutorial.dyalog.com/](https://tutorial.dyalog.com/)]([https://tutorial.dyalog.com/](https://tutorial.dyalog.com/))Instructional Design[https://en.wikipedia.org/wiki/Instructional_design](https://en.wikipedia.org/wiki/Instructional_design)[09] 01:19:04 Hacker News[https://news.ycombinator.com](https://news.ycombinator.com/)APL Bingo[https://aplwiki.com](https://aplwiki.com/)/wiki/APL_BingoContact AT ArrayCast DOT ComShow Notes for Episode #113[https://www.arraycast.com/episode113-show-notes](https://www.arraycast.com/episode113-show-notes)
+**[01] 00:01:56**
+
+- [Jon McGrew's obituary](https://www.dailyfreeman.com/obituaries/jon-mcgrew-kingston-ny/)
+- [Jon McGrew's Service](https://www.eventbrite.com/e/jon-mcgrew-memorial-tickets-1666048639329)
+- [Quote Squad on the APL Farm](https://aplwiki.com//wiki/APL_Farm)#Quote_Squad)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Ken Iverson Episode #92 on the ArrayCast](https://www.arraycast.com/episodes/episode92-iverson)
+- [Bob Smith Episode #80 on the ArrayCast](https://www.arraycast.com/episodes/episode80-nars2000)
+- [Bob Smith Episode #82 on the ArrayCast](https://www.arraycast.com/episodes/episode82-nars2000-implementation)
+- [Jim Brown](https://aplwiki.com/wiki/Jim_Brown)
+- [Dyalog APL](https://www.dyalog.com/)
+- [James Price Episode #70 on the ArrayCast](https://www.arraycast.com/episodes/episode70-james-price)
+- [Adin Falkoff](https://aplwiki.com/wiki/Adin_Falkoff)
+- [Strand Notation](https://aplwiki.com/wiki/Strand_notation)
+- [APL Farm](https://aplwiki.com/wiki/APL_Farm)
+- [Gary's publications](https://dl.acm.org/profile/81100521417)
+- [Zark Inc.](https://zarkapl.com/)
+- [APL Tutor](https://tutorial.dyalog.com/)
+- [APL Programming Language](https://aplwiki.com/)
+- [14 Misconceptions About APL](https://vector.johnbutlerassociates.co.uk/art10000280)
+
+**[02] 00:15:40**
+
+- [Scientific Time Sharing Company STSC](https://en.wikipedia.org/wiki/Scientific_Time_Sharing_Corporation)
+- [I.P. Sharp Associates](https://en.wikipedia.org/wiki/I._P._Sharp_Associates)
+- [I.P. Sharp Associates Episode #91 on the ArrayCast](https://www.arraycast.com/episodes/episode91-ipsharpdoc)
+- [Quad FMT](https://help.dyalog.com/19.0/#Language/System%20Functions/Format%20Dyadic.htm)
+- [Personal Computers](https://en.wikipedia.org/wiki/Personal_computer)
+
+**[03] 00:21:46**
+
+- [APL 2000 Programming Language](https://aplwiki.com/)
+- [/wiki/APL2000GUI environemnt](https://en.wikipedia.org/wiki/Graphical_user_interface)
+
+**[04] 00:29:51**
+
+- [ACM 1998 Zark Library of Utility Functions](https://dl.acm.org/doi/10.1145/312627.312707)
+- [Open Source](https://en.wikipedia.org/wiki/Open_source)
+- [Tatin Package Manager](https://www.dyalog.com/)
+- [/uploads/conference/dyalog24/materials/D11_NewTatinPackages.pdfScreen Shots of Zark Library](https://www.arraycast.com/zark)
+- [Excel Programming Language](https://en.wikipedia.org/wiki/Microsoft_Excel)
+
+**[05] 00:41:28**
+
+- [Namespace](https://aplwiki.com/)
+- [/wiki/NamespaceMOM objects](http://www.apl2000.com/productwin.php#info3)
+- [Phineas Porter Episode #98 of the ArrayCast](https://www.arraycast.com/episodes/episode98-phineas-porter)
+- [Nick Psaris Episode #42 of the ArrayCast](https://www.arraycast.com/episodes/episode42-nick-psaris-q)
+- [q Programming Language](https://code.kx.com/q/learn/)
+- [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+
+**[06] 00:56:04**
+
+- [Reverse Function](https://help.dyalog.com/19.0/#Language/Primitive%20Functions/Reverse.htm)
+- [System Functions](https://help.dyalog.com/19.0/#Language/System%20Functions/Summary%20Tables/Introduction.htm)
+- [Primitives](https://aplwiki.com/)
+- [/wiki/PrimitiveReplicate Episode #110 on the ArrayCast](https://www.arraycast.com/episodes/episode110-replicate)
+- [J Programming Language](https://code.jsoftware.com/wiki/Category:Home)
+
+**[07] 00:59:30**
+
+- [APL 2](https://aplwiki.com/)
+- [/wiki/CDC_APL_2NARS Programming Language](https://aplwiki.com/)
+- [/wiki/NARSJ Cycle Permutation Verb](https://code.jsoftware.com/wiki/Vocabulary/ccapdot)
+- [Lisp Programmimg Language](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+
+**[08] 01:08:00**
+
+- [APL Tutor](https://tutorial.dyalog.com/)
+- [Instructional Design](https://en.wikipedia.org/wiki/Instructional_design)
+
+**[09] 01:19:04**
+
+- [Hacker News](https://news.ycombinator.com/)
+- [APL Bingo](https://aplwiki.com/)
+- [/wiki/APL_BingoContact AT ArrayCast DOT ComShow Notes for Episode #113](https://www.arraycast.com/episode113-show-notes)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

@@ -26,27 +26,82 @@ In 1982, journalist Whitney Smith sat down and talked to Dr. Ken Iverson about a
 
 ## Show Notes
 
-Array Cast -  October 24, 2025Show Notes
+Array Cast -  October 24, 2025
 
 Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 
-[01] 00:01:55 Whitney Smith - Wild Culture[https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture](https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture)CBC 'Ideas'[https://en.wikipedia.org/wiki/Ideas_(radio_show)](https://en.wikipedia.org/wiki/Ideas_(radio_show))IBM[https://en.wikipedia.org/wiki/IBM](https://en.wikipedia.org/wiki/IBM)Dr. Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)[[https://aplwiki.com](https://aplwiki.com/)/wiki/Ken_Iverson]([https://aplwiki.com](https://aplwiki.com/)/wiki/Ken_Iverson)Ian Sharp[[https://aplwiki.com](https://aplwiki.com/)/wiki/Ian_Sharp]([https://aplwiki.com](https://aplwiki.com/)/wiki/Ian_Sharp)I.P. Sharp and Associates[https://en.wikipedia.org/wiki/I._P._Sharp_Associates](https://en.wikipedia.org/wiki/I._P._Sharp_Associates)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Operations Research[https://en.wikipedia.org/wiki/Operations_research](https://en.wikipedia.org/wiki/Operations_research)Management Science[https://en.wikipedia.org/wiki/Management_science](https://en.wikipedia.org/wiki/Management_science)
+**[01] 00:01:55**
 
-[02] 00:13:50 Lib Gibson Episode 35 on the ArrayCast[https://www.arraycast.com/episodes/episode35-lib-gibson](https://www.arraycast.com/episodes/episode35-lib-gibson)Canadian Legion Correspondence Courses[https://www.ufv.ca/adedfiles/encyclopedia/Institution/CanadianLegionEducationalServices.htm](https://www.ufv.ca/adedfiles/encyclopedia/Institution/CanadianLegionEducationalServices.htm)Royal Canadian Air Force[https://en.wikipedia.org/wiki/Royal_Canadian_Air_Force](https://en.wikipedia.org/wiki/Royal_Canadian_Air_Force)Queens University[https://en.wikipedia.org/wiki/Queen%27s_University_at_Kingston](https://en.wikipedia.org/wiki/Queen%27s_University_at_Kingston)Harvard University[https://en.wikipedia.org/wiki/Harvard_University](https://en.wikipedia.org/wiki/Harvard_University)Dr. Howard Aiken[https://en.wikipedia.org/wiki/Howard_H._Aiken](https://en.wikipedia.org/wiki/Howard_H._Aiken)Dr. Fred Brooks[https://en.wikipedia.org/wiki/Fred_Brooks](https://en.wikipedia.org/wiki/Fred_Brooks)IBM Fellow[https://en.wikipedia.org/wiki/IBM_Fellow](https://en.wikipedia.org/wiki/IBM_Fellow)FM[https://en.wikipedia.org/wiki/FM_broadcasting](https://en.wikipedia.org/wiki/FM_broadcasting)Major Armstrong[https://en.wikipedia.org/wiki/Edwin_Howard_Armstrong](https://en.wikipedia.org/wiki/Edwin_Howard_Armstrong)
+- [Whitney Smith - Wild Culture](https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture)
+- [CBC 'Ideas'](https://en.wikipedia.org/wiki/Ideas_(radio_show))
+- [IBM](https://en.wikipedia.org/wiki/IBM)
+- [Dr. Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [aplwiki.com](https://aplwiki.com/wiki/Ken_Iverson)
+- [Ian Sharp](https://aplwiki.com/wiki/Ian_Sharp)
+- [I.P. Sharp and Associates](https://en.wikipedia.org/wiki/I._P._Sharp_Associates)
+- [APL Programming Language](https://aplwiki.com/)
+- [Operations Research](https://en.wikipedia.org/wiki/Operations_research)
+- [Management Science](https://en.wikipedia.org/wiki/Management_science)
 
-[03] 00:27:25 Army Drill Instructions[https://en.wikipedia.org/wiki/Drill_commands](https://en.wikipedia.org/wiki/Drill_commands)Etymology of Program[https://en.wiktionary.org/wiki/program](https://en.wiktionary.org/wiki/program)St. George's Cross[https://en.wikipedia.org/wiki/Saint_George%27s_Cross](https://en.wikipedia.org/wiki/Saint_George%27s_Cross)St. Andrew's Cross[https://en.wikipedia.org/wiki/St._Andrew%27s_Cross](https://en.wikipedia.org/wiki/St._Andrew%27s_Cross)IBM Selectric Typewriter[https://en.wikipedia.org/wiki/IBM_Selectric](https://en.wikipedia.org/wiki/IBM_Selectric)APL Character Set[https://en.wikipedia.org/wiki/Digital_encoding_of_APL_symbols](https://en.wikipedia.org/wiki/Digital_encoding_of_APL_symbols)COBOL Programming Language[https://en.wikipedia.org/wiki/COBOL](https://en.wikipedia.org/wiki/COBOL)
+**[02] 00:13:50**
 
-[04] 00:44:20 American Heritage Dictionary[https://en.wikipedia.org/wiki/The_American_Heritage_Dictionary_of_the_English_Language](https://en.wikipedia.org/wiki/The_American_Heritage_Dictionary_of_the_English_Language)
+- [Lib Gibson Episode 35 on the ArrayCast](https://www.arraycast.com/episodes/episode35-lib-gibson)
+- [Canadian Legion Correspondence Courses](https://www.ufv.ca/adedfiles/encyclopedia/Institution/CanadianLegionEducationalServices.htm)
+- [Royal Canadian Air Force](https://en.wikipedia.org/wiki/Royal_Canadian_Air_Force)
+- [Queens University](https://en.wikipedia.org/wiki/Queen%27s_University_at_Kingston)
+- [Harvard University](https://en.wikipedia.org/wiki/Harvard_University)
+- [Dr. Howard Aiken](https://en.wikipedia.org/wiki/Howard_H._Aiken)
+- [Dr. Fred Brooks](https://en.wikipedia.org/wiki/Fred_Brooks)
+- [IBM Fellow](https://en.wikipedia.org/wiki/IBM_Fellow)
+- [FM](https://en.wikipedia.org/wiki/FM_broadcasting)
+- [Major Armstrong](https://en.wikipedia.org/wiki/Edwin_Howard_Armstrong)
 
-[05] 01:03:00 Joseph Weizenbaum[https://en.wikipedia.org/wiki/Joseph_Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)Nouvelle Observateur[https://en.wikipedia.org/wiki/Le_Nouvel_Obs](https://en.wikipedia.org/wiki/Le_Nouvel_Obs)General Electric[https://en.wikipedia.org/wiki/General_Electric](https://en.wikipedia.org/wiki/General_Electric)Typewriter[https://en.wikipedia.org/wiki/Typewriter](https://en.wikipedia.org/wiki/Typewriter)Three way switch[https://en.wikipedia.org/wiki/Multiway_switching](https://en.wikipedia.org/wiki/Multiway_switching)George Boole[https://en.wikipedia.org/wiki/George_Boole](https://en.wikipedia.org/wiki/George_Boole)Boolean Algebra[https://en.wikipedia.org/wiki/Boolean_algebra](https://en.wikipedia.org/wiki/Boolean_algebra)Harmonic Oscillators[https://en.wikipedia.org/wiki/Harmonic_oscillator#Equivalent_systems](https://en.wikipedia.org/wiki/Harmonic_oscillator#Equivalent_systems)
+**[03] 00:27:25**
 
-[06] 01:29:20 Lewis Thomas[https://en.wikipedia.org/wiki/Lewis_Thomas](https://en.wikipedia.org/wiki/Lewis_Thomas)Lives of a Cell[https://en.wikipedia.org/wiki/The_Lives_of_a_Cell:_Notes_of_a_Biology_Watcher](https://en.wikipedia.org/wiki/The_Lives_of_a_Cell:_Notes_of_a_Biology_Watcher)Autonomic Nervous System[https://en.wikipedia.org/wiki/Autonomic_nervous_system](https://en.wikipedia.org/wiki/Autonomic_nervous_system)
+- [Army Drill Instructions](https://en.wikipedia.org/wiki/Drill_commands)
+- [Etymology of Program](https://en.wiktionary.org/wiki/program)
+- [St. George's Cross](https://en.wikipedia.org/wiki/Saint_George%27s_Cross)
+- [St. Andrew's Cross](https://en.wikipedia.org/wiki/St._Andrew%27s_Cross)
+- [IBM Selectric Typewriter](https://en.wikipedia.org/wiki/IBM_Selectric)
+- [APL Character Set](https://en.wikipedia.org/wiki/Digital_encoding_of_APL_symbols)
+- [COBOL Programming Language](https://en.wikipedia.org/wiki/COBOL)
 
-[07] 01:36:20 Polynomials[https://en.wikipedia.org/wiki/Polynomial](https://en.wikipedia.org/wiki/Polynomial)Order of Operations[https://en.wikipedia.org/wiki/Order_of_operations](https://en.wikipedia.org/wiki/Order_of_operations)Computer Aided Instruction[https://en.wikipedia.org/wiki/Educational_technology#Linear_learning](https://en.wikipedia.org/wiki/Educational_technology#Linear_learning)
+**[04] 00:44:20**
 
-[08] 01:44:55 Adin Falkoff[https://aplwiki.com/wiki/Adin_Falkoff](https://aplwiki.com/wiki/Adin_Falkoff)Quaker Consensus[https://en.wikipedia.org/wiki/Consensus_decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making)Benign Neglect[https://en.wikipedia.org/wiki/Municipal_disinvestment#Benign_neglect](https://en.wikipedia.org/wiki/Municipal_disinvestment#Benign_neglect)
+- [American Heritage Dictionary](https://en.wikipedia.org/wiki/The_American_Heritage_Dictionary_of_the_English_Language)
 
-[09] 01:51:54 Contact AT ArrayCast DOT Com
+**[05] 01:03:00**
+
+- [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)
+- [Nouvelle Observateur](https://en.wikipedia.org/wiki/Le_Nouvel_Obs)
+- [General Electric](https://en.wikipedia.org/wiki/General_Electric)
+- [Typewriter](https://en.wikipedia.org/wiki/Typewriter)
+- [Three way switch](https://en.wikipedia.org/wiki/Multiway_switching)
+- [George Boole](https://en.wikipedia.org/wiki/George_Boole)
+- [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
+- [Harmonic Oscillators](https://en.wikipedia.org/wiki/Harmonic_oscillator#Equivalent_systems)
+
+**[06] 01:29:20**
+
+- [Lewis Thomas](https://en.wikipedia.org/wiki/Lewis_Thomas)
+- [Lives of a Cell](https://en.wikipedia.org/wiki/The_Lives_of_a_Cell:_Notes_of_a_Biology_Watcher)
+- [Autonomic Nervous System](https://en.wikipedia.org/wiki/Autonomic_nervous_system)
+
+**[07] 01:36:20**
+
+- [Polynomials](https://en.wikipedia.org/wiki/Polynomial)
+- [Order of Operations](https://en.wikipedia.org/wiki/Order_of_operations)
+- [Computer Aided Instruction](https://en.wikipedia.org/wiki/Educational_technology#Linear_learning)
+
+**[08] 01:44:55**
+
+- [Adin Falkoff](https://aplwiki.com/wiki/Adin_Falkoff)
+- [Quaker Consensus](https://en.wikipedia.org/wiki/Consensus_decision-making)
+- [Benign Neglect](https://en.wikipedia.org/wiki/Municipal_disinvestment#Benign_neglect)
+
+**[09] 01:51:54**
+
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

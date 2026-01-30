@@ -34,29 +34,101 @@ We spend some time remembering Raghu Ranganathan (razetime) who recently passed 
 
 ## Show Notes
 
-Array Cast -  July 5th, 2024Show Notes
+Array Cast -  July 5th, 2024
 
 Thanks to Bob Therriault, Conor Hoekstra, Marshall Lochbaum, Jay Bates and Adám Brudzewsky for gathering these links:
 
-[01] 00:01:28 Jay Bates[[https://codegolf.stackexchange.com](https://codegolf.stackexchange.com/)/users/66833/caird-coinheringaahin-g]([https://codegolf.stackexchange.com](https://codegolf.stackexchange.com/)/users/66833/caird-coinheringaahin-g)caird coinheringaahing[https://github.com/cairdcoinheringaahing](https://github.com/cairdcoinheringaahing)Jam programming language[https://github.com/cairdcoinheringaahing](https://github.com/cairdcoinheringaahing)/JamJelly programming language[https://github.com/DennisMitchell/jellylanguage](https://github.com/DennisMitchell/jellylanguage)Jello wrapper[https://github.com/codereport/jello](https://github.com/codereport/jello)Raghu Ranganathan (razetime)[https://aplwiki.com/wiki/Raghu_Ranganathan](https://aplwiki.com/wiki/Raghu_Ranganathan)[https://codegolf.meta.stackexchange.com/questions/26416/in-memory-of-razetime](https://codegolf.meta.stackexchange.com/questions/26416/in-memory-of-razetime)[https://razetime.github.io/](https://razetime.github.io/)BQN markdown[https://github.com/mlochbaum/BQN/blob/master/md.bqn](https://github.com/mlochbaum/BQN/blob/master/md.bqn)APL Farm[https://aplwiki.com/wiki/APL_Farm](https://aplwiki.com/wiki/APL_Farm)Code Golf Stack Exchange[https://codegolf.stackexchange.com](https://codegolf.stackexchange.com/)19th byte chat[https://chat.stackexchange.com/rooms/240/the-nineteenth-byte](https://chat.stackexchange.com/rooms/240/the-nineteenth-byte)k wiki[https://k.miraheze.org/wiki/](https://k.miraheze.org/wiki/)ngn/k programming language[https://codeberg.org/ngn/k](https://codeberg.org/ngn/k)Nial programming language[https://aplwiki.com/wiki/Nial](https://aplwiki.com/wiki/Nial)Nial Episode on ArrayCast[https://www.arraycast.com/episodes/episode61-lynn-sutherland-and-nial](https://www.arraycast.com/episodes/episode61-lynn-sutherland-and-nial)ngn/k tutorial[https://github.com/razetime/ngn-k-tutorial](https://github.com/razetime/ngn-k-tutorial)
+**[01] 00:01:28**
 
-[02] 00:10:55 Tacit programming[https://en.wikipedia.org/wiki/Tacit_programming](https://en.wikipedia.org/wiki/Tacit_programming)Jelly wiki[https://github.com/cairdcoinheringaahing/jellylanguage/wiki](https://github.com/cairdcoinheringaahing/jellylanguage/wiki)Python programming language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))Dennis Mitchell[https://github.com/DennisMitchell](https://github.com/DennisMitchell)Codegolf stack exchange explanation[https://codegolf.stackexchange.com/questions/117949/from-programming-puzzles-to-code-golf/118068#118068](https://codegolf.stackexchange.com/questions/117949/from-programming-puzzles-to-code-golf/118068#118068)String compression explanation on code golf[https://codegolf.stackexchange.com/questions/70916/tips-for-golfing-in-jelly/145327#145327](https://codegolf.stackexchange.com/questions/70916/tips-for-golfing-in-jelly/145327#145327)
+- [Jay Bates](https://codegolf.stackexchange.com/users/66833/caird-coinheringaahin-g)
+- [caird coinheringaahing](https://github.com/cairdcoinheringaahing)
+- [Jam programming language](https://github.com/cairdcoinheringaahing)
+- [/JamJelly programming language](https://github.com/DennisMitchell/jellylanguage)
+- [Jello wrapper](https://github.com/codereport/jello)
+- [Raghu Ranganathan (razetime)](https://aplwiki.com/wiki/Raghu_Ranganathan)
+- [codegolf.meta.stackexchange.com/questions/26416/in-memory-of-razetime](https://codegolf.meta.stackexchange.com/questions/26416/in-memory-of-razetime)
+- [razetime.github.io](https://razetime.github.io/)
+- [BQN markdown](https://github.com/mlochbaum/BQN/blob/master/md.bqn)
+- [APL Farm](https://aplwiki.com/wiki/APL_Farm)
+- [Code Golf Stack Exchange](https://codegolf.stackexchange.com/)
+- [19th byte chat](https://chat.stackexchange.com/rooms/240/the-nineteenth-byte)
+- [k wiki](https://k.miraheze.org/wiki/)
+- [ngn/k programming language](https://codeberg.org/ngn/k)
+- [Nial programming language](https://aplwiki.com/wiki/Nial)
+- [Nial Episode on ArrayCast](https://www.arraycast.com/episodes/episode61-lynn-sutherland-and-nial)
+- [ngn/k tutorial](https://github.com/razetime/ngn-k-tutorial)
 
-[03] 00:19:34 code golf[https://en.wikipedia.org/wiki/Code_golf](https://en.wikipedia.org/wiki/Code_golf)Robert Frost "The Road Not Taken"[https://en.wikipedia.org/wiki/The_Road_Not_Taken](https://en.wikipedia.org/wiki/The_Road_Not_Taken)APL programming language[https://en.wikipedia.org/wiki/APL_(programming_language)](https://en.wikipedia.org/wiki/APL_(programming_language))John Scholes "Game of Life"[https://aplwiki.com/wiki/John_Scholes%27_Conway%27s_Game_of_Life](https://aplwiki.com/wiki/John_Scholes%27_Conway%27s_Game_of_Life)code golf "Game of Life" example[https://codegolf.stackexchange.com/questions/221091/minimally-destroy-cgcc-in-game-of-life](https://codegolf.stackexchange.com/questions/221091/minimally-destroy-cgcc-in-game-of-life)C-Jam code golf language[https://esolangs.org/wiki/CJam](https://esolangs.org/wiki/CJam)Stack based languages[https://en.wikipedia.org/wiki/Stack-oriented_programming](https://en.wikipedia.org/wiki/Stack-oriented_programming)
+**[02] 00:10:55**
 
-[04] 00:25:35 Operators in APL[https://aplwiki.com/wiki/Operator](https://aplwiki.com/wiki/Operator)J programming language[https://www.jsoftware.com/indexno.html](https://www.jsoftware.com/indexno.html)
+- [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming)
+- [Jelly wiki](https://github.com/cairdcoinheringaahing/jellylanguage/wiki)
+- [Python programming language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Dennis Mitchell](https://github.com/DennisMitchell)
+- [Codegolf stack exchange explanation](https://codegolf.stackexchange.com/questions/117949/from-programming-puzzles-to-code-golf/118068#118068)
+- [String compression explanation on code golf](https://codegolf.stackexchange.com/questions/70916/tips-for-golfing-in-jelly/145327#145327)
 
-[05] 00:28:30 Code.golf[https://code.golf](https://code.golf/)WeekGolf[https://github.com/tkr-sh/WeekGolf](https://github.com/tkr-sh/WeekGolf)3 byte Jelly answer[https://codegolf.stackexchange.com/a/229058/43319](https://codegolf.stackexchange.com/a/229058/43319)Vyxal programming language[https://esolangs.org/wiki/Vyxal](https://esolangs.org/wiki/Vyxal)US international keyboard[https://en.wikipedia.org/wiki/QWERTY#US-International](https://en.wikipedia.org/wiki/QWERTY#US-International)
+**[03] 00:19:34**
 
-[06] 00:41:42 Internet of Things[https://en.wikipedia.org/wiki/Internet_of_things](https://en.wikipedia.org/wiki/Internet_of_things)Jelly called from  Python[https://github.com/DennisMitchell/jellylanguage/blob/master/jelly/__init__.py#L10](https://github.com/DennisMitchell/jellylanguage/blob/master/jelly/__init__.py#L10)
+- [code golf](https://en.wikipedia.org/wiki/Code_golf)
+- [Robert Frost "The Road Not Taken"](https://en.wikipedia.org/wiki/The_Road_Not_Taken)
+- [APL programming language](https://en.wikipedia.org/wiki/APL_(programming_language))
+- [John Scholes "Game of Life"](https://aplwiki.com/wiki/John_Scholes%27_Conway%27s_Game_of_Life)
+- [code golf "Game of Life" example](https://codegolf.stackexchange.com/questions/221091/minimally-destroy-cgcc-in-game-of-life)
+- [C-Jam code golf language](https://esolangs.org/wiki/CJam)
+- [Stack based languages](https://en.wikipedia.org/wiki/Stack-oriented_programming)
 
-[https://tio.run/##K6gsycjPM/7/PzO3IL@oRCErNSenkouroCgzr0QDzNFLLMnPLdb8/x8A](https://tio.run/##K6gsycjPM/7/PzO3IL@oRCErNSenkouroCgzr0QDzNFLLMnPLdb8/x8A)Machine Code[https://en.wikipedia.org/wiki/Machine_code](https://en.wikipedia.org/wiki/Machine_code)Description of Jelly's tacit model[https://github.com/DennisMitchell/jellylanguage/wiki/Tutorial](https://github.com/DennisMitchell/jellylanguage/wiki/Tutorial)Arity[https://en.wikipedia.org/wiki/Arity](https://en.wikipedia.org/wiki/Arity)Variadic functions[https://en.wikipedia.org/wiki/Variadic_function](https://en.wikipedia.org/wiki/Variadic_function)Tacit Talk podcast with Kai Schmidt[https://www.youtube.com/watch?v=FqfXTNp5hJc](https://www.youtube.com/watch?v=FqfXTNp5hJc)Uiua programming language[https://www.uiua.org](https://www.uiua.org/)
+**[04] 00:25:35**
 
-[07] 00:52:45 BQN programming language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Gelatin programming language[https://codegolf.stackexchange.com/questions/224491/interpret-gelatin](https://codegolf.stackexchange.com/questions/224491/interpret-gelatin)Hatred programming language[https://github.com/cairdcoinheringaahing/Hatred](https://github.com/cairdcoinheringaahing/Hatred)Combinators[https://en.wikipedia.org/wiki/Combinatory_logic](https://en.wikipedia.org/wiki/Combinatory_logic)AddPlusPlus[https://github.com/cairdcoinheringaahing/AddPlusPlus](https://github.com/cairdcoinheringaahing/AddPlusPlus)Turing Complete[https://en.wikipedia.org/wiki/Turing_completeness](https://en.wikipedia.org/wiki/Turing_completeness)APL beats Jelly at code golf[https://codegolf.stackexchange.com/questions/82494/pseudofactorial/82563#82563](https://codegolf.stackexchange.com/questions/82494/pseudofactorial/82563#82563)
+- [Operators in APL](https://aplwiki.com/wiki/Operator)
+- [J programming language](https://www.jsoftware.com/indexno.html)
 
-[https://codegolf.stackexchange.com/q/94999/66833](https://codegolf.stackexchange.com/q/94999/66833)
+**[05] 00:28:30**
 
-[08] 01:05:51 Big O notation[https://en.wikipedia.org/wiki/Big_O_notation](https://en.wikipedia.org/wiki/Big_O_notation)History of code golf[https://codegolf.meta.stackexchange.com/q/23834/66833](https://codegolf.meta.stackexchange.com/q/23834/66833)GolfScript golfing language[https://esolangs.org/wiki/GolfScript](https://esolangs.org/wiki/GolfScript)[09] 01:11:32 Dijkstra's Turing lecture[https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)Edsgar Dijkstra[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)Anarchy Golf[http://golf.shinh.org](http://golf.shinh.org/)@caird coinheringaahing on[codegolf.stackexchange.com](http://codegolf.stackexchange.com/)Beginner exercises in Jelly[https://golfingsuccess.github.io/jelly-hypertraining/](https://golfingsuccess.github.io/jelly-hypertraining/)Contact AT ArrayCast DOT Com
+- [Code.golf](https://code.golf/)
+- [WeekGolf](https://github.com/tkr-sh/WeekGolf)
+- [3 byte Jelly answer](https://codegolf.stackexchange.com/a/229058/43319)
+- [Vyxal programming language](https://esolangs.org/wiki/Vyxal)
+- [US international keyboard](https://en.wikipedia.org/wiki/QWERTY#US-International)
+
+**[06] 00:41:42**
+
+- [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
+- [Jelly called from  Python](https://github.com/DennisMitchell/jellylanguage/blob/master/jelly/__init__.py#L10)
+
+- [tio.run/##K6gsycjPM/7/PzO3IL@oRCErNSenkouroCgzr0QDzNFLLMnPLdb8/x8A](https://tio.run/##K6gsycjPM/7/PzO3IL@oRCErNSenkouroCgzr0QDzNFLLMnPLdb8/x8A)
+- [Machine Code](https://en.wikipedia.org/wiki/Machine_code)
+- [Description of Jelly's tacit model](https://github.com/DennisMitchell/jellylanguage/wiki/Tutorial)
+- [Arity](https://en.wikipedia.org/wiki/Arity)
+- [Variadic functions](https://en.wikipedia.org/wiki/Variadic_function)
+- [Tacit Talk podcast with Kai Schmidt](https://www.youtube.com/watch?v=FqfXTNp5hJc)
+- [Uiua programming language](https://www.uiua.org/)
+
+**[07] 00:52:45**
+
+- [BQN programming language](https://mlochbaum.github.io/BQN/)
+- [Gelatin programming language](https://codegolf.stackexchange.com/questions/224491/interpret-gelatin)
+- [Hatred programming language](https://github.com/cairdcoinheringaahing/Hatred)
+- [Combinators](https://en.wikipedia.org/wiki/Combinatory_logic)
+- [AddPlusPlus](https://github.com/cairdcoinheringaahing/AddPlusPlus)
+- [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness)
+- [APL beats Jelly at code golf](https://codegolf.stackexchange.com/questions/82494/pseudofactorial/82563#82563)
+
+- [codegolf.stackexchange.com/q/94999/66833](https://codegolf.stackexchange.com/q/94999/66833)
+
+**[08] 01:05:51**
+
+- [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation)
+- [History of code golf](https://codegolf.meta.stackexchange.com/q/23834/66833)
+- [GolfScript golfing language](https://esolangs.org/wiki/GolfScript)
+
+**[09] 01:11:32**
+
+- [Dijkstra's Turing lecture](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
+- [Edsgar Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+- [Anarchy Golf](http://golf.shinh.org/)
+- [@caird coinheringaahing on](http://codegolf.stackexchange.com/)
+- [Beginner exercises in Jelly](https://golfingsuccess.github.io/jelly-hypertraining/)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

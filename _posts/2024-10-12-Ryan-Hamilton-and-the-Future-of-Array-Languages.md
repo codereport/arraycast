@@ -32,25 +32,98 @@ May you live in interesting times and the possibilities they represent. Ryan Ham
 
 ## Show Notes
 
-Array Cast -  October 11, 2024Show Notes
+Array Cast -  October 11, 2024
 
 Thanks to Bob Therriault for gathering these links:
 
-[01] 00:01:20 APL/J/K Tokyo Meetup October 21[https://www.meetup.com/apl-j-k-meetup/](https://www.meetup.com/apl-j-k-meetup/)Ryan hamilton[[https://www.timestored.com](https://www.timestored.com/)/about]([https://www.timestored.com](https://www.timestored.com/)/about)Morgan Stanley[https://en.wikipedia.org/wiki/Morgan_Stanley](https://en.wikipedia.org/wiki/Morgan_Stanley)First Derivatives[https://firstderivative.com/](https://firstderivative.com/)TimeStored[https://www.timestored.com](https://www.timestored.com/)Ryan's Blog Future of Kdb+[https://www.timestored.com](https://www.timestored.com/)/b/the-future-of-kdb/q Programming Language[https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))[KX.com](http://kx.com/)[https://kx.com](https://kx.com/)ZX Spectrum computer[https://en.wikipedia.org/wiki/ZX_Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum)Basic Programming Language[https://en.wikipedia.org/wiki/BASIC](https://en.wikipedia.org/wiki/BASIC)IBM PC[https://en.wikipedia.org/wiki/IBM_Personal_Computer](https://en.wikipedia.org/wiki/IBM_Personal_Computer)Jonny Press Episode 85 on the ArrayCast[https://www.arraycast.com/episodes/episode85-jonnypress](https://www.arraycast.com/episodes/episode85-jonnypress)C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)Java Programming Language[https://en.wikipedia.org/wiki/Java_(programming_language)](https://en.wikipedia.org/wiki/Java_(programming_language))RoboCode[https://robocode.sourceforge.io](https://robocode.sourceforge.io/)
+**[01] 00:01:20**
 
-[02] 00:09:45 Lib Gibson Episode 35 on the ArrayCast[https://www.arraycast.com/episodes/episode35-lib-gibson](https://www.arraycast.com/episodes/episode35-lib-gibson)Kdb[https://kx.com/products/kdb/](https://kx.com/products/kdb/)Kdb+ tutorials[https://www.timestored.com/kdb-guides/](https://www.timestored.com/kdb-guides/)Q Studio[https://www.timestored.com/qstudio/](https://www.timestored.com/qstudio/)DuckDB[https://en.wikipedia.org/wiki/DuckDB](https://en.wikipedia.org/wiki/DuckDB)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))Clickhouse[https://en.wikipedia.org/wiki/ClickHouse](https://en.wikipedia.org/wiki/ClickHouse)Leslie Lamporte[https://en.wikipedia.org/wiki/Leslie_Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport)Leslie Lamporte's State the Problem[https://lamport.azurewebsites.net/pubs/state-the-problem.pdf](https://lamport.azurewebsites.net/pubs/state-the-problem.pdf)
+- [APL/J/K Tokyo Meetup October 21](https://www.meetup.com/apl-j-k-meetup/)
+- [Ryan hamilton](https://www.timestored.com/about)
+- [Morgan Stanley](https://en.wikipedia.org/wiki/Morgan_Stanley)
+- [First Derivatives](https://firstderivative.com/)
+- [TimeStored](https://www.timestored.com/)
+- [Ryan's Blog Future of Kdb+](https://www.timestored.com/)
+- [/b/the-future-of-kdb/q Programming Language](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))
+- [KX.com](http://kx.com/)
+- [kx.com](https://kx.com/)
+- [ZX Spectrum computer](https://en.wikipedia.org/wiki/ZX_Spectrum)
+- [Basic Programming Language](https://en.wikipedia.org/wiki/BASIC)
+- [IBM PC](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
+- [Jonny Press Episode 85 on the ArrayCast](https://www.arraycast.com/episodes/episode85-jonnypress)
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Java Programming Language](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [RoboCode](https://robocode.sourceforge.io/)
 
-[03] 00:19:50 Inverted Tables[https://code.jsoftware.com/wiki/Essays/Inverted_Table](https://code.jsoftware.com/wiki/Essays/Inverted_Table)QuestDB[https://questdb.io](https://questdb.io/)JavaScript Programming Language[https://en.wikipedia.org/wiki/JavaScript](https://en.wikipedia.org/wiki/JavaScript)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))PHP Programming Language[https://en.wikipedia.org/wiki/PHP](https://en.wikipedia.org/wiki/PHP)C Programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))Unix Operating System[https://en.wikipedia.org/wiki/Unix](https://en.wikipedia.org/wiki/Unix)Richard Feldman Why isn't Functional Programming the Norm[https://www.youtube.com/watch?v=QyJZzq0v7Z4](https://www.youtube.com/watch?v=QyJZzq0v7Z4)Roc Programming Language[https://www.roc-lang.org](https://www.roc-lang.org/)Elm Programming Language[https://en.wikipedia.org/wiki/Elm_(programming_language)](https://en.wikipedia.org/wiki/Elm_(programming_language))Rust Programming Language[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))Swift Programming Language[https://en.wikipedia.org/wiki/Swift_(programming_language)](https://en.wikipedia.org/wiki/Swift_(programming_language))Kotlin Programming Language[https://en.wikipedia.org/wiki/Kotlin_(programming_language)](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+**[02] 00:09:45**
 
-[04] 00:31:30 SQL[https://en.wikipedia.org/wiki/SQL](https://en.wikipedia.org/wiki/SQL)NumPy[https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/NumPy)Polars[https://pola.rs](https://pola.rs/)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)
+- [Lib Gibson Episode 35 on the ArrayCast](https://www.arraycast.com/episodes/episode35-lib-gibson)
+- [Kdb](https://kx.com/products/kdb/)
+- [Kdb+ tutorials](https://www.timestored.com/kdb-guides/)
+- [Q Studio](https://www.timestored.com/qstudio/)
+- [DuckDB](https://en.wikipedia.org/wiki/DuckDB)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [Clickhouse](https://en.wikipedia.org/wiki/ClickHouse)
+- [Leslie Lamporte](https://en.wikipedia.org/wiki/Leslie_Lamport)
+- [Leslie Lamporte's State the Problem](https://lamport.azurewebsites.net/pubs/state-the-problem.pdf)
 
-[05] 00:45:08 Nick Psaris Episode 42 on the ArrayCast[https://www.arraycast.com/episodes/episode42-nick-psaris-q](https://www.arraycast.com/episodes/episode42-nick-psaris-q)Fun Q[https://www.amazon.com/dp/1734467509](https://www.amazon.com/dp/1734467509)Q Tips[https://www.goodreads.com/book/show/25221469-q-tips](https://www.goodreads.com/book/show/25221469-q-tips)Ryan's Blog Kdb+ 5.0[https://www.timestored.com/b/kdb-5-0-the-roadmap-ahead/](https://www.timestored.com/b/kdb-5-0-the-roadmap-ahead/)Stephen's talk in Madrid[https://www.meetup.com/everything-everywhere-all-with-kdb-q/](https://www.meetup.com/everything-everywhere-all-with-kdb-q/)Postgres[https://en.wikipedia.org/wiki/PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)parquet[https://pypi.org/project/parquet/](https://pypi.org/project/parquet/)MATLAB[https://en.wikipedia.org/wiki/MATLAB](https://en.wikipedia.org/wiki/MATLAB)MATLAB Episode of ArrayCast[https://www.arraycast.com/episodes/episode79-matlab](https://www.arraycast.com/episodes/episode79-matlab)k Programming Language[https://aplwiki.com/wiki/K](https://aplwiki.com/wiki/K)Dyalog APL[ttps://www.dyalog.com](ttps://www.dyalog.com)TypeScript Programming Language[https://en.wikipedia.org/wiki/TypeScript](https://en.wikipedia.org/wiki/TypeScript)Klong Programming Language[https://aplwiki.com/wiki/K](https://aplwiki.com/wiki/K)long
+**[03] 00:19:50**
 
-[06] 00:58:11 John Earnest Episode 43 on the ArrayCast[https://www.arraycast.com/episodes/episode43-john-earnest-decker](https://www.arraycast.com/episodes/episode43-john-earnest-decker)John Earnest Episode 41 on the ArrayCast[https://www.arraycast.com/episodes/episode41-john-earnest](https://www.arraycast.com/episodes/episode41-john-earnest)Lil Programming Language[https://beyondloom.com/decker/lil.html](https://beyondloom.com/decker/lil.html)Decker[https://beyondloom.com/decker/index.html](https://beyondloom.com/decker/index.html)HyperCard[https://en.wikipedia.org/wiki/HyperCard](https://en.wikipedia.org/wiki/HyperCard)Pulse[https://www.timestored.com/pulse/](https://www.timestored.com/pulse/)
+- [Inverted Tables](https://code.jsoftware.com/wiki/Essays/Inverted_Table)
+- [QuestDB](https://questdb.io/)
+- [JavaScript Programming Language](https://en.wikipedia.org/wiki/JavaScript)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [PHP Programming Language](https://en.wikipedia.org/wiki/PHP)
+- [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Unix Operating System](https://en.wikipedia.org/wiki/Unix)
+- [Richard Feldman Why isn't Functional Programming the Norm](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+- [Roc Programming Language](https://www.roc-lang.org/)
+- [Elm Programming Language](https://en.wikipedia.org/wiki/Elm_(programming_language))
+- [Rust Programming Language](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [Swift Programming Language](https://en.wikipedia.org/wiki/Swift_(programming_language))
+- [Kotlin Programming Language](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 
-[07] 01:02:20 HTML[https://en.wikipedia.org/wiki/HTML](https://en.wikipedia.org/wiki/HTML)CSS[https://en.wikipedia.org/wiki/CSS](https://en.wikipedia.org/wiki/CSS)
+**[04] 00:31:30**
 
-[08] 01:08:14 Contact AT ArrayCast DOT Com
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [NumPy](https://en.wikipedia.org/wiki/NumPy)
+- [Polars](https://pola.rs/)
+- [APL Programming Language](https://aplwiki.com/)
+
+**[05] 00:45:08**
+
+- [Nick Psaris Episode 42 on the ArrayCast](https://www.arraycast.com/episodes/episode42-nick-psaris-q)
+- [Fun Q](https://www.amazon.com/dp/1734467509)
+- [Q Tips](https://www.goodreads.com/book/show/25221469-q-tips)
+- [Ryan's Blog Kdb+ 5.0](https://www.timestored.com/b/kdb-5-0-the-roadmap-ahead/)
+- [Stephen's talk in Madrid](https://www.meetup.com/everything-everywhere-all-with-kdb-q/)
+- [Postgres](https://en.wikipedia.org/wiki/PostgreSQL)
+- [parquet](https://pypi.org/project/parquet/)
+- [MATLAB](https://en.wikipedia.org/wiki/MATLAB)
+- [MATLAB Episode of ArrayCast](https://www.arraycast.com/episodes/episode79-matlab)
+- [k Programming Language](https://aplwiki.com/wiki/K)
+- [Dyalog APL](ttps://www.dyalog.com)
+- [TypeScript Programming Language](https://en.wikipedia.org/wiki/TypeScript)
+- [Klong Programming Language](https://aplwiki.com/wiki/K)
+- long
+
+**[06] 00:58:11**
+
+- [John Earnest Episode 43 on the ArrayCast](https://www.arraycast.com/episodes/episode43-john-earnest-decker)
+- [John Earnest Episode 41 on the ArrayCast](https://www.arraycast.com/episodes/episode41-john-earnest)
+- [Lil Programming Language](https://beyondloom.com/decker/lil.html)
+- [Decker](https://beyondloom.com/decker/index.html)
+- [HyperCard](https://en.wikipedia.org/wiki/HyperCard)
+- [Pulse](https://www.timestored.com/pulse/)
+
+**[07] 01:02:20**
+
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
+**[08] 01:08:14**
+
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

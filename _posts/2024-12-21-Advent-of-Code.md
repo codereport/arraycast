@@ -35,11 +35,104 @@ Not many spoilers, but a few hints and lots of discussion around Advent of Code.
 
 ## Show Notes
 
-Array Cast -  December 20, 2024Show Notes
+Array Cast -  December 20, 2024
 
 Thanks to Bob Therriault, Kai Schmidt, John Earnest and Marshall Lochbaum for gathering these links:
 
-[01] 00:01:40 Advent of Code[https://en.wikipedia.org/wiki/Advent_of_Code](https://en.wikipedia.org/wiki/Advent_of_Code)Iverson College[https://iversoncollege.com](https://iversoncollege.com/)Rory Kemp's Interactive q solutions[https://q.kx.com/aoc24/index.html](https://q.kx.com/aoc24/index.html)John Earnest Episode 41[https://www.arraycast.com/episodes/episode41-john-earnest](https://www.arraycast.com/episodes/episode41-john-earnest)John Earnest Episode 43[https://www.arraycast.com/episodes/episode43-john-earnest-decker](https://www.arraycast.com/episodes/episode43-john-earnest-decker)John Earnest's website[https://beyondloom.com](https://beyondloom.com/)Kai Schmidt Episode 63[https://www.arraycast.com/episodes/episode63-uiua](https://www.arraycast.com/episodes/episode63-uiua)Kai Schmidt Episode 77[https://www.arraycast.com/episodes/episode77-uiua](https://www.arraycast.com/episodes/episode77-uiua)Uiua Programming Language[https://www.uiua.org](https://www.uiua.org/)Uiua Advent of Code[https://github.com/uiua-lang/AoC-repos](https://github.com/uiua-lang/AoC-repos)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)APL Wiki Advent of Code[[https://aplwiki.com](https://aplwiki.com/)/wiki/Advent_of_Code]([https://aplwiki.com](https://aplwiki.com/)/wiki/Advent_of_Code)Tacit Sanctuary[https://www.youtube.com/@TacitSanc/feature](https://www.youtube.com/@TacitSanc/feature)Uiua Subscript blog[https://www.uiua.org](https://www.uiua.org/)/blog/subscriptsIverson College episode[https://www.arraycast.com/episodes/episode87-iversonsession](https://www.arraycast.com/episodes/episode87-iversonsession)Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Plankalkül[https://en.wikipedia.org/wiki/Plankalkül](https://en.wikipedia.org/wiki/Plankalk%C3%BCl)Conrad Zuse[https://en.wikipedia.org/wiki/Konrad_Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse)Algol 60 Programming Language[https://en.wikipedia.org/wiki/ALGOL_60](https://en.wikipedia.org/wiki/ALGOL_60)J Programming Language[ttps://www.jsoftware.com/#/](ttps://www.jsoftware.com/#/)Uiua Both Modifier[https://www.uiua.org](https://www.uiua.org/)/docs/bothJ Cut ;. Conjunction[https://code.jsoftware.com/wiki/Vocabulary/semidot](https://code.jsoftware.com/wiki/Vocabulary/semidot)[02] 00:13:52 J Increment >: Primitive[https://code.jsoftware.com/wiki/Vocabulary/gtco](https://code.jsoftware.com/wiki/Vocabulary/gtco)Over Modifier in BQN[https://github.com/mlochbaum/BQN/blob/master/help/over.md](https://github.com/mlochbaum/BQN/blob/master/help/over.md)I Programming Language[https://aplwiki.com](https://aplwiki.com/)/wiki/ISibelius Music Programming[https://www.avid.com/sibelius](https://www.avid.com/sibelius)Lily Pond Music Programming[https://lilypond.org](https://lilypond.org/)Marshall's Music Notation Project[https://imslp.org/wiki/Category:Lochbaum,_Marshall](https://imslp.org/wiki/Category:Lochbaum,_Marshall)Conor's Advent of Code Videos[https://www.youtube.com/playlist?list=PLVFrD1dmDdvfejkfvQEI2bNfVlNO4iGkK](https://www.youtube.com/playlist?list=PLVFrD1dmDdvfejkfvQEI2bNfVlNO4iGkK)Advent of Code 2024[https://adventofcode.com](https://adventofcode.com/)Advent of Code SubReddit[https://www.reddit.com/r/adventofcode/](https://www.reddit.com/r/adventofcode/)Isaac Wooden Yernab on YouTube Dyalog Solutions[https://www.youtube.com/@yernab/videos?view=0&sort=dd&shelf_id=1](https://www.youtube.com/@yernab/videos?view=0&sort=dd&shelf_id=1)Marshall's Live Tracker[https://gist.githubusercontent.com/mlochbaum/03d1b3ca918f324a08fb30f2be79fd5e/raw/aoc2024.svg](https://gist.githubusercontent.com/mlochbaum/03d1b3ca918f324a08fb30f2be79fd5e/raw/aoc2024.svg)[03] 00:28:02 Kamila Szewczyk Episode[https://www.arraycast.com/episodes/episode74-kamilalisp](https://www.arraycast.com/episodes/episode74-kamilalisp)Uiua's Path Primitive[https://www.uiua.org](https://www.uiua.org/)/docs/pathDijkstra's Algorithm[https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)Linear Algebra[https://en.wikipedia.org/wiki/Linear_algebra](https://en.wikipedia.org/wiki/Linear_algebra)Uiua's Multi-threading Wait[https://www.uiua.org](https://www.uiua.org/)/docs/waitPeach in k[https://code.kx.com/q/basics/peach/](https://code.kx.com/q/basics/peach/)[04] 00:37:08 Memoization Modifier in Uiua[https://www.uiua.org](https://www.uiua.org/)/docs/memoMemoization[https://en.wikipedia.org/wiki/Memoization](https://en.wikipedia.org/wiki/Memoization)Project Euler[https://en.wikipedia.org/wiki/Project_Euler](https://en.wikipedia.org/wiki/Project_Euler)ACM ICPC[https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest)Leetcode[https://en.wikipedia.org/wiki/LeetCode](https://en.wikipedia.org/wiki/LeetCode)Big O Notation[https://en.wikipedia.org/wiki/Big_O_notation](https://en.wikipedia.org/wiki/Big_O_notation)[05] 00:45:28 Floyd-Warshall All Pair Shortest Path[https://en.wikipedia.org/wiki/Floyd-Warshall_algorithm](https://en.wikipedia.org/wiki/Floyd-Warshall_algorithm)Python Programming Lanugage[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))Rust Programming Language[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))Dzaima's Video of Advent of Code[https://www.youtube.com/@dzaima](https://www.youtube.com/@dzaima)Sharp APL[https://aplwiki.com](https://aplwiki.com/)/wiki/SHARP_APLGrade in J /: or \:[https://code.jsoftware.com/wiki/Vocabulary/slashco](https://code.jsoftware.com/wiki/Vocabulary/slashco)Leading Axis Theory[https://aplwiki.com](https://aplwiki.com/)/wiki/Leading_axis_theoryGame of Life (John Scholes)[https://aplwiki.com](https://aplwiki.com/)/wiki/John_Scholes%27_Conway%27s_Game_of_LifeIndices I. Primitive in J[https://code.jsoftware.com/wiki/Vocabulary/icapdot](https://code.jsoftware.com/wiki/Vocabulary/icapdot)Sokoban Problem[https://en.wikipedia.org/wiki/Sokoban](https://en.wikipedia.org/wiki/Sokoban)Where primitive[https://aplwiki.com](https://aplwiki.com/)/wiki/Indices[06] 01:00:44 Integers i. Primitive in J[https://code.jsoftware.com/wiki/Vocabulary/idot](https://code.jsoftware.com/wiki/Vocabulary/idot)Odometer Adverb ! in k[https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Manual.md](https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Manual.md)Un Shape in Uiua[https://www.uiua.org](https://www.uiua.org/)/docs/shapeSudoku[https://en.wikipedia.org/wiki/Sudoku](https://en.wikipedia.org/wiki/Sudoku)Roger Hui's Essay of Sudoku[https://code.jsoftware.com/wiki/Essays/Sudoku](https://code.jsoftware.com/wiki/Essays/Sudoku)Sparse $. in J[https://code.jsoftware.com/wiki/Vocabulary/dollardot](https://code.jsoftware.com/wiki/Vocabulary/dollardot)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))Mutable objects[https://en.wikipedia.org/wiki/Immutable_object](https://en.wikipedia.org/wiki/Immutable_object)[07] 01:12:49 Fifth Generation Progamming Language[https://en.wikipedia.org/wiki/Fifth-generation_programming_language](https://en.wikipedia.org/wiki/Fifth-generation_programming_language)Prolog Programming Language[https://en.wikipedia.org/wiki/Prolog](https://en.wikipedia.org/wiki/Prolog)LLM's[https://en.wikipedia.org/wiki/Large_language_model](https://en.wikipedia.org/wiki/Large_language_model)[08] 01:17:25 Contact AT ArrayCast DOT ComThingJam on Decker[https://itch.io/jam/deck-month-2](https://itch.io/jam/deck-month-2)Uiua's Discord[https://discord.com/invite/3r9nrfYhCc](https://discord.com/invite/3r9nrfYhCc)
+**[01] 00:01:40**
+
+- [Advent of Code](https://en.wikipedia.org/wiki/Advent_of_Code)
+- [Iverson College](https://iversoncollege.com/)
+- [Rory Kemp's Interactive q solutions](https://q.kx.com/aoc24/index.html)
+- [John Earnest Episode 41](https://www.arraycast.com/episodes/episode41-john-earnest)
+- [John Earnest Episode 43](https://www.arraycast.com/episodes/episode43-john-earnest-decker)
+- [John Earnest's website](https://beyondloom.com/)
+- [Kai Schmidt Episode 63](https://www.arraycast.com/episodes/episode63-uiua)
+- [Kai Schmidt Episode 77](https://www.arraycast.com/episodes/episode77-uiua)
+- [Uiua Programming Language](https://www.uiua.org/)
+- [Uiua Advent of Code](https://github.com/uiua-lang/AoC-repos)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [APL Wiki Advent of Code](https://aplwiki.com/wiki/Advent_of_Code)
+- [Tacit Sanctuary](https://www.youtube.com/@TacitSanc/feature)
+- [Uiua Subscript blog](https://www.uiua.org/)
+- [/blog/subscriptsIverson College episode](https://www.arraycast.com/episodes/episode87-iversonsession)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [APL Programming Language](https://aplwiki.com/)
+- [Plankalkül](https://en.wikipedia.org/wiki/Plankalk%C3%BCl)
+- [Conrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse)
+- [Algol 60 Programming Language](https://en.wikipedia.org/wiki/ALGOL_60)
+- [J Programming Language](ttps://www.jsoftware.com/#/)
+- [Uiua Both Modifier](https://www.uiua.org/)
+- [/docs/bothJ Cut ;. Conjunction](https://code.jsoftware.com/wiki/Vocabulary/semidot)
+
+**[02] 00:13:52**
+
+- [J Increment >: Primitive](https://code.jsoftware.com/wiki/Vocabulary/gtco)
+- [Over Modifier in BQN](https://github.com/mlochbaum/BQN/blob/master/help/over.md)
+- [I Programming Language](https://aplwiki.com/)
+- [/wiki/ISibelius Music Programming](https://www.avid.com/sibelius)
+- [Lily Pond Music Programming](https://lilypond.org/)
+- [Marshall's Music Notation Project](https://imslp.org/wiki/Category:Lochbaum,_Marshall)
+- [Conor's Advent of Code Videos](https://www.youtube.com/playlist?list=PLVFrD1dmDdvfejkfvQEI2bNfVlNO4iGkK)
+- [Advent of Code 2024](https://adventofcode.com/)
+- [Advent of Code SubReddit](https://www.reddit.com/r/adventofcode/)
+- [Isaac Wooden Yernab on YouTube Dyalog Solutions](https://www.youtube.com/@yernab/videos?view=0&sort=dd&shelf_id=1)
+- [Marshall's Live Tracker](https://gist.githubusercontent.com/mlochbaum/03d1b3ca918f324a08fb30f2be79fd5e/raw/aoc2024.svg)
+
+**[03] 00:28:02**
+
+- [Kamila Szewczyk Episode](https://www.arraycast.com/episodes/episode74-kamilalisp)
+- [Uiua's Path Primitive](https://www.uiua.org/)
+- [/docs/pathDijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+- [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+- [Uiua's Multi-threading Wait](https://www.uiua.org/)
+- [/docs/waitPeach in k](https://code.kx.com/q/basics/peach/)
+
+**[04] 00:37:08**
+
+- [Memoization Modifier in Uiua](https://www.uiua.org/)
+- [/docs/memoMemoization](https://en.wikipedia.org/wiki/Memoization)
+- [Project Euler](https://en.wikipedia.org/wiki/Project_Euler)
+- [ACM ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest)
+- [Leetcode](https://en.wikipedia.org/wiki/LeetCode)
+- [Big O Notation](https://en.wikipedia.org/wiki/Big_O_notation)
+
+**[05] 00:45:28**
+
+- [Floyd-Warshall All Pair Shortest Path](https://en.wikipedia.org/wiki/Floyd-Warshall_algorithm)
+- [Python Programming Lanugage](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Rust Programming Language](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [Dzaima's Video of Advent of Code](https://www.youtube.com/@dzaima)
+- [Sharp APL](https://aplwiki.com/)
+- [/wiki/SHARP_APLGrade in J /: or \:](https://code.jsoftware.com/wiki/Vocabulary/slashco)
+- [Leading Axis Theory](https://aplwiki.com/)
+- [/wiki/Leading_axis_theoryGame of Life (John Scholes)](https://aplwiki.com/)
+- [/wiki/John_Scholes%27_Conway%27s_Game_of_LifeIndices I. Primitive in J](https://code.jsoftware.com/wiki/Vocabulary/icapdot)
+- [Sokoban Problem](https://en.wikipedia.org/wiki/Sokoban)
+- [Where primitive](https://aplwiki.com/)
+- [/wiki/Indices](https://code.jsoftware.com/wiki/Vocabulary/idot)
+
+**[06] 01:00:44**
+
+- Integers i. Primitive in J
+- [Odometer Adverb ! in k](https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Manual.md)
+- [Un Shape in Uiua](https://www.uiua.org/)
+- [/docs/shapeSudoku](https://en.wikipedia.org/wiki/Sudoku)
+- [Roger Hui's Essay of Sudoku](https://code.jsoftware.com/wiki/Essays/Sudoku)
+- [Sparse $. in J](https://code.jsoftware.com/wiki/Vocabulary/dollardot)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [Mutable objects](https://en.wikipedia.org/wiki/Immutable_object)
+
+**[07] 01:12:49**
+
+- [Fifth Generation Progamming Language](https://en.wikipedia.org/wiki/Fifth-generation_programming_language)
+- [Prolog Programming Language](https://en.wikipedia.org/wiki/Prolog)
+- [LLM's](https://en.wikipedia.org/wiki/Large_language_model)
+
+**[08] 01:17:25**
+
+- [Contact AT ArrayCast DOT ComThingJam on Decker](https://itch.io/jam/deck-month-2)
+- [Uiua's Discord](https://discord.com/invite/3r9nrfYhCc)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

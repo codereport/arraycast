@@ -28,23 +28,55 @@ I.P. Sharp Associates - A Company Ahead of its TimeArchival interviews by Whitne
 
 ## Show Notes
 
-Array Cast -  October 25, 2024Show Notes
+Array Cast -  October 25, 2024
 
 Thanks to Bob Therriault for gathering these links:
 
-[01] 00:01:41 Leslie Goldsmith Episode on the ArrayCast[https://www.arraycast.com/episodes/episode47-leslie-goldsmith](https://www.arraycast.com/episodes/episode47-leslie-goldsmith)I.P. Sharp and Associates[https://en.wikipedia.org/wiki/I._P._Sharp_Associates](https://en.wikipedia.org/wiki/I._P._Sharp_Associates)Whitney Smith - Wild Culture[https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture](https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture)CBC 'Ideas'[https://en.wikipedia.org/wiki/Ideas_(radio_show)](https://en.wikipedia.org/wiki/Ideas_(radio_show))Lib Gibson Episode on the ArrayCast[https://www.arraycast.com/episodes/episode35-lib-gibson](https://www.arraycast.com/episodes/episode35-lib-gibson)Bob Bernecky Episode on the ArrayCast[https://www.arraycast.com/episodes/episode55-bob-bernecky](https://www.arraycast.com/episodes/episode55-bob-bernecky)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Roger Moore[https://en.wikipedia.org/wiki/Roger_Moore_(computer_scientist)](https://en.wikipedia.org/wiki/Roger_Moore_(computer_scientist))Dyadic Iota[https://help.dyalog.com/latest/#Language/Primitive%20Functions/Index%20Of.htm](https://help.dyalog.com/latest/#Language/Primitive%20Functions/Index%20Of.htm)Bernecky paper Bernecky, Robert. "Speeding up dyadic iota and dyadic epsilon." APL Congress. Vol. 73. 1973.Ian Sharp[https://aplwiki.com](https://aplwiki.com/)/wiki/Ian_Sharp
+**[01] 00:01:41**
 
-[02] 00:07:20 Institute of International Finance[https://en.wikipedia.org/wiki/Institute_of_International_Finance](https://en.wikipedia.org/wiki/Institute_of_International_Finance)Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Leslie Goldsmith Episode on the ArrayCast](https://www.arraycast.com/episodes/episode47-leslie-goldsmith)
+- [I.P. Sharp and Associates](https://en.wikipedia.org/wiki/I._P._Sharp_Associates)
+- [Whitney Smith - Wild Culture](https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture)
+- [CBC 'Ideas'](https://en.wikipedia.org/wiki/Ideas_(radio_show))
+- [Lib Gibson Episode on the ArrayCast](https://www.arraycast.com/episodes/episode35-lib-gibson)
+- [Bob Bernecky Episode on the ArrayCast](https://www.arraycast.com/episodes/episode55-bob-bernecky)
+- [APL Programming Language](https://aplwiki.com/)
+- [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore_(computer_scientist))
+- [Dyadic Iota](https://help.dyalog.com/latest/#Language/Primitive%20Functions/Index%20Of.htm)
+- [Bernecky paper Bernecky, Robert. "Speeding up dyadic iota and dyadic epsilon." APL Congress. Vol. 73. 1973.Ian Sharp](https://aplwiki.com/)
 
-[03] 00:14:50 Bell Canada[https://en.wikipedia.org/wiki/Bell_Canada](https://en.wikipedia.org/wiki/Bell_Canada)Ward's Island[https://en.wikipedia.org/wiki/Toronto_Islands](https://en.wikipedia.org/wiki/Toronto_Islands)Larry Breed[https://en.wikipedia.org/wiki/Lawrence_M._Breed](https://en.wikipedia.org/wiki/Lawrence_M._Breed)
+**[02] 00:07:20**
 
-[04] 00:21:05 I.P. Sharp "Zoo"[https://dyalog.tv/Dyalog16/?v=1N_oYD-ZkX8](https://dyalog.tv/Dyalog16/?v=1N_oYD-ZkX8)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))McGraw Hill[https://en.wikipedia.org/wiki/McGraw_Hill_Education](https://en.wikipedia.org/wiki/McGraw_Hill_Education)Eric Iverson Episode on the ArrayCast[https://www.arraycast.com/episodes/episode10-eric-iverson](https://www.arraycast.com/episodes/episode10-eric-iverson)
+- [Institute of International Finance](https://en.wikipedia.org/wiki/Institute_of_International_Finance)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
 
-[05] 00:32:20 Operations Research[https://en.wikipedia.org/wiki/Operations_research](https://en.wikipedia.org/wiki/Operations_research)Management Science[https://en.wikipedia.org/wiki/Management_science](https://en.wikipedia.org/wiki/Management_science)Nerd Sniping[https://www.explainxkcd.com/wiki/index.php/356:_Nerd_Sniping](https://www.explainxkcd.com/wiki/index.php/356:_Nerd_Sniping)
+**[03] 00:14:50**
 
-[06] 00:45:14 British General Post Office[https://en.wikipedia.org/wiki/General_Post_Office](https://en.wikipedia.org/wiki/General_Post_Office)
+- [Bell Canada](https://en.wikipedia.org/wiki/Bell_Canada)
+- [Ward's Island](https://en.wikipedia.org/wiki/Toronto_Islands)
+- [Larry Breed](https://en.wikipedia.org/wiki/Lawrence_M._Breed)
 
-[07] 00:49:44 More Ian Sharp Interviews[https://www.ipsharp.org](https://www.ipsharp.org/)Contact AT ArrayCast DOT Com
+**[04] 00:21:05**
+
+- [I.P. Sharp "Zoo"](https://dyalog.tv/Dyalog16/?v=1N_oYD-ZkX8)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [McGraw Hill](https://en.wikipedia.org/wiki/McGraw_Hill_Education)
+- [Eric Iverson Episode on the ArrayCast](https://www.arraycast.com/episodes/episode10-eric-iverson)
+
+**[05] 00:32:20**
+
+- [Operations Research](https://en.wikipedia.org/wiki/Operations_research)
+- [Management Science](https://en.wikipedia.org/wiki/Management_science)
+- [Nerd Sniping](https://www.explainxkcd.com/wiki/index.php/356:_Nerd_Sniping)
+
+**[06] 00:45:14**
+
+- [British General Post Office](https://en.wikipedia.org/wiki/General_Post_Office)
+
+**[07] 00:49:44**
+
+- [More Ian Sharp Interviews](https://www.ipsharp.org/)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

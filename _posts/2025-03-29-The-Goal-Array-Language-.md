@@ -33,11 +33,91 @@ The Goal Array LanguageOur guest is Yon Fernández de Retana (anaseto) who is th
 
 ## Show Notes
 
-Array Cast -  March 28, 2025Show Notes
+Array Cast -  March 28, 2025
 
 Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 
-[01] 00:01:32 ArrrayPortal[https://www.arrayportal.com](https://www.arrayportal.com/)Tom McGuire's CHATGPT-o2 in J[https://groups.google.com/a/jsoftware.com/g/forum/c/fpmLbIH5YWc](https://groups.google.com/a/jsoftware.com/g/forum/c/fpmLbIH5YWc)Marshall Lochbaum on ProgLangCast[https://www.youtube.com/watch?v=mZXZOj3_HKI](https://www.youtube.com/watch?v=mZXZOj3_HKI)ProgLangCast on the ArrayCast Episode #78[https://www.arraycast.com/episodes/episode78-proglangcast](https://www.arraycast.com/episodes/episode78-proglangcast)Marshall's Tracks on BandCamp[https://lochbaum.bandcamp.com/album/bqn-tracks](https://lochbaum.bandcamp.com/album/bqn-tracks)ProgLangCast podcast[https://www.youtube.com/@proglangbase](https://www.youtube.com/@proglangbase)Tacit Talk #27 Aaron Hsu and Jon Smith[https://www.youtube.com/watch?v=BIc9iz-n7dM](https://www.youtube.com/watch?v=BIc9iz-n7dM)Aaron Hsu on Episode 100 of the ArrayCast[https://www.arraycast.com/episodes/episode100-100hsu](https://www.arraycast.com/episodes/episode100-100hsu)Goal Programming Language[[https://aplwiki.com](https://aplwiki.com/)/wiki/Goal]([https://aplwiki.com](https://aplwiki.com/)/wiki/Goal)Goal Source code[https://codeberg.org/anaseto/goal](https://codeberg.org/anaseto/goal)Goal REPL[https://anaseto.codeberg.page/try-goal/#](https://anaseto.codeberg.page/try-goal/#)Goal Docs[[https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/)]([https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/))OCaml Programming Language[https://en.wikipedia.org/wiki/OCaml](https://en.wikipedia.org/wiki/OCaml)Haskell Programming Language[https://en.wikipedia.org/wiki/Haskell](https://en.wikipedia.org/wiki/Haskell)Perl Programming Language[https://en.wikipedia.org/wiki/Perl](https://en.wikipedia.org/wiki/Perl)Lisp Programming Language[https://en.wikipedia.org/wiki/Lisp_(programming_language)](https://en.wikipedia.org/wiki/Lisp_(programming_language))Racket Programming Language[https://en.wikipedia.org/wiki/Racket_(programming_language)](https://en.wikipedia.org/wiki/Racket_(programming_language))J Programming Language[https://www.jsoftware.com/#/README](https://www.jsoftware.com/#/README)Parts of Speech in J[https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech](https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech)Kona Programming Language[[https://aplwiki.com](https://aplwiki.com/)/wiki/Kona]([https://aplwiki.com](https://aplwiki.com/)/wiki/Kona)ngn/k Programming Language[[https://aplwiki.com](https://aplwiki.com/)/wiki/Ngn/k]([https://aplwiki.com](https://aplwiki.com/)/wiki/Ngn/k)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)[02] 00:13:23 Go Programming Language[https://en.wikipedia.org/wiki/Go_(programming_language)](https://en.wikipedia.org/wiki/Go_(programming_language))Ascii Characters[https://en.wikipedia.org/wiki/ASCII](https://en.wikipedia.org/wiki/ASCII)Rob Pike Episode on the ArrayCast #60[https://www.arraycast.com/episodes/episode60-rob-pike](https://www.arraycast.com/episodes/episode60-rob-pike)Ivy Programming Language[https://pkg.go.dev/robpike.io/ivy](https://pkg.go.dev/robpike.io/ivy)Reference Counting Memory management[https://en.wikipedia.org/wiki/Reference_counting](https://en.wikipedia.org/wiki/Reference_counting)[03] 00:19:27 Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Java Programming Language[https://en.wikipedia.org/wiki/Java_(programming_language)](https://en.wikipedia.org/wiki/Java_(programming_language))Atomic Character Strings in Goal[[https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/)]([https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/))chap-from-k.html#atomic-strings[04] 00:29:18 Rank operator in the J Programming Language[https://code.jsoftware.com/wiki/Vocabulary/quote](https://code.jsoftware.com/wiki/Vocabulary/quote)Advent of Code[https://en.wikipedia.org/wiki/Advent_of_Code](https://en.wikipedia.org/wiki/Advent_of_Code)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))JSON[https://en.wikipedia.org/wiki/JSON](https://en.wikipedia.org/wiki/JSON)Tables and Dictionairies in Goal[[https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/)]([https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/))chap-from-k.html#tables-dictsHelp File for Goal[[https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/)]([https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/))Iverson College[https://iversoncollege.com/](https://iversoncollege.com/)Split in APL[https://aplwiki.com](https://aplwiki.com/)/wiki/SplitQuad VFI in Dyalog APL[http://help.dyalog.com/latest/#Language/System%20Functions/vfi.htm](http://help.dyalog.com/latest/#Language/System%20Functions/vfi.htm)[05] 00:39:52 Fork[https://aplwiki.com](https://aplwiki.com/)/wiki/Train#3-trainsReshape in Goal $[[https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/)]([https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/))chap-help.htmlReshape in J[https://code.jsoftware.com/wiki/Vocabulary/dollar#dyadic](https://code.jsoftware.com/wiki/Vocabulary/dollar#dyadic)Error Datatype in Goal[[https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/)]([https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/))chap-tutorial.html#errorsSQL[https://en.wikipedia.org/wiki/SQL](https://en.wikipedia.org/wiki/SQL)[06] 00:49:14 q Programming Language[https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))lil Programming Language[https://beyondloom.com/decker/lil.html](https://beyondloom.com/decker/lil.html)Decker on the ArrayCast Episode #96[https://www.arraycast.com/episodes/episode96-decker](https://www.arraycast.com/episodes/episode96-decker)APL Farm Discord[https://aplwiki.com](https://aplwiki.com/)/wiki/APL_FarmAssembly Programming[https://en.wikipedia.org/wiki/Assembly_language](https://en.wikipedia.org/wiki/Assembly_language)AVX[https://en.wikipedia.org/wiki/Advanced_Vector_Extensions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)[07] 00:59:04 C Programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))JavaScript Programming Language[https://en.wikipedia.org/wiki/JavaScript](https://en.wikipedia.org/wiki/JavaScript)Extensions for Goal[[https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/)]([https://anaseto.codeberg.page/goal-docs/](https://anaseto.codeberg.page/goal-docs/))chap-writing-an-extension.htmlTools for Goal[https://codeberg.org/anaseto/goal](https://codeberg.org/anaseto/goal)#readme[08] 01:05:26 Family Tree of APL[https://aplwiki.com](https://aplwiki.com/)/wiki/Family_tree_of_array_languagesContact AT ArrayCast DOT Com
+**[01] 00:01:32**
+
+- [ArrrayPortal](https://www.arrayportal.com/)
+- [Tom McGuire's CHATGPT-o2 in J](https://groups.google.com/a/jsoftware.com/g/forum/c/fpmLbIH5YWc)
+- [Marshall Lochbaum on ProgLangCast](https://www.youtube.com/watch?v=mZXZOj3_HKI)
+- [ProgLangCast on the ArrayCast Episode #78](https://www.arraycast.com/episodes/episode78-proglangcast)
+- [Marshall's Tracks on BandCamp](https://lochbaum.bandcamp.com/album/bqn-tracks)
+- [ProgLangCast podcast](https://www.youtube.com/@proglangbase)
+- [Tacit Talk #27 Aaron Hsu and Jon Smith](https://www.youtube.com/watch?v=BIc9iz-n7dM)
+- [Aaron Hsu on Episode 100 of the ArrayCast](https://www.arraycast.com/episodes/episode100-100hsu)
+- [Goal Programming Language](https://aplwiki.com/wiki/Goal)
+- [Goal Source code](https://codeberg.org/anaseto/goal)
+- [Goal REPL](https://anaseto.codeberg.page/try-goal/#)
+- [Goal Docs](https://anaseto.codeberg.page/goal-docs/)
+- [OCaml Programming Language](https://en.wikipedia.org/wiki/OCaml)
+- [Haskell Programming Language](https://en.wikipedia.org/wiki/Haskell)
+- [Perl Programming Language](https://en.wikipedia.org/wiki/Perl)
+- [Lisp Programming Language](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+- [Racket Programming Language](https://en.wikipedia.org/wiki/Racket_(programming_language))
+- [J Programming Language](https://www.jsoftware.com/#/README)
+- [Parts of Speech in J](https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech)
+- [Kona Programming Language](https://aplwiki.com/wiki/Kona)
+- [ngn/k Programming Language](https://aplwiki.com/wiki/Ngn/k)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+
+**[02] 00:13:23**
+
+- [Go Programming Language](https://en.wikipedia.org/wiki/Go_(programming_language))
+- [Ascii Characters](https://en.wikipedia.org/wiki/ASCII)
+- [Rob Pike Episode on the ArrayCast #60](https://www.arraycast.com/episodes/episode60-rob-pike)
+- [Ivy Programming Language](https://pkg.go.dev/robpike.io/ivy)
+- [Reference Counting Memory management](https://en.wikipedia.org/wiki/Reference_counting)
+
+**[03] 00:19:27**
+
+- [Dyalog APL](https://www.dyalog.com/)
+- [APL Programming Language](https://aplwiki.com/)
+- [Java Programming Language](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Atomic Character Strings in Goal](https://anaseto.codeberg.page/goal-docs/)
+- [chap-from-k.html#atomic-strings](https://code.jsoftware.com/wiki/Vocabulary/quote)
+
+**[04] 00:29:18**
+
+- Rank operator in the J Programming Language
+- [Advent of Code](https://en.wikipedia.org/wiki/Advent_of_Code)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [JSON](https://en.wikipedia.org/wiki/JSON)
+- [Tables and Dictionairies in Goal](https://anaseto.codeberg.page/goal-docs/)
+- [chap-from-k.html#tables-dictsHelp File for Goal](https://anaseto.codeberg.page/goal-docs/)
+- [Iverson College](https://iversoncollege.com/)
+- [Split in APL](https://aplwiki.com/)
+- [/wiki/SplitQuad VFI in Dyalog APL](http://help.dyalog.com/latest/#Language/System%20Functions/vfi.htm)
+
+**[05] 00:39:52**
+
+- [Fork](https://aplwiki.com/)
+- [/wiki/Train#3-trainsReshape in Goal $](https://anaseto.codeberg.page/goal-docs/)
+- [chap-help.htmlReshape in J](https://code.jsoftware.com/wiki/Vocabulary/dollar#dyadic)
+- [Error Datatype in Goal](https://anaseto.codeberg.page/goal-docs/)
+- [chap-tutorial.html#errorsSQL](https://en.wikipedia.org/wiki/SQL)
+
+**[06] 00:49:14**
+
+- [q Programming Language](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))
+- [lil Programming Language](https://beyondloom.com/decker/lil.html)
+- [Decker on the ArrayCast Episode #96](https://www.arraycast.com/episodes/episode96-decker)
+- [APL Farm Discord](https://aplwiki.com/)
+- [/wiki/APL_FarmAssembly Programming](https://en.wikipedia.org/wiki/Assembly_language)
+- [AVX](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)
+
+**[07] 00:59:04**
+
+- [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [JavaScript Programming Language](https://en.wikipedia.org/wiki/JavaScript)
+- [Extensions for Goal](https://anaseto.codeberg.page/goal-docs/)
+- [chap-writing-an-extension.htmlTools for Goal](https://codeberg.org/anaseto/goal)
+- [#readme](https://aplwiki.com/)
+
+**[08] 01:05:26**
+
+- Family Tree of APL
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

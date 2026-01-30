@@ -31,3 +31,23 @@ In our twenty-fifth episode, we talk to Vanessa McHale, a polyglot programmer wi
 
 [Original episode on ArrayCast](https://www.arraycast.com/episodes/episode25-vanessa-mchale)
 
+## Show Notes
+
+[Source](https://www.arraycast.com/episode-25-show-notes)
+
+- [https://code.jsoftware.com/wiki/System/Installation#J904_BETA](https://code.jsoftware.com/wiki/System/Installation#J904_BETA)
+- [https://www.acm.org/articles/bulletins/2022/april/50-years-backfile](https://www.acm.org/articles/bulletins/2022/april/50-years-backfile)
+- [https://bqnpad.mechanize.systems/](https://bqnpad.mechanize.systems/)
+- [https://www.tryapl.org/](https://www.tryapl.org/)
+- [https://jsoftware.github.io/j-playground/bin/html/emj.html](https://jsoftware.github.io/j-playground/bin/html/emj.html)
+- [https://www.futhark-lang.org/](https://www.futhark-lang.org/)
+- [https://www.jsoftware.com/#/](https://www.jsoftware.com/#/)
+- [https://en.wikipedia.org/wiki/ATS_(programming_language)](https://en.wikipedia.org/wiki/ATS_(programming_language))
+- [https://en.wikipedia.org/wiki/Idris_(programming_language)](https://en.wikipedia.org/wiki/Idris_(programming_language))
+- [https://www.egison.org/](https://www.egison.org/)
+- [https://www.acceleratehs.org/](https://www.acceleratehs.org/)
+- [https://www.aplwiki.com/wiki/Aplette](https://www.aplwiki.com/wiki/Aplette)
+- [http://vmchale.com](http://vmchale.com/)
+- [https://www.apl.wiki/Jelly](https://www.apl.wiki/Jelly)
+- [https://code.jsoftware.com/wiki/Essays/Incunabulum](https://code.jsoftware.com/wiki/Essays/Incunabulum)
+- [https://www.youtube.com/watch?v=z8MVKianh54](https://www.youtube.com/watch?v=z8MVKianh54)

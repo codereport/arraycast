@@ -32,11 +32,93 @@ On this episode of the ArrayCast our guest is Brandon Wilson.Brandon studied the
 
 ## Show Notes
 
-Array Cast -  January 17, 2025Show Notes
+Array Cast -  January 17, 2025
 
 Thanks to Bob Therriault, Stephen Taylor, Richard Park, and Conor Hoekstra for gathering these links:
 
-[01] 00:01:30 Follow Bob's Account on hachyderm[https://hachyderm.io/@bobtherriault](https://hachyderm.io/@bobtherriault)APL/J/k reddit[https://www.reddit.com/r/apljk/](https://www.reddit.com/r/apljk/)New J wiki look[[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)]([https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home))J Viewer[https://code.jsoftware.com/wiki/J_Viewer](https://code.jsoftware.com/wiki/J_Viewer)Ryan Hamilton on Episode 90 h[https://www.arraycast.com/episodes/episode90-ryanhamilton](https://www.arraycast.com/episodes/episode90-ryanhamilton)TimeStoreed blog post[https://www.timestored.com/b/the-future-of-kdb/](https://www.timestored.com/b/the-future-of-kdb/)q programming language[https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))Ashok Reddy on Episode 94[https://www.arraycast.com/episodes/episode94-kx](https://www.arraycast.com/episodes/episode94-kx)Neil Kanungo blog post[https://kx.com/blog/embracing-a-new-era-kdb-unleashed-for-everyone/](https://kx.com/blog/embracing-a-new-era-kdb-unleashed-for-everyone/)Try out q from KX[https://kx.com/download-kdb/](https://kx.com/download-kdb/)John Earnest on Episode 96[https://www.arraycast.com/episodes/episode96-decker](https://www.arraycast.com/episodes/episode96-decker)AWK as an implementation language[https://en.wikipedia.org/wiki/AWK](https://en.wikipedia.org/wiki/AWK)Iverson College Panel on Episode 87[https://www.arraycast.com/episodes/episode87-iversonsession](https://www.arraycast.com/episodes/episode87-iversonsession)Iverson College Reflections on Episode 89 h[https://www.arraycast.com/episodes/episode89-iversonreflect](https://www.arraycast.com/episodes/episode89-iversonreflect)Dyalog 23 A YAML Parser in APL Video[https://www.youtube.com/watch?v=bb6sIAJjMeM](https://www.youtube.com/watch?v=bb6sIAJjMeM)Dyalog 23 Good, Bad and Ugly Video[https://www.youtube.com/watch?v=J4cg6SV92C4](https://www.youtube.com/watch?v=J4cg6SV92C4)Dyalog 24 Static Analysis of APL Video[https://www.youtube.com/watch?v=cbkQSmjKZ8o](https://www.youtube.com/watch?v=cbkQSmjKZ8o)Dyalog 24 Data Parallel Proof Video[https://www.youtube.com/watch?v=J3dPJeNMM1E](https://www.youtube.com/watch?v=J3dPJeNMM1E)J programming language[[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)]([https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home))Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Notation as a Tool of Thought[https://www.jsoftware.com/papers/tot.htm](https://www.jsoftware.com/papers/tot.htm)Aaron Hsu on Episode 19[https://www.arraycast.com/episodes/episode19-aaron-hsu](https://www.arraycast.com/episodes/episode19-aaron-hsu)APL programming language[https://aplwiki.com/wiki/Main_Page](https://aplwiki.com/wiki/Main_Page)Aaron Hsu Functional Conf 2022[https://functionalconf.com/exploring-functional-programming-coming-from-an-oop-mindset-aaron-hsu/](https://functionalconf.com/exploring-functional-programming-coming-from-an-oop-mindset-aaron-hsu/)[02] 00:13:57 YAML[https://en.wikipedia.org/wiki/YAML](https://en.wikipedia.org/wiki/YAML)Brandon's YAML parser[https://github.com/xelxebar/dayaml](https://github.com/xelxebar/dayaml)Co-Dfns APL compiler[https://github.com/Co-dfns/](https://github.com/Co-dfns/)Flat arrays[https://aplwiki.com/wiki/Box](https://aplwiki.com/wiki/Box)Dfns in APL[https://dfns.dyalog.com]([https://dfns.dyalog.com/](https://dfns.dyalog.com/))Functional programming paradigm[https://en.wikipedia.org/wiki/Functional_programming](https://en.wikipedia.org/wiki/Functional_programming)DAG Directed Acyclic Graph[https://en.wikipedia.org/wiki/Directed_acyclic_graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)Mutual Recursion[https://en.wikipedia.org/wiki/Mutual_recursion](https://en.wikipedia.org/wiki/Mutual_recursion)[03] 00:32:00 NASA[https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)Mathematical Proof[https://en.wikipedia.org/wiki/Mathematical_proof](https://en.wikipedia.org/wiki/Mathematical_proof)[04] 00:40:51 Invariants[https://en.wikipedia.org/wiki/Invariant_(mathematics)#Invariants_in_computer_science](https://en.wikipedia.org/wiki/Invariant_(mathematics)#Invariants_in_computer_science)Stefan Kruger's Learning APL[https://xpqz.github.io/learnapl/intro.html](https://xpqz.github.io/learnapl/intro.html)Stefan Kruger[https://aplwiki.com/wiki/User:Xpqz](https://aplwiki.com/wiki/User:Xpqz)[05] 00:48:07 Scoping[https://en.wikipedia.org/wiki/Scope_(computer_science)](https://en.wikipedia.org/wiki/Scope_(computer_science))Namespaces[https://en.wikipedia.org/wiki/Namespace](https://en.wikipedia.org/wiki/Namespace)Asher Harvey-Smith Tutorial[https://asherbhs.github.io/apl-site/trees/intro.html](https://asherbhs.github.io/apl-site/trees/intro.html)Apter Trees[https://archive.vector.org.uk/art10500340](https://archive.vector.org.uk/art10500340)Stevan Apter on Episode 26[https://www.arraycast.com/episodes/episode26-stevan-apter](https://www.arraycast.com/episodes/episode26-stevan-apter)APLCart[https://aplwiki.com/wiki/APLcart](https://aplwiki.com/wiki/APLcart)[06] 01:01:24 Tradfns[https://aplwiki.com/wiki/Defined_function_(traditional)](https://aplwiki.com/wiki/Defined_function_(traditional))Dynamic Scoping[https://en.wikipedia.org/wiki/Scope_(computer_science)](https://en.wikipedia.org/wiki/Scope_(computer_science))#Dynamic_scopeLexical Scoping[https://en.wikipedia.org/wiki/Scope_(computer_science)](https://en.wikipedia.org/wiki/Scope_(computer_science))#Lexical_scopeArthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))XL to APL2[https://github.com/the-carlisle-group/XL2APL](https://github.com/the-carlisle-group/XL2APL)Josh David on Episode 22[https://www.arraycast.com/episodes/episode22-josh-david](https://www.arraycast.com/episodes/episode22-josh-david)Imperative style programming[https://en.wikipedia.org/wiki/Imperative_programming](https://en.wikipedia.org/wiki/Imperative_programming)BASIC programimg language[https://en.wikipedia.org/wiki/BASIC](https://en.wikipedia.org/wiki/BASIC)Finite State Machine[https://en.wikipedia.org/wiki/Finite-state_machine](https://en.wikipedia.org/wiki/Finite-state_machine)Mel Conway How Committees Invent[https://www.melconway.com/Home/pdf/committees.pdf](https://www.melconway.com/Home/pdf/committees.pdf)[07] 01:10:39 Bag of dfns[https://dfns.dyalog.com]([https://dfns.dyalog.com/](https://dfns.dyalog.com/))/Lamp[https://aplwiki.com/wiki/Comment](https://aplwiki.com/wiki/Comment)Kamila Szewczyk on Episode 74[https://www.arraycast.com/episodes/episode74-kamilalisp](https://www.arraycast.com/episodes/episode74-kamilalisp)Jarvis source code[https://github.com/Dyalog/Jarvis](https://github.com/Dyalog/Jarvis)[08] 01:15:09 JSON[https://en.wikipedia.org/wiki/JSON](https://en.wikipedia.org/wiki/JSON)JQJQ Code[https://github.com/wader/jqjq](https://github.com/wader/jqjq)Contact AT ArrayCast DOT Com
+**[01] 00:01:30**
+
+- [Follow Bob's Account on hachyderm](https://hachyderm.io/@bobtherriault)
+- [APL/J/k reddit](https://www.reddit.com/r/apljk/)
+- [New J wiki look](https://code.jsoftware.com/wiki/Category:Home)
+- [J Viewer](https://code.jsoftware.com/wiki/J_Viewer)
+- [Ryan Hamilton on Episode 90 h](https://www.arraycast.com/episodes/episode90-ryanhamilton)
+- [TimeStoreed blog post](https://www.timestored.com/b/the-future-of-kdb/)
+- [q programming language](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))
+- [Ashok Reddy on Episode 94](https://www.arraycast.com/episodes/episode94-kx)
+- [Neil Kanungo blog post](https://kx.com/blog/embracing-a-new-era-kdb-unleashed-for-everyone/)
+- [Try out q from KX](https://kx.com/download-kdb/)
+- [John Earnest on Episode 96](https://www.arraycast.com/episodes/episode96-decker)
+- [AWK as an implementation language](https://en.wikipedia.org/wiki/AWK)
+- [Iverson College Panel on Episode 87](https://www.arraycast.com/episodes/episode87-iversonsession)
+- [Iverson College Reflections on Episode 89 h](https://www.arraycast.com/episodes/episode89-iversonreflect)
+- [Dyalog 23 A YAML Parser in APL Video](https://www.youtube.com/watch?v=bb6sIAJjMeM)
+- [Dyalog 23 Good, Bad and Ugly Video](https://www.youtube.com/watch?v=J4cg6SV92C4)
+- [Dyalog 24 Static Analysis of APL Video](https://www.youtube.com/watch?v=cbkQSmjKZ8o)
+- [Dyalog 24 Data Parallel Proof Video](https://www.youtube.com/watch?v=J3dPJeNMM1E)
+- [J programming language](https://code.jsoftware.com/wiki/Category:Home)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm)
+- [Aaron Hsu on Episode 19](https://www.arraycast.com/episodes/episode19-aaron-hsu)
+- [APL programming language](https://aplwiki.com/wiki/Main_Page)
+- [Aaron Hsu Functional Conf 2022](https://functionalconf.com/exploring-functional-programming-coming-from-an-oop-mindset-aaron-hsu/)
+
+**[02] 00:13:57**
+
+- [YAML](https://en.wikipedia.org/wiki/YAML)
+- [Brandon's YAML parser](https://github.com/xelxebar/dayaml)
+- [Co-Dfns APL compiler](https://github.com/Co-dfns/)
+- [Flat arrays](https://aplwiki.com/wiki/Box)
+- [Dfns in APL](https://dfns.dyalog.com/)
+- [Functional programming paradigm](https://en.wikipedia.org/wiki/Functional_programming)
+- [DAG Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+- [Mutual Recursion](https://en.wikipedia.org/wiki/Mutual_recursion)
+
+**[03] 00:32:00**
+
+- [NASA](https://en.wikipedia.org/wiki/NASA)
+- [Mathematical Proof](https://en.wikipedia.org/wiki/Mathematical_proof)
+
+**[04] 00:40:51**
+
+- [Invariants](https://en.wikipedia.org/wiki/Invariant_(mathematics))
+- [Stefan Kruger's Learning APL](https://xpqz.github.io/learnapl/intro.html)
+- [Stefan Kruger](https://aplwiki.com/wiki/User:Xpqz)
+
+**[05] 00:48:07**
+
+- [Scoping](https://en.wikipedia.org/wiki/Scope_(computer_science))
+- [Namespaces](https://en.wikipedia.org/wiki/Namespace)
+- [Asher Harvey-Smith Tutorial](https://asherbhs.github.io/apl-site/trees/intro.html)
+- [Apter Trees](https://archive.vector.org.uk/art10500340)
+- [Stevan Apter on Episode 26](https://www.arraycast.com/episodes/episode26-stevan-apter)
+- [APLCart](https://aplwiki.com/wiki/APLcart)
+
+**[06] 01:01:24**
+
+- [Tradfns](https://aplwiki.com/wiki/Defined_function_(traditional))
+- [Dynamic Scoping](https://en.wikipedia.org/wiki/Scope_(computer_science))
+- [#Dynamic_scopeLexical Scoping](https://en.wikipedia.org/wiki/Scope_(computer_science))
+- [#Lexical_scopeArthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [XL to APL2](https://github.com/the-carlisle-group/XL2APL)
+- [Josh David on Episode 22](https://www.arraycast.com/episodes/episode22-josh-david)
+- [Imperative style programming](https://en.wikipedia.org/wiki/Imperative_programming)
+- [BASIC programimg language](https://en.wikipedia.org/wiki/BASIC)
+- [Finite State Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+- [Mel Conway How Committees Invent](https://www.melconway.com/Home/pdf/committees.pdf)
+
+**[07] 01:10:39**
+
+- [Bag of dfns](https://dfns.dyalog.com/)
+- [/Lamp](https://aplwiki.com/wiki/Comment)
+- [Kamila Szewczyk on Episode 74](https://www.arraycast.com/episodes/episode74-kamilalisp)
+- [Jarvis source code](https://github.com/Dyalog/Jarvis)
+
+**[08] 01:15:09**
+
+- [JSON](https://en.wikipedia.org/wiki/JSON)
+- [JQJQ Code](https://github.com/wader/jqjq)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

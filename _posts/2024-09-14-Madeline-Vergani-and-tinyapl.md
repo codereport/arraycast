@@ -34,25 +34,81 @@ Madeline Vergani walks us through the development of her exploratory combinator 
 
 ## Show Notes
 
-Array Cast -  September 13, 2024Show Notes
+Array Cast -  September 13, 2024
 
 Thanks to Bob Therriault and Madeline Vergani for gathering these links:
 
-[01] 00:01:30 tinyapl Programming Language[https://github.com/RubenVerg/tinyapl/blob/main/README.md](https://github.com/RubenVerg/tinyapl/blob/main/README.md)Tacit Talk #4 with Adám Brudzewsky[https://www.youtube.com/watch?v=6LrQithKj8w](https://www.youtube.com/watch?v=6LrQithKj8w)J's Modifier Trains[https://code.jsoftware.com/wiki/Vocabulary/fork#invisiblemodifiers](https://code.jsoftware.com/wiki/Vocabulary/fork#invisiblemodifiers)J Programming Language[https://www.jsoftware.com/#/](https://www.jsoftware.com/#/)Snap! Programming Language[https://en.wikipedia.org/wiki/Snap!_(programming_language)](https://en.wikipedia.org/wiki/Snap!_(programming_language))APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Unicode[https://home.unicode.org](https://home.unicode.org/)APL functional symbols in Snap! Appendix B[https://snap.berkeley.edu/snap/help/SnapManual.pdf](https://snap.berkeley.edu/snap/help/SnapManual.pdf)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))Madeline's Blog[https://blog.rubenverg.com/?tag=tinyapl](https://blog.rubenverg.com/?tag=tinyapl)Bunda-Gerth Parsing[https://dfns.dyalog.com/s_parse.htm](https://dfns.dyalog.com/s_parse.htm)Combinators[https://en.wikipedia.org/wiki/Combinatory_logic](https://en.wikipedia.org/wiki/Combinatory_logic)Mirror Combinator Parrot[https://tinyapl.rubenverg.com/docs/info/combinators](https://tinyapl.rubenverg.com/docs/info/combinators)
+**[01] 00:01:30**
 
-[02] 00:11:00 Dyalog APL Challenge[https://www.dyalog.com/apl-challenge.htm](https://www.dyalog.com/apl-challenge.htm)Array Rank[https://aplwiki.com/wiki/Rank](https://aplwiki.com/wiki/Rank)Nerd Sniped[https://www.explainxkcd.com/wiki/index.php/356:_Nerd_Sniping](https://www.explainxkcd.com/wiki/index.php/356:_Nerd_Sniping)Combinator Birds[https://www.angelfire.com/tx4/cus/combinator/birds.html](https://www.angelfire.com/tx4/cus/combinator/birds.html)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Context Free Grammar[https://en.wikipedia.org/wiki/Context-free_grammar](https://en.wikipedia.org/wiki/Context-free_grammar)BQN Naming Conventions[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/ops.htmlFirst Class Functions[https://aplwiki.com/wiki/First-class_function](https://aplwiki.com/wiki/First-class_function)Trains[https://aplwiki.com/wiki/Train](https://aplwiki.com/wiki/Train)Leading Axis Theory[https://aplwiki.com/wiki/Leading_axis_theory](https://aplwiki.com/wiki/Leading_axis_theory)KAP Programming Language[https://aplwiki.com/wiki/Kap](https://aplwiki.com/wiki/Kap)Kap Episode 72 of ArrayCast[https://www.arraycast.com/episodes/episode72-kap](https://www.arraycast.com/episodes/episode72-kap)Dfns[https://aplwiki.com/wiki/Dfn](https://aplwiki.com/wiki/Dfn)
+- [tinyapl Programming Language](https://github.com/RubenVerg/tinyapl/blob/main/README.md)
+- [Tacit Talk #4 with Adám Brudzewsky](https://www.youtube.com/watch?v=6LrQithKj8w)
+- [J's Modifier Trains](https://code.jsoftware.com/wiki/Vocabulary/fork#invisiblemodifiers)
+- [J Programming Language](https://www.jsoftware.com/#/)
+- [Snap! Programming Language](https://en.wikipedia.org/wiki/Snap!_(programming_language))
+- [APL Programming Language](https://aplwiki.com/)
+- [Unicode](https://home.unicode.org/)
+- [APL functional symbols in Snap! Appendix B](https://snap.berkeley.edu/snap/help/SnapManual.pdf)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Madeline's Blog](https://blog.rubenverg.com/?tag=tinyapl)
+- [Bunda-Gerth Parsing](https://dfns.dyalog.com/s_parse.htm)
+- [Combinators](https://en.wikipedia.org/wiki/Combinatory_logic)
+- [Mirror Combinator Parrot](https://tinyapl.rubenverg.com/docs/info/combinators)
 
-[03] 00:22:00 Nothing in BQN[https://mlochbaum.github.io/BQN/doc/expression.html#nothing](https://mlochbaum.github.io/BQN/doc/expression.html#nothing)tinyap Combinator Trains page[https://tinyapl.rubenverg.com/docs/info/combinators_trains](https://tinyapl.rubenverg.com/docs/info/combinators_trains)dzaima/apl[https://aplwiki.com/wiki/Dzaima/APL](https://aplwiki.com/wiki/Dzaima/APL)Hyperators[https://wiki.nars2000.org/index.php?title=Hyperators](https://wiki.nars2000.org/index.php?title=Hyperators)NARS2000 Programming Language[https://aplwiki.com/wiki/NARS2000](https://aplwiki.com/wiki/NARS2000)NARS2000 Episode 80 of ArrayCast[https://www.arraycast.com/episodes/episode80-nars2000](https://www.arraycast.com/episodes/episode80-nars2000)Implementing NARS2000 Episode 82 of ArrayCast[https://www.arraycast.com/episodes/episode82-nars2000-implementation](https://www.arraycast.com/episodes/episode82-nars2000-implementation)Lev in J[https://code.jsoftware.com/wiki/Vocabulary/squarelfdot](https://code.jsoftware.com/wiki/Vocabulary/squarelfdot)Dex in J[https://code.jsoftware.com/wiki/Vocabulary/squarertdot](https://code.jsoftware.com/wiki/Vocabulary/squarertdot)Ident in J[https://code.jsoftware.com/wiki/Vocabulary/squarertco](https://code.jsoftware.com/wiki/Vocabulary/squarertco)
+**[02] 00:11:00**
 
-[04] 00:31:00 tinyapl Trains h[https://tinyapl.rubenverg.com/docs/info/trains](https://tinyapl.rubenverg.com/docs/info/trains)
+- [Dyalog APL Challenge](https://www.dyalog.com/apl-challenge.htm)
+- [Array Rank](https://aplwiki.com/wiki/Rank)
+- [Nerd Sniped](https://www.explainxkcd.com/wiki/index.php/356:_Nerd_Sniping)
+- [Combinator Birds](https://www.angelfire.com/tx4/cus/combinator/birds.html)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [Context Free Grammar](https://en.wikipedia.org/wiki/Context-free_grammar)
+- [BQN Naming Conventions](https://mlochbaum.github.io/BQN/)
+- [doc/ops.htmlFirst Class Functions](https://aplwiki.com/wiki/First-class_function)
+- [Trains](https://aplwiki.com/wiki/Train)
+- [Leading Axis Theory](https://aplwiki.com/wiki/Leading_axis_theory)
+- [KAP Programming Language](https://aplwiki.com/wiki/Kap)
+- [Kap Episode 72 of ArrayCast](https://www.arraycast.com/episodes/episode72-kap)
+- [Dfns](https://aplwiki.com/wiki/Dfn)
 
-[05] 00:39:08 J forum Modifier Trains[https://www.jsoftware.com/pipermail/programming/2021-December/059394.html](https://www.jsoftware.com/pipermail/programming/2021-December/059394.html)J Hooks[[https://code.jsoftware.com/wiki/Vocabulary/hook](https://code.jsoftware.com/wiki/Vocabulary/hook)]([https://code.jsoftware.com/wiki/Vocabulary/hook](https://code.jsoftware.com/wiki/Vocabulary/hook))Roger Hui's Commentary on Hooks[[https://code.jsoftware.com/wiki/Vocabulary/hook](https://code.jsoftware.com/wiki/Vocabulary/hook)]([https://code.jsoftware.com/wiki/Vocabulary/hook](https://code.jsoftware.com/wiki/Vocabulary/hook))J for C Programmers[https://code.jsoftware.com/wiki/Books/Beginners#J_for_C_Programmers](https://code.jsoftware.com/wiki/Books/Beginners#J_for_C_Programmers)Invisible Modifiers[https://code.jsoftware.com/wiki/Vocabulary/ModifierTrains](https://code.jsoftware.com/wiki/Vocabulary/ModifierTrains)
+**[03] 00:22:00**
 
-[06] 00:52:50 Imperative Program Language Paradigm[https://en.wikipedia.org/wiki/Imperative_programming](https://en.wikipedia.org/wiki/Imperative_programming)
+- [Nothing in BQN](https://mlochbaum.github.io/BQN/doc/expression.html#nothing)
+- [tinyap Combinator Trains page](https://tinyapl.rubenverg.com/docs/info/combinators_trains)
+- [dzaima/apl](https://aplwiki.com/wiki/Dzaima/APL)
+- [Hyperators](https://wiki.nars2000.org/index.php?title=Hyperators)
+- [NARS2000 Programming Language](https://aplwiki.com/wiki/NARS2000)
+- [NARS2000 Episode 80 of ArrayCast](https://www.arraycast.com/episodes/episode80-nars2000)
+- [Implementing NARS2000 Episode 82 of ArrayCast](https://www.arraycast.com/episodes/episode82-nars2000-implementation)
+- [Lev in J](https://code.jsoftware.com/wiki/Vocabulary/squarelfdot)
+- [Dex in J](https://code.jsoftware.com/wiki/Vocabulary/squarertdot)
+- [Ident in J](https://code.jsoftware.com/wiki/Vocabulary/squarertco)
 
-[07] 01:02:10 Total Array Ordering page in tinyapl[https://tinyapl.rubenverg.com/docs/info/ordering](https://tinyapl.rubenverg.com/docs/info/ordering)TAO Axioms paper[https://www.jsoftware.com/papers/TAOaxioms.htm](https://www.jsoftware.com/papers/TAOaxioms.htm)Keyboard Image for tinyapl[https://tinyapl.rubenverg.com/run/latest/](https://tinyapl.rubenverg.com/run/latest/)
+**[04] 00:31:00**
 
-[08] 01:09:34 Omnibar[https://omnibar.rubenverg.com/?ig=true&in=true](https://omnibar.rubenverg.com/?ig=true&in=true)Contact AT ArrayCast DOT Com
+- [tinyapl Trains h](https://tinyapl.rubenverg.com/docs/info/trains)
+
+**[05] 00:39:08**
+
+- [J forum Modifier Trains](https://www.jsoftware.com/pipermail/programming/2021-December/059394.html)
+- [J Hooks](https://code.jsoftware.com/wiki/Vocabulary/hook)
+- [Roger Hui's Commentary on Hooks](https://code.jsoftware.com/wiki/Vocabulary/hook)
+- [J for C Programmers](https://code.jsoftware.com/wiki/Books/Beginners#J_for_C_Programmers)
+- [Invisible Modifiers](https://code.jsoftware.com/wiki/Vocabulary/ModifierTrains)
+
+**[06] 00:52:50**
+
+- [Imperative Program Language Paradigm](https://en.wikipedia.org/wiki/Imperative_programming)
+
+**[07] 01:02:10**
+
+- [Total Array Ordering page in tinyapl](https://tinyapl.rubenverg.com/docs/info/ordering)
+- [TAO Axioms paper](https://www.jsoftware.com/papers/TAOaxioms.htm)
+- [Keyboard Image for tinyapl](https://tinyapl.rubenverg.com/run/latest/)
+
+**[08] 01:09:34**
+
+- [Omnibar](https://omnibar.rubenverg.com/?ig=true&in=true)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

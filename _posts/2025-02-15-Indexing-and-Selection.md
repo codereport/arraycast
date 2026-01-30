@@ -31,27 +31,99 @@ Selecting elements from arrays is foundational for the array languages. This epi
 
 ## Show Notes
 
-Array Cast -  February 14, 2025Show Notes
+Array Cast -  February 14, 2025
 
 Thanks to Bob Therriault, Adám Brudzewsky,  and Conor Hoekstra for gathering these links:
 
-[01] 00:01:22 Dyalog APL Challenge[https://challenge.dyalog.com/](https://challenge.dyalog.com/)Functional Conf Aaron Hsu[https://confengine.com/conferences/functional-conf-2025/proposal/21312/designing-your-data-the-bread-and-butter-of-apl-performance](https://confengine.com/conferences/functional-conf-2025/proposal/21312/designing-your-data-the-bread-and-butter-of-apl-performance)DYNA New York Meetup[https://dyna.dyalog.com](https://dyna.dyalog.com/)TacitTalk #16[https://tacittalk.com/2025/02/05/Episode-16.html](https://tacittalk.com/2025/02/05/Episode-16.html)TacitTalk #17[https://tacittalk.com/2025/02/08/Episode-17.html](https://tacittalk.com/2025/02/08/Episode-17.html)TacitTalk #18[https://tacittalk.com/2025/02/11/Episode-18.html](https://tacittalk.com/2025/02/11/Episode-18.html)A Personal View of APL[https://www.jsoftware.com/papers/APLPersonalView.htm](https://www.jsoftware.com/papers/APLPersonalView.htm)Ken Iverson[https://aplwiki.com/wiki/Ken_Iverson](https://aplwiki.com/wiki/Ken_Iverson)Speechify[https://en.wikipedia.org/wiki/Speechify](https://en.wikipedia.org/wiki/Speechify)The Evolution of APL Iverson[https://www.jsoftware.com/papers/APLEvol.htm](https://www.jsoftware.com/papers/APLEvol.htm)Ken Iverson Episode on the ArrayCast[https://www.arraycast.com/episodes/episode92-iverson](https://www.arraycast.com/episodes/episode92-iverson)
+**[01] 00:01:22**
 
-[02] 00:10:15 A Programming Language[https://www.jsoftware.com/papers/APL.htm](https://www.jsoftware.com/papers/APL.htm)APL Programming Language[https://aplwiki.com/wiki/Main_Page](https://aplwiki.com/wiki/Main_Page)Adin Falkoff[https://aplwiki.com/wiki/Adin_Falkoff](https://aplwiki.com/wiki/Adin_Falkoff)Phil Abrams[https://aplwiki.com/wiki/Phil_Abrams](https://aplwiki.com/wiki/Phil_Abrams)C programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))Algol Programming Language[https://en.wikipedia.org/wiki/Algol](https://en.wikipedia.org/wiki/Algol)Index Origin[[https://aplwiki.com/wiki/Index](https://aplwiki.com/wiki/Index)_origin]([https://aplwiki.com/wiki/Index](https://aplwiki.com/wiki/Index)_origin)q Programming Language[https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))Bracket Indexing[https://aplwiki.com/wiki/Bracket_indexing](https://aplwiki.com/wiki/Bracket_indexing)Index[https://aplwiki.com/wiki/Index](https://aplwiki.com/wiki/Index)Outer Product[https://aplwiki.com/wiki/Outer_Product](https://aplwiki.com/wiki/Outer_Product)Scalar Values[https://aplwiki.com/wiki/Scalar](https://aplwiki.com/wiki/Scalar)Enclose[https://aplwiki.com/wiki/Enclose](https://aplwiki.com/wiki/Enclose)Scatter Point Indexing[https://aplwiki.com/wiki/Index](https://aplwiki.com/wiki/Index)ing#Non-rectangular_indexingReach Indexing enclosures[https://aplwiki.com/wiki/Index](https://aplwiki.com/wiki/Index)ing#Deep_indexingNARS 2000 Programming Language[http://www.nars2000.org](http://www.nars2000.org/)NARS 2000 Episode 1 on the ArrayCast[https://www.arraycast.com/episodes/episode80-nars2000](https://www.arraycast.com/episodes/episode80-nars2000)NARS 2000 Episode 2 on the ArrayCast[https://www.arraycast.com/episodes/episode82-nars2000-implementation](https://www.arraycast.com/episodes/episode82-nars2000-implementation)Quad[https://aplwiki.com/wiki/Quad_name](https://aplwiki.com/wiki/Quad_name)Squad - Squished Quad[https://aplwiki.com/wiki/Index](https://aplwiki.com/wiki/Index)_(function)a: Ace in J[https://code.jsoftware.com/wiki/Vocabulary/aco](https://code.jsoftware.com/wiki/Vocabulary/aco)Leading Axis Theory[https://aplwiki.com/wiki/Leading_axis_theory](https://aplwiki.com/wiki/Leading_axis_theory)
+- [Dyalog APL Challenge](https://challenge.dyalog.com/)
+- [Functional Conf Aaron Hsu](https://confengine.com/conferences/functional-conf-2025/proposal/21312/designing-your-data-the-bread-and-butter-of-apl-performance)
+- [DYNA New York Meetup](https://dyna.dyalog.com/)
+- [TacitTalk #16](https://tacittalk.com/2025/02/05/Episode-16.html)
+- [TacitTalk #17](https://tacittalk.com/2025/02/08/Episode-17.html)
+- [TacitTalk #18](https://tacittalk.com/2025/02/11/Episode-18.html)
+- [A Personal View of APL](https://www.jsoftware.com/papers/APLPersonalView.htm)
+- [Ken Iverson](https://aplwiki.com/wiki/Ken_Iverson)
+- [Speechify](https://en.wikipedia.org/wiki/Speechify)
+- [The Evolution of APL Iverson](https://www.jsoftware.com/papers/APLEvol.htm)
+- [Ken Iverson Episode on the ArrayCast](https://www.arraycast.com/episodes/episode92-iverson)
 
-[03] 00:30:47[TryAPL.org](http://tryapl.org/)[https://tryapl.org/](https://tryapl.org/)Indexing[https://aplwiki.com/wiki/Indexing](https://aplwiki.com/wiki/Indexing)Pick[https://aplwiki.com/wiki/Pick](https://aplwiki.com/wiki/Pick)Select[https://aplwiki.com/wiki/From](https://aplwiki.com/wiki/From)Kap Programming Language[[https://aplwiki.com/wiki/K](https://aplwiki.com/wiki/K)ap]([https://aplwiki.com/wiki/K](https://aplwiki.com/wiki/K)ap)J Programming Language[https://www.jsoftware.com/#/](https://www.jsoftware.com/#/)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)k Programming Language[https://aplwiki.com/wiki/K](https://aplwiki.com/wiki/K)Base function APL[https://aplwiki.com/wiki/Decode](https://aplwiki.com/wiki/Decode)
+**[02] 00:10:15**
 
-[04] 00:42:13 Dictionaries in q[https://aplwiki.com/wiki/Group_(K)](https://aplwiki.com/wiki/Group_(K))Tali Beynon Episode 1 on the ArrayCast[https://www.arraycast.com/episodes/episode66-tali-beynon](https://www.arraycast.com/episodes/episode66-tali-beynon)Tali Beynon Episode 2 on the ArrayCast[https://www.arraycast.com/episodes/episode67-tali-beynon-rainbow](https://www.arraycast.com/episodes/episode67-tali-beynon-rainbow)Adám's Fizz BuzzFizzBuzz ← (⊣/,⍤0 1∘'Fizz' 'Buzz' 'FizzBuzz'⌽⍨2⊥0=5 3∘.|⊢)⍳[https://tryapl.org/?clear&q=FizzBuzz%20←%20(⊣%2F%2C⍤0%201∘%27Fizz%27%20%27Buzz%27%20%27FizzBuzz%27⌽⍨2⊥0%3D5%203∘.%7C⊢)⍳%20⋄%20FizzBuzz%2020&run](https://tryapl.org/?clear&q=FizzBuzz%20←%20(⊣%2F%2C⍤0%201∘%27Fizz%27%20%27Buzz%27%20%27FizzBuzz%27⌽⍨2⊥0%3D5%203∘.%7C⊢)⍳%20⋄%20FizzBuzz%2020&run)Case Selection Function[https://aplwiki.com/wiki/Case](https://aplwiki.com/wiki/Case)
+- [A Programming Language](https://www.jsoftware.com/papers/APL.htm)
+- [APL Programming Language](https://aplwiki.com/wiki/Main_Page)
+- [Adin Falkoff](https://aplwiki.com/wiki/Adin_Falkoff)
+- [Phil Abrams](https://aplwiki.com/wiki/Phil_Abrams)
+- [C programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Algol Programming Language](https://en.wikipedia.org/wiki/Algol)
+- [Index Origin](https://aplwiki.com/wiki/Index/_origin)
+- [q Programming Language](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))
+- [Bracket Indexing](https://aplwiki.com/wiki/Bracket_indexing)
+- [Index](https://aplwiki.com/wiki/Index)
+- [Outer Product](https://aplwiki.com/wiki/Outer_Product)
+- [Scalar Values](https://aplwiki.com/wiki/Scalar)
+- [Enclose](https://aplwiki.com/wiki/Enclose)
+- [Scatter Point Indexing](https://aplwiki.com/wiki/Index)
+- [ing#Non-rectangular_indexingReach Indexing enclosures](https://aplwiki.com/wiki/Index)
+- [ing#Deep_indexingNARS 2000 Programming Language](http://www.nars2000.org/)
+- [NARS 2000 Episode 1 on the ArrayCast](https://www.arraycast.com/episodes/episode80-nars2000)
+- [NARS 2000 Episode 2 on the ArrayCast](https://www.arraycast.com/episodes/episode82-nars2000-implementation)
+- [Quad](https://aplwiki.com/wiki/Quad_name)
+- [Squad - Squished Quad](https://aplwiki.com/wiki/Index)
+- [_(function)a: Ace in J](https://code.jsoftware.com/wiki/Vocabulary/aco)
+- [Leading Axis Theory](https://aplwiki.com/wiki/Leading_axis_theory)
 
-[05] 00:51:38 Rotate Function[https://mlochbaum.github.io/BQN/help/reverse_rotate.html](https://mlochbaum.github.io/BQN/help/reverse_rotate.html)Selective Assignment[https://aplwiki.com/wiki/Selective_assignment](https://aplwiki.com/wiki/Selective_assignment)Paul Mansour's High Rank Arrays[https://www.toolofthought.com/posts/high-rank-arrays](https://www.toolofthought.com/posts/high-rank-arrays)Array Strides[https://en.wikipedia.org/wiki/Stride_of_an_array](https://en.wikipedia.org/wiki/Stride_of_an_array)
+**[03] 00:30:47**
 
-[06] 01:02:14 Street Grids[https://en.wikipedia.org/wiki/Grid_plan](https://en.wikipedia.org/wiki/Grid_plan)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))A+ Programming Language[https://aplwiki.com/wiki/A%2B](https://aplwiki.com/wiki/A%2B)
+- [TryAPL.org](http://tryapl.org/)
+- [tryapl.org](https://tryapl.org/)
+- [Indexing](https://aplwiki.com/wiki/Indexing)
+- [Pick](https://aplwiki.com/wiki/Pick)
+- [Select](https://aplwiki.com/wiki/From)
+- [Kap Programming Language](https://aplwiki.com/wiki/K/ap)
+- [J Programming Language](https://www.jsoftware.com/#/)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [k Programming Language](https://aplwiki.com/wiki/K)
+- [Base function APL](https://aplwiki.com/wiki/Decode)
 
-[07] 01:09:20 Fonts[https://aplwiki.com/wiki/Fonts](https://aplwiki.com/wiki/Fonts)APL386[https://abrudz.github.io/APL386](https://abrudz.github.io/APL386)
+**[04] 00:42:13**
 
-[08] 01:17:56 Brandon Wilson Episode on the ArrayCast[https://www.arraycast.com/episodes/episode97-brandon-wilson](https://www.arraycast.com/episodes/episode97-brandon-wilson)Uiua Programming Language[https://www.uiua.org/](https://www.uiua.org/)Behind[https://aplwiki.com/wiki/Reverse_Compose](https://aplwiki.com/wiki/Reverse_Compose)
+- [Dictionaries in q](https://aplwiki.com/wiki/Group_(K))
+- [Tali Beynon Episode 1 on the ArrayCast](https://www.arraycast.com/episodes/episode66-tali-beynon)
+- [Tali Beynon Episode 2 on the ArrayCast](https://www.arraycast.com/episodes/episode67-tali-beynon-rainbow)
+- [Adám's Fizz BuzzFizzBuzz ← (⊣/,⍤0 1∘'Fizz' 'Buzz' 'FizzBuzz'⌽⍨2⊥0=5 3∘.|⊢)⍳](https://tryapl.org/?clear&q=FizzBuzz%20←%20(⊣%2F%2C⍤0%201∘%27Fizz%27%20%27Buzz%27%20%27FizzBuzz%27⌽⍨2⊥0%3D5%203∘.%7C⊢))⍳%20⋄%20FizzBuzz%2020&run)
+- [Case Selection Function](https://aplwiki.com/wiki/Case)
 
-[09] 01:23:24 TinyAPL Programming Language[https://github.com/RubenVerg/tinyapl/blob/main/README.md](https://github.com/RubenVerg/tinyapl/blob/main/README.md)Madelaine Vergani Episode on The ArrayCast[https://www.arraycast.com/episodes/episode88-tinyapl](https://www.arraycast.com/episodes/episode88-tinyapl)Contact AT ArrayCast DOT Com
+**[05] 00:51:38**
+
+- [Rotate Function](https://mlochbaum.github.io/BQN/help/reverse_rotate.html)
+- [Selective Assignment](https://aplwiki.com/wiki/Selective_assignment)
+- [Paul Mansour's High Rank Arrays](https://www.toolofthought.com/posts/high-rank-arrays)
+- [Array Strides](https://en.wikipedia.org/wiki/Stride_of_an_array)
+
+**[06] 01:02:14**
+
+- [Street Grids](https://en.wikipedia.org/wiki/Grid_plan)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [A+ Programming Language](https://aplwiki.com/wiki/A%2B)
+
+**[07] 01:09:20**
+
+- [Fonts](https://aplwiki.com/wiki/Fonts)
+- [APL386](https://abrudz.github.io/APL386)
+
+**[08] 01:17:56**
+
+- [Brandon Wilson Episode on the ArrayCast](https://www.arraycast.com/episodes/episode97-brandon-wilson)
+- [Uiua Programming Language](https://www.uiua.org/)
+- [Behind](https://aplwiki.com/wiki/Reverse_Compose)
+
+**[09] 01:23:24**
+
+- [TinyAPL Programming Language](https://github.com/RubenVerg/tinyapl/blob/main/README.md)
+- [Madelaine Vergani Episode on The ArrayCast](https://www.arraycast.com/episodes/episode88-tinyapl)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

@@ -34,25 +34,119 @@ Julia - an Array LanguageOur guest is Miguel Raz (@miguelraz) an advocate for th
 
 ## Show Notes
 
-Array Cast -  April 11, 2025Show Notes
+Array Cast -  April 11, 2025
 
 Thanks to Bob Therriault, Conor Hoekstra, Miguel Raz, and Marshall Lochbaum for gathering these links:
 
-[01] 00:01:52 J9.7 Beta[https://code.jsoftware.com/wiki/System/Installation/J9.7](https://code.jsoftware.com/wiki/System/Installation/J9.7)Array Portal[https://www.arrayportal.com](https://www.arrayportal.com/)Matlab on ArrayCast Episode 79[https://www.arraycast.com/episodes/episode79-matlab](https://www.arraycast.com/episodes/episode79-matlab)R with Paul Teetor on ArrayCast Episode 86[https://www.arraycast.com/episodes/episode86-paulteetor](https://www.arraycast.com/episodes/episode86-paulteetor)Episode 15 of Talk Julia podcast[https://www.youtube.com/watch?v=FsWAms973Qs](https://www.youtube.com/watch?v=FsWAms973Qs)Other Julia podcasts[[https://juliahub.com](https://juliahub.com/)/company/media/podcasts]([https://juliahub.com](https://juliahub.com/)/company/media/podcasts)Julia Programming language[https://julialang.org](https://julialang.org/)JuliaHub[https://juliahub.com](https://juliahub.com/)Julia Community[https://julialang.org](https://julialang.org/)/community/Jeff Bezanson[https://en.wikipedia.org/wiki/Jeff_Bezanson](https://en.wikipedia.org/wiki/Jeff_Bezanson)Busy Town Reading Game[https://www.youtube.com/watch?v=QdW6IWcvycU](https://www.youtube.com/watch?v=QdW6IWcvycU)Learn Python the Hard Way[https://www.google.ca/books/edition/Learn_Python_the_Hard_Way/CfcEAQAAQBAJ](https://www.google.ca/books/edition/Learn_Python_the_Hard_Way/CfcEAQAAQBAJ)Fortran 77 Programming Language[https://en.wikipedia.org/wiki/Fortran#FORTRAN_77](https://en.wikipedia.org/wiki/Fortran#FORTRAN_77)Stefan Karpinski[https://en.wikipedia.org/wiki/Stefan_Karpinski](https://en.wikipedia.org/wiki/Stefan_Karpinski)Alan Edelman[https://en.wikipedia.org/wiki/Alan_Edelman](https://en.wikipedia.org/wiki/Alan_Edelman)Miguel Alcubierre[https://en.wikipedia.org/wiki/Miguel_Alcubierre](https://en.wikipedia.org/wiki/Miguel_Alcubierre)Miguel Alcubierre Warp Drive[https://en.wikipedia.org/wiki/Alcubierre_drive](https://en.wikipedia.org/wiki/Alcubierre_drive)FPM Fortran Package Manager[https://fpm.fortran-lang.org](https://fpm.fortran-lang.org/)
+**[01] 00:01:52**
 
-[02] 00:14:48 Code_Report Videos with Conor[https://www.youtube.com/codereport](https://www.youtube.com/codereport)Matlab Programming Language[https://en.wikipedia.org/wiki/MATLAB](https://en.wikipedia.org/wiki/MATLAB)Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))JavaScript Programming Language[https://en.wikipedia.org/wiki/JavaScript](https://en.wikipedia.org/wiki/JavaScript)Perl Programming Language[https://en.wikipedia.org/wiki/Perl](https://en.wikipedia.org/wiki/Perl)Julia Package Manager[https://julialang.org/packages/](https://julialang.org/packages/)JIT Compiler[https://en.wikipedia.org/wiki/Just-in-time_compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)Dynamically Typing[https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information)Java Programming Language[https://en.wikipedia.org/wiki/Java_(programming_language)](https://en.wikipedia.org/wiki/Java_(programming_language))Erlang Programming Language[https://en.wikipedia.org/wiki/Erlang_(programming_language)](https://en.wikipedia.org/wiki/Erlang_(programming_language))Ada Programming Language[https://en.wikipedia.org/wiki/Ada_(programming_language)](https://en.wikipedia.org/wiki/Ada_(programming_language))Rust Programming Language[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))C Programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))Lisp Programming Language[https://en.wikipedia.org/wiki/Lisp_(programming_language)](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+- [J9.7 Beta](https://code.jsoftware.com/wiki/System/Installation/J9.7)
+- [Array Portal](https://www.arrayportal.com/)
+- [Matlab on ArrayCast Episode 79](https://www.arraycast.com/episodes/episode79-matlab)
+- [R with Paul Teetor on ArrayCast Episode 86](https://www.arraycast.com/episodes/episode86-paulteetor)
+- [Episode 15 of Talk Julia podcast](https://www.youtube.com/watch?v=FsWAms973Qs)
+- [Other Julia podcasts](https://juliahub.com/company/media/podcasts)
+- [Julia Programming language](https://julialang.org/)
+- [JuliaHub](https://juliahub.com/)
+- [Julia Community](https://julialang.org/)
+- [/community/Jeff Bezanson](https://en.wikipedia.org/wiki/Jeff_Bezanson)
+- [Busy Town Reading Game](https://www.youtube.com/watch?v=QdW6IWcvycU)
+- [Learn Python the Hard Way](https://www.google.ca/books/edition/Learn_Python_the_Hard_Way/CfcEAQAAQBAJ)
+- [Fortran 77 Programming Language](https://en.wikipedia.org/wiki/Fortran#FORTRAN_77)
+- [Stefan Karpinski](https://en.wikipedia.org/wiki/Stefan_Karpinski)
+- [Alan Edelman](https://en.wikipedia.org/wiki/Alan_Edelman)
+- [Miguel Alcubierre](https://en.wikipedia.org/wiki/Miguel_Alcubierre)
+- [Miguel Alcubierre Warp Drive](https://en.wikipedia.org/wiki/Alcubierre_drive)
+- [FPM Fortran Package Manager](https://fpm.fortran-lang.org/)
 
-[03] 00:25:55 Aaron Hsu on ArrayCast Episode 100[https://www.arraycast.com/episodes/episode100-100hsu](https://www.arraycast.com/episodes/episode100-100hsu)Linear Algebra[https://en.wikipedia.org/wiki/Linear_algebra](https://en.wikipedia.org/wiki/Linear_algebra)Householder Transformation for Linear Algebra[https://en.wikipedia.org/wiki/Householder_transformation](https://en.wikipedia.org/wiki/Householder_transformation)Inner Product[https://aplwiki.com/wiki/Inner_Product](https://aplwiki.com/wiki/Inner_Product)Outer Product[https://aplwiki.com/wiki/Outer_Product](https://aplwiki.com/wiki/Outer_Product)Hamming Distance[https://en.wikipedia.org/wiki/Hamming_distance](https://en.wikipedia.org/wiki/Hamming_distance)Julia Slack[https://julialang.org/slack/](https://julialang.org/slack/)Performance Help Desk[https://docs.julialang.org/en/v1/manual/performance-tips/#man-performance-tips](https://docs.julialang.org/en/v1/manual/performance-tips/#man-performance-tips)APL Farm Discord[https://discord.com/invite/yHna7nt7zx](https://discord.com/invite/yHna7nt7zx)Multiple Dispatch in Julia[https://docs.julialang.org/en/v1/manual/methods/](https://docs.julialang.org/en/v1/manual/methods/)The Unreasonable Effectiveness of Multiple Dispatch Stefan Karpinski[https://www.youtube.com/watch?v=kc9HwsxE1OY](https://www.youtube.com/watch?v=kc9HwsxE1OY)Sussman and Abelson MIT course on Lisp[https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005)
+**[02] 00:14:48**
 
-[04] 00:35:54 APL Programming Language[https://aplwiki.com](https://aplwiki.com/)J Programming Language[https://www.jsoftware.com/#/](https://www.jsoftware.com/#/)Marshall Lochbaum's Interpretive Advantage Talk[https://www.youtube.com/watch?v=-6no6N3i9Tg](https://www.youtube.com/watch?v=-6no6N3i9Tg)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Julia Base Library[https://docs.julialang.org/en/v1/base/base/](https://docs.julialang.org/en/v1/base/base/)Implementation Notes for BQN[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)implementation/index.html
+- [Code_Report Videos with Conor](https://www.youtube.com/codereport)
+- [Matlab Programming Language](https://en.wikipedia.org/wiki/MATLAB)
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [JavaScript Programming Language](https://en.wikipedia.org/wiki/JavaScript)
+- [Perl Programming Language](https://en.wikipedia.org/wiki/Perl)
+- [Julia Package Manager](https://julialang.org/packages/)
+- [JIT Compiler](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+- [Dynamically Typing](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information)
+- [Java Programming Language](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Erlang Programming Language](https://en.wikipedia.org/wiki/Erlang_(programming_language))
+- [Ada Programming Language](https://en.wikipedia.org/wiki/Ada_(programming_language))
+- [Rust Programming Language](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Lisp Programming Language](https://en.wikipedia.org/wiki/Lisp_(programming_language))
 
-[05] 00:45:52 4X4 Transpose[https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html#text=_MM_TRANSPOSE4_PS&ig_expand=6889](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html#text=_MM_TRANSPOSE4_PS&ig_expand=6889)FFTW Fastest Fourier Transform of the West[https://www.fftw.org](https://www.fftw.org/)Stephen G. Johnson Creator of FFTW[https://math.mit.edu/~stevenj/](https://math.mit.edu/~stevenj/)Alan Perlis Quote #19[https://www.cs.yale.edu/homes/perlis-alan/quotes.html](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)SIMD Processing[https://en.wikipedia.org/wiki/Single_instruction,_multiple_data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)GPU programming in Julia by Tim Besard[https://www.youtube.com/watch?v=Q8fj8QbVpZM](https://www.youtube.com/watch?v=Q8fj8QbVpZM)GPU Processing[https://en.wikipedia.org/wiki/Graphics_processing_unit](https://en.wikipedia.org/wiki/Graphics_processing_unit)Aaron Hsu's Codfns Thesis[https://github.com/Co-dfns/](https://github.com/Co-dfns/)Zig Programming Language[https://en.wikipedia.org/wiki/Zig_(programming_language)](https://en.wikipedia.org/wiki/Zig_(programming_language))Futhark Programming Language[https://en.wikipedia.org/wiki/Futhark_(programming_language)](https://en.wikipedia.org/wiki/Futhark_(programming_language))Futhark on the ArrayCast Episode #37[https://www.arraycast.com/episodes/episode37-futhark](https://www.arraycast.com/episodes/episode37-futhark)Philip Wadler 1988 How to make Polymorphism[https://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf](https://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)Parametric Polymorphism[https://en.wikipedia.org/wiki/Parametric_polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism)Ad hoc Polymorphism[https://en.wikipedia.org/wiki/Ad_hoc_polymorphism](https://en.wikipedia.org/wiki/Ad_hoc_polymorphism)
+**[03] 00:25:55**
 
-[06] 00:56:22 Object Oriented Programming[https://en.wikipedia.org/wiki/Object-oriented_programming](https://en.wikipedia.org/wiki/Object-oriented_programming)Harold Abelson[https://en.wikipedia.org/wiki/Hal_Abelson](https://en.wikipedia.org/wiki/Hal_Abelson)Meta-Programming in Julia[https://docs.julialang.org/en/v1/manual/metaprogramming/](https://docs.julialang.org/en/v1/manual/metaprogramming/)C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Aaron Hsu on ArrayCast Episode 100](https://www.arraycast.com/episodes/episode100-100hsu)
+- [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+- [Householder Transformation for Linear Algebra](https://en.wikipedia.org/wiki/Householder_transformation)
+- [Inner Product](https://aplwiki.com/wiki/Inner_Product)
+- [Outer Product](https://aplwiki.com/wiki/Outer_Product)
+- [Hamming Distance](https://en.wikipedia.org/wiki/Hamming_distance)
+- [Julia Slack](https://julialang.org/slack/)
+- [Performance Help Desk](https://docs.julialang.org/en/v1/manual/performance-tips/#man-performance-tips)
+- [APL Farm Discord](https://discord.com/invite/yHna7nt7zx)
+- [Multiple Dispatch in Julia](https://docs.julialang.org/en/v1/manual/methods/)
+- [The Unreasonable Effectiveness of Multiple Dispatch Stefan Karpinski](https://www.youtube.com/watch?v=kc9HwsxE1OY)
+- [Sussman and Abelson MIT course on Lisp](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005)
 
-[07] 01:06:39 Stephen G. Johnson Metaprogramming keynote at JuliaCon[https://www.youtube.com/watch?v=mSgXWpvQEHE](https://www.youtube.com/watch?v=mSgXWpvQEHE)Domain Specific Language  (DSL)[https://en.wikipedia.org/wiki/Domain-specific_language](https://en.wikipedia.org/wiki/Domain-specific_language)IDL Astronomy Languages[https://en.wikipedia.org/wiki/IDL_(programming_language)](https://en.wikipedia.org/wiki/IDL_(programming_language))Stan Statistics Language[https://en.wikipedia.org/wiki/Stan_(software)](https://en.wikipedia.org/wiki/Stan_(software))Algol Programming Language[https://en.wikipedia.org/wiki/ALGOL](https://en.wikipedia.org/wiki/ALGOL)Go Programming Language[https://en.wikipedia.org/wiki/Go_(programming_language)](https://en.wikipedia.org/wiki/Go_(programming_language))
+**[04] 00:35:54**
 
-[08] 01:14:11 Hillel Wayne's Blog[https://www.hillelwayne.com/post/](https://www.hillelwayne.com/post/)Pytorch Library[https://en.wikipedia.org/wiki/PyTorch](https://en.wikipedia.org/wiki/PyTorch)Tensorflow Library[https://en.wikipedia.org/wiki/TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)The Julia Dispatch Podcast[https://www.youtube.com/@JuliaDispatch](https://www.youtube.com/@JuliaDispatch)JuliaCon[https://juliacon.org/2025/](https://juliacon.org/2025/)APL Implementation in Julia Sashi Gowda[https://aplwiki.com/wiki/APL.jl](https://aplwiki.com/wiki/APL.jl)Gilbert Strang[https://en.wikipedia.org/wiki/Gilbert_Strang](https://en.wikipedia.org/wiki/Gilbert_Strang)Viral B. Shah[https://en.wikipedia.org/wiki/Viral_B._Shah](https://en.wikipedia.org/wiki/Viral_B._Shah)JuliaCon Videos[https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC)Dan Bricklin on the ArrayCast Episode 101[https://www.arraycast.com/episodes/episode101-bricklin](https://www.arraycast.com/episodes/episode101-bricklin)Contact AT ArrayCast DOT Com
+- [APL Programming Language](https://aplwiki.com/)
+- [J Programming Language](https://www.jsoftware.com/#/)
+- [Marshall Lochbaum's Interpretive Advantage Talk](https://www.youtube.com/watch?v=-6no6N3i9Tg)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [Julia Base Library](https://docs.julialang.org/en/v1/base/base/)
+- [Implementation Notes for BQN](https://mlochbaum.github.io/BQN/)
+- implementation/index.html
+
+**[05] 00:45:52**
+
+- [4X4 Transpose](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html#text=_MM_TRANSPOSE4_PS&ig_expand=6889)
+- [FFTW Fastest Fourier Transform of the West](https://www.fftw.org/)
+- [Stephen G. Johnson Creator of FFTW](https://math.mit.edu/~stevenj/)
+- [Alan Perlis Quote #19](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+- [SIMD Processing](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)
+- [GPU programming in Julia by Tim Besard](https://www.youtube.com/watch?v=Q8fj8QbVpZM)
+- [GPU Processing](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+- [Aaron Hsu's Codfns Thesis](https://github.com/Co-dfns/)
+- [Zig Programming Language](https://en.wikipedia.org/wiki/Zig_(programming_language))
+- [Futhark Programming Language](https://en.wikipedia.org/wiki/Futhark_(programming_language))
+- [Futhark on the ArrayCast Episode #37](https://www.arraycast.com/episodes/episode37-futhark)
+- [Philip Wadler 1988 How to make Polymorphism](https://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)
+- [Parametric Polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism)
+- [Ad hoc Polymorphism](https://en.wikipedia.org/wiki/Ad_hoc_polymorphism)
+
+**[06] 00:56:22**
+
+- [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- [Harold Abelson](https://en.wikipedia.org/wiki/Hal_Abelson)
+- [Meta-Programming in Julia](https://docs.julialang.org/en/v1/manual/metaprogramming/)
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+
+**[07] 01:06:39**
+
+- [Stephen G. Johnson Metaprogramming keynote at JuliaCon](https://www.youtube.com/watch?v=mSgXWpvQEHE)
+- [Domain Specific Language  (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language)
+- [IDL Astronomy Languages](https://en.wikipedia.org/wiki/IDL_(programming_language))
+- [Stan Statistics Language](https://en.wikipedia.org/wiki/Stan_(software))
+- [Algol Programming Language](https://en.wikipedia.org/wiki/ALGOL)
+- [Go Programming Language](https://en.wikipedia.org/wiki/Go_(programming_language))
+
+**[08] 01:14:11**
+
+- [Hillel Wayne's Blog](https://www.hillelwayne.com/post/)
+- [Pytorch Library](https://en.wikipedia.org/wiki/PyTorch)
+- [Tensorflow Library](https://en.wikipedia.org/wiki/TensorFlow)
+- [The Julia Dispatch Podcast](https://www.youtube.com/@JuliaDispatch)
+- [JuliaCon](https://juliacon.org/2025/)
+- [APL Implementation in Julia Sashi Gowda](https://aplwiki.com/wiki/APL.jl)
+- [Gilbert Strang](https://en.wikipedia.org/wiki/Gilbert_Strang)
+- [Viral B. Shah](https://en.wikipedia.org/wiki/Viral_B._Shah)
+- [JuliaCon Videos](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC)
+- [Dan Bricklin on the ArrayCast Episode 101](https://www.arraycast.com/episodes/episode101-bricklin)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

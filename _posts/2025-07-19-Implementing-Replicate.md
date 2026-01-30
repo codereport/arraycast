@@ -33,27 +33,91 @@ Implementing ReplicateWe do our first deep dive into implementing primitives by 
 
 ## Show Notes
 
-Array Cast -  July 18, 2025Show Notes
+Array Cast -  July 18, 2025
 
 Thanks to Bob Therriault, Marshall Lochbaum and Conor Hoekstra for gathering these links:
 
-[01] 00:00:40 Henry Rich Episode #6 on The ArrayCast[https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j](https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j)Henry Rich Episode #18 on The ArrayCast[https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903](https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903)Henry Rich Episode #48 on The ArrayCast[https://www.arraycast.com/episodes/episode48-henry-rich](https://www.arraycast.com/episodes/episode48-henry-rich)Henry Rich Episode #50 on The ArrayCast[https://www.arraycast.com/episodes/episode50-fold](https://www.arraycast.com/episodes/episode50-fold)Henry Rich Episode #84 on The ArrayCast[https://www.arraycast.com/episodes/episode84-tacit6](https://www.arraycast.com/episodes/episode84-tacit6)Henry Rich Episode #104 on The ArrayCast[https://www.arraycast.com/episodes/episode104-j96](https://www.arraycast.com/episodes/episode104-j96)Henry Rich Episode #106 on The ArrayCast[https://www.arraycast.com/episodes/episode106-interpreters](https://www.arraycast.com/episodes/episode106-interpreters)Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)BQN programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)J programming Language[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)APL programming Language[https://aplwiki.com](https://aplwiki.com/)Replicate in APL[https://aplwiki.com](https://aplwiki.com/)/wiki/ReplicateCopy in J[https://code.jsoftware.com/wiki/Vocabulary/number#dyadic](https://code.jsoftware.com/wiki/Vocabulary/number#dyadic)APL\360[https://aplwiki.com](https://aplwiki.com/)/wiki/APL%5C360Iverson Notation[https://aplwiki.com](https://aplwiki.com/)/wiki/Iverson_notationBob Bernecky Episode #55 on The ArrayCast[https://www.arraycast.com/episodes/episode55-bob-bernecky](https://www.arraycast.com/episodes/episode55-bob-bernecky)I.P. Sharp Episode #91 on The ArrayCast[https://www.arraycast.com/episodes/episode91-ipsharpdoc](https://www.arraycast.com/episodes/episode91-ipsharpdoc)Expand in APL[https://aplwiki.com](https://aplwiki.com/)/wiki/ExpandNARS2000[https://aplwiki.com](https://aplwiki.com/)/wiki/NARS2000Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Replicate in BQN[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)doc/replicate.html
+**[01] 00:00:40**
 
-[02] 00:10:52 Uiua Programming Language[https://www.uiua.org](https://www.uiua.org/)Keep in Uiua[https://www.uiua.org](https://www.uiua.org/)/docs/keepWhere in APL[https://aplwiki.com/wiki/Indices](https://aplwiki.com/wiki/Indices)Omnibar Replicate table[https://omnibar.rubenverg.com/?s=replicate&ig=true&in=true&id=false&hid=true](https://omnibar.rubenverg.com/?s=replicate&ig=true&in=true&id=false&hid=true)Hoogle Translate Page for Replicate[https://hoogletranslate.com/?q=25&type=by-algo-id](https://hoogletranslate.com/?q=25&type=by-algo-id)APL2 Programming Language[https://aplwiki.com/wiki/APL2](https://aplwiki.com/wiki/APL2)Indices in J[https://code.jsoftware.com/wiki/Vocabulary/icapdot](https://code.jsoftware.com/wiki/Vocabulary/icapdot)
+- [Henry Rich Episode #6 on The ArrayCast](https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j)
+- [Henry Rich Episode #18 on The ArrayCast](https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903)
+- [Henry Rich Episode #48 on The ArrayCast](https://www.arraycast.com/episodes/episode48-henry-rich)
+- [Henry Rich Episode #50 on The ArrayCast](https://www.arraycast.com/episodes/episode50-fold)
+- [Henry Rich Episode #84 on The ArrayCast](https://www.arraycast.com/episodes/episode84-tacit6)
+- [Henry Rich Episode #104 on The ArrayCast](https://www.arraycast.com/episodes/episode104-j96)
+- [Henry Rich Episode #106 on The ArrayCast](https://www.arraycast.com/episodes/episode106-interpreters)
+- [Dyalog APL](https://www.dyalog.com/)
+- [BQN programming Language](https://mlochbaum.github.io/BQN/)
+- [J programming Language](https://code.jsoftware.com/wiki/Category:Home)
+- [APL programming Language](https://aplwiki.com/)
+- [Replicate in APL](https://aplwiki.com/)
+- [/wiki/ReplicateCopy in J](https://code.jsoftware.com/wiki/Vocabulary/number#dyadic)
+- [APL\360](https://aplwiki.com/)
+- [/wiki/APL%5C360Iverson Notation](https://aplwiki.com/)
+- [/wiki/Iverson_notationBob Bernecky Episode #55 on The ArrayCast](https://www.arraycast.com/episodes/episode55-bob-bernecky)
+- [I.P. Sharp Episode #91 on The ArrayCast](https://www.arraycast.com/episodes/episode91-ipsharpdoc)
+- [Expand in APL](https://aplwiki.com/)
+- [/wiki/ExpandNARS2000](https://aplwiki.com/)
+- [/wiki/NARS2000Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Replicate in BQN](https://mlochbaum.github.io/BQN/)
+- doc/replicate.html
 
-[03] 00:19:43 Roger Hui[https://en.wikipedia.org/wiki/Roger_Hui](https://en.wikipedia.org/wiki/Roger_Hui)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))Indices in Hoogle Translate[https://hoogletranslate.com/?q=18&type=by-algo-id](https://hoogletranslate.com/?q=18&type=by-algo-id)Dzaima/APL[https://aplwiki.com/wiki/Dzaima/APL](https://aplwiki.com/wiki/Dzaima/APL)Replicate Operator or Function[https://aplwiki.com/wiki/Replicate#Operator_or_function](https://aplwiki.com/wiki/Replicate#Operator_or_function)?ngn/APL[https://aplwiki.com/wiki/Ngn/apl](https://aplwiki.com/wiki/Ngn/apl)
+**[02] 00:10:52**
 
-[04] 00:27:55 Multiple Personality Disorder[https://en.wikipedia.org/wiki/Dissociative_identity_disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder)APL Plus Programming Language[https://aplwiki.com/wiki/APL*PLUS](https://aplwiki.com/wiki/APL*PLUS)GNU APL Programming Language[https://aplwiki.com/wiki/GNU_APL](https://aplwiki.com/wiki/GNU_APL)Tacit Programming[https://en.wikipedia.org/wiki/Tacit_programming](https://en.wikipedia.org/wiki/Tacit_programming)Trains in APL[https://aplwiki.com/wiki/Train](https://aplwiki.com/wiki/Train)
+- [Uiua Programming Language](https://www.uiua.org/)
+- [Keep in Uiua](https://www.uiua.org/)
+- [/docs/keepWhere in APL](https://aplwiki.com/wiki/Indices)
+- [Omnibar Replicate table](https://omnibar.rubenverg.com/?s=replicate&ig=true&in=true&id=false&hid=true)
+- [Hoogle Translate Page for Replicate](https://hoogletranslate.com/?q=25&type=by-algo-id)
+- [APL2 Programming Language](https://aplwiki.com/wiki/APL2)
+- [Indices in J](https://code.jsoftware.com/wiki/Vocabulary/icapdot)
 
-[05] 00:39:32 Faster Population Counts Using AVX2 Instructions[https://arxiv.org/pdf/1611.07612](https://arxiv.org/pdf/1611.07612)Count Trailing Zeros Instruction[https://www.felixcloutier.com/x86/tzcnt](https://www.felixcloutier.com/x86/tzcnt)AVX2[https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#Advanced_Vector_Extensions_2](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#Advanced_Vector_Extensions_2)
+**[03] 00:19:43**
 
-[06] 00:51:52 X86 Parallel Bit Extract InstructionAVX512[https://en.wikipedia.org/wiki/AVX-512](https://en.wikipedia.org/wiki/AVX-512)PDEP[https://www.felixcloutier.com/x86/pdep](https://www.felixcloutier.com/x86/pdep)PEXT[https://www.felixcloutier.com/x86/pext](https://www.felixcloutier.com/x86/pext)
+- [Roger Hui](https://en.wikipedia.org/wiki/Roger_Hui)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [Indices in Hoogle Translate](https://hoogletranslate.com/?q=18&type=by-algo-id)
+- [Dzaima/APL](https://aplwiki.com/wiki/Dzaima/APL)
+- [Replicate Operator or Function](https://aplwiki.com/wiki/Replicate#Operator_or_function)
+- [?ngn/APL](https://aplwiki.com/wiki/Ngn/apl)
 
-[07] 00:55:30 Hacker's Delight[https://en.wikipedia.org/wiki/Hacker%27s_Delight](https://en.wikipedia.org/wiki/Hacker%27s_Delight)Guy Steele[https://en.wikipedia.org/wiki/Guy_L._Steele_Jr](https://en.wikipedia.org/wiki/Guy_L._Steele_Jr).
+**[04] 00:27:55**
 
-[08] 01:00:34 k Programming Language[https://en.wikipedia.org/wiki/K_(programming_language)](https://en.wikipedia.org/wiki/K_(programming_language))Kap Programming Language[https://kapdemo.dhsdevelopments.com](https://kapdemo.dhsdevelopments.com/)Kotlin Programming Language[https://en.wikipedia.org/wiki/Kotlin_(programming_language)](https://en.wikipedia.org/wiki/Kotlin_(programming_language))Elias martenson Episode #72 on the ArrayCast[https://www.arraycast.com/episodes/episode72-kap](https://www.arraycast.com/episodes/episode72-kap)
+- [Multiple Personality Disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder)
+- [APL Plus Programming Language](https://aplwiki.com/wiki/APL*PLUS)
+- [GNU APL Programming Language](https://aplwiki.com/wiki/GNU_APL)
+- [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
+- [Trains in APL](https://aplwiki.com/wiki/Train)
 
-[09] 01:12:34 Contact AT ArrayCast DOT ComRust Programming Language[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))Kai Schmidt Episode #77 on the ArrayCast[https://www.arraycast.com/episodes/episode77-uiua](https://www.arraycast.com/episodes/episode77-uiua)
+**[05] 00:39:32**
+
+- [Faster Population Counts Using AVX2 Instructions](https://arxiv.org/pdf/1611.07612)
+- [Count Trailing Zeros Instruction](https://www.felixcloutier.com/x86/tzcnt)
+- [AVX2](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#Advanced_Vector_Extensions_2)
+
+**[06] 00:51:52**
+
+- [X86 Parallel Bit Extract InstructionAVX512](https://en.wikipedia.org/wiki/AVX-512)
+- [PDEP](https://www.felixcloutier.com/x86/pdep)
+- [PEXT](https://www.felixcloutier.com/x86/pext)
+
+**[07] 00:55:30**
+
+- [Hacker's Delight](https://en.wikipedia.org/wiki/Hacker%27s_Delight)
+- [Guy Steele](https://en.wikipedia.org/wiki/Guy_L._Steele_Jr)
+- .
+
+**[08] 01:00:34**
+
+- [k Programming Language](https://en.wikipedia.org/wiki/K_(programming_language))
+- [Kap Programming Language](https://kapdemo.dhsdevelopments.com/)
+- [Kotlin Programming Language](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+- [Elias martenson Episode #72 on the ArrayCast](https://www.arraycast.com/episodes/episode72-kap)
+
+**[09] 01:12:34**
+
+- [Contact AT ArrayCast DOT ComRust Programming Language](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [Kai Schmidt Episode #77 on the ArrayCast](https://www.arraycast.com/episodes/episode77-uiua)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

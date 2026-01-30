@@ -35,27 +35,100 @@ John Earnest returns with news of a new Decker Fantasy Camp as well as reasons t
 
 ## Show Notes
 
-Array Cast -  July 4, 2025Show Notes
+Array Cast -  July 4, 2025
 
 Thanks to Bob Therriault, Marshall Lochbaum, Adám Brudzewsky and Conor Hoekstra for gathering these links:
 
-[01] 00:00:50 Canada Day[https://en.wikipedia.org/wiki/Canada_Day](https://en.wikipedia.org/wiki/Canada_Day)Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))First Quote Squad Article "Programming Errors in APL"[https://dl.acm.org/doi/10.1145/586040.586045](https://dl.acm.org/doi/10.1145/586040.586045)APLfarm[https://aplwiki.com/wiki/APL_Farm](https://aplwiki.com/wiki/APL_Farm)Dyalog v20[https://tryapl.org/?clear&q=-⍛%2C%20%5B1%202%20⋄%203%204%5D&run](https://tryapl.org/?clear&q=-%E2%8D%9B%2C%20%5B1%202%20%E2%8B%84%203%204%5D&run)Prototype[https://aplwiki.com/wiki/Prototype](https://aplwiki.com/wiki/Prototype)British APL AGM[https://aplwiki.com/wiki/BAA](https://aplwiki.com/wiki/BAA)APL Challenge from Dyalog[https://challenge.dyalog.com](https://challenge.dyalog.com/)John Earnest's Website[https://beyondloom.com/](https://beyondloom.com/)John Earnest on Episode #41 on the ArrayCast[https://www.arraycast.com/episodes/episode41-john-earnest](https://www.arraycast.com/episodes/episode41-john-earnest)John Earnest on Episode #43 on the ArrayCast[https://www.arraycast.com/episodes/episode43-john-earnest-decker](https://www.arraycast.com/episodes/episode43-john-earnest-decker)John Earnest on Episode #53 on the ArrayCast[https://www.arraycast.com/episodes/episode53-what-is-the-problem](https://www.arraycast.com/episodes/episode53-what-is-the-problem)John Earnest on Episode #95 on the ArrayCast[https://www.arraycast.com/episodes/episode95-aoc](https://www.arraycast.com/episodes/episode95-aoc)John Earnest on Episode #96 on the ArrayCast[https://www.arraycast.com/episodes/episode96-decker](https://www.arraycast.com/episodes/episode96-decker)Decker[https://beyondloom.com/](https://beyondloom.com/)decker/index.htmlLil programming language[https://beyondloom.com/](https://beyondloom.com/)decker/lil.htmlDecker Fantasy Camp[https://itch.io/jam/decker-fantasy-camp-2025](https://itch.io/jam/decker-fantasy-camp-2025)Wiggly Paint[https://internet-janitor.itch.io/wigglypaint](https://internet-janitor.itch.io/wigglypaint)HyperCard[https://en.wikipedia.org/wiki/HyperCard](https://en.wikipedia.org/wiki/HyperCard)Bill Atkinson[https://en.wikipedia.org/wiki/Bill_Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson)QuickDraw[https://en.wikipedia.org/wiki/QuickDraw](https://en.wikipedia.org/wiki/QuickDraw)Macpaint[https://en.wikipedia.org/wiki/MacPaint](https://en.wikipedia.org/wiki/MacPaint)
+**[01] 00:00:50**
 
-[02] 00:10:45 q programming language[https://code.kx.com/q/learn/](https://code.kx.com/q/learn/)k programming language[https://en.wikipedia.org/wiki/K_(programming_language)](https://en.wikipedia.org/wiki/K_(programming_language))k wiki[https://wiki.k-language.dev/wiki/Main_Page](https://wiki.k-language.dev/wiki/Main_Page)Lua programming language[https://en.wikipedia.org/wiki/Lua](https://en.wikipedia.org/wiki/Lua)HyperTalk programming language[https://en.wikipedia.org/wiki/HyperTalk](https://en.wikipedia.org/wiki/HyperTalk)Itchio platform[https://en.wikipedia.org/wiki/Itch.io](https://en.wikipedia.org/wiki/Itch.io)Claude 4[https://en.wikipedia.org/wiki/Claude_(language_model)#Claude_4](https://en.wikipedia.org/wiki/Claude_(language_model)#Claude_4)Python programming language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Canada Day](https://en.wikipedia.org/wiki/Canada_Day)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [First Quote Squad Article "Programming Errors in APL"](https://dl.acm.org/doi/10.1145/586040.586045)
+- [APLfarm](https://aplwiki.com/wiki/APL_Farm)
+- [Dyalog v20](https://tryapl.org/?clear&q=-%E2%8D%9B%2C%20%5B1%202%20%E2%8B%84%203%204%5D&run)
+- [Prototype](https://aplwiki.com/wiki/Prototype)
+- [British APL AGM](https://aplwiki.com/wiki/BAA)
+- [APL Challenge from Dyalog](https://challenge.dyalog.com/)
+- [John Earnest's Website](https://beyondloom.com/)
+- [John Earnest on Episode #41 on the ArrayCast](https://www.arraycast.com/episodes/episode41-john-earnest)
+- [John Earnest on Episode #43 on the ArrayCast](https://www.arraycast.com/episodes/episode43-john-earnest-decker)
+- [John Earnest on Episode #53 on the ArrayCast](https://www.arraycast.com/episodes/episode53-what-is-the-problem)
+- [John Earnest on Episode #95 on the ArrayCast](https://www.arraycast.com/episodes/episode95-aoc)
+- [John Earnest on Episode #96 on the ArrayCast](https://www.arraycast.com/episodes/episode96-decker)
+- [Decker](https://beyondloom.com/)
+- [decker/index.htmlLil programming language](https://beyondloom.com/)
+- [decker/lil.htmlDecker Fantasy Camp](https://itch.io/jam/decker-fantasy-camp-2025)
+- [Wiggly Paint](https://internet-janitor.itch.io/wigglypaint)
+- [HyperCard](https://en.wikipedia.org/wiki/HyperCard)
+- [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson)
+- [QuickDraw](https://en.wikipedia.org/wiki/QuickDraw)
+- [Macpaint](https://en.wikipedia.org/wiki/MacPaint)
 
-[03] 00:20:54 Nil in Lil Blog Post[https://beyondloom.com/blog/nil.html](https://beyondloom.com/blog/nil.html)k2 programming language[http://web.archive.org/web/20050504070651/http://www.kx.com/technical/documents/kreflite.pdf](http://web.archive.org/web/20050504070651/http://www.kx.com/technical/documents/kreflite.pdf)APL programming language[https://aplwiki.com](https://aplwiki.com/)Stencil operator in Dyalog APL[https://www.dyalog.com/blog/author/roger/](https://www.dyalog.com/blog/author/roger/)Fill in k5[https://wiki.k-language.dev/wiki/Fill](https://wiki.k-language.dev/wiki/Fill)Functional programming language[https://en.wikipedia.org/wiki/Functional_programming](https://en.wikipedia.org/wiki/Functional_programming)
+**[02] 00:10:45**
 
-[04] 00:33:28 JavaScript programming language[https://en.wikipedia.org/wiki/JavaScript](https://en.wikipedia.org/wiki/JavaScript)Danger Decker[https://beyondloom.com/decker/decker.html#thedangerzone](https://beyondloom.com/decker/decker.html#thedangerzone)Lilt Interpreter[https://beyondloom.com/decker/lilt.html](https://beyondloom.com/decker/lilt.html)
+- [q programming language](https://code.kx.com/q/learn/)
+- [k programming language](https://en.wikipedia.org/wiki/K_(programming_language))
+- [k wiki](https://wiki.k-language.dev/wiki/Main_Page)
+- [Lua programming language](https://en.wikipedia.org/wiki/Lua)
+- [HyperTalk programming language](https://en.wikipedia.org/wiki/HyperTalk)
+- [Itchio platform](https://en.wikipedia.org/wiki/Itch.io)
+- [Claude 4](https://en.wikipedia.org/wiki/Claude_(language_model))#Claude_4)
+- [Python programming language](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-[05] 00:40:54 Tiddlywiki[https://en.wikipedia.org/wiki/TiddlyWiki](https://en.wikipedia.org/wiki/TiddlyWiki)Decker Community[https://internet-janitor.itch.io/decker/community](https://internet-janitor.itch.io/decker/community)Contraptions[https://beyondloom.com/decker/decker.html#contraptions](https://beyondloom.com/decker/decker.html#contraptions)Software as a Service (SAAS)[https://en.wikipedia.org/wiki/Software_as_a_service](https://en.wikipedia.org/wiki/Software_as_a_service)Google Docs[https://en.wikipedia.org/wiki/Google_Docs](https://en.wikipedia.org/wiki/Google_Docs)Conor's Report on Wiggly Paint[https://codereport.github.io/vibing/wigglypaint/wigglypaint_top10.html](https://codereport.github.io/vibing/wigglypaint/wigglypaint_top10.html)
+**[03] 00:20:54**
 
-[06] 00:50:50[Lospec.com](http://lospec.com/)[https://lospec.com](https://lospec.com/)3.5 Floppy Diskette[https://en.wikipedia.org/wiki/Floppy_disk#3%C2%BD-inch_disk](https://en.wikipedia.org/wiki/Floppy_disk#3%C2%BD-inch_disk)5 1/4 Floppy Disk[https://en.wikipedia.org/wiki/Floppy_disk#8-inch_and_5%C2%BC-inch_disks](https://en.wikipedia.org/wiki/Floppy_disk#8-inch_and_5%C2%BC-inch_disks)USB Stick[https://en.wikipedia.org/wiki/USB_flash_drive](https://en.wikipedia.org/wiki/USB_flash_drive)
+- [Nil in Lil Blog Post](https://beyondloom.com/blog/nil.html)
+- [k2 programming language](http://web.archive.org/web/20050504070651/http://www.kx.com/technical/documents/kreflite.pdf)
+- [APL programming language](https://aplwiki.com/)
+- [Stencil operator in Dyalog APL](https://www.dyalog.com/blog/author/roger/)
+- [Fill in k5](https://wiki.k-language.dev/wiki/Fill)
+- [Functional programming language](https://en.wikipedia.org/wiki/Functional_programming)
 
-[07] 00:59:20 Blog post on mismatched lengths[https://beyondloom.com/blog/conforming.html](https://beyondloom.com/blog/conforming.html)-2000 lines of code[https://www.folklore.org/Negative_2000_Lines_Of_Code.html](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)Pascal programming language[https://en.wikipedia.org/wiki/Pascal_(programming_language)](https://en.wikipedia.org/wiki/Pascal_(programming_language))68000 assembly language[https://en.wikipedia.org/wiki/Motorola_68000_series](https://en.wikipedia.org/wiki/Motorola_68000_series)C programming languge[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))Simula programming language[https://en.wikipedia.org/wiki/Simula](https://en.wikipedia.org/wiki/Simula)
+**[04] 00:33:28**
 
-[08] 01:10:24 k5 programming language[https://wiki.k-language.dev/wiki/K5](https://wiki.k-language.dev/wiki/K5)BQN programming language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)SDL I/O Library[https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer)
+- [JavaScript programming language](https://en.wikipedia.org/wiki/JavaScript)
+- [Danger Decker](https://beyondloom.com/decker/decker.html#thedangerzone)
+- [Lilt Interpreter](https://beyondloom.com/decker/lilt.html)
 
-[09] 01:15:54 Decker Fantasy Camp[https://itch.io/jam/decker-fantasy-camp-2025](https://itch.io/jam/decker-fantasy-camp-2025)Previous Fantasy Camp Examples[https://itch.io/jam/decker-fantasy-camp-2024](https://itch.io/jam/decker-fantasy-camp-2024)Parksville Sandcastle Competition[https://www.parksvillebeachfest.ca/festival-info/about-us/](https://www.parksvillebeachfest.ca/festival-info/about-us/)Contact AT ArrayCast DOT Com
+**[05] 00:40:54**
+
+- [Tiddlywiki](https://en.wikipedia.org/wiki/TiddlyWiki)
+- [Decker Community](https://internet-janitor.itch.io/decker/community)
+- [Contraptions](https://beyondloom.com/decker/decker.html#contraptions)
+- [Software as a Service (SAAS)](https://en.wikipedia.org/wiki/Software_as_a_service)
+- [Google Docs](https://en.wikipedia.org/wiki/Google_Docs)
+- [Conor's Report on Wiggly Paint](https://codereport.github.io/vibing/wigglypaint/wigglypaint_top10.html)
+
+**[06] 00:50:50**
+
+- [Lospec.com](http://lospec.com/)
+- [lospec.com](https://lospec.com/)
+- [3.5 Floppy Diskette](https://en.wikipedia.org/wiki/Floppy_disk#3%C2%BD-inch_disk)
+- [5 1/4 Floppy Disk](https://en.wikipedia.org/wiki/Floppy_disk#8-inch_and_5%C2%BC-inch_disks)
+- [USB Stick](https://en.wikipedia.org/wiki/USB_flash_drive)
+
+**[07] 00:59:20**
+
+- [Blog post on mismatched lengths](https://beyondloom.com/blog/conforming.html)
+- [-2000 lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
+- [Pascal programming language](https://en.wikipedia.org/wiki/Pascal_(programming_language))
+- [68000 assembly language](https://en.wikipedia.org/wiki/Motorola_68000_series)
+- [C programming languge](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Simula programming language](https://en.wikipedia.org/wiki/Simula)
+
+**[08] 01:10:24**
+
+- [k5 programming language](https://wiki.k-language.dev/wiki/K5)
+- [BQN programming language](https://mlochbaum.github.io/BQN/)
+- [SDL I/O Library](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer)
+
+**[09] 01:15:54**
+
+- [Decker Fantasy Camp](https://itch.io/jam/decker-fantasy-camp-2025)
+- [Previous Fantasy Camp Examples](https://itch.io/jam/decker-fantasy-camp-2024)
+- [Parksville Sandcastle Competition](https://www.parksvillebeachfest.ca/festival-info/about-us/)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

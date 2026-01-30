@@ -35,27 +35,110 @@ Tacit to the LimitJose Mario Quintana (Pepe) is the master of tacit J. He has ev
 
 ## Show Notes
 
-Array Cast -  September 26, 2025Show Notes
+Array Cast -  September 26, 2025
 
 Thanks to Bob Therriault, Adám Brudzewsky, and Marshall Lochbaum for gathering these links:
 
-[01] 00:01:27 DYNA Meetup New York City[https://dyna.dyalog.com](https://dyna.dyalog.com/)DYNA Video[https://www.youtube.com/watch?v=sx1k0aK1ttw](https://www.youtube.com/watch?v=sx1k0aK1ttw)Tacit Programming[https://en.wikipedia.org/wiki/Tacit_programming](https://en.wikipedia.org/wiki/Tacit_programming)Jx[https://www.2bestsystems.com/foundation/j/jx1.1/](https://www.2bestsystems.com/foundation/j/jx1.1/)J Forum Thread on Tacit in J[https://www.jsoftware.com/pipermail/programming/2013-January/thread.html#31201](https://www.jsoftware.com/pipermail/programming/2013-January/thread.html#31201)Fortran Programming Language[https://en.wikipedia.org/wiki/Fortran](https://en.wikipedia.org/wiki/Fortran)COBOL Programming Language[https://en.wikipedia.org/wiki/COBOL](https://en.wikipedia.org/wiki/COBOL)Burroughs 6500[https://en.wikipedia.org/wiki/Burroughs_Large_Systems#B6500,_B6700/B7700,_and_successors](https://en.wikipedia.org/wiki/Burroughs_Large_Systems#B6500,_B6700/B7700,_and_successors)ALGOL Programming Language[https://en.wikipedia.org/wiki/ALGOL](https://en.wikipedia.org/wiki/ALGOL)Apple I computer[https://en.wikipedia.org/wiki/Apple_I](https://en.wikipedia.org/wiki/Apple_I)Bayesian Statistics[https://en.wikipedia.org/wiki/Bayesian_statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)Apple II computer[https://en.wikipedia.org/wiki/Apple_I](https://en.wikipedia.org/wiki/Apple_I)I_(original)Universtiy of Warwick[https://en.wikipedia.org/wiki/University_of_Warwick](https://en.wikipedia.org/wiki/University_of_Warwick)Sinclair QL[https://en.wikipedia.org/wiki/Sinclair_QL](https://en.wikipedia.org/wiki/Sinclair_QL)APL Programming Language[https://aplwiki.com/FrontPage](https://aplwiki.com/FrontPage)S Programming Language[https://en.wikipedia.org/wiki/S_(programming_language)](https://en.wikipedia.org/wiki/S_(programming_language))R Programming Language[https://en.wikipedia.org/wiki/R_(programming_language)](https://en.wikipedia.org/wiki/R_(programming_language))Chase Manhattan Bank Mergers[https://en.wikipedia.org/wiki/Chase_Bank#Mergers_with_Chemical,_J.P._Morgan](https://en.wikipedia.org/wiki/Chase_Bank#Mergers_with_Chemical,_J.P._Morgan)
+**[01] 00:01:27**
 
-[02] 00:10:35 IML Interactive Matrix Language[https://www.sas.com/en_ca/software/iml.html](https://www.sas.com/en_ca/software/iml.html)Generalized Algegraic Modeling System[https://en.wikipedia.org/wiki/General_algebraic_modeling_system](https://en.wikipedia.org/wiki/General_algebraic_modeling_system)Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)J Programming Language[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)Devon McCormick[https://code.jsoftware.com/wiki/User:Devon_McCormick](https://code.jsoftware.com/wiki/User:Devon_McCormick)Ackermann Function[https://en.wikipedia.org/wiki/Ackermann_function](https://en.wikipedia.org/wiki/Ackermann_function)Y Combinator[https://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator)Rosetta Code Ackermann[https://rosettacode.org/wiki/Ackermann_function#J](https://rosettacode.org/wiki/Ackermann_function#J)Rosetta Code Y Combinator[https://rosettacode.org/wiki/Y_combinator#J](https://rosettacode.org/wiki/Y_combinator#J)Turing Complete[https://en.wikipedia.org/wiki/Turing_completeness](https://en.wikipedia.org/wiki/Turing_completeness)Rosetta Code Turing Machine[https://rosettacode.org/wiki/Universal_Turing_machine#J](https://rosettacode.org/wiki/Universal_Turing_machine#J)1999 J forum explanation of the Tacit Turing Machine[https://www.jsoftware.com/pipermail/general/1999-December/002736.html](https://www.jsoftware.com/pipermail/general/1999-December/002736.html)2012 J Conference Turing Presentation[http://www.2bestsystems.com/j/J_Conference_2012.rtf](http://www.2bestsystems.com/j/J_Conference_2012.rtf)Amend Primitive in J[https://code.jsoftware.com/wiki/Vocabulary/curlyrt#dyadic](https://code.jsoftware.com/wiki/Vocabulary/curlyrt#dyadic)
+- [DYNA Meetup New York City](https://dyna.dyalog.com/)
+- [DYNA Video](https://www.youtube.com/watch?v=sx1k0aK1ttw)
+- [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
+- [Jx](https://www.2bestsystems.com/foundation/j/jx1.1/)
+- [J Forum Thread on Tacit in J](https://www.jsoftware.com/pipermail/programming/2013-January/thread.html#31201)
+- [Fortran Programming Language](https://en.wikipedia.org/wiki/Fortran)
+- [COBOL Programming Language](https://en.wikipedia.org/wiki/COBOL)
+- [Burroughs 6500](https://en.wikipedia.org/wiki/Burroughs_Large_Systems#B6500,_B6700/B7700,_and_successors)
+- [ALGOL Programming Language](https://en.wikipedia.org/wiki/ALGOL)
+- [Apple I computer](https://en.wikipedia.org/wiki/Apple_I)
+- [Bayesian Statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)
+- [Apple II computer](https://en.wikipedia.org/wiki/Apple_I)
+- [I_(original)Universtiy of Warwick](https://en.wikipedia.org/wiki/University_of_Warwick)
+- [Sinclair QL](https://en.wikipedia.org/wiki/Sinclair_QL)
+- [APL Programming Language](https://aplwiki.com/FrontPage)
+- [S Programming Language](https://en.wikipedia.org/wiki/S_(programming_language))
+- [R Programming Language](https://en.wikipedia.org/wiki/R_(programming_language))
+- [Chase Manhattan Bank Mergers](https://en.wikipedia.org/wiki/Chase_Bank#Mergers_with_Chemical,_J.P._Morgan)
 
-[03] 00:21:08 J806[https://code.jsoftware.com/wiki/System/ReleaseNotes/J806](https://code.jsoftware.com/wiki/System/ReleaseNotes/J806)Parts of Speech in J[https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech](https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech)Dan Bron[https://code.jsoftware.com/wiki/User:Dan_Bron](https://code.jsoftware.com/wiki/User:Dan_Bron)J Forum[https://groups.google.com/a/jsoftware.com/g/forum](https://groups.google.com/a/jsoftware.com/g/forum)Dan's Agenda Patch[https://www.jsoftware.com/pipermail/programming/2013-January/031257.html](https://www.jsoftware.com/pipermail/programming/2013-January/031257.html)JTRAN[https://www.jsoftware.com/pipermail/beta/2021-September/010080.html](https://www.jsoftware.com/pipermail/beta/2021-September/010080.html)Doog[https://code.jsoftware.com/wiki/User:Dan_Bron](https://code.jsoftware.com/wiki/User:Dan_Bron)/Snippets/DOOGhg adverb[https://www.jsoftware.com/pipermail/programming/2016-March/044789.html](https://www.jsoftware.com/pipermail/programming/2016-March/044789.html)Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Ken Iverson Episode #92 on the ArrayCast[https://www.arraycast.com/episodes/episode92-iverson](https://www.arraycast.com/episodes/episode92-iverson)
+**[02] 00:10:35**
 
-[04] 00:26:31 Roger Hui[https://en.wikipedia.org/wiki/Roger_Hui](https://en.wikipedia.org/wiki/Roger_Hui)Original J Dictionary[https://www.jsoftware.com/help/dictionary/contents.htm](https://www.jsoftware.com/help/dictionary/contents.htm)J forum discussion of Anything but Nouns[https://www.jsoftware.com/pipermail/programming/2013-January/031267.html](https://www.jsoftware.com/pipermail/programming/2013-January/031267.html)Raul Miller Episode #59 on the ArrayCast[https://www.arraycast.com/episodes/episode59-raul-miller](https://www.arraycast.com/episodes/episode59-raul-miller)Evoke `:6[https://code.jsoftware.com/wiki/Vocabulary/graveco](https://code.jsoftware.com/wiki/Vocabulary/graveco)
+- [IML Interactive Matrix Language](https://www.sas.com/en_ca/software/iml.html)
+- [Generalized Algegraic Modeling System](https://en.wikipedia.org/wiki/General_algebraic_modeling_system)
+- [Dyalog APL](https://www.dyalog.com/)
+- [J Programming Language](https://code.jsoftware.com/wiki/Category:Home)
+- [Devon McCormick](https://code.jsoftware.com/wiki/User:Devon_McCormick)
+- [Ackermann Function](https://en.wikipedia.org/wiki/Ackermann_function)
+- [Y Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator)
+- [Rosetta Code Ackermann](https://rosettacode.org/wiki/Ackermann_function#J)
+- [Rosetta Code Y Combinator](https://rosettacode.org/wiki/Y_combinator#J)
+- [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness)
+- [Rosetta Code Turing Machine](https://rosettacode.org/wiki/Universal_Turing_machine#J)
+- [1999 J forum explanation of the Tacit Turing Machine](https://www.jsoftware.com/pipermail/general/1999-December/002736.html)
+- [2012 J Conference Turing Presentation](http://www.2bestsystems.com/j/J_Conference_2012.rtf)
+- [Amend Primitive in J](https://code.jsoftware.com/wiki/Vocabulary/curlyrt#dyadic)
 
-[05] 00:33:04 Fix Adverb f.[https://code.jsoftware.com/wiki/Vocabulary/fdot](https://code.jsoftware.com/wiki/Vocabulary/fdot)Closure[https://en.wikipedia.org/wiki/Closure_(computer_programming)](https://en.wikipedia.org/wiki/Closure_(computer_programming))Apply 128!:2[https://code.jsoftware.com/wiki/Vocabulary/Foreigns#m128](https://code.jsoftware.com/wiki/Vocabulary/Foreigns#m128)SQL Database Language[https://en.wikipedia.org/wiki/SQL](https://en.wikipedia.org/wiki/SQL)Locales in J[https://code.jsoftware.com/wiki/Vocabulary/Locales](https://code.jsoftware.com/wiki/Vocabulary/Locales)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)At Conjunction @:[https://code.jsoftware.com/wiki/Vocabulary/atco](https://code.jsoftware.com/wiki/Vocabulary/atco)
+**[03] 00:21:08**
 
-[06] 00:39:45 Recursion $:[https://code.jsoftware.com/wiki/Vocabulary/dollarco](https://code.jsoftware.com/wiki/Vocabulary/dollarco)Strand Notation[https://aplwiki.com/wiki/Strand_notation](https://aplwiki.com/wiki/Strand_notation)Cap [:[https://code.jsoftware.com/wiki/Vocabulary/squarelfco](https://code.jsoftware.com/wiki/Vocabulary/squarelfco)Invisible Modifiers[https://code.jsoftware.com/wiki/Vocabulary/fork](https://code.jsoftware.com/wiki/Vocabulary/fork)C A and A C Trains[https://code.jsoftware.com/wiki/Vocabulary/ModifierTrains#CA](https://code.jsoftware.com/wiki/Vocabulary/ModifierTrains#CA)Pepe's Explanation of the Usefulness of CA and AC[https://www.jsoftware.com/pipermail/programming/2017-October/049263.html](https://www.jsoftware.com/pipermail/programming/2017-October/049263.html)Henry Rich Episode #6 on the ArrayCast[https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j](https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j)
+- [J806](https://code.jsoftware.com/wiki/System/ReleaseNotes/J806)
+- [Parts of Speech in J](https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech)
+- [Dan Bron](https://code.jsoftware.com/wiki/User:Dan_Bron)
+- [J Forum](https://groups.google.com/a/jsoftware.com/g/forum)
+- [Dan's Agenda Patch](https://www.jsoftware.com/pipermail/programming/2013-January/031257.html)
+- [JTRAN](https://www.jsoftware.com/pipermail/beta/2021-September/010080.html)
+- [Doog](https://code.jsoftware.com/wiki/User:Dan_Bron)
+- [/Snippets/DOOGhg adverb](https://www.jsoftware.com/pipermail/programming/2016-March/044789.html)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Ken Iverson Episode #92 on the ArrayCast](https://www.arraycast.com/episodes/episode92-iverson)
 
-[07] 00:44:15 13 : Tacit Translater[https://code.jsoftware.com/wiki/Vocabulary/com#m13](https://code.jsoftware.com/wiki/Vocabulary/com#m13)Functional Programming[https://en.wikipedia.org/wiki/Functional_programming](https://en.wikipedia.org/wiki/Functional_programming)Category Theory[https://en.wikipedia.org/wiki/Category_theory](https://en.wikipedia.org/wiki/Category_theory)Dan's Adverb Train Explanation[https://www.jsoftware.com/pipermail/programming/2010-November/021172.html](https://www.jsoftware.com/pipermail/programming/2010-November/021172.html)Gerunds in J[https://code.jsoftware.com/wiki/Vocabulary/GerundsAndAtomicRepresentation](https://code.jsoftware.com/wiki/Vocabulary/GerundsAndAtomicRepresentation)
+**[04] 00:26:31**
 
-[08] 00:50:30 Scope[https://en.wikipedia.org/wiki/Scope_(computer_science)](https://en.wikipedia.org/wiki/Scope_(computer_science))Fold Conjunction F[https://code.jsoftware.com/wiki/Vocabulary/fcap](https://code.jsoftware.com/wiki/Vocabulary/fcap)Roger Hui Memorial Episode #13 on the ArrayCast[https://www.arraycast.com/episodes/episode13-roger-hui](https://www.arraycast.com/episodes/episode13-roger-hui)Gemini 2.5[https://en.wikipedia.org/wiki/Gemini_(language_model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
+- [Roger Hui](https://en.wikipedia.org/wiki/Roger_Hui)
+- [Original J Dictionary](https://www.jsoftware.com/help/dictionary/contents.htm)
+- [J forum discussion of Anything but Nouns](https://www.jsoftware.com/pipermail/programming/2013-January/031267.html)
+- [Raul Miller Episode #59 on the ArrayCast](https://www.arraycast.com/episodes/episode59-raul-miller)
+- [Evoke `:6](https://code.jsoftware.com/wiki/Vocabulary/graveco)
 
-[09] 00:59:04 Boxed Display 5!:2[https://code.jsoftware.com/wiki/Vocabulary/Foreigns#m5](https://code.jsoftware.com/wiki/Vocabulary/Foreigns#m5)Boxed Display Global 9!:3[https://code.jsoftware.com/wiki/Vocabulary/Foreigns#m9](https://code.jsoftware.com/wiki/Vocabulary/Foreigns#m9)Jx Guide[https://www.2bestsystems.com/foundation/j/jx1.1/Jx%20Guide.htm](https://www.2bestsystems.com/foundation/j/jx1.1/Jx%20Guide.htm)Contact AT ArrayCast DOT Com
+**[05] 00:33:04**
+
+- [Fix Adverb f.](https://code.jsoftware.com/wiki/Vocabulary/fdot)
+- [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
+- [Apply 128!:2](https://code.jsoftware.com/wiki/Vocabulary/Foreigns#m128)
+- [SQL Database Language](https://en.wikipedia.org/wiki/SQL)
+- [Locales in J](https://code.jsoftware.com/wiki/Vocabulary/Locales)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [At Conjunction @:](https://code.jsoftware.com/wiki/Vocabulary/atco)
+
+**[06] 00:39:45**
+
+- [Recursion $:](https://code.jsoftware.com/wiki/Vocabulary/dollarco)
+- [Strand Notation](https://aplwiki.com/wiki/Strand_notation)
+- [Cap [:](https://code.jsoftware.com/wiki/Vocabulary/squarelfco)
+- [Invisible Modifiers](https://code.jsoftware.com/wiki/Vocabulary/fork)
+- [C A and A C Trains](https://code.jsoftware.com/wiki/Vocabulary/ModifierTrains#CA)
+- [Pepe's Explanation of the Usefulness of CA and AC](https://www.jsoftware.com/pipermail/programming/2017-October/049263.html)
+- [Henry Rich Episode #6 on the ArrayCast](https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j)
+
+**[07] 00:44:15**
+
+- [13 : Tacit Translater](https://code.jsoftware.com/wiki/Vocabulary/com#m13)
+- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+- [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
+- [Dan's Adverb Train Explanation](https://www.jsoftware.com/pipermail/programming/2010-November/021172.html)
+- [Gerunds in J](https://code.jsoftware.com/wiki/Vocabulary/GerundsAndAtomicRepresentation)
+
+**[08] 00:50:30**
+
+- [Scope](https://en.wikipedia.org/wiki/Scope_(computer_science))
+- [Fold Conjunction F](https://code.jsoftware.com/wiki/Vocabulary/fcap)
+- [Roger Hui Memorial Episode #13 on the ArrayCast](https://www.arraycast.com/episodes/episode13-roger-hui)
+- [Gemini 2.5](https://en.wikipedia.org/wiki/Gemini_(language_model))
+
+**[09] 00:59:04**
+
+- [Boxed Display 5!:2](https://code.jsoftware.com/wiki/Vocabulary/Foreigns#m5)
+- [Boxed Display Global 9!:3](https://code.jsoftware.com/wiki/Vocabulary/Foreigns#m9)
+- [Jx Guide](https://www.2bestsystems.com/foundation/j/jx1.1/Jx%20Guide.htm)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

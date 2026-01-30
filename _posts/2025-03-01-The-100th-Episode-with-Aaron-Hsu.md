@@ -35,27 +35,109 @@ The 100th Episode with Aaron HsuAaron talks about his APL compiler, Co-Dfns and 
 
 ## Show Notes
 
-Array Cast -  February 28, 2025Show Notes
+Array Cast -  February 28, 2025
 
 Thanks to Bob Therriault, Adám Brudzewsky, Conor Hoekstra and Mark Shure for gathering these links:
 
-[01] 00:01:42 British APL Live meeting[https://britishaplassociation.org/webinar-schedule-2025/](https://britishaplassociation.org/webinar-schedule-2025/)APL Berlin Meeting[https://apl-germany.de/apl-germany-fruehjahrstagung-2025/](https://apl-germany.de/apl-germany-fruehjahrstagung-2025/)ArrayPortal[https://www.arrayportal.com/](https://www.arrayportal.com/)Dyalog Google Summer of Code[https://gsoc.dyalog.com/](https://gsoc.dyalog.com/)J9.6 Release[https://code.jsoftware.com/wiki/System/Installation/J9.6](https://code.jsoftware.com/wiki/System/Installation/J9.6)Elementary Functions[https://www.jsoftware.com/papers/Elementary_Functions.pdf](https://www.jsoftware.com/papers/Elementary_Functions.pdf)Tangible Math[https://archive.org/details/tangible-math](https://archive.org/details/tangible-math)Aaron Hsu Episode 19 on the ArrayCast[https://www.arraycast.com/episodes/episode19-aaron-hsu](https://www.arraycast.com/episodes/episode19-aaron-hsu)Iverson College Experience on the ArrayCast[https://www.arraycast.com/episodes/episode89-iversonreflect](https://www.arraycast.com/episodes/episode89-iversonreflect)Iverson College Panel on the ArrayCast[https://www.arraycast.com/episodes/episode87-iversonsession](https://www.arraycast.com/episodes/episode87-iversonsession)
+**[01] 00:01:42**
 
-[02] 00:11:15 BQN Boolean Logic[https://mlochbaum.github.io/BQN/doc/logic.html](https://mlochbaum.github.io/BQN/doc/logic.html)Constructive Logic[https://en.wikipedia.org/wiki/Intuitionistic_logic](https://en.wikipedia.org/wiki/Intuitionistic_logic)Codfns Compiler[https://github.com/Co-dfns/?ref=sacrideo.us](https://github.com/Co-dfns/?ref=sacrideo.us)Key Primitive[https://aplwiki.com/wiki/Key](https://aplwiki.com/wiki/Key)ArrayFire[https://en.wikipedia.org/wiki/ArrayFire](https://en.wikipedia.org/wiki/ArrayFire)Brandon Wilson Episode 97 on the ArrayCast[https://www.arraycast.com/episodes/episode97-brandon-wilson](https://www.arraycast.com/episodes/episode97-brandon-wilson)ALE Line Editor[https://github.com/arcfide/ALE](https://github.com/arcfide/ALE)Brandon Sanderson[https://en.wikipedia.org/wiki/Brandon_Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)Gardeners vs Architects[https://www.csmfiction.com/p/architects-vs-gardeners](https://www.csmfiction.com/p/architects-vs-gardeners)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))Bracket Indexing[https://aplwiki.com/wiki/Bracket_indexing](https://aplwiki.com/wiki/Bracket_indexing)Strand Notation[https://aplwiki.com/wiki/Strand_notation](https://aplwiki.com/wiki/Strand_notation)Lexical Scoping[https://en.wikipedia.org/wiki/Scope_(computer_science)#Lexical_scope_vs._dynamic_scope_2](https://en.wikipedia.org/wiki/Scope_(computer_science)#Lexical_scope_vs._dynamic_scope_2)
+- [British APL Live meeting](https://britishaplassociation.org/webinar-schedule-2025/)
+- [APL Berlin Meeting](https://apl-germany.de/apl-germany-fruehjahrstagung-2025/)
+- [ArrayPortal](https://www.arrayportal.com/)
+- [Dyalog Google Summer of Code](https://gsoc.dyalog.com/)
+- [J9.6 Release](https://code.jsoftware.com/wiki/System/Installation/J9.6)
+- [Elementary Functions](https://www.jsoftware.com/papers/Elementary_Functions.pdf)
+- [Tangible Math](https://archive.org/details/tangible-math)
+- [Aaron Hsu Episode 19 on the ArrayCast](https://www.arraycast.com/episodes/episode19-aaron-hsu)
+- [Iverson College Experience on the ArrayCast](https://www.arraycast.com/episodes/episode89-iversonreflect)
+- [Iverson College Panel on the ArrayCast](https://www.arraycast.com/episodes/episode87-iversonsession)
 
-[03] 00:28:47 Paul Berry[https://computerhistory.org/profile/paul-berry/](https://computerhistory.org/profile/paul-berry/)Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Ken Iverson Episode 92 on the ArrayCast[https://www.arraycast.com/episodes/episode92-iverson](https://www.arraycast.com/episodes/episode92-iverson)C# Programming Language[https://en.wikipedia.org/wiki/C_Sharp_(programming_language)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))LambdaConf 25 talk Colorado[https://www.lambdaconf.us/speakers/aaron-hsu](https://www.lambdaconf.us/speakers/aaron-hsu)Morten Kromberg Episode 21 on the ArrayCast[https://www.arraycast.com/episodes/episode21-morten-kromberg](https://www.arraycast.com/episodes/episode21-morten-kromberg)Ontological Philosophy[https://en.wikipedia.org/wiki/Ontology#Definition](https://en.wikipedia.org/wiki/Ontology#Definition)Aaron's FunctionalConf Talk on Data Oriented Design[https://www.youtube.com/embed/ozlxUmdYsHA?feature=oembed](https://www.youtube.com/embed/ozlxUmdYsHA?feature=oembed)
+**[02] 00:11:15**
 
-[04] 00:51:13 Haskell Programming Language[https://en.wikipedia.org/wiki/Haskell](https://en.wikipedia.org/wiki/Haskell)Rust Programming Language[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))Micheal Snoyman[https://confengine.com/user/michael-snoyman](https://confengine.com/user/michael-snoyman)ADT's[https://en.wikipedia.org/wiki/Abstract_data_type](https://en.wikipedia.org/wiki/Abstract_data_type)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Replicate Primitive[https://aplwiki.com](https://aplwiki.com/)/wiki/ReplicateExpand Primitive[https://aplwiki.com](https://aplwiki.com/)/wiki/ExpandBQN Under[https://mlochbaum.github.io/BQN/doc/under.html](https://mlochbaum.github.io/BQN/doc/under.html)BQN Compress[https://mlochbaum.github.io/BQN/implementation/primitive/replicate.html#booleans](https://mlochbaum.github.io/BQN/implementation/primitive/replicate.html#booleans)
+- [BQN Boolean Logic](https://mlochbaum.github.io/BQN/doc/logic.html)
+- [Constructive Logic](https://en.wikipedia.org/wiki/Intuitionistic_logic)
+- [Codfns Compiler](https://github.com/Co-dfns/?ref=sacrideo.us)
+- [Key Primitive](https://aplwiki.com/wiki/Key)
+- [ArrayFire](https://en.wikipedia.org/wiki/ArrayFire)
+- [Brandon Wilson Episode 97 on the ArrayCast](https://www.arraycast.com/episodes/episode97-brandon-wilson)
+- [ALE Line Editor](https://github.com/arcfide/ALE)
+- [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)
+- [Gardeners vs Architects](https://www.csmfiction.com/p/architects-vs-gardeners)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [Bracket Indexing](https://aplwiki.com/wiki/Bracket_indexing)
+- [Strand Notation](https://aplwiki.com/wiki/Strand_notation)
+- [Lexical Scoping](https://en.wikipedia.org/wiki/Scope_(computer_science))#Lexical_scope_vs._dynamic_scope_2)
 
-[05] 00:59:15 Codfns vs. BQN[[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)implementation/codfns.html]([https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)implementation/codfns.html)Alexander Aiken The FL Project[https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9615d796624bf761e8ed17a80ae171fe72be3611](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9615d796624bf761e8ed17a80ae171fe72be3611)LLM's[https://en.wikipedia.org/wiki/Large_language_model](https://en.wikipedia.org/wiki/Large_language_model)Claude 3.7[https://en.wikipedia.org/wiki/Claude_(language_model)](https://en.wikipedia.org/wiki/Claude_(language_model))Google Search[https://en.wikipedia.org/wiki/Google_Search](https://en.wikipedia.org/wiki/Google_Search)DuckDuckGo[https://en.wikipedia.org/wiki/DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)Cory Doctorow[https://en.wikipedia.org/wiki/Cory_Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow)Cory Doctorow's Ursala Franklin Lecture.[https://pluralistic.net/2025/02/26/ursula-franklin/](https://pluralistic.net/2025/02/26/ursula-franklin/)Grok[https://en.wikipedia.org/wiki/Grok_(chatbot)](https://en.wikipedia.org/wiki/Grok_(chatbot))DeepSeek LLM[https://en.wikipedia.org/wiki/DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)Anthropic[https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)ChatGPT[https://en.wikipedia.org/wiki/ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)J Programming Language[https://www.jsoftware.com/#/README](https://www.jsoftware.com/#/README)J Nuvoc[https://code.jsoftware.com/wiki/NuVoc](https://code.jsoftware.com/wiki/NuVoc)
+**[03] 00:28:47**
 
-[06] 01:09:38 Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))Singeli Programming Language[https://github.com/mlochbaum/Singeli/tree/master#readme](https://github.com/mlochbaum/Singeli/tree/master#readme)
+- [Paul Berry](https://computerhistory.org/profile/paul-berry/)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Ken Iverson Episode 92 on the ArrayCast](https://www.arraycast.com/episodes/episode92-iverson)
+- [C# Programming Language](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- [LambdaConf 25 talk Colorado](https://www.lambdaconf.us/speakers/aaron-hsu)
+- [Morten Kromberg Episode 21 on the ArrayCast](https://www.arraycast.com/episodes/episode21-morten-kromberg)
+- [Ontological Philosophy](https://en.wikipedia.org/wiki/Ontology#Definition)
+- [Aaron's FunctionalConf Talk on Data Oriented Design](https://www.youtube.com/embed/ozlxUmdYsHA?feature=oembed)
 
-[07] 01:17:41 CursorAI[https://en.wikipedia.org/wiki/Cursor_(code_editor)](https://en.wikipedia.org/wiki/Cursor_(code_editor))Perl Programming Language[https://en.wikipedia.org/wiki/Perl](https://en.wikipedia.org/wiki/Perl)Perl Challenge[https://theweeklychallenge.org](https://theweeklychallenge.org/)Uiua Programming Language[https://www.uiua.org/](https://www.uiua.org/)Kap Programming Language[https://kapdemo.dhsdevelopments.com/](https://kapdemo.dhsdevelopments.com/)
+**[04] 00:51:13**
 
-[08] 01:22:40 JavaScript Programming Language[https://en.wikipedia.org/wiki/JavaScript](https://en.wikipedia.org/wiki/JavaScript)NotePad Editor[https://en.wikipedia.org/wiki/Windows_Notepad](https://en.wikipedia.org/wiki/Windows_Notepad)Alpha Go[https://en.wikipedia.org/wiki/AlphaGo](https://en.wikipedia.org/wiki/AlphaGo)Go[https://en.wikipedia.org/wiki/Go_(game)](https://en.wikipedia.org/wiki/Go_(game))Alpha Go Documentary[https://en.wikipedia.org/wiki/AlphaGo](https://en.wikipedia.org/wiki/AlphaGo)#AlphaGo_documentary_film_(2016)Monte Carlo Tree Search[https://en.wikipedia.org/wiki/Monte_Carlo_tree_search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)Even Superhuman Go AIs Have Surprising Failure Modes | FAR.AI[https://far.ai/post/2023-07-superhuman-go-ais/](https://far.ai/post/2023-07-superhuman-go-ais/)
+- [Haskell Programming Language](https://en.wikipedia.org/wiki/Haskell)
+- [Rust Programming Language](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [Micheal Snoyman](https://confengine.com/user/michael-snoyman)
+- [ADT's](https://en.wikipedia.org/wiki/Abstract_data_type)
+- [APL Programming Language](https://aplwiki.com/)
+- [Replicate Primitive](https://aplwiki.com/)
+- [/wiki/ReplicateExpand Primitive](https://aplwiki.com/)
+- [/wiki/ExpandBQN Under](https://mlochbaum.github.io/BQN/doc/under.html)
+- [BQN Compress](https://mlochbaum.github.io/BQN/implementation/primitive/replicate.html#booleans)
 
-[09] 01:23:24 AGI[https://en.wikipedia.org/wiki/Artificial_general_intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)Boston Dynamics Robots[https://www.youtube.com/watch?v=tF4DML7FIWk](https://www.youtube.com/watch?v=tF4DML7FIWk)Transhumanism[https://en.wikipedia.org/wiki/Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)Contact AT ArrayCast DOT Com
+**[05] 00:59:15**
+
+- [Codfns vs. BQN](https://mlochbaum.github.io/BQN//implementation/codfns.html)
+- [Alexander Aiken The FL Project](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9615d796624bf761e8ed17a80ae171fe72be3611)
+- [LLM's](https://en.wikipedia.org/wiki/Large_language_model)
+- [Claude 3.7](https://en.wikipedia.org/wiki/Claude_(language_model))
+- [Google Search](https://en.wikipedia.org/wiki/Google_Search)
+- [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
+- [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow)
+- [Cory Doctorow's Ursala Franklin Lecture.](https://pluralistic.net/2025/02/26/ursula-franklin/)
+- [Grok](https://en.wikipedia.org/wiki/Grok_(chatbot))
+- [DeepSeek LLM](https://en.wikipedia.org/wiki/DeepSeek)
+- [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
+- [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [J Programming Language](https://www.jsoftware.com/#/README)
+- [J Nuvoc](https://code.jsoftware.com/wiki/NuVoc)
+
+**[06] 01:09:38**
+
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Singeli Programming Language](https://github.com/mlochbaum/Singeli/tree/master#readme)
+
+**[07] 01:17:41**
+
+- [CursorAI](https://en.wikipedia.org/wiki/Cursor_(code_editor))
+- [Perl Programming Language](https://en.wikipedia.org/wiki/Perl)
+- [Perl Challenge](https://theweeklychallenge.org/)
+- [Uiua Programming Language](https://www.uiua.org/)
+- [Kap Programming Language](https://kapdemo.dhsdevelopments.com/)
+
+**[08] 01:22:40**
+
+- [JavaScript Programming Language](https://en.wikipedia.org/wiki/JavaScript)
+- [NotePad Editor](https://en.wikipedia.org/wiki/Windows_Notepad)
+- [Alpha Go](https://en.wikipedia.org/wiki/AlphaGo)
+- [Go](https://en.wikipedia.org/wiki/Go_(game))
+- [Alpha Go Documentary](https://en.wikipedia.org/wiki/AlphaGo)
+- [#AlphaGo_documentary_film_(2016)Monte Carlo Tree Search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
+- [Even Superhuman Go AIs Have Surprising Failure Modes | FAR.AI](https://far.ai/post/2023-07-superhuman-go-ais/)
+
+**[09] 01:23:24**
+
+- [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+- [Boston Dynamics Robots](https://www.youtube.com/watch?v=tF4DML7FIWk)
+- [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

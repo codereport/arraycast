@@ -31,3 +31,6 @@ In this episode our guest is Jeremy Howard, entrepreneur and data scientist. A v
 
 [Original episode on ArrayCast](https://www.arraycast.com/episodes/episode31-jeremy-howard)
 
+## Show Notes
+
+- [https://youtu.be/0AlSPyGWNr4](https://youtu.be/0AlSPyGWNr4)

@@ -31,23 +31,83 @@ J9.6 - The New J Version of JFor the 7th time our guest is Henry Rich, the maint
 
 ## Show Notes
 
-Array Cast -  April 25, 2025Show Notes
+Array Cast -  April 25, 2025
 
 Thanks to Bob Therriault for gathering these links:
 
-[01] 00:01:35 code.golf[https://code.golf/about](https://code.golf/about)ngn/k programming language[https://k.miraheze.org/wiki/Ngn/k](https://k.miraheze.org/wiki/Ngn/k)J programming language[https://www.jsoftware.com/#/](https://www.jsoftware.com/#/)APL programming language[https://aplwiki.com](https://aplwiki.com/)BQN programming language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Uiua programming language[https://www.uiua.org/](https://www.uiua.org/)APL thumbs up link[https://github.com/code-golf/code-golf/issues/135](https://github.com/code-golf/code-golf/issues/135)BQN thumbs up link[https://github.com/code-golf/code-golf/issues/474](https://github.com/code-golf/code-golf/issues/474)Uiua thumbs up link[https://github.com/code-golf/code-golf/issues/1115](https://github.com/code-golf/code-golf/issues/1115)Henry Rich Episode #06 on the ArrayCast[https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j](https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j)Henry Rich Episode #18 on the ArrayCast[https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903](https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903)Henry Rich Episode #48 on the ArrayCast[https://www.arraycast.com/episodes/episode48-henry-rich](https://www.arraycast.com/episodes/episode48-henry-rich)Henry Rich Episode #50 on the ArrayCast[https://www.arraycast.com/episodes/episode50-fold](https://www.arraycast.com/episodes/episode50-fold)Henry Rich Episode # on the ArrayCast[https://www.arraycast.com/episodes/episode73-j95](https://www.arraycast.com/episodes/episode73-j95)Henry Rich Episode #84 on the ArrayCast[https://www.arraycast.com/episodes/episode84-tacit6](https://www.arraycast.com/episodes/episode84-tacit6)Release Notes for J9.6[https://code.jsoftware.com/wiki/System/ReleaseNotes/J9.6](https://code.jsoftware.com/wiki/System/ReleaseNotes/J9.6)Singeli programming language[https://github.com/mlochbaum/Singeli/tree/master#readme](https://github.com/mlochbaum/Singeli/tree/master#readme)C++ programming language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)Rust programming language[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))Post Mortem Debugging[https://code.jsoftware.com/wiki/Vocabulary/Debug](https://code.jsoftware.com/wiki/Vocabulary/Debug)
+**[01] 00:01:35**
 
-[02] 00:14:45 Visual Studio[https://en.wikipedia.org/wiki/Visual_Studio](https://en.wikipedia.org/wiki/Visual_Studio)GDB GNU optimized debugger[https://en.wikipedia.org/wiki/GNU_Debugger](https://en.wikipedia.org/wiki/GNU_Debugger)Locales in J[https://code.jsoftware.com/wiki/Vocabulary/Locales](https://code.jsoftware.com/wiki/Vocabulary/Locales)CoLib Foreign conjunctions[https://code.jsoftware.com/wiki/Standard_Library/colib](https://code.jsoftware.com/wiki/Standard_Library/colib)Threading in J[https://code.jsoftware.com/wiki/Vocabulary/tcapdot#dyadic](https://code.jsoftware.com/wiki/Vocabulary/tcapdot#dyadic)Power Conjunction (^:)[https://code.jsoftware.com/wiki/Vocabulary/hatco](https://code.jsoftware.com/wiki/Vocabulary/hatco)Fold Conjunction (F. F: F.: F:: F.. F:.)[https://code.jsoftware.com/wiki/Vocabulary/fcap](https://code.jsoftware.com/wiki/Vocabulary/fcap)
+- [code.golf](https://code.golf/about)
+- [ngn/k programming language](https://k.miraheze.org/wiki/Ngn/k)
+- [J programming language](https://www.jsoftware.com/#/)
+- [APL programming language](https://aplwiki.com/)
+- [BQN programming language](https://mlochbaum.github.io/BQN/)
+- [Uiua programming language](https://www.uiua.org/)
+- [APL thumbs up link](https://github.com/code-golf/code-golf/issues/135)
+- [BQN thumbs up link](https://github.com/code-golf/code-golf/issues/474)
+- [Uiua thumbs up link](https://github.com/code-golf/code-golf/issues/1115)
+- [Henry Rich Episode #06 on the ArrayCast](https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j)
+- [Henry Rich Episode #18 on the ArrayCast](https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903)
+- [Henry Rich Episode #48 on the ArrayCast](https://www.arraycast.com/episodes/episode48-henry-rich)
+- [Henry Rich Episode #50 on the ArrayCast](https://www.arraycast.com/episodes/episode50-fold)
+- [Henry Rich Episode # on the ArrayCast](https://www.arraycast.com/episodes/episode73-j95)
+- [Henry Rich Episode #84 on the ArrayCast](https://www.arraycast.com/episodes/episode84-tacit6)
+- [Release Notes for J9.6](https://code.jsoftware.com/wiki/System/ReleaseNotes/J9.6)
+- [Singeli programming language](https://github.com/mlochbaum/Singeli/tree/master#readme)
+- [C++ programming language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Rust programming language](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [Post Mortem Debugging](https://code.jsoftware.com/wiki/Vocabulary/Debug)
 
-[03] 00:23:55 Catalan Numbers[[https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)Catalan_number]([https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)Catalan_number)Ruby programming language[[https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)Ruby_(programming_language)]([https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)Ruby_(programming_language))q programming language[https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)J pronouns x, y, m, n, u, v[https://code.jsoftware.com/wiki/Help/Release/J_6.01/:_Explicit_Names_Changed](https://code.jsoftware.com/wiki/Help/Release/J_6.01/:_Explicit_Names_Changed)Fold Diagrams[https://code.jsoftware.com/wiki/Vocabulary/fcap](https://code.jsoftware.com/wiki/Vocabulary/fcap)
+**[02] 00:14:45**
 
-[04] 00:34:30 J's Benchmarking page[https://code.jsoftware.com/wiki/Vocabulary/JCPUBenchmarks](https://code.jsoftware.com/wiki/Vocabulary/JCPUBenchmarks)Adám's Reshape Contribution[https://code.jsoftware.com/wiki/Vocabulary/dollar#reshapeblank](https://code.jsoftware.com/wiki/Vocabulary/dollar#reshapeblank)J forums[https://groups.google.com/a/jsoftware.com/g/forum](https://groups.google.com/a/jsoftware.com/g/forum)ArrayPortal[https://www.arrayportal.com](https://www.arrayportal.com/)[Jsoftware.com](http://jsoftware.com/)[https://www.jsoftware.com/#/](https://www.jsoftware.com/#/)Dictionary Data Structure[https://en.wikipedia.org/wiki/Associative_array](https://en.wikipedia.org/wiki/Associative_array)
+- [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
+- [GDB GNU optimized debugger](https://en.wikipedia.org/wiki/GNU_Debugger)
+- [Locales in J](https://code.jsoftware.com/wiki/Vocabulary/Locales)
+- [CoLib Foreign conjunctions](https://code.jsoftware.com/wiki/Standard_Library/colib)
+- [Threading in J](https://code.jsoftware.com/wiki/Vocabulary/tcapdot#dyadic)
+- [Power Conjunction (^:)](https://code.jsoftware.com/wiki/Vocabulary/hatco)
+- [Fold Conjunction (F. F: F.: F:: F.. F:.)](https://code.jsoftware.com/wiki/Vocabulary/fcap)
 
-[05] 00:44:19 J9.7 Beta version[https://code.jsoftware.com/wiki/System/Installation/J9.7](https://code.jsoftware.com/wiki/System/Installation/J9.7)Line continuation discussion[https://code.jsoftware.com/wiki/Vocabulary/ReleaseNotes9.6RFC](https://code.jsoftware.com/wiki/Vocabulary/ReleaseNotes9.6RFC)Dissect debugger[https://code.jsoftware.com/wiki/Vocabulary/Dissect](https://code.jsoftware.com/wiki/Vocabulary/Dissect)Direct Definition in J[https://code.jsoftware.com/wiki/Vocabulary/DirectDefinition](https://code.jsoftware.com/wiki/Vocabulary/DirectDefinition)Kap programming language[https://kapdemo.dhsdevelopments.com](https://kapdemo.dhsdevelopments.com/)Index of (i.)[https://code.jsoftware.com/wiki/Vocabulary/idot#dyadic](https://code.jsoftware.com/wiki/Vocabulary/idot#dyadic)
+**[03] 00:23:55**
 
-[06] 00:51:52 Java programming language[https://en.wikipedia.org/wiki/Java_(programming_language)](https://en.wikipedia.org/wiki/Java_(programming_language))Stepinoff Series of Lectures[https://www.youtube.com/watch?v=1QvkTKNgHJk](https://www.youtube.com/watch?v=1QvkTKNgHJk)Tolerant Comparison[https://code.jsoftware.com/wiki/Essays/Tolerant_Comparison](https://code.jsoftware.com/wiki/Essays/Tolerant_Comparison)Phineas Porter Episode #98 of ArrayCast[https://www.arraycast.com/episodes/episode98-phineas-porter](https://www.arraycast.com/episodes/episode98-phineas-porter)Aaron Hsu Tacit Talk #27[https://www.youtube.com/watch?v=BIc9iz-n7dM](https://www.youtube.com/watch?v=BIc9iz-n7dM)
+- [Catalan Numbers](https://en.wikipedia.org/wiki//Catalan_number)
+- [Ruby programming language](https://en.wikipedia.org/wiki//Ruby_(programming_language))
+- [q programming language](https://en.wikipedia.org/wiki/)
+- [J pronouns x, y, m, n, u, v](https://code.jsoftware.com/wiki/Help/Release/J_6.01/:_Explicit_Names_Changed)
+- [Fold Diagrams](https://code.jsoftware.com/wiki/Vocabulary/fcap)
 
-[07] 01:01:31 NARS2000 Implementation Episode #82 of ArrayCast[https://www.arraycast.com/episodes/episode82-nars2000-implementation](https://www.arraycast.com/episodes/episode82-nars2000-implementation)Contact AT ArrayCast DOT ComIndexing Episode #99 of the ArrayCast[https://www.arraycast.com/episodes/episode99-selection](https://www.arraycast.com/episodes/episode99-selection)Symbols in J (s:)[https://code.jsoftware.com/wiki/Vocabulary/sco](https://code.jsoftware.com/wiki/Vocabulary/sco)
+**[04] 00:34:30**
+
+- [J's Benchmarking page](https://code.jsoftware.com/wiki/Vocabulary/JCPUBenchmarks)
+- [Adám's Reshape Contribution](https://code.jsoftware.com/wiki/Vocabulary/dollar#reshapeblank)
+- [J forums](https://groups.google.com/a/jsoftware.com/g/forum)
+- [ArrayPortal](https://www.arrayportal.com/)
+- [Jsoftware.com](http://jsoftware.com/)
+- [jsoftware.com/#](https://www.jsoftware.com/#/)
+- [Dictionary Data Structure](https://en.wikipedia.org/wiki/Associative_array)
+
+**[05] 00:44:19**
+
+- [J9.7 Beta version](https://code.jsoftware.com/wiki/System/Installation/J9.7)
+- [Line continuation discussion](https://code.jsoftware.com/wiki/Vocabulary/ReleaseNotes9.6RFC)
+- [Dissect debugger](https://code.jsoftware.com/wiki/Vocabulary/Dissect)
+- [Direct Definition in J](https://code.jsoftware.com/wiki/Vocabulary/DirectDefinition)
+- [Kap programming language](https://kapdemo.dhsdevelopments.com/)
+- [Index of (i.)](https://code.jsoftware.com/wiki/Vocabulary/idot#dyadic)
+
+**[06] 00:51:52**
+
+- [Java programming language](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Stepinoff Series of Lectures](https://www.youtube.com/watch?v=1QvkTKNgHJk)
+- [Tolerant Comparison](https://code.jsoftware.com/wiki/Essays/Tolerant_Comparison)
+- [Phineas Porter Episode #98 of ArrayCast](https://www.arraycast.com/episodes/episode98-phineas-porter)
+- [Aaron Hsu Tacit Talk #27](https://www.youtube.com/watch?v=BIc9iz-n7dM)
+
+**[07] 01:01:31**
+
+- [NARS2000 Implementation Episode #82 of ArrayCast](https://www.arraycast.com/episodes/episode82-nars2000-implementation)
+- [Contact AT ArrayCast DOT ComIndexing Episode #99 of the ArrayCast](https://www.arraycast.com/episodes/episode99-selection)
+- [Symbols in J (s:)](https://code.jsoftware.com/wiki/Vocabulary/sco)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

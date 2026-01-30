@@ -33,7 +33,7 @@ Iverson College in Cambridge. https://www.arraycast.com/episodes/episode87-ivers
 
 ## Show Notes
 
-Array Cast -  August 30, 2024Show Notes
+Array Cast -  August 30, 2024
 
 Participants in this session:
 
@@ -43,25 +43,122 @@ If you would like to contact anyone on this list send us an email at[contact@arr
 
 Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 
-[01] 00:01:30 Trinity College Cambridge University[https://www.trin.cam.ac.uk](https://www.trin.cam.ac.uk/)Iverson College[https://iversoncollege.com](https://iversoncollege.com/)Iverson College Participants[https://iversoncollege.com](https://iversoncollege.com/)/participants/Henry Rich Episode 6 of ArrayCast[https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j](https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j)Henry Rich Episode 18 of ArrayCast[https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903](https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903)Henry Rich Episode 48 of ArrayCast[https://www.arraycast.com/episodes/episode48-henry-rich](https://www.arraycast.com/episodes/episode48-henry-rich)Henry Rich Episode 50 of ArrayCast[https://www.arraycast.com/episodes/episode50-fold](https://www.arraycast.com/episodes/episode50-fold)Henry Rich Episode 73 of ArrayCast[https://www.arraycast.com/episodes/episode73-j95](https://www.arraycast.com/episodes/episode73-j95)Henry Rich Episode 84 of ArrayCast[https://www.arraycast.com/episodes/episode84-tacit6](https://www.arraycast.com/episodes/episode84-tacit6)Kai Scmidt Episode 63 of ArrayCast[https://www.arraycast.com/episodes/episode63-uiua](https://www.arraycast.com/episodes/episode63-uiua)Kai Scmidt Episode 77 of ArrayCast[https://www.arraycast.com/episodes/episode77-uiua](https://www.arraycast.com/episodes/episode77-uiua)Aaron Hsu Episode 19 of ArrayCast[https://www.arraycast.com/episodes/episode19-aaron-hsu](https://www.arraycast.com/episodes/episode19-aaron-hsu)Alex Unterrainer's blog DefConQ[https://www.defconq.tech/](https://www.defconq.tech/)Brian Ellingaard Episode 68 of ArrayCast[https://www.arraycast.com/episodes/episode68-brian-ellingsgaard](https://www.arraycast.com/episodes/episode68-brian-ellingsgaard)J Programming Language[https://www.jsoftware.com/#/](https://www.jsoftware.com/#/)Uiua Programming Language[[https://aplwiki.com](https://aplwiki.com/)/wiki/Uiua]([https://aplwiki.com](https://aplwiki.com/)/wiki/Uiua)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Codfns[https://github.com/Co-dfns/Co-dfns/blob/master/docs/MANUAL.md](https://github.com/Co-dfns/Co-dfns/blob/master/docs/MANUAL.md)q Programming Language[https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))Higher Order Functions[https://en.wikipedia.org/wiki/Higher-order_function](https://en.wikipedia.org/wiki/Higher-order_function)NARS2000 Programming Language[https://aplwiki.com](https://aplwiki.com/)/wiki/NARS2000NARS2000 Episode 80 of ArrayCast[https://www.arraycast.com/episodes/episode80-nars2000](https://www.arraycast.com/episodes/episode80-nars2000)Implementing NARS2000 Episode 82 of ArrayCast[https://www.arraycast.com/episodes/episode82-nars2000-implementation](https://www.arraycast.com/episodes/episode82-nars2000-implementation)Imperative Programming Languages[https://en.wikipedia.org/wiki/Imperative_programming](https://en.wikipedia.org/wiki/Imperative_programming)Functional Programming Languages[https://en.wikipedia.org/wiki/Functional_programming](https://en.wikipedia.org/wiki/Functional_programming)
+**[01] 00:01:30**
 
-[02] 00:11:12 k Programming Language[https://en.wikipedia.org/wiki/K_(programming_language)](https://en.wikipedia.org/wiki/K_(programming_language))GPU[https://en.wikipedia.org/wiki/Graphics_processing_unit](https://en.wikipedia.org/wiki/Graphics_processing_unit)Multi-Thread Processing[https://en.wikipedia.org/wiki/Thread_(computing)](https://en.wikipedia.org/wiki/Thread_(computing))Uiua Episode 63 of ArrayCast[https://www.arraycast.com/episodes/episode63-uiua](https://www.arraycast.com/episodes/episode63-uiua)Uiua Episode 77 of ArrayCast[https://www.arraycast.com/episodes/episode77-uiua](https://www.arraycast.com/episodes/episode77-uiua)Josh David Episode 22 of ArrayCast[https://www.arraycast.com/episodes/episode22-josh-david](https://www.arraycast.com/episodes/episode22-josh-david)Ian Sharp Audio[https://www.ipsharp.org](https://www.ipsharp.org/)
+- [Trinity College Cambridge University](https://www.trin.cam.ac.uk/)
+- [Iverson College](https://iversoncollege.com/)
+- [Iverson College Participants](https://iversoncollege.com/)
+- [/participants/Henry Rich Episode 6 of ArrayCast](https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j)
+- [Henry Rich Episode 18 of ArrayCast](https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903)
+- [Henry Rich Episode 48 of ArrayCast](https://www.arraycast.com/episodes/episode48-henry-rich)
+- [Henry Rich Episode 50 of ArrayCast](https://www.arraycast.com/episodes/episode50-fold)
+- [Henry Rich Episode 73 of ArrayCast](https://www.arraycast.com/episodes/episode73-j95)
+- [Henry Rich Episode 84 of ArrayCast](https://www.arraycast.com/episodes/episode84-tacit6)
+- [Kai Scmidt Episode 63 of ArrayCast](https://www.arraycast.com/episodes/episode63-uiua)
+- [Kai Scmidt Episode 77 of ArrayCast](https://www.arraycast.com/episodes/episode77-uiua)
+- [Aaron Hsu Episode 19 of ArrayCast](https://www.arraycast.com/episodes/episode19-aaron-hsu)
+- [Alex Unterrainer's blog DefConQ](https://www.defconq.tech/)
+- [Brian Ellingaard Episode 68 of ArrayCast](https://www.arraycast.com/episodes/episode68-brian-ellingsgaard)
+- [J Programming Language](https://www.jsoftware.com/#/)
+- [Uiua Programming Language](https://aplwiki.com/wiki/Uiua)
+- [APL Programming Language](https://aplwiki.com/)
+- [Codfns](https://github.com/Co-dfns/Co-dfns/blob/master/docs/MANUAL.md)
+- [q Programming Language](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))
+- [Higher Order Functions](https://en.wikipedia.org/wiki/Higher-order_function)
+- [NARS2000 Programming Language](https://aplwiki.com/)
+- [/wiki/NARS2000NARS2000 Episode 80 of ArrayCast](https://www.arraycast.com/episodes/episode80-nars2000)
+- [Implementing NARS2000 Episode 82 of ArrayCast](https://www.arraycast.com/episodes/episode82-nars2000-implementation)
+- [Imperative Programming Languages](https://en.wikipedia.org/wiki/Imperative_programming)
+- [Functional Programming Languages](https://en.wikipedia.org/wiki/Functional_programming)
 
-[03] 00:19:30 Combinators[https://en.wikipedia.org/wiki/Combinatory_logic](https://en.wikipedia.org/wiki/Combinatory_logic)Rust Programming Language[https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))Computer Architecture[https://en.wikipedia.org/wiki/Computer_architecture](https://en.wikipedia.org/wiki/Computer_architecture)Kamila Szewczyk Episode 74 of ArrayCast[https://www.arraycast.com/episodes/episode74-kamilalisp](https://www.arraycast.com/episodes/episode74-kamilalisp)Dyalog APL[https://aplwiki.com/wiki/Dyalog_APL](https://aplwiki.com/wiki/Dyalog_APL)Tacit Talk with Adám Brudzewsky[https://www.youtube.com/watch?v=6LrQithKj8w](https://www.youtube.com/watch?v=6LrQithKj8w)Bob's J videos[https://www.youtube.com/results?search_query=bob+therriault](https://www.youtube.com/results?search_query=bob+therriault)Tracy Harms J video[https://www.youtube.com/watch?v=RWYkx6-L04Q](https://www.youtube.com/watch?v=RWYkx6-L04Q)q201.0rg[https://q201.org](https://q201.org/)
+**[02] 00:11:12**
 
-[04] 00:31:21 Raylib Library for BQN  Rayed-BQN[https://github.com/Brian-ED/rayed-bqn](https://github.com/Brian-ED/rayed-bqn)Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Excel Programming Language[https://en.wikipedia.org/wiki/Microsoft_Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)AWK Programming Language[https://en.wikipedia.org/wiki/AWK](https://en.wikipedia.org/wiki/AWK)sed Programmming Language[https://en.wikipedia.org/wiki/Sed](https://en.wikipedia.org/wiki/Sed)Jq platform[https://jqlang.github.io/jq/](https://jqlang.github.io/jq/)Bash shell[https://en.wikipedia.org/wiki/Bash_(Unix_shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))Justin Dowdy[https://github.com/justin2004/weblog#readme](https://github.com/justin2004/weblog#readme)NYCJUG Meeting[https://code.jsoftware.com/wiki/NYCJUG](https://code.jsoftware.com/wiki/NYCJUG)Alternate J Wiki Portal[https://code.jsoftware.com/wiki/Category:Home](https://code.jsoftware.com/wiki/Category:Home)Codfns Thesis[https://scholarworks.iu.edu/dspace/items/3ab772c9-92c9-4f59-bd95-40aff99e8c7a](https://scholarworks.iu.edu/dspace/items/3ab772c9-92c9-4f59-bd95-40aff99e8c7a)Codfns Source code[https://github.com/Co-dfns/Co-dfns](https://github.com/Co-dfns/Co-dfns)
+- [k Programming Language](https://en.wikipedia.org/wiki/K_(programming_language))
+- [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+- [Multi-Thread Processing](https://en.wikipedia.org/wiki/Thread_(computing))
+- [Uiua Episode 63 of ArrayCast](https://www.arraycast.com/episodes/episode63-uiua)
+- [Uiua Episode 77 of ArrayCast](https://www.arraycast.com/episodes/episode77-uiua)
+- [Josh David Episode 22 of ArrayCast](https://www.arraycast.com/episodes/episode22-josh-david)
+- [Ian Sharp Audio](https://www.ipsharp.org/)
 
-[05] 00:40:09 Aaron's LambdaConf 24 talk[https://www.youtube.com/watch?v=F1q-ZxXmYbo](https://www.youtube.com/watch?v=F1q-ZxXmYbo)Tacit Programming[https://en.wikipedia.org/wiki/Tacit_programming](https://en.wikipedia.org/wiki/Tacit_programming)PEG Parser[https://en.wikipedia.org/wiki/Parsing_expression_grammar](https://en.wikipedia.org/wiki/Parsing_expression_grammar)DSL PEG Parser[https://en.wikipedia.org/wiki/Domain-specific_language](https://en.wikipedia.org/wiki/Domain-specific_language)Kdb[https://kx.com/products/kdb/](https://kx.com/products/kdb/)Arthur Whitney[https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))Monadic and Dyadic Functions[https://en.wikipedia.org/wiki/Arity](https://en.wikipedia.org/wiki/Arity)Concatenative Programming Languages[https://en.wikipedia.org/wiki/Concatenative_programming_language](https://en.wikipedia.org/wiki/Concatenative_programming_language)
+**[03] 00:19:30**
 
-[06] 00:54:50 Morten Kromberg ArrayCast Episode 21[https://www.arraycast.com/episodes/episode21-morten-kromberg](https://www.arraycast.com/episodes/episode21-morten-kromberg)Haskell Programming Language[https://en.wikipedia.org/wiki/Haskell](https://en.wikipedia.org/wiki/Haskell)
+- [Combinators](https://en.wikipedia.org/wiki/Combinatory_logic)
+- [Rust Programming Language](https://en.wikipedia.org/wiki/Rust_(programming_language))
+- [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture)
+- [Kamila Szewczyk Episode 74 of ArrayCast](https://www.arraycast.com/episodes/episode74-kamilalisp)
+- [Dyalog APL](https://aplwiki.com/wiki/Dyalog_APL)
+- [Tacit Talk with Adám Brudzewsky](https://www.youtube.com/watch?v=6LrQithKj8w)
+- [Bob's J videos](https://www.youtube.com/results?search_query=bob+therriault)
+- [Tracy Harms J video](https://www.youtube.com/watch?v=RWYkx6-L04Q)
+- [q201.0rg](https://q201.org/)
 
-[07] 01:00:20 Category Theory[https://en.wikipedia.org/wiki/Category_theory](https://en.wikipedia.org/wiki/Category_theory)Alan Perlis Quotes[https://www.cs.yale.edu/homes/perlis-alan/quotes.html](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)regex tools[https://en.wikipedia.org/wiki/Regular_expression](https://en.wikipedia.org/wiki/Regular_expression)[combinatorylogic.com](http://combinatorylogic.com/)https://[combinatorylogic.com](http://combinatorylogic.com/)kap Programming Language[https://aplwiki.com/wiki/Kap](https://aplwiki.com/wiki/Kap)Kap Episode 72 of ArrayCast[https://www.arraycast.com/episodes/episode72-kap](https://www.arraycast.com/episodes/episode72-kap)
+**[04] 00:31:21**
 
-[08] 01:10:39 Unicode[https://en.wikipedia.org/wiki/Unicode](https://en.wikipedia.org/wiki/Unicode)IME Input Method Editor[https://en.wikipedia.org/wiki/Input_method](https://en.wikipedia.org/wiki/Input_method)APL\? Paper[https://www.jsoftware.com/papers/J1990.htm](https://www.jsoftware.com/papers/J1990.htm)Index Origin - IO[https://aplwiki.com/wiki/Index_origin](https://aplwiki.com/wiki/Index_origin)
+- [Raylib Library for BQN  Rayed-BQN](https://github.com/Brian-ED/rayed-bqn)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Excel Programming Language](https://en.wikipedia.org/wiki/Microsoft_Excel)
+- [AWK Programming Language](https://en.wikipedia.org/wiki/AWK)
+- [sed Programmming Language](https://en.wikipedia.org/wiki/Sed)
+- [Jq platform](https://jqlang.github.io/jq/)
+- [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- [Justin Dowdy](https://github.com/justin2004/weblog#readme)
+- [NYCJUG Meeting](https://code.jsoftware.com/wiki/NYCJUG)
+- [Alternate J Wiki Portal](https://code.jsoftware.com/wiki/Category:Home)
+- [Codfns Thesis](https://scholarworks.iu.edu/dspace/items/3ab772c9-92c9-4f59-bd95-40aff99e8c7a)
+- [Codfns Source code](https://github.com/Co-dfns/Co-dfns)
 
-[09] 01:24:34 Traditional Mathematics Notation[https://en.wikipedia.org/wiki/Mathematical_notation](https://en.wikipedia.org/wiki/Mathematical_notation)
+**[05] 00:40:09**
 
-[10] 01:32:34 Euclid's The Elements[https://en.wikipedia.org/wiki/Euclid%27s_Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements)Stencil as an Operator[https://aplwiki.com/wiki/Stencil](https://aplwiki.com/wiki/Stencil)Scheme Programming Language[https://en.wikipedia.org/wiki/Scheme_(programming_language)](https://en.wikipedia.org/wiki/Scheme_(programming_language))A Programming Language[https://en.wikipedia.org/wiki/A%2B_(programming_language)](https://en.wikipedia.org/wiki/A%2B_(programming_language))Leading Axis Theory[https://aplwiki.com/wiki/Leading_axis_theory](https://aplwiki.com/wiki/Leading_axis_theory)2015 Dyalog Array Representation[https://dyalog.tv/Dyalog15/?v=9-HAvTMhYao](https://dyalog.tv/Dyalog15/?v=9-HAvTMhYao)[11] 01:39:24 LambdaWorld in Cadiz Spain August 2-4, 2024[https://www.lambda.world](https://www.lambda.world/)Habla Computing[https://hablapps.com](https://hablapps.com/)Contact AT ArrayCast DOT Com
+- [Aaron's LambdaConf 24 talk](https://www.youtube.com/watch?v=F1q-ZxXmYbo)
+- [Tacit Programming](https://en.wikipedia.org/wiki/Tacit_programming)
+- [PEG Parser](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
+- [DSL PEG Parser](https://en.wikipedia.org/wiki/Domain-specific_language)
+- [Kdb](https://kx.com/products/kdb/)
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist))
+- [Monadic and Dyadic Functions](https://en.wikipedia.org/wiki/Arity)
+- [Concatenative Programming Languages](https://en.wikipedia.org/wiki/Concatenative_programming_language)
+
+**[06] 00:54:50**
+
+- [Morten Kromberg ArrayCast Episode 21](https://www.arraycast.com/episodes/episode21-morten-kromberg)
+- [Haskell Programming Language](https://en.wikipedia.org/wiki/Haskell)
+
+**[07] 01:00:20**
+
+- [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
+- [Alan Perlis Quotes](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+- [regex tools](https://en.wikipedia.org/wiki/Regular_expression)
+- [combinatorylogic.com](http://combinatorylogic.com/)
+- [combinatorylogic.com/](http://combinatorylogic.com/)
+- [kap Programming Language](https://aplwiki.com/wiki/Kap)
+- [Kap Episode 72 of ArrayCast](https://www.arraycast.com/episodes/episode72-kap)
+
+**[08] 01:10:39**
+
+- [Unicode](https://en.wikipedia.org/wiki/Unicode)
+- [IME Input Method Editor](https://en.wikipedia.org/wiki/Input_method)
+- [APL\? Paper](https://www.jsoftware.com/papers/J1990.htm)
+- [Index Origin - IO](https://aplwiki.com/wiki/Index_origin)
+
+**[09] 01:24:34**
+
+- [Traditional Mathematics Notation](https://en.wikipedia.org/wiki/Mathematical_notation)
+
+**[10] 01:32:34**
+
+- [Euclid's The Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements)
+- [Stencil as an Operator](https://aplwiki.com/wiki/Stencil)
+- [Scheme Programming Language](https://en.wikipedia.org/wiki/Scheme_(programming_language))
+- [A Programming Language](https://en.wikipedia.org/wiki/A%2B_(programming_language))
+- [Leading Axis Theory](https://aplwiki.com/wiki/Leading_axis_theory)
+- [2015 Dyalog Array Representation](https://dyalog.tv/Dyalog15/?v=9-HAvTMhYao)
+
+**[11] 01:39:24**
+
+- [LambdaWorld in Cadiz Spain August 2-4, 2024](https://www.lambda.world/)
+- [Habla Computing](https://hablapps.com/)
+- Contact AT ArrayCast DOT Com
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

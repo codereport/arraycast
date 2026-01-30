@@ -35,25 +35,89 @@ Making Interpreters FasterOur guests are Henry Rich and Geoff Streeter in this d
 
 ## Show Notes
 
-Array Cast -  May 23, 2025Show Notes
+Array Cast -  May 23, 2025
 
 Thanks to Bob Therriault and Conor Hoekstra for gathering these links:
 
-[01] 00:01:35 Subreddit for the Array Languages[https://www.reddit.com/r/apljk/](https://www.reddit.com/r/apljk/)Marshall's 5 year retrospective[https://mlochbaum.github.io/BQN/commentary/fiveyears.html](https://mlochbaum.github.io/BQN/commentary/fiveyears.html)APL Demo 1975[https://www.youtube.com/watch?v=_DTpQ4Kk2wA](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)Marshall's First Appearance on ArrayCast #7[https://www.arraycast.com/episodes/episode-07-marshall-lochbaum-and-the-bqn-array-language](https://www.arraycast.com/episodes/episode-07-marshall-lochbaum-and-the-bqn-array-language)Henry Rich Episode on ArrayCast #104[https://www.arraycast.com/episodes/episode104-j96](https://www.arraycast.com/episodes/episode104-j96)Roger Hui Memorial Episode on ArrayCast #13[https://www.arraycast.com/episodes/episode13-roger-hui](https://www.arraycast.com/episodes/episode13-roger-hui)Ken Iverson[https://en.wikipedia.org/wiki/Kenneth_E._Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)Geoff Streeter[[https://aplwiki.com](https://aplwiki.com/)/wiki/Geoff_Streeter]([https://aplwiki.com](https://aplwiki.com/)/wiki/Geoff_Streeter)Geoff Streeter - 40 years with Dyalog[https://www.dyalog.com/news/113/420/Geoff-Streeter-40-Years-with-Dyalog.htm](https://www.dyalog.com/news/113/420/Geoff-Streeter-40-Years-with-Dyalog.htm)Dyadic[[[https://aplwiki.com](https://aplwiki.com/)/wiki/Dyalog_Ltd]([https://aplwiki.com](https://aplwiki.com/)/wiki/Dyalog_Ltd).#Dyadic_Systems_consulting]([[https://aplwiki.com](https://aplwiki.com/)/wiki/Dyalog_Ltd]([https://aplwiki.com](https://aplwiki.com/)/wiki/Dyalog_Ltd).#Dyadic_Systems_consulting)Dyalog APL[[https://aplwiki.com](https://aplwiki.com/)/wiki/Dyalog_Ltd]([https://aplwiki.com](https://aplwiki.com/)/wiki/Dyalog_Ltd).Atkins Engineering[https://en.wikipedia.org/wiki/Atkins_(company)](https://en.wikipedia.org/wiki/Atkins_(company))Zilog 8000 Processor[https://en.wikipedia.org/wiki/Zilog_Z8000](https://en.wikipedia.org/wiki/Zilog_Z8000)Nested Array APL[[https://aplwiki.com](https://aplwiki.com/)/wiki/Nested_array]([https://aplwiki.com](https://aplwiki.com/)/wiki/Nested_array)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)NARS[https://aplwiki.com](https://aplwiki.com/)/wiki/NARSScientific Time Sharing Corporation[https://aplwiki.com](https://aplwiki.com/)/wiki/STSCUnix[https://en.wikipedia.org/wiki/Unix](https://en.wikipedia.org/wiki/Unix)Linux[https://en.wikipedia.org/wiki/Linux](https://en.wikipedia.org/wiki/Linux)
+**[01] 00:01:35**
 
-[02] 00:11:08 John Scholes[https://aplwiki.com/wiki/John_Scholes](https://aplwiki.com/wiki/John_Scholes)John Daintree[https://aplwiki.com/wiki/John_Daintree](https://aplwiki.com/wiki/John_Daintree)Quad WC[https://help.dyalog.com/latest/#Language/System%20Functions/wc.htm](https://help.dyalog.com/latest/#Language/System%20Functions/wc.htm)dfns[https://aplwiki.com/wiki/Dfn](https://aplwiki.com/wiki/Dfn)Geoff's Presentation at Dyalog 24[https://dyalog.tv/Dyalog24/?v=M5aY5ySFM_o](https://dyalog.tv/Dyalog24/?v=M5aY5ySFM_o)Interpreter[https://en.wikipedia.org/wiki/Interpreter_(computing)](https://en.wikipedia.org/wiki/Interpreter_(computing))Compiled Computer Languages[https://en.wikipedia.org/wiki/Compiler](https://en.wikipedia.org/wiki/Compiler)Cache Memory[https://en.wikipedia.org/wiki/Cache_(computing)](https://en.wikipedia.org/wiki/Cache_(computing))Processor Registers[https://en.wikipedia.org/wiki/Processor_register](https://en.wikipedia.org/wiki/Processor_register)J Programming Language[https://www.jsoftware.com/#/](https://www.jsoftware.com/#/)Weakly Typed Computer Languages[https://en.wikipedia.org/wiki/Strong_and_weak_typing](https://en.wikipedia.org/wiki/Strong_and_weak_typing)J Parts of Speech[https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech](https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech)Parsing Part 1 J for C Programmers[https://code.jsoftware.com/wiki/Help/JforC/38_Parsing_and_Execution_I#_Toc191734584](https://code.jsoftware.com/wiki/Help/JforC/38_Parsing_and_Execution_I#_Toc191734584)Parsing Part 2 J for C Programmers[https://code.jsoftware.com/wiki/Help/JforC/39_Parsing_and_Execution_II#_Toc191734586](https://code.jsoftware.com/wiki/Help/JforC/39_Parsing_and_Execution_II#_Toc191734586)Trace application in J[https://code.jsoftware.com/wiki/Scripts/Tracer](https://code.jsoftware.com/wiki/Scripts/Tracer)
+- [Subreddit for the Array Languages](https://www.reddit.com/r/apljk/)
+- [Marshall's 5 year retrospective](https://mlochbaum.github.io/BQN/commentary/fiveyears.html)
+- [APL Demo 1975](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)
+- [Marshall's First Appearance on ArrayCast #7](https://www.arraycast.com/episodes/episode-07-marshall-lochbaum-and-the-bqn-array-language)
+- [Henry Rich Episode on ArrayCast #104](https://www.arraycast.com/episodes/episode104-j96)
+- [Roger Hui Memorial Episode on ArrayCast #13](https://www.arraycast.com/episodes/episode13-roger-hui)
+- [Ken Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+- [Geoff Streeter](https://aplwiki.com/wiki/Geoff_Streeter)
+- [Geoff Streeter - 40 years with Dyalog](https://www.dyalog.com/news/113/420/Geoff-Streeter-40-Years-with-Dyalog.htm)
+- [Dyadic](https://aplwiki.com//wiki/Dyalog_Ltd).#Dyadic_Systems_consulting)
+- [Dyalog APL](https://aplwiki.com/wiki/Dyalog_Ltd)
+- [.Atkins Engineering](https://en.wikipedia.org/wiki/Atkins_(company))
+- [Zilog 8000 Processor](https://en.wikipedia.org/wiki/Zilog_Z8000)
+- [Nested Array APL](https://aplwiki.com/wiki/Nested_array)
+- [APL Programming Language](https://aplwiki.com/)
+- [NARS](https://aplwiki.com/)
+- [/wiki/NARSScientific Time Sharing Corporation](https://aplwiki.com/)
+- [/wiki/STSCUnix](https://en.wikipedia.org/wiki/Unix)
+- [Linux](https://en.wikipedia.org/wiki/Linux)
 
-[03] 00:20:50 Adverbs in J[https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech#Adverb](https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech#Adverb)Locales in J[https://code.jsoftware.com/wiki/Vocabulary/Locales](https://code.jsoftware.com/wiki/Vocabulary/Locales)J Dictionary[https://www.jsoftware.com/help/dictionary/contents.htm](https://www.jsoftware.com/help/dictionary/contents.htm)CPU[https://en.wikipedia.org/wiki/Central_processing_unit](https://en.wikipedia.org/wiki/Central_processing_unit)Instruction Cycles[https://en.wikipedia.org/wiki/Instruction_cycle](https://en.wikipedia.org/wiki/Instruction_cycle)
+**[02] 00:11:08**
 
-[04] 00:35:50 Branch Prediction[https://en.wikipedia.org/wiki/Branch_predictor](https://en.wikipedia.org/wiki/Branch_predictor)C Programming Language[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/C_(programming_language))Python Programming Language[https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)
+- [John Scholes](https://aplwiki.com/wiki/John_Scholes)
+- [John Daintree](https://aplwiki.com/wiki/John_Daintree)
+- [Quad WC](https://help.dyalog.com/latest/#Language/System%20Functions/wc.htm)
+- [dfns](https://aplwiki.com/wiki/Dfn)
+- [Geoff's Presentation at Dyalog 24](https://dyalog.tv/Dyalog24/?v=M5aY5ySFM_o)
+- [Interpreter](https://en.wikipedia.org/wiki/Interpreter_(computing))
+- [Compiled Computer Languages](https://en.wikipedia.org/wiki/Compiler)
+- [Cache Memory](https://en.wikipedia.org/wiki/Cache_(computing))
+- [Processor Registers](https://en.wikipedia.org/wiki/Processor_register)
+- [J Programming Language](https://www.jsoftware.com/#/)
+- [Weakly Typed Computer Languages](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+- [J Parts of Speech](https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech)
+- [Parsing Part 1 J for C Programmers](https://code.jsoftware.com/wiki/Help/JforC/38_Parsing_and_Execution_I#_Toc191734584)
+- [Parsing Part 2 J for C Programmers](https://code.jsoftware.com/wiki/Help/JforC/39_Parsing_and_Execution_II#_Toc191734586)
+- [Trace application in J](https://code.jsoftware.com/wiki/Scripts/Tracer)
 
-[05] 00:46:42 Marshall's Binary Search Presentation[https://dyalog.tv/Dyalog18/?v=paxIkKBzqBU](https://dyalog.tv/Dyalog18/?v=paxIkKBzqBU)Elvis Operators[https://en.wikipedia.org/wiki/Elvis_operator](https://en.wikipedia.org/wiki/Elvis_operator)
+**[03] 00:20:50**
 
-[06] 00:55:12 Clang Compiler[https://en.wikipedia.org/wiki/Clang](https://en.wikipedia.org/wiki/Clang)Decimal Floating Point[https://en.wikipedia.org/wiki/Decimal_floating_point](https://en.wikipedia.org/wiki/Decimal_floating_point)Debug in J[https://code.jsoftware.com/wiki/Debug](https://code.jsoftware.com/wiki/Debug)BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)Context Free Grammar[https://en.wikipedia.org/wiki/Context-free_grammar](https://en.wikipedia.org/wiki/Context-free_grammar)
+- [Adverbs in J](https://code.jsoftware.com/wiki/Vocabulary/PartsOfSpeech#Adverb)
+- [Locales in J](https://code.jsoftware.com/wiki/Vocabulary/Locales)
+- [J Dictionary](https://www.jsoftware.com/help/dictionary/contents.htm)
+- [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)
+- [Instruction Cycles](https://en.wikipedia.org/wiki/Instruction_cycle)
 
-[07] 01:03:46 Bytecode[https://en.wikipedia.org/wiki/Bytecode](https://en.wikipedia.org/wiki/Bytecode)Stack Based Processing[https://en.wikipedia.org/wiki/Stack_machine](https://en.wikipedia.org/wiki/Stack_machine)Dyadic Iota[https://aplwiki.com/wiki/Index_Of](https://aplwiki.com/wiki/Index_Of)Key Primitive[https://code.jsoftware.com/wiki/Vocabulary/slashdot#dyadic](https://code.jsoftware.com/wiki/Vocabulary/slashdot#dyadic)
+**[04] 00:35:50**
 
-[08] 01:11:35 QA for Software[https://en.wikipedia.org/wiki/Software_quality_assurance](https://en.wikipedia.org/wiki/Software_quality_assurance)Contact AT ArrayCast DOT ComSpecial Combinations in J[https://code.jsoftware.com/wiki/Vocabulary/SpecialCombinations](https://code.jsoftware.com/wiki/Vocabulary/SpecialCombinations)
+- [Branch Prediction](https://en.wikipedia.org/wiki/Branch_predictor)
+- [C Programming Language](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Python Programming Language](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+
+**[05] 00:46:42**
+
+- [Marshall's Binary Search Presentation](https://dyalog.tv/Dyalog18/?v=paxIkKBzqBU)
+- [Elvis Operators](https://en.wikipedia.org/wiki/Elvis_operator)
+
+**[06] 00:55:12**
+
+- [Clang Compiler](https://en.wikipedia.org/wiki/Clang)
+- [Decimal Floating Point](https://en.wikipedia.org/wiki/Decimal_floating_point)
+- [Debug in J](https://code.jsoftware.com/wiki/Debug)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [Context Free Grammar](https://en.wikipedia.org/wiki/Context-free_grammar)
+
+**[07] 01:03:46**
+
+- [Bytecode](https://en.wikipedia.org/wiki/Bytecode)
+- [Stack Based Processing](https://en.wikipedia.org/wiki/Stack_machine)
+- [Dyadic Iota](https://aplwiki.com/wiki/Index_Of)
+- [Key Primitive](https://code.jsoftware.com/wiki/Vocabulary/slashdot#dyadic)
+
+**[08] 01:11:35**
+
+- [QA for Software](https://en.wikipedia.org/wiki/Software_quality_assurance)
+- [Contact AT ArrayCast DOT ComSpecial Combinations in J](https://code.jsoftware.com/wiki/Vocabulary/SpecialCombinations)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>

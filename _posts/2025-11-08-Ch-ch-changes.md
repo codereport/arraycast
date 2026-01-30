@@ -26,23 +26,85 @@ In this episode we have discussion about technology's role in our world and bid 
 
 ## Show Notes
 
-Array Cast -  November 7th, 2025Show Notes
+Array Cast - November 7th, 2025
 
 Thanks to Bob Therriault, Adám Brudzewsky and Stephen Taylor for gathering these links:
 
-[01] 00:01:27 Dyalog APL[https://www.dyalog.com](https://www.dyalog.com/)Douglas Crockford Licence[https://en.wikipedia.org/wiki/Douglas_Crockford#Software_license_for_%22Good,_not_Evil%22](https://en.wikipedia.org/wiki/Douglas_Crockford#Software_license_for_%22Good,_not_Evil%22)IBM and Nazi Germany[https://en.wikipedia.org/wiki/Dehomag](https://en.wikipedia.org/wiki/Dehomag)Orthodox Judaism[https://en.wikipedia.org/wiki/Orthodox_Judaism](https://en.wikipedia.org/wiki/Orthodox_Judaism)
+**[01] 00:01:27**
 
-[02] 00:16:00 1.5 degrees Celsius[https://en.wikipedia.org/wiki/1.5-degree_target](https://en.wikipedia.org/wiki/1.5-degree_target)Modernity[https://en.wikipedia.org/wiki/Modernity](https://en.wikipedia.org/wiki/Modernity)Gilgul[https://en.wikipedia.org/wiki/Gilgul](https://en.wikipedia.org/wiki/Gilgul)Hospicing Modernity[https://decolonialfutures.net/hospicingmodernity/](https://decolonialfutures.net/hospicingmodernity/)
+- [Dyalog APL](https://www.dyalog.com/)
+- [Douglas Crockford Licence](https://en.wikipedia.org/wiki/Douglas_Crockford#Software_license_for_%22Good,_not_Evil%22)
+- [IBM and Nazi Germany](https://en.wikipedia.org/wiki/Dehomag)
+- [Orthodox Judaism](https://en.wikipedia.org/wiki/Orthodox_Judaism)
 
-[03] 00:26:30 Cathedral Grove[https://www.visitparksvillequalicumbeach.com/things-to-do/parks-nature/cathedral-grove/](https://www.visitparksvillequalicumbeach.com/things-to-do/parks-nature/cathedral-grove/)Robert Bringhurst[https://en.wikipedia.org/wiki/Robert_Bringhurst](https://en.wikipedia.org/wiki/Robert_Bringhurst)APL Programming Language[https://aplwiki.com](https://aplwiki.com/)Quote Squad on the APL Farm[https://aplwiki.com](https://aplwiki.com/)/wiki/APL_Farm#Quote_SquadImmutable Data[https://en.wikipedia.org/wiki/Immutable_object](https://en.wikipedia.org/wiki/Immutable_object)Iversonian Languages Episode 39 on the ArrayCast[https://www.arraycast.com/episodes/episode39-iverson-or-array-language](https://www.arraycast.com/episodes/episode39-iverson-or-array-language)Numpy Library[https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/NumPy)Lil Programming Language[[https://en.wikipedia.org/wiki/R_(programming_language)](https://en.wikipedia.org/wiki/R_(programming_language))]([https://en.wikipedia.org/wiki/R_(programming_language)](https://en.wikipedia.org/wiki/R_(programming_language)))R Programming Language[[https://en.wikipedia.org/wiki/R_(programming_language)](https://en.wikipedia.org/wiki/R_(programming_language))]([https://en.wikipedia.org/wiki/R_(programming_language)](https://en.wikipedia.org/wiki/R_(programming_language)))Vector Journal[https://archive.vector.org.uk/26/4](https://archive.vector.org.uk/26/4)Iverson College[https://iversoncollege.com](https://iversoncollege.com/)
+**[02] 00:16:00**
 
-[04] 00:36:54 Code_report Youtube channel[https://www.youtube.com/codereport](https://www.youtube.com/codereport)ADSP podcast[https://adspthepodcast.com](https://adspthepodcast.com/)APL Wiki[https://aplwiki.com/FrontPage](https://aplwiki.com/FrontPage)arrayportal[https://arrayportal.com](https://arrayportal.com/)ACM articles from 1950 to 2000 available[https://dl.acm.org](https://dl.acm.org/)Quote Quad[https://dl.acm.org](https://dl.acm.org/)/loi/sigapl/group/d1970.y1979BQN Programming Language[https://mlochbaum.github.io/BQN/](https://mlochbaum.github.io/BQN/)CPPcast podcast[https://cppcast.com](https://cppcast.com/)Loki[https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)](https://en.wikipedia.org/wiki/Loki_(Marvel_Comics))C++ Programming Language[https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)Kap Programming Language[https://kapdemo.dhsdevelopments.com](https://kapdemo.dhsdevelopments.com/)Kap Episode 72 on the ArrayCast[https://www.arraycast.com/episodes/episode72-kap](https://www.arraycast.com/episodes/episode72-kap)Minnowbrook Conference[https://aplwiki.com/wiki/APL_Implementer%27s_Workshop](https://aplwiki.com/wiki/APL_Implementer%27s_Workshop)Uiua Episode 77 on the ArrayCast[https://www.arraycast.com/episodes/episode77-uiua](https://www.arraycast.com/episodes/episode77-uiua)Uiua Programming Language[https://www.uiua.org](https://www.uiua.org/)TinyAPL Programming Language[https://tinyapl.rubenverg.com](https://tinyapl.rubenverg.com/)
+- [1.5 degrees Celsius](https://en.wikipedia.org/wiki/1.5-degree_target)
+- [Modernity](https://en.wikipedia.org/wiki/Modernity)
+- [Gilgul](https://en.wikipedia.org/wiki/Gilgul)
+- [Hospicing Modernity](https://decolonialfutures.net/hospicingmodernity/)
 
-[05] 00:49:04 Functional Geekery podcast[https://www.functionalgeekery.com/#site-content](https://www.functionalgeekery.com/#site-content)Episodes of ArrayCast[https://www.arraycast.com/episodes](https://www.arraycast.com/episodes)Stevan Apter Episode 26 on the ArrayCast[https://www.arraycast.com/episodes](https://www.arraycast.com/episodes)/episode26-stevan-apterJoel Kaplan Episode 27 on the ArrayCast[https://www.arraycast.com/episodes](https://www.arraycast.com/episodes)/episode27-joel-kaplanq Programming Language[https://code.kx.com/q/learn/](https://code.kx.com/q/learn/)Goliath's Curse Luke Kemp[https://www.penguin.co.uk/books/321192/goliaths-curse-by-kemp-luke/9780241741238](https://www.penguin.co.uk/books/321192/goliaths-curse-by-kemp-luke/9780241741238)
+**[03] 00:26:30**
 
-[06] 00:57:05 Stephen's talk at Lambda World[https://www.youtube.com/watch?v=39FlDHl4-w4](https://www.youtube.com/watch?v=39FlDHl4-w4)Excel Programming Language[https://en.wikipedia.org/wiki/Microsoft_Excel](https://en.wikipedia.org/wiki/Microsoft_Excel)Contact for Iverson College[Warden@Iversoncollege.com](mailto:Warden@Iversoncollege.com)Iverson College video trailer[https://www.youtube.com/watch?v=w-MyzJLHfmc](https://www.youtube.com/watch?v=w-MyzJLHfmc)Iverson College Open Forum Episode 87 on the ArrayCast[https://www.arraycast.com/episodes/episode87-iversonsession](https://www.arraycast.com/episodes/episode87-iversonsession)Iverson College Reflections Episode 89 on the ArrayCast[https://www.arraycast.com/episodes/episode89-iversonreflect](https://www.arraycast.com/episodes/episode89-iversonreflect)Aaron Hsu Epsiode 100 on the ArrayCast[https://www.arraycast.com/episodes/episode100-100hsu](https://www.arraycast.com/episodes/episode100-100hsu)Kairos London[https://kairos.london/](https://kairos.london/)Roger Hallam[https://rogerhallam.com/](https://rogerhallam.com/)Extinction Rebellion[https://en.wikipedia.org/wiki/Extinction_Rebellion](https://en.wikipedia.org/wiki/Extinction_Rebellion)Thomas á Kempis 'Imitiation of Christ'[https://en.wikipedia.org/wiki/The_Imitation_of_Christ](https://en.wikipedia.org/wiki/The_Imitation_of_Christ)
+- [Cathedral Grove](https://www.visitparksvillequalicumbeach.com/things-to-do/parks-nature/cathedral-grove/)
+- [Robert Bringhurst](https://en.wikipedia.org/wiki/Robert_Bringhurst)
+- [APL Programming Language](https://aplwiki.com/)
+- [Quote Squad on the APL Farm](https://aplwiki.com/wiki/APL_Farm#Quote_Squad)
+- [Immutable Data](https://en.wikipedia.org/wiki/Immutable_object)
+- [Iversonian Languages Episode 39 on the ArrayCast](https://www.arraycast.com/episodes/episode39-iverson-or-array-language)
+- [Numpy Library](https://en.wikipedia.org/wiki/NumPy)
+- [Lil Programming Language](https://beyondloom.com/decker/lil.html)
+- [R Programming Language](https://en.wikipedia.org/wiki/R_(programming_language))
+- [Vector Journal](https://archive.vector.org.uk/26/4)
+- [Iverson College](https://iversoncollege.com/)
 
-[07] 01:12:39 I.P. Sharp Associates Episode 116 on the ArrayCast[https://www.arraycast.com/episodes/episode116-sharp](https://www.arraycast.com/episodes/episode116-sharp)IMF[https://en.wikipedia.org/wiki/International_Monetary_Fund](https://en.wikipedia.org/wiki/International_Monetary_Fund)Stephan Kruegar Minnowbrook Presentation[https://www.youtube.com/watch?v=rvXnvowHlGQ](https://www.youtube.com/watch?v=rvXnvowHlGQ)
+**[04] 00:36:54**
+
+- [Code_report Youtube channel](https://www.youtube.com/codereport)
+- [ADSP podcast](https://adspthepodcast.com/)
+- [APL Wiki](https://aplwiki.com/FrontPage)
+- [arrayportal](https://arrayportal.com/)
+- [ACM articles from 1950 to 2000 available](https://dl.acm.org/)
+- [Quote Quad](https://dl.acm.org/loi/sigapl/group/d1970.y1979)
+- [BQN Programming Language](https://mlochbaum.github.io/BQN/)
+- [CPPcast podcast](https://cppcast.com/)
+- [Loki](https://en.wikipedia.org/wiki/Loki_(Marvel_Comics))
+- [C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Kap Programming Language](https://kapdemo.dhsdevelopments.com/)
+- [Kap Episode 72 on the ArrayCast](https://www.arraycast.com/episodes/episode72-kap)
+- [Minnowbrook Conference](https://aplwiki.com/wiki/APL_Implementer%27s_Workshop)
+- [Uiua Episode 77 on the ArrayCast](https://www.arraycast.com/episodes/episode77-uiua)
+- [Uiua Programming Language](https://www.uiua.org/)
+- [TinyAPL Programming Language](https://tinyapl.rubenverg.com/)
+
+**[05] 00:49:04**
+
+- [Functional Geekery podcast](https://www.functionalgeekery.com/#site-content)
+- [Episodes of ArrayCast](https://www.arraycast.com/episodes)
+- [Stevan Apter Episode 26 on the ArrayCast](https://www.arraycast.com/episodes/episode26-stevan-apter)
+- [Joel Kaplan Episode 27 on the ArrayCast](https://www.arraycast.com/episodes/episode27-joel-kaplan)
+- [q Programming Language](https://code.kx.com/q/learn/)
+- [Goliath's Curse Luke Kemp](https://www.penguin.co.uk/books/321192/goliaths-curse-by-kemp-luke/9780241741238)
+
+**[06] 00:57:05**
+
+- [Stephen's talk at Lambda World](https://www.youtube.com/watch?v=39FlDHl4-w4)
+- [Excel Programming Language](https://en.wikipedia.org/wiki/Microsoft_Excel)
+- [Contact for Iverson College](mailto:Warden@Iversoncollege.com)
+- [Iverson College video trailer](https://www.youtube.com/watch?v=w-MyzJLHfmc)
+- [Iverson College Open Forum Episode 87 on the ArrayCast](https://www.arraycast.com/episodes/episode87-iversonsession)
+- [Iverson College Reflections Episode 89 on the ArrayCast](https://www.arraycast.com/episodes/episode89-iversonreflect)
+- [Aaron Hsu Epsiode 100 on the ArrayCast](https://www.arraycast.com/episodes/episode100-100hsu)
+- [Kairos London](https://kairos.london/)
+- [Roger Hallam](https://rogerhallam.com/)
+- [Extinction Rebellion](https://en.wikipedia.org/wiki/Extinction_Rebellion)
+- [Thomas á Kempis 'Imitiation of Christ'](https://en.wikipedia.org/wiki/The_Imitation_of_Christ)
+
+**[07] 01:12:39**
+
+- [I.P. Sharp Associates Episode 116 on the ArrayCast](https://www.arraycast.com/episodes/episode116-sharp)
+- [IMF](https://en.wikipedia.org/wiki/International_Monetary_Fund)
+- [Stephan Kruegar Minnowbrook Presentation](https://www.youtube.com/watch?v=rvXnvowHlGQ)
 
 <details>
 <summary><strong>Transcript</strong> (click to expand)</summary>
