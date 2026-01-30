@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="alternate" type="application/rss+xml" title="Podcast" href="{{ site.url }}/podcast.rss"/>
+    <link rel="icon" type="image/webp" href="{{ "/assets/img/logo.webp" | relative_url }}">
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -18,9 +19,21 @@
         <a href="{{ "/" | relative_url }}"><img id="logo" src="{{site.logo | relative_url}}" alt="The Array Cast Logo" title="Home"/></a>
         <p>{{ site.description }}</p>
         <hr>
-        <p><strong>Host:</strong> <a href="https://www.youtube.com/codereport" target="_blank">Conor Hoekstra</a> is the host of ArrayCast and ADSP: The Podcast, and runs the code_report YouTube channel.</p>
-        <p><strong>Co-host:</strong> <a href="https://abrudz.github.io" target="_blank">Adám Brudzewsky</a> is head of language design at Dyalog Ltd and a long-time APL enthusiast.</p>
-        <p>The Array Cast explores the world of array programming languages including APL, J, K, Q, BQN, Uiua, and more.</p>
+        <p><strong>Host:</strong> <a href="https://conorshakory.com/" target="_blank">Conor Hoekstra</a> is the host of ArrayCast, ADSP, and Tacit Talk (all podcasts) and runs the code_report YouTube channel.</p>
+        <p><strong>Panelists:</strong><br>
+        <a href="https://abrudz.github.io" target="_blank">Adám Brudzewsky</a> is head of language design at Dyalog Ltd and a long-time APL enthusiast.</p>
+        <details>
+        <summary><strong>Past Panelists</strong></summary><br>
+        <p><em>Full Time:</em></p>
+        <p><span style="color: #1e6bb8;">Bob Therriault</span> (Episodes 1–118) – J enthusiast, podcast editor and producer.</p>
+        <p><a href="https://www.5jt.com" target="_blank">Stephen Taylor</a> (Episodes 1–118) – APL and q enthusiast, former I.P. Sharp Associates developer.</p>
+        <p><a href="https://mlochbaum.github.io/BQN" target="_blank">Marshall Lochbaum</a> (Episodes 32–118) – Creator of BQN, former Dyalog employee.</p>
+        <p><em>Recurring:</em></p>
+        <p><a href="https://www.dyalog.com" target="_blank">Richard Park</a> (~30 episodes) – APL trainer and media producer at Dyalog Ltd.</p>
+        <p><a href="https://nick.psaris.com" target="_blank">Nick Psaris</a> (~5 episodes) – Q expert at Kx Systems, author of Q Tips.</p>
+        </details>
+        
+        <p><p>The Array Cast explores the world of array programming languages including APL, J, K, Q, BQN, Uiua, and more.</p>
         <hr>
         <p>Send feedback to <a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>.<br><br>To suggest a correction, <a href="{{ site.github_repo }}" target="_blank">open an issue or PR on GitHub</a>.</p>
       </header>
