@@ -139,7 +139,7 @@ Thanks to Bob Therriault, Adám Brudzewsky, Conor Hoekstra and Mark Shure for ga
 - [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

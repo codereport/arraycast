@@ -122,7 +122,7 @@ Thanks to Bob Therriault and Marshall Lochbaum for gathering these links:
 - [Whitney Smith - Wild Culture](https://en.wikipedia.org/wiki/The_Society_for_the_Preservation_of_Wild_Culture)
 - [Contact AT ArrayCast DOT ComArrayCast Youtube Channel](https://www.youtube.com/@arraycast)
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

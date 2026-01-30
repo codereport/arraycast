@@ -103,7 +103,7 @@ Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript
@@ -340,7 +340,7 @@ This time you probably want.
 
 To hold OK.
 
-00:39:10
+**00:39:10**
 
 No.
 

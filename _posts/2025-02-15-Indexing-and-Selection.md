@@ -125,7 +125,7 @@ Thanks to Bob Therriault, Adám Brudzewsky,  and Conor Hoekstra for gathering th
 - [Madelaine Vergani Episode on The ArrayCast](https://www.arraycast.com/episodes/episode88-tinyapl)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

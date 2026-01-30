@@ -160,7 +160,7 @@ Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 - [Habla Computing](https://hablapps.com/)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript
@@ -273,7 +273,7 @@ All right. Aaron had something to say. Well, come over to Aaron. Wait till you h
 
 Already making me say something controversial. Higher order functions are way overrated if you get past the second order, thank you very much.
 
-00:04:59
+**00:04:59**
 
 What?
 

@@ -145,7 +145,7 @@ Thanks to Bob Therriault, Conor Hoekstra and Adám Brudzewsky for gathering thes
 - [Paul's Teetor's blog](https://quantdevel.com/)
 - [Contact AT ArrayCast DOT ComChicago R User group](http://www.meetup.com/ChicagoRUG/)
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

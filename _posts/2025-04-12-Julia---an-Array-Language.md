@@ -148,7 +148,7 @@ Thanks to Bob Therriault, Conor Hoekstra, Miguel Raz, and Marshall Lochbaum for 
 - [Dan Bricklin on the ArrayCast Episode 101](https://www.arraycast.com/episodes/episode101-bricklin)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

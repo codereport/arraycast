@@ -153,7 +153,7 @@ Thanks to Bob Therriault, Ashok Reddy, Stephen Taylor and Marshall Lochbaum for 
 - [/wiki/Dyalog_Ltd.#Dyadic_Systems_consultingMorten Kromberg's episode on the ArrayCast](https://www.arraycast.com/episodes/episode21-morten-kromberg)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

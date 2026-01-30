@@ -113,7 +113,7 @@ Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 - [Large Language Model LLM](https://en.wikipedia.org/wiki/Large_language_model)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

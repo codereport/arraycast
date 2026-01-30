@@ -134,7 +134,7 @@ Thanks to Bob Therriault, Kai Schmidt, John Earnest and Marshall Lochbaum for ga
 - [Contact AT ArrayCast DOT ComThingJam on Decker](https://itch.io/jam/deck-month-2)
 - [Uiua's Discord](https://discord.com/invite/3r9nrfYhCc)
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

@@ -78,7 +78,7 @@ Thanks to Bob Therriault for gathering these links:
 - [More Ian Sharp Interviews](https://www.ipsharp.org/)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

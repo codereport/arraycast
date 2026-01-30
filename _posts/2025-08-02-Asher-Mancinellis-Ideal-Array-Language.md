@@ -138,7 +138,7 @@ Thanks to Bob Therriault, Marshall Lochbaum and Conor Hoekstra for gathering the
 - [Structuring Array with Algebraic Types](https://www.youtube.com/watch?v=3Lbs0pJ_OHI)
 - [09] 01:10:09 Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript
@@ -151,653 +151,653 @@ Show Notes
 
 Asher Mancinelli
 
-00:00-00:16
+**00:00-00:16**
 
 interesting interview with Chris Lattner, who of course started the LLVM project, about how MLIR really is just a rehashing of APL and that APL just got so many things right way back then. And they sort of need to be brought forth into these other languages to take better advantage of the hardware. I think that's a pretty interesting point.
 
 Music
 
-00:17-00:27
+**00:17-00:27**
 
 Conor Hoekstra
 
-00:27-00:40
+**00:27-00:40**
 
 Welcome to episode 111 of ArrayCast. I'm your host, Conor. And today with us, we have a special guest who we will get to introducing in a few minutes. But first, we're going to go around and do brief introductions. We'll start with Bob, then go to Adám and finish with Marshall.
 
 Bob Therriault
 
-00:41-00:47
+**00:41-00:47**
 
 I'm Bob Therriault. I'm a J enthusiast, and I am looking forward to this episode, as I always do.
 
 Adám Brudzewsky
 
-00:47-00:52
+**00:47-00:52**
 
 I'm Adám Brudzewsky. I'm a professional APLer. I'm also looking forward to the episode.
 
 Marshall Lochbaum
 
-00:53-01:00
+**00:53-01:00**
 
 I'm Marshall Lochbaum. I started with J and worked at Dyalog for a while. More recently, I've been doing BQN in Singility.
 
 Conor Hoekstra
 
-01:01-01:20
+**01:01-01:20**
 
 And as mentioned before, my name is Conor, host of the ArrayCast, and fan of all the array languages, and fan of also future potential ideal array languages, which we will be talking about today. But before we get to that and the introduction of our guest, I think we have a couple of announcements. The first is from Adám, and then we've got one from Bob. So over to you, Adám.
 
 Adám Brudzewsky
 
-01:20-02:20
+**01:20-02:20**
 
 Okay, mine is not huge, but there's this thing called the APL Quest, [01] which has sort of been in bits and pieces until now. It was a series of chat events in the APL Orchard where we went through all the problems from Dyalogs' problem-solving competition, so 110 problems. And then a follow-up to those chat events where people presented their solutions, I made videos for each one of them. And then we have, there's also this website, APL, you can find it at APL.quest, where you can solve those problems and have your solutions checked, which sort of matches the interface that when this was an actual competition you could be in. And I've rewritten that site, the APL Quest site, so that it's nicer now. And it now has the video walkthroughs and links to solutions and the chat transcripts and so on in one place.
 
 Conor Hoekstra
 
-02:20-02:29
+**02:20-02:29**
 
 So it's not really a new thing. Everything was available before. It's just nicer now. You can check it out. Awesome. Links in the show notes. And yeah, over to Bob.
 
 Bob Therriault
 
-02:29-03:27
+**02:29-03:27**
 
 My announcement is actually a past guest, Alex Unterrainer, had been talking about KDB and using k. And this last week, KX came out and said that KDB-X is the next evolution of time series databases. They're giving you 16 gigabytes of RAM, four secondary threads for process, eight IPC connections. Best of all, you can run it on-premises, it's in the cloud. This is for personal and commercial use. and also Pix is included as well. So if you were thinking of trying out q and KDB, this is an excellent opportunity to do that. We will endeavor to get somebody from KX on in the next couple of episodes to talk specifically about this so that I don't feel like I'm shelling quite as much for them. But I'm very impressed that they're actually doing this because the last time we had a show con, he was talking about opening it up to more people. And this is definitely opening it up to more people.
 
 Conor Hoekstra
 
-03:27-05:22
+**03:27-05:22**
 
 All right. Yeah, we will definitely make sure that we've got someone, if not in the next couple, definitely in the next few from KX if they're willing to come and talk about this more. Because that is a very exciting development. With that, it is my pleasure to introduce Asher Mancinelli, whose name may or may not be in the title of this episode. So you might already know that. It is the first time we're having on a coworker of mine. We chat frequently at NVIDIA. We're on different teams, but that doesn't stop us from chatting. He's a compiler engineer on the HPC compiler team. And he's been working at NVIDIA for the last three years. Before that, he was at one of the national labs, Pacific Northwest, if I'm not mistaken. So was doing compiler stuff, HPC stuff, before he got to NVIDIA. And we're having him on today. He's actually been, we have a tab in a Google sheet of potential future guests. And Asher's name has been on this for years, actually. I think very from the genesis of when that spreadsheet or Google Sheet started, because on top of having recently written a blog post called My Ideal Array Language, which I think is going to be the focus of most of this conversation, he also has a YouTube channel that he posts to sporadically and back in the day had several BQN-related videos. I think one of them, very interestingly, for at least the both of us, was it was related to GPU computation and getting BQN to run on the GPU. So we will link to the YouTube channel, we'll link to the blog post, and maybe we'll talk about both before we get to the blog post, if he wants to share sort of his exploration of array languages. But before we do that, maybe we'll throw it over to you, Asher, and take us back to however far back you want to go, your first computer, your introduction into programming languages, compiler engineering, and take us through the journey of how you got to working on, you know, compiler engineering, but also your interest in array languages.
 
 Asher Mancinelli
 
-05:22-06:59
+**05:22-06:59**
 
 Yeah, well, thanks. I'm so excited to be here. It really takes me back, especially a couple episodes ago when, Marshall, you were talking about what was the fifth year anniversary of starting the BQN project or something to that effect. And it took me back, well, I think BQN was about less than a year or about a year old when I first started playing with it when I was still an HPC engineer at the Pacific Northwest National Labs. And I just started playing with the language and really fell in love with it. And every host on this show, I have some sort of connection with that I was thinking about as we were starting up. I mean, Bob, I think, welcomed me when I first made my YouTube channel and posted something to the Array Languages Discord. And Marshall took a million of my questions on the BQN channel. And Adámi, I think we had a video call where you were explaining some things about a APL on the on ibm 360 the the old emulator and of course you know Conor made a response video to one of my youtube uh videos which is when we first talked and then now we're co-workers and talk all the time about array languages so I'm just thrilled to be here and learned about array language stuff but yeah I started getting interested when I was still uh doing hpc application development primarily making um scientific codes run on big GPUs that we had at the lab. And I started getting interested in array languages and compilers at about the same time. And then from there, compilers and programming languages, and in particular array languages have just become a real fascination for me. I think it'll probably be a lifelong obsession or fascination. So I'm super excited to be here and nerd out with you.
 
 Conor Hoekstra
 
-06:59-07:13
+**06:59-07:13**
 
 So was BQN the first array language that you stumbled across? You said you you found out about it around the one year birthday of BQN, but had you heard of J, APL and friends before that, or was this your foray into the paradigm?
 
 Asher Mancinelli
 
-07:14-07:21
+**07:14-07:21**
 
 No, I think it was my foray, unless you want to count Fortran, which we can get into. But yeah, I think BQN was probably my first one.
 
 Conor Hoekstra
 
-07:21-07:26
+**07:21-07:26**
 
 And so that was just from something on one of the orange websites or YouTube or something.
 
 Asher Mancinelli
 
-07:27-07:33
+**07:27-07:33**
 
 You know, I don't really remember. Did you, you may have made a BQN video before me, and maybe that's where I found it, or I don't quite remember.
 
 Conor Hoekstra
 
-07:33-07:42
+**07:33-07:42**
 
 We'll have to check the YouTube channels for the timestamps. I do not recall either.
 
 Asher Mancinelli
 
-07:42-08:01
+**07:42-08:01**
 
 I did have a coworker when I worked at the lab. He was sort of 10 years into his soft retirement where he would just come in all the time and work with junior engineers to sort of train them up. And he worked on old IBM mainframes, writing Fortran as punch card applications. So he was familiar with APL from back in the day. So I don't remember how exactly it started, though.
 
 Bob Therriault
 
-08:01-08:14
+**08:01-08:14**
 
 Can I just ask a quick question? Because I think people, you know, HPC, high performance computing, that's not something people just walk off the street and start up. So what was your background before you got into HPC?
 
 Asher Mancinelli
 
-08:15-09:37
+**08:15-09:37**
 
 Well, so I thought I wanted to be an engineer in college. And then I did an internship with Micron over in the DC area. And it was in finance. So it was the only place where I could find an internship, you know, after my freshman year and have any experience. But I started writing little bits of software here and there and sort of switched halfway through the internship to the software team and got more interested in it. And then that fall of my software year, when I came back, I switched into software. So it's a little bit behind. But after that, so the city where I grew up in is actually the laboratory system is about the main thing that it has going for. So if you're from where I grew up, which is the Eastern Washington, Tri-Cities area, Washington State, a huge portion of the people that are going to engineering, and they go work out at the site, either the nuclear power plants, the water treatment plants, or the research laboratories. So it was sort of in the milieu of, you know, education and everyone wanted their kids to grow up and be an engineer out at the site. So that's sort of how I got started. Of course, I had, you know, a bunch of friends that worked there and everything, and it was a very generous internship program. So you would be surprised at how easy it is to walk up and get an internship and they'll train you up if you have the interest and, you know, sort of drive to figure things out on your own. But yeah, it's a really cool space. A lot of really big, really cool machines. There's a lot of legacy that the National Laboratories brought. A lot of really important IP to the United States and developed a lot of key technology.
 
 Conor Hoekstra
 
-09:38-10:00
+**09:38-10:00**
 
 So super, super fun environment to be a part of. At the point in time when you started getting interested in array languages, what was your programming language? You mentioned Fortran, but like, what was your, was it just, I assume it wasn't just Fortran. You had dabbled in a a number of different programming languages. And the follow-up question to that is, what was it about, you know, BQN that made you so interested? Because a lot of people bounce off of these languages, right?
 
 Asher Mancinelli
 
-10:00-11:19
+**10:00-11:19**
 
 Well, my main language has always been C++, [02] and I've just had little forays into Fortran even, so I wouldn't call myself a Fortran expert by any stretch. But in trying to port these applications to GPUs, I mean, that is what made me interested in array programming because, you know, for folks that aren't aware, In C++, one of the main ways that people offload their applications onto GPUs is they use these libraries like Cocos or Thrust, these various libraries where you've got this descriptor of an array that can be moved over to the device called the device. Most of the time, device just means GPU. But you move all this memory over to the GPU, and then you have some kernel, which is dispatched somehow to run on this acceleration device. And if you've ever used it, it's pretty painful. It's not a super enjoyable experience. but coming to BQN and array languages and seeing how arrays really are the fundamental data structure the fundamental way to express ideas and not something that you have to sort of torture the language into accepting especially something like rank polymorphism which you know to get that in C++ you can get it but there's you definitely pay a cost to get there I just had a real appreciation for how elegant and straightforward it was to express things once you started to think in terms of arrays So that's what really drew me to it in the first place.
 
 Conor Hoekstra
 
-11:19-11:31
+**11:19-11:31**
 
 Interesting. So C++, Fortran, you see BQN and you see a potential paradigm that is going to simplify the painfulness that you're going through, maybe not on a day-to-day basis, but as a part of your work.
 
 Asher Mancinelli
 
-11:31-13:07
+**11:31-13:07**
 
 Yeah. And a lot of it's the same ideas, but of course, in C++, when there's all these extra ideas sort of polluting their brain space, when you're trying to think about, you know, a lot of these applications I was working on, we would have this huge code base written in Fortran. And we would be trying to rewrite select chunks of it in C++ using one of these portability libraries to run it on a GPU. And so interacting with both of those, I could sort of see the ways that Fortran was really nice and some really elegant things about the language. And the pain of trying to re-express that idea and all this cognitive load that you have to have in order to think about managing these data structures that in BQN or in Fortran are sort of packaged up as an array descriptor for you. all that ray polymorphism stuff that you don't really have to think about. It sort of becomes second nature when you're reading over everything. A lot of that does have to be pretty explicit in C++. Not only is it a little bit painful, it's a little bit harder to play with ideas. And the feedback loop gets to be really, really long. And I feel like the best way to learn is if you combine curiosity with a really tight feedback loop. So as excited as you can be about porting this Fortran climate application to run on a GPU in C++, that feedback really slows you down. And I know it's really hard to keep progressive. But if you can sort of prototype out algorithms in this other more elegant interpretive, but also really polymorphic and also terse, we can talk about syntax a little bit later, but it's terse once you get familiar with the ways of expressing ideas. you can just really quickly iterate on ideas before taking it back to the heavier weight acceleration, you know, stuff in C++.
 
 Conor Hoekstra
 
-13:08-14:30
+**13:08-14:30**
 
 Yeah, I can 1000% agree. It's one of the arguments I think I made in a talk I gave a long time ago. What was it called? Algorithms as a tool of thought, which was a spinoff of the notation as a tool of thought. And it was like a 30 minute talk. But like the whole point of the talk was just that like, here's eight solutions to a simple problem. And I can show you all eight, like, comprehensively, like they're all three or four characters. So it's not like I have to like burn through this. It's eight different solutions to the same problem. And then I think I actually showed 11 at the end of the day that other folks contributed. And part of my point is like, you can't do this in C++. You can't do this in so many languages, right? Like there's so much ceremony and noise to try different things out that honestly, in C++, once you get it compiling, like you want to make sure it runs correctly and and runs decently, but, uh, you might tweak if you want to get performance, but you're not going to go and spend another week trying to get some alternative solution necessarily working. Um, all right. So you've, you've explained your, your path to the array languages fast forward a couple of years, and now you've written this blog post, my ideal array language. So maybe if you want to comment on, uh, what, uh, you know, inspired you to write this post and then you can, um, I guess we can talk about it. You can walk us through kind of your thoughts on your ideal array language and and then um we can chat about uh yeah a potential future where this language exists maybe.
 
 Asher Mancinelli
 
-14:30-16:36
+**14:30-16:36**
 
 Well I'll back up just one more step before we go to the blog post and that's sort of how I got into compilers which is when I was still working at the laboratory I started to get more and more interested in you know the stuff underpinning the languages that I was working on and so I started looking at the compiler technologies and you know standards and all these all these other things um and so I started looking into the LLVM project and it was this uh interesting sub project of LLVM, which is called Flang, which is the Fortran compiler. I thought it was really interesting that we had this Fortran compiler built in LLVM and felt like nobody really was talking about it or knew about it. It wasn't super widely used, especially at the time. And so I just tried to go through the Git history and Git blame and find people whose names kept showing up in interesting parts of the compiler. And so then I just ended up messaging one of them on LinkedIn as engineer that still works for arm and he was really kind and we ended up talking I just asked him hey can I write some tests for you or can I like can I do any sort of menial work to just sort of get started on this interesting compiler project and he said yeah we met like once a week for a while and he would teach me about compiler stuff and I would just write tests for him you know do little smaller side projects and that led me to apply for this job here in video where I work on compilers for the HPC team. And so the blog post is very much coming at it from the perspective of a compilers person and not as much an end user, which, you know, there's one section of the blog post where I bring up syntax just to say that I don't want to think about syntax as much because I think what's really interesting to me is the programming model and the semantics that the array languages give you. And I'm not very good at thinking about syntax. So I sort of wanted to punt on that and say, well, let's think about what we can do to provide a language that really amends itself to being optimized, being offloaded and running on the really diverse set of hardware that's here today. And it's getting weirder and weirder and more heterogeneous the longer we go on. So that's sort of where I, where I'm coming from in writing this blog post.
 
 Conor Hoekstra
 
-16:36-17:41
+**16:36-17:41**
 
 So I just noticed you've added a section at the end, because I pinged you about the paper that Troels Henriksen, author of Futhark, or is author correct? He's the father of Futhark, and we've had him on ArrayCast. He posted on Mastodon a preprint archive paper called Comparing Parallel Function Array Languages, and it's quite interesting. I think it's APL, Co-Dfns, DACE, which I actually hadn't heard of, or if I had heard of it, I had forgotten about it, Futhark, and then am I forgetting? There might be one more. I think there was five. Anyways, it compares these across, I think, three or four different problems. And so I haven't read this section of the blog. So I skipped down to the syntax part and then was like, oh, wait, there's a new section in this blog post. So I'm woefully unprepared now because I haven't read that. But anyways, we'll put that on the queue and talk about that later. But yeah, back to, so you've talked about the motivation for this. And so yeah, what are your thoughts on an ideal array language as a compiler engineer?
 
 Asher Mancinelli
 
-17:42-18:44
+**17:42-18:44**
 
 Yeah, well, I guess I do want to preface saying, I mean, I can give you 20 or 30 other people that I work with directly that would be more quick to talk about any particular sub-conversation here. So I don't want to sell myself as an expert on Fortran or even necessarily compiler optimization. But when I think about the types of things that have made it easier or harder to optimize Fortran code or C code or C++ code and the ways that every language has provided that to you and help us to expose that to an optimizer. I think there were a couple of key things. I think I listed them in the blog post. One is I think at the very beginning, things should be unbufferized and we can talk about that. And rank polymorphism was definitely up there. I might need to pull it up to see what my top list was. But I guess we can start with the bufferizing part of that. Do we think folks will be familiar with sort of what that means in terms of compiler optimizations?
 
 Conor Hoekstra
 
-18:44-18:50
+**18:44-18:50**
 
 We can assume that many folks will not be familiar. So go ahead and give us an explanation.
 
 Bob Therriault
 
-18:50-18:53
+**18:50-18:53**
 
 I will ask the question if you like, what is unbufferized?
 
 Asher Mancinelli
 
-18:54-24:04
+**18:54-24:04**
 
 One of the really nice things about Fortran and one of the things I think people miss about why you can get really performant code out of Fortran is that when you use an array by default, you are not just getting a handle to a slice of memory. So in C or C++, if you just like malloc memory and you've got this array, you've really just got an address and maybe you remember the offset, but maybe you don't even remember that. So it is very bare bones what you get. But in Fortran, you have this concept of an array descriptor or dope vector. So what this means, and this is as it's exposed to C code, but the compiler can sometimes get rid of this stuff from out from underneath you if you don't use it. But conceptually, an array is actually a structure. It contains information like the buffer and the length, which maybe you have in C or C++, but it's also got things like the shape and rank. And in Fortran, you can have different strides and the dimensions and the indices can start at different ranges. So you can say this array starts at negative three and goes to positive three. So, you know, you've got all these different interesting things that describe an array. And then if you say pass two of these arrays to a function, the compiler gets to optimize as if it knows that they don't overlap each other. So in the end, when it's starting to actually optimize, say, if you're performing a SAC speed or something, you know, you're performing some operation on these arrays, it gets to treat them as if it knows that they don't overlap. which, of course, if you've written C programs [03] that you want to get really performant, you'll know that you need to put some sort of underscore, underscore, restrict on those pointers to convince the compiler that these actually don't overlap, and you can optimize with that information in mind, which is really, really important for, say, vectorization, unrolling, all kinds of optimizations. And that idea, I think, is really, really nice. And another thing about it is that if you set up a bunch of these arrays and then in the end, the compiler figures out that you don't actually need all of that backing memory to get the result that you requested, as you described in the code, then you can get rid of those out from underneath you. While, of course, in C, if you just malloc a bunch of memory, the compiler's going to more or less do what you said and malloc a bunch of memory for you, whether you needed it or not. And so from a compiler standpoint, most of the time, you translate the code into an abstract syntax tree, and you perform some sort of higher level optimizations on this tree structure that represents the program. And then you do some earlier code generation phase. We can take claim the LLVM C and C++ compiler as an example. And there's a code generation phase where it then gives you something called LLVM IR, which is intermediate representation, meaning it's another programming language that's only used inside of the compiler and it's much more restrictive. And then it does a bunch of optimizations on the LLVM IR. And in that case, most things are already converted into full buffers. Say if you malloc some memory, the compiler will turn it into a malloc 	 call there in the LLVM IR, and it'll persist throughout the program. But in the Flang compiler, which I'll just talk specifically about that, maybe we can generalize to Fortran, it's not so. In the highest level intermediate representation, there's a lot of really high level information. So you've got some AST level optimizations you can perform, but then it's lowered to a really rich, high level representation of the language. It's almost as if you had a more restricted version of Fortran that you could round trip. You could go into this intermediate textual representation, you could look at a file, and then back into the in-memory representation, you could round trip. but it still represented a huge swath of the semantics, including arrays, which may or may not have backing memory in this higher level. And then all the optimizations can take advantage of that. And then eventually it progressively lowers into something that, you know, in the end, you still get LLVM IR and the LLVM optimizer still gets to run on it. But you've got this huge chance in between AST stuff and intermediate representation stuff or the usual intermediate representation, where you've got a lot of really rich, high-level information in the IR that you get to optimize based on. And so in this case, you may have a matrix multiply, for example, and you declare three arrays, and you multiply them together and get a third. Well, the optimizer may look at that and see that you really only need one of those arrays worth of vacuum memory to get the matrix result. I'm just making something up right now. But the point is that the buffers are not determined in the source code or very early on. And it's sort of opaque to the user how much memory will actually be consumed. And an optimizer gets a chance to take a crack at removing some of that memory for you. And it gets a lot of high-level information about aliasing, or more importantly, what doesn't alias. And I just think that's really, it's pretty critical for my ideal array language.
 
 Marshall Lochbaum
 
-24:04-24:36
+**24:04-24:36**
 
 Yeah, we made a pretty similar point when talking about SAC that the source code has all this high level information and it's really in a format that's pretty great for optimizing. I mean, once you compile the syntax out and get it in a more machine like format, but with the same semantics. So, yeah, keeping that around as long as possible gives you a lot more possibilities for kind of having the compiler do operations, do optimizations that depend on it understanding what the operations actually do.
 
 Asher Mancinelli
 
-24:37-25:38
+**24:37-25:38**
 
 Exactly.
 
 Bob Therriault
 
-24:39-24:52
+**24:39-24:52**
 
 And on a previous episode, I think the most recent episode, we were talking about Replicate. There was an awful lot of talk about the costs of moving memory around. And I think you touched on it. This information would allow you to in place a lot of things when it becomes apparent that they can be done.
 
 Asher Mancinelli
 
-24:52-25:05
+**24:52-25:05**
 
 And one other interesting attribute about these intermediate representations is that they use something called SSA format, which means static single assignment. So at the highest level.
 
 Marshall Lochbaum
 
-25:05-25:09
+**25:05-25:09**
 
 Yeah, well, that's the SA in SAC, SAC is.
 
 Asher Mancinelli
 
-25:09-25:10
+**25:09-25:10**
 
 Oh, single assignment C?
 
 Marshall Lochbaum
 
-25:10-25:13
+**25:10-25:13**
 
 Yeah, single assignment C is what it stands for.
 
 Asher Mancinelli
 
-25:13-26:16
+**25:13-26:16**
 
 Yeah, well, there you go. Well, yeah, once you've converted something into single assignment form, it is almost as if you've coerced your source language into being purely functional. It's not quite because you still have memory references that are SSA values that you store to and read from. So it's not quite like that. But at least in the case of Flang, it is a little bit like we took Fortran and we've sort of forced it as best as we can into being a, you know, purely functional language that we get to work on. And then once you get past the AST level stuff, you just have this pretty functional, pretty high level abstract programming language you get to optimize around. And we talked about how that exactly works, but it's really pretty astounding some of the high level stuff that is in the highest level intermediate representation. And I think that's pretty uncommon. I think usually you've got that high level of information at the AST level, but rarely do you have that high of level information while also having it in an SSA format.
 
 Conor Hoekstra
 
-26:17-26:50
+**26:17-26:50**
 
 I guess a follow up question is what is it about Fortran that enables this? Like, obviously, in C++, it's just absolute anarchy. You've got references. You've got pointers. You've got, you know, in the worst case, reinterpret casts. So, like, you can imagine why you can't, you know, know this stuff and make these kinds of optimizations in a language like C++. But are there things specifically about the Fortran language that enable this kind of language feature? Or, I guess, compiler, you know, optimization?
 
 Asher Mancinelli
 
-26:50-28:28
+**26:50-28:28**
 
 Oh, it's definitely a language feature, yeah. And again, I'm not a Fortran expert, but the semantics as prescribed by the language when it comes to arrays are really friendly and amenable to optimization. I mean, a user can ask like, hey, I actually really want this array to be a pointer to this other thing so I can control the memory. You can ask for all that. But by default, it's as if you had a rank polymorphic structure and wrapper around your memory that the compiler had all sorts of information about. So for example, when I worked at the laboratory, there was this numerical code that I worked on where all the matrices were represented by these structures that had all these member functions that knew how to do all sorts of stuff with the data. And when you wanted to get a handle to the data, say if it was a 2D matrix, you would have one linear buffer, and then you would have a secondary buffer that was, you know, an array of pointers to pointers so that you could do the nice little open bracket, I, close bracket, open bracket, J, close, but that sort of thing. And then it would scan over and set all the pointers to be offsets inside of this linear memory so that you could have something like indexing into a matrix, but it would really keep using linear memory. So it was more amenable to vectorization and catchlights and all that stuff. But all that stuff is sort of given to you for free by the language because it describes arrays as this sort of descriptor around memory that tells the compiler and the users There's a whole bunch of information about shape and step length and all these things. So definitely a language thing and something that compilers could take quite a bit of advantage of.
 
 Marshall Lochbaum
 
-28:28-28:31
+**28:28-28:31**
 
 So did you ever get around to explaining why you call this unbufferized?
 
 Asher Mancinelli
 
-28:31-29:10
+**28:31-29:10**
 
 Oh, I'm sorry. Maybe I lost it. The key concept is that the description of like, at this point in the program, I want to malloc this much memory is not there in the highest level IR. So you've just got a conceptual array that you perform operations on. And once it's been lowered enough and optimized enough, then the compiler will say, okay, we actually need to set aside some memory here and here. And if you look at how these machine learning compilers work, it's all very much the same way. At the higher level, you do something, I think it's called return passing style, I think. It's something like that, where if you perform some operation on a tensor, I guess, in machine learning.
 
 Marshall Lochbaum
 
-29:11-29:12
+**29:11-29:12**
 
 Continuation passing, maybe?
 
 Asher Mancinelli
 
-29:12-29:13
+**29:12-29:13**
 
 No, no.
 
 Marshall Lochbaum
 
-29:13-29:14
+**29:13-29:14**
 
 Is that a different thing?
 
 Asher Mancinelli
 
-29:14-29:23
+**29:14-29:23**
 
 Yeah, there's this other duality between passing in the destination is the first argument, or just returning a brand new thing.
 
 Marshall Lochbaum
 
-29:23-29:27
+**29:23-29:27**
 
 Oh, there's a return oriented. No, that's the exploit stuff. I don't know.
 
 Asher Mancinelli
 
-29:28-30:38
+**29:28-30:38**
 
 Well, you know, in machine learning land, if you want to, say, change something about a tensor, it's pretty common that you'll have this insert operation that just returns a brand new tensor. And so all subsequent operations use that returner thing. So sort of like anytime you modify it, you just have a brand new tensor that you operate on. And then there's some optimization paths that we'll go through and figure out how much memory is actually required, how much can we fuse together, how much do we actually need here. And that's sort of the style of the higher level Fortran intermediate representation in cases where it's possible. So you don't actually see, if you just look at the code and read it as a programming language, you would think that it was, there was memory all over the place used for free. and you can just keep allocating all over the place. And then the compiler will then figure out where the memory is actually needed. And then you would have memory references that are passed around and you store into them or read from them and that sort of thing. But the idea is that the backing memory for things is not present in the IR at the higher levels. You can do all sorts of analysis and you're not worried about the pointer to the memory escaping or anything like that because you're operating at this higher level. [04] And then as you progress through the compiler, it becomes more concrete and you actually have a malloc or a stack allocation or something like that.
 
 Marshall Lochbaum
 
-30:38-31:57
+**30:38-31:57**
 
 And I'll jump in here, not totally related, but I can compare to APL because Bob brought up Replicate too. So an interesting thing about APL, as there is no compiler, the compiler does not make these decisions about where the memory goes. And something that can happen with Replicate is, like if you look at our BQN performance graph for Replicate, I have a graph relative to the density of the left argument. So as the density goes up, generally it gets slower and slower because the result is larger. But once you get to full density, every value is a one. What happens is it does the sum to figure out how long the result should be. And then it sees that, oh, the result is the same as the argument. And then it doesn't allocate any memory. It just returns it. It makes a reference to the argument. So, of course, you have this big cost in doing all the allocations dynamically that then if it were compiled away, you would just do one big allocation at the beginning probably and then all the different code would know which section of the allocation it gets all in advance so in APL and BQN you have every time you make an array you have to call the allocator and say you know hey give me some more memory and it'll give you a pointer and all but you have the great advantage that uh you can choose at any point you have the most information possible when you allocate that if it turns out you don't need the memory, then you don't need the memory.
 
 Asher Mancinelli
 
-31:57-32:07
+**31:57-32:07**
 
 Yeah. A lot of trade-offs between fully offline compiled or online compilation or interpretation. A lot of steps in between with a lot of interesting trade-offs.
 
 Bob Therriault
 
-32:07-32:30
+**32:07-32:30**
 
 Has Fortran always had that ability? Is it something that existed from the early? I mean, when I was studying computing science, and I'm an old, Fortran was old. It predates me. It's 1953. So is it something that's always been there and just wasn't taken advantage of, Or was it added in? There's been numerous versions of Fortran.
 
 Asher Mancinelli
 
-32:30-34:02
+**32:30-34:02**
 
 You're testing the limits of my Fortran knowledge. But what I can say is that at the very least, whether it was allowed by the language or not, compilers have changed a lot, which have allowed this to happen. So compilers used to be streaming and they cared a lot more about locality in a way that most people think about locality today. So if you've ever used the TCC compiler, I'm fairly certain that TCC is a streaming seed compiler in that you've basically got a stream of tokens coming in that's your source code. And as it scans along, it's spitting out assembly the whole way. It's not really stopping to think about the whole program or as much program as I can see and optimize it. So I don't really know what the older Fortran compilers were doing. But if I had to hazard a guess, I would say it's that they were very concerned with doing some local analyses, maybe within a few statements. But memory was so much more expensive relative to other operations at the time that you really couldn't hold much more than maybe a function, maybe parts of a function if it was really big in your compiler at a time. So this sort of larger analysis of what buffers are needed when, where I don't think it's really possible until more recent innovations in PowerWord software that, you know, let us make these bigger or powerful, maybe memory or compute intensive and, you know, sometimes slower compilers that can make a lot more clever decisions about what happens in your actual program. But I think the semantics of the arrays are pretty consistent. I don't actually know.
 
 Marshall Lochbaum
 
-34:03-34:43
+**34:03-34:43**
 
 Well, I wonder if what's been added is actually more facilities for passing arrays around. Like I would expect in early Fortran, if you could pass arrays to a function at all, it would be like passed by the name and then the function. So passed by reference, but not a reference to the array, a reference to the local name. And so you could even change the, well, probably in Fortran, you couldn't change the type. So you couldn't do much. But I would think that the ways that you could pass arrays around were very limited. So when C came, it was probably seen as more featureful than Fortran because you can just pass pointers anywhere. But then when you get to try and optimize it, that turns out to be a pretty big weakness.
 
 Asher Mancinelli
 
-34:44-35:22
+**34:44-35:22**
 
 Yeah. And in terms of parameter passing, there's all kinds of interesting things, too, so you bring up a good point. For example, if you have a function that takes like a one-dimensional array, a flat array, but you pass in something that's, I don't know, six-dimensional. Well, if the compiler can do enough analysis about the function and this array before it gets passed in, you can do something called repacking, or it will actually repackage that array into a different array before passing it in. Depending on the stride and offset information in the original array, it might be more beneficial to create a whole new thing, pack it in, call the function, and then copy it back out. So it's a lot of room for optimization. I don't quite know which language versions, like 77 or 90 or 08.
 
 Marshall Lochbaum
 
-35:22-35:25
+**35:22-35:25**
 
 Yeah, I mean, that's got to be a newer feature.
 
 Asher Mancinelli
 
-34:25-35:29
+**34:25-35:29**
 
 Yeah, I couldn't play it.
 
 Marshall Lochbaum
 
-35:30-35:46
+**35:30-35:46**
 
 So it's kind of, it's interesting. The early Fortran was just so limited because that's all they could think of to do. But over time, it turned out that they had the right limits, which allowed them to add new functionality that is really, that's the good functionality instead of all this bad pointer aliasing functionality.
 
 Asher Mancinelli
 
-35:47-35:48
+**35:47-35:48**
 
 I would agree with that, yeah.
 
 Bob Therriault
 
-35:48-35:57
+**35:48-35:57**
 
 So if you were to start now with the ideal foundational language to put a compiler together, it sounds to me like Fortran is actually a pretty good choice.
 
 Asher Mancinelli
 
-35:57-36:37
+**35:57-36:37**
 
 There are some parts of Fortran that I would definitely love to take forward. And there are also some that I would not. Yeah, there's a lot of really cool stuff, though. I mean, I love talking about the where feature in Fortran just because I find it so interesting. And this is one of the features that's represented really well in the high-level intermediate representation. So you can do something like where A, B equals C. And that's interpreting A as a Boolean mask that applies to all B and C. And so it'll perform that assignment only where that mask is true. Does that make sense?
 
 Conor Hoekstra
 
-36:38-36:38
+**36:38-36:38**
 
 Yes.
 
 Asher Mancinelli
 
-36:38-37:11
+**36:38-37:11**
 
 So you can do sort of where, do this, elsewhere, do this. And it's just sort of this really, I mean, I just sort of love that description. I mean, just reading through that, okay, where this mask holds true, than perform this code, otherwise perform this code. And then it will perform everything for you. And I just love the readability of that. And if you look at the intermediate representation, which is to say that the textual format that the compiler is optimizing internally, it keeps around this sort of rich information in a way that's easier to optimize. And I just think that's a really wonderful idea.
 
 Marshall Lochbaum
 
-37:11-37:23
+**37:11-37:23**
 
 Yeah, so that's a lot like at in APL, except where at has an operand function, you just write what you do on that portion of the array. which is not any sort of first class thing at all, I assume.
 
 Conor Hoekstra
 
-37:23-38:06
+**37:23-38:06**
 
 Yeah, and it comes up frequently on ADSP when Bryce and I are chatting that it's like the equivalent of the thrust stencil copy if, where, and also too, it's morally similar to the sum if, I guess, in Excel, where you can basically give it multiple ranges and say, oh, I want you to do something on this range based on this other range, Which honestly, it's a very frequent, like it's a very common real life thing you want to do. There's no real name for this kind of operation, though. Like it's named something different in every language slash application, because I guess, well, you could argue that Excel is a language. But anyways, we'll table that argument for another day.
 
 Marshall Lochbaum
 
-38:06-38:15
+**38:06-38:15**
 
 I think maybe a masked operation is what I'd go for trying to explain it to people who don't necessarily know anything in particular. That's what it's called for vector instructions that have masking.
 
 Adám Brudzewsky
 
-38:16-38:22
+**38:16-38:22**
 
 But it's more than just a mask, right? Because you could, well, if you give it indices, it's not a mask and it can be out of order.
 
 Marshall Lochbaum
 
-38:23-38:24
+**38:23-38:24**
 
 Well, can you give it indices?
 
 Asher Mancinelli
 
-38:25-38:32
+**38:25-38:32**
 
 I think you can. And I think you can put sort of arbitrary behavior inside of those where statements. I really, yeah, this is really testing what I know.
 
 Marshall Lochbaum
 
-38:33-38:36
+**38:33-38:36**
 
 I mean, so if you give it indices, it's kind of more like a for loop.
 
 Asher Mancinelli
 
-38:36-38:39
+**38:36-38:39**
 
 Yeah, sort of a for loop. And then you've got an if else inside of there based on what.
 
 Marshall Lochbaum
 
-38:39-38:42
+**38:39-38:42**
 
 You have to wonder what happens if you pass the same index twice.
 
 Asher Mancinelli
 
-38:42-38:43
+**38:42-38:43**
 
 I want to know.
 
 Bob Therriault
 
-38:44-38:45
+**38:44-38:45**
 
 So does the compiler.
 
 Marshall Lochbaum
 
-38:45-38:48
+**38:45-38:48**
 
 That's important
 
 Asher Mancinelli
 
-38:48-39:49
+**38:48-39:49**
 
 Yeah yeah there's this uh really interesting document that one of my uh colleagues put together I don't know if he wants to be named so but he's pretty in into to functional programming and everything and in the document one of the ways that he prescribed that arrays would be conceptualized inside the compiler or a way that you can conceptualize arrays when they don't have a backend buffer is just a function that maps indices to values. And if you think about arrays like that inside the compiler, and then later on in the compiler, you realize that you do have to commit some of those values into memory somewhere, but it's just not assumed that they need to be in memory. It's just a constraint of the compiler that eventually some things will need to be in memory. But I just love that conceptualization of arrays as a first class citizen. and it's just a function that gives you values based on indices. And that's really all that you can expect from the compiler unless you ask for other stuff.
 
 Marshall Lochbaum
 
-39:49-39:58
+**39:49-39:58**
 
 Yeah, well, so then if you map a function over the array, that's like composing two functions. And if you view it that way, you automatically get a loop fusion. [05]
 
 Asher Mancinelli
 
-39:58-39:59
+**39:58-39:59**
 
 Absolutely.
 
 Conor Hoekstra
 
-39:59-41:19
+**39:59-41:19**
 
 Speaking of loop fusion, the keyword there being fusion, I'll ask one final question unless if others have questions before we maybe move on to another of the bullet points because we've technically just been on tangents off of the first unbufferized bullet point. In my mental model, I was thinking that the unbufferized language feature is not dissimilar from JAX's JIT compilation and function tracing, which for the listener that's unfamiliar, JAX is a repo or project out of Google. It's built on top of XLA, which I think stands for Accelerated Linear Algebra. And that uses IR that's called, I think it was called HLO at first. Now it's called stable HLO, which H and L stand for high level optimization. And when you are jitting a function in JAX, it'll do some function tracing with the goal of ultimately, if you're targeting a GPU, like reducing the number of kernels you launch. So if you don't jit anything, you're just going to get a kernel launch for every single operation in your function. But if you jit it and it uses this HLO to do a certain number of optimizations, you can reduce the number of kernels like uh drastically which in other words is like basically preventing materialization of some operations and when you think unmaterialized like I think there's kind of some like loose equivalence to unbufferized?
 
 Asher Mancinelli
 
-41:19-41:20
+**41:19-41:20**
 
 Yeah
 
 Conor Hoekstra
 
-41:20-41:29
+**41:20-41:29**
 
 How uh like dissimilar or similar is my mental model to the fortran unbufferized um language feature?
 
 Asher Mancinelli
 
-41:29-43:59
+**41:29-43:59**
 
 No I think that's right well so most orall of the machine learning or ai compilers use this technology called ml iog and fortran was one the very first users of MLIR for any sort of general purpose computing. I think the majority of uses of MLIR are for, you know, little Python libraries or, I mean, specific languages that then turn themselves into MLIR, which then gets optimized. So might be a good time to talk about MLIR more generally. And I don't know anything about the HLO dialects of MLIR, just to believe what they're called, but they usually fall into one of two categories when it to arrays or remembered references. And that is a tensor or tensor-like dialect and a memref or memory reference-like dialect. And the former of those being the unmaterialized version and the latter being materialized. So if you look at something that uses, there is actually a tensor dialect in MLIR and also a memref dialect. And then there's a bunch of other ones that do very similar things. So I'll just talk about those two general ones. they're sort of shared by everybody in all the code base and then other folks have their own dialects. But the tensor dialect is the one that, you know, for you to insert an element, for example, there's an insert element operation you can perform on a tensor and you pass it a value or a slice or something you want to stick in there. And then it returns you a brand new thing. And, you know, as a state format, like we talked about, and then you use that return thing. And so you're basically never modifying anything in place. It's sort of disallowed by the intermediate representation language itself. And then as that gets progressively lowered after being optimized, it is turned into a memory reference or memory reference-like dialect if it needs to be materialized. And at that point, inserting anything into it, you're just performing store. So you might have a memory reference up at the top that's allocated on the stack or something. And then to do stores, you do actually just store into it, but you keep using that original memory reference thing at the top is now we've got an actual reference to materialized memory, whereas in the tensor dialect or any other dialect that's similar to the tensor dialect, you're using the return value each time and the memory behind it is not actually material yet, which is more amenable to optimizations. So I don't know anything about HLO, but that's sort of the shape of dialects that these things come in. So maybe it's time for an aside on the IR, you guys told me.
 
 Conor Hoekstra
 
-43:59-44:17
+**43:59-44:17**
 
 Well, I mean, it is mentioned in your blog post, but technically it's mentioned, I think, in the unbufferized or automatic bufferization section. So, but yeah, so what is, if automatic bufferization is maybe not number one, but, you know, it was the first thing we talked about, what's the second thing in your future ideal array language?
 
 Asher Mancinelli
 
-44:18-45:25
+**44:18-45:25**
 
 I mean, it's got to be all the really nice rank polymorphic stuff that make array language just so nice to use. I mean, really general algorithms that apply to all different kinds of arrays. you can write things in a really general way. And of course, Fortran has this notion of an elemental function that's sort of agnostic to the array shape kind that it operates on. Similar to like a U-func, I think it's called in NumPy or NumPa. I don't remember, but it's similar things where you describe these sort of general functions or algorithms that can apply to arrays more broadly. And I think arrays really should be the fundamental data structure for things. And the operations around them should be really natural and extensible in such a way that a user is able to write something that is at least as powerful as the compiler is able to provide. So that's something I think the Mojo folks seem to be doing pretty good at, even though a lot of their compiler stuff is still closed source. It seems like they're able to do quite a few compiler-y things in the standard library or language because it's built in a pretty extensible way. So I'm rambling again, but hopefully that gets at your question.
 
 Conor Hoekstra
 
-45:26-45:36
+**45:26-45:36**
 
 No, no, no. That's awesome. Does Elemental, my brain translated that to Element-wise, is it the same thing or is it greater than that?
 
 Asher Mancinelli
 
-45:36-45:40
+**45:36-45:40**
 
 I believe it is just Element-wise, yeah.
 
 Conor Hoekstra
 
-45:40-45:46
+**45:40-45:46**
 
 And does Fortran give you an ability to define functions that operate rank polymorphically, or is that just a thing for your future array language that you want?
 
 Asher Mancinelli
 
-45:46-46:09
+**45:46-46:09**
 
 I believe that it can and I don't quite remember how to do it in the language, but there's a lot of really clever stuff you can do there. I think in our NVIDIA meetings, we've talked about how Fortran has just a little taste of dependent types in it. But there's a lot of other interesting stuff that you can do around, you know, the assumptions that you don't need to make about arrays that you accept as parameters, that sort of thing.
 
 Conor Hoekstra
 
-46:09-46:38
+**46:09-46:38**
 
 Yeah, yeah, we've definitely talked, not just Fortran, but Julia has a little bit of that as well. Although there's very little literature calling or referring to the language features in Julia and Fortran as like quasi-dependent types. Although if you search hard enough, you can, if you ask the LLMs, You can coerce it into telling you that they do have with the right set of questions. All right. So we've got, we've got automatic bufferization or unbufferized. We've got extensible rank polymorphism. What else?
 
 Asher Mancinelli
 
-46:38-47:07
+**46:38-47:07**
 
 I don't know. Hardware is just, it gets, it's getting very strange and I only see it getting more and more strange. And I feel like this paradigm is just really well equipped for the future of computing more generally. You know, again, I don't want to portray myself as some sort of expert, but it just really seems like this array polymorphic really extensible paradigm is really really future-proof when it comes to the changes that are coming in hardware.
 
 Conor Hoekstra
 
-47:07-47:55
+**47:07-47:55**
 
 Do you have thoughts on why up until now there has been I guess less exploration there's a couple projects out there there's Co-Dfns which makes use of the array fire library link in the show notes we've talked to Aaron about that at least once I mean we had them on twice but I think the second episode um wasn't necessarily talking about code co-defunds. But there hasn't been a ton. I mean, I guess if you include single assignment C, they have a CUDA backend, but you, so you're saying it's, it's a future proof, but they're currently like present day. There doesn't, there doesn't exist an array language per se, like in the Iversonian sense that can target all the heterogeneous devices and compete out there. Do you know, do you have thoughts on, on, you know, I think both of you, both of you and I know. I mean, we chat about this all the time. Wish that that language existed, but...
 
 Asher Mancinelli
 
-47:55-49:35
+**47:55-49:35**
 
 Well, I think it's a function of money. I mean, it does exist in the machine learning world because there's plenty of, you know, plenty of people have money at stake in order to best utilize these GPUs. I mean, there's specialized hardware now, not just in, you know, the NVIDIA GPUs, but also the upcoming ARM scalable matrix extensions that are just matrix multiply specific hardware. You know, all these tensor cores that we've got All these things that are just meant for matrix multiplication because that's the best yield for hardware manufacturers to focus their energy right now. And so we've got a million Python domain-specific languages that do sort of convey all these semantics. And they leverage hardware, honestly, pretty well, it seems like. But I think a lot of programming languages that are in use today aren't necessarily taking the best advantage of multicore or shared memory or SIMD extensions. So it's, I mean, parallel programming is really, really hard. I think we'll need a little bit more time for the rest of the features to sort of percolate to other languages. But I think the paradigms that are set up in these languages makes them amenable, whereas other languages will have a much harder time. I don't know if you saw the recent talk from, I forget his name, but he works on OCaml stuff. and they recently introduced multi-core OCaml and just the staggering amount of effort that went into getting OCaml really ready to support multi-core stuff. I mean, it's a tremendous amount of work. I think a lot of languages are there too. I mean, SIMD [06] is really hard to get right. It's really hard to get right, even with a lot of good pilers and people that are writing their code very thoughtfully. I think it'll just take more time.
 
 Marshall Lochbaum
 
-49:36-51:33
+**49:36-51:33**
 
 Well, and I can give some more of the APL perspective on this. In our Quote Squad group, which is still ongoing. Our last paper was titled, Is APL Really Processing Arrays? And what they did was they took a study on, this was in the mainframe days. It was 1979, I think. So the way everyone evaluated their APL was by sending it to the mainframe to run, which would give their answers back. So with a centralized thing running, that's actually a really great place to do studies on APL usage. And what they did was to measure all the array allocations across a bunch of different sessions and take the average array size. And they found the average array size was about 30 elements. They reported on two other studies that found average sizes of 14 and 28. So actually, there was a big push around this time to get APL compiling. And the reason wasn't because it was better for working with big arrays, but because it was better for working with small arrays and one element arrays in particular. So from the APL perspective, I mean, really, it's just like multicore feels to me like a very fringe use case in terms of what APL family array programmers do. Because like, I just never have arrays that big. Like, who has that much data lying around? And of course, I realize that there are many people doing this, but they don't use APL and the APLers don't really do all this big data application. So there's kind of this disconnect between the programming language implementers that might be able to implement some multi-core stuff. And I mean, they have started working on it, like J, as we've had Henry Rich on to talk about what they've done in J. But basically, I mean, these implementers haven't been but so incentivized to work on HPC problems because there's just no overlap between the programmers in those communities.
 
 Asher Mancinelli
 
-51:33-51:36
+**51:33-51:36**
 
 J does make quite a bit of use of SIMD stuff, though, right?
 
 Marshall Lochbaum
 
-51:36-51:39
+**51:36-51:39**
 
 Yeah. And so SIMD is great for small arrays.
 
 Asher Mancinelli
 
-51:39-51:39
+**51:39-51:39**
 
 Yeah.
 
 Marshall Lochbaum
 
-51:40-52:16
+**51:40-52:16**
 
 So like if you've got a 20 element array, SIMD is already worth it. Oftentimes as small as like five elements or two. So Dyalog does a lot of SIMD. J does a lot of SIMD, so does BQN. K does, I'm sure. So all the major languages are trying to use the vector instructions pretty well. Multicore, I mean, it has obvious solutions, but it's more work to kind of fit into the array paradigm, the interpreted array paradigm. And it's like you have to be able to split your data up into big enough chunks that you're not just spending all the time communicating between processors.
 
 Asher Mancinelli
 
-52:17-52:27
+**52:17-52:27**
 
 Yeah, or much less put it on GPU where you need enough data You need to send it all the way to that whole other machine and then run some stuff on the GPU before sending it all the way back.
 
 Marshall Lochbaum
 
-52:27-52:30
+**52:27-52:30**
 
 Yeah, and you better hope that nothing you can't do on the GPU happens in the middle.
 
 Conor Hoekstra
 
-52:31-53:03
+**52:31-53:03**
 
 Fun little anecdote here. I googled, is APL really processing arrays, which is the title of the paper Marshall mentioned. And of course, I get back from Google Now an AI overview, assumably from Gemini, answering, yes, APL is specifically designed for processing arrays. And anyways, the second result is the actual paper, but a bit humorous that the title of the paper from 1979, I think it was, is a question that now the AIs are laughing at being like, of course, it's in the name.
 
 Marshall Lochbaum
 
-53:03-53:20
+**53:03-53:20**
 
 Yeah, well, I don't think it's the greatest title because it's like, yeah, I mean, even empty arrays are arrays. That's what APL is. Maybe they meant, is it processing real arrays? Of course, that's easy to confuse, too. So I don't know what they should have titled their paper, but their title is a bit confusing.
 
 Asher Mancinelli
 
-53:20-54:03
+**53:20-54:03**
 
 Well, I mean, it brings up a great point. I mean, like you think about garbage collection strategies. I think that's sort of the premise of like generational garbage collectors is that most things die pretty young. Meaning like you can just sort of collect most stuff pretty soon and then you can move it on to the older generation if it actually does need outlet. And you compare that to other workloads where, of course, you know, people are using Python to get honestly relatively good performance for those workloads. Because, you know, by the time you send everything to the GPU, like you can keep that GPU running more quickly than the Python interpreter limits you, you know, for those workflows. It's not like the Python interpreter slows you down. So it's a pretty workload specific in a way that I think is interesting.
 
 Marshall Lochbaum
 
-54:04-54:42
+**54:04-54:42**
 
 Yeah. And definitely I can say there are programs where most of the work is concentrated in big arrays, like the BQN compiler I know is one. It couldn't possibly get the performance it gets if it was working mostly with small arrays. And so for those things like all the interpreter time, as well as the garbage collection, really just don't matter. And then it's much more important to do. If you were going to compile, the reason would be to lay out the memory, to fuse loops, to reduce memory usage and things like that. It's all about memory bandwidth at that point. So yeah, different programs have very different requirements.
 
 Asher Mancinelli
 
-54:43-55:04
+**54:43-55:04**
 
 Yeah. There's even this interesting interview with Chris Lattner, who of course started the LLVM project and Swift and MLIR, all these other projects, about how MLIR really is just a rehashing of APL and that APL just got so many things right way back then. And they sort of need to be brought forth into these other languages to take better advantage of the hardware. I think that's a pretty interesting point.
 
 Conor Hoekstra
 
-55:05-55:34
+**55:05-55:34**
 
 Speaking of Lattner, I mean, you brought up Mojo earlier. [07] I'm not sure how many... Because has Mojo... Mojo might have been mentioned, like briefly, as a throwaway comment once or twice on this episode. But I don't think we have chatted about it at all. As someone who's writing a blog about a future ideal array language, and there's a bunch of initiatives out there, do you have thoughts on Mojo and what Chris is doing with that? Or have you played around with Mojo at all?
 
 Asher Mancinelli
 
-55:34-56:24
+**55:34-56:24**
 
 I have a little bit. It seems really nice. It seems extensible in a way that I can really appreciate, meaning that, you know, if the design requirements of the language change, I don't think that it's necessarily going to be that invasive of a change to the compiler language specification, because so much of it can be done in library land, and you're not relying on these compiler internals like you are in the C++ standard library, for example, to, you know, get access to certain features. Yeah, it seems nice. It's hard to say because a lot of the internals I don't think are public yet. I don't think any of the compilers out there yet, but the standard library and a bunch of kernels that they're claiming particular performance numbers on are out there. But I would really love to see what's going on in the compiler to get an idea of really what's happening in the language.
 
 Conor Hoekstra
 
-56:24-58:05
+**56:24-58:05**
 
 Yeah, the most recent thing I heard was he was Chris Lattner that was was on Richard Feldman's podcast Software Unscripted for the second time. At first, when I saw the headline come up in my podcast queue, I was like, wasn't he just on and or like, is this like a repeat episode that they had to release again for a correction, but it is actually the second time he was on. And they mentioned, yeah, the compiler stuff is still closed, but they did open source. I think it was half a million or 600,000 lines of Mojo code that they've been writing. So at least there's more out there for people to look at. But yeah, the internals are still closed off. But I think their roadmap is to open source stuff, but it's just not in the state right now where they want to. And I guess we buried the lead. Mojo, for those that haven't heard, it's a new, I don't know, you want to call it programming language from Chris Lattner, who's, you know, worked on Swift and a ton of other things, LLVM, MLIR. And its goal is to be like a superset of Python. And that existing Python libraries are going to work with Mojo and that over time you can like port your Python code to be Mojo code. And it's going to have extra features. Like I think they have structs right now that is going to enable them to offload stuff to heterogeneous compute. And they have some examples that like super, you know, 40,000 times faster, but that's cherry picking on some really bad Python code. So on average, you're probably not going to get a 40,000 X increase by switching to Mojo. But it's an interesting, exciting project. And Chris has been successful in the past.
 
 Asher Mancinelli
 
-58:05-58:36
+**58:05-58:36**
 
 Yeah, super. I mean, very integrated with the MLIR project in a pretty interesting way as well. I think they use very little of the dialects, the available intermediate representations that are available upstream in the MLIR project to just use everything downstream themselves, which the reasons for those decisions are pretty interesting, I think. I guess just guessing at them since I don't know. I haven't asked anybody myself. But yeah, pretty interesting project. I'm excited to see for when more people start using.
 
 Conor Hoekstra
 
-58:36-59:35
+**58:36-59:35**
 
 And speaking of other projects, maybe this is a good time to bring up the bonus content that you added to the end of your ideal array language blog. So as mentioned before, there's a preprint of a paper that I think Aaron Hsu, Troels Hendrickson, and a bunch of other folks are co-authors on. It's like a 75-page paper, full disclosure. I have not read the whole thing. I skimmed the most of it. went to the results tables. I wish they had to put a couple graphs in there. It would have been nice to see a big, beautiful graph, but it's just tables. Uh, but then the, uh, end section has a kind of summary of each language. And I think single assignment C was the one that I was forgetting, um, on top of APL Co-dfns DACE, if that's how it's pronounced and Futhark. Uh, anyways, I'll throw it over to you, uh, to share your thoughts, um, on, uh, yeah. Cause I, like I said, I haven't read that extra section in the blog, so I'm hearing it first here, live on the pod.
 

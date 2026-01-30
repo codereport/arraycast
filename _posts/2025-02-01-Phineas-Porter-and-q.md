@@ -148,7 +148,7 @@ Thanks to Bob Therriault, Marshall Lochbaum, Adám Brudzewsky, Phineas Porter, a
 - [ngn/k Programming Language](https://codeberg.org/ngn/k)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

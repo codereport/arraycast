@@ -125,7 +125,7 @@ Thanks to Bob Therriault for gathering these links:
 
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

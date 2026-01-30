@@ -119,7 +119,7 @@ Thanks to Bob Therriault and Adám Brudzewsky for gathering these links:
 
 - Family Tree of APL
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

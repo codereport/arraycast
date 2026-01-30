@@ -131,7 +131,7 @@ Thanks to Bob Therriault, Marshall Lochbaum and Conor Hoekstra for gathering the
 
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

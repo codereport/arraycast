@@ -133,7 +133,7 @@ Thanks to Bob Therriault, Adám Brudzewsky, and Conor Hoekstra for gathering the
 
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

@@ -151,7 +151,7 @@ Thanks to Bob Therriault, Marshall Lochbaum and Alex Unterrainer for gathering t
 
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

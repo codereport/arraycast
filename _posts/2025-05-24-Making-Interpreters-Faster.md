@@ -119,7 +119,7 @@ Thanks to Bob Therriault and Conor Hoekstra for gathering these links:
 - [QA for Software](https://en.wikipedia.org/wiki/Software_quality_assurance)
 - [Contact AT ArrayCast DOT ComSpecial Combinations in J](https://code.jsoftware.com/wiki/Vocabulary/SpecialCombinations)
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

@@ -121,7 +121,7 @@ Thanks to Bob Therriault for gathering these links:
 - [Miguel Raz - Julia Episode #103 of the ArrayCast](https://www.arraycast.com/episodes/episode103-julia)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

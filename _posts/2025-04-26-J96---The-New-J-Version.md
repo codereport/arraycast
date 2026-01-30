@@ -109,7 +109,7 @@ Thanks to Bob Therriault for gathering these links:
 - [Contact AT ArrayCast DOT ComIndexing Episode #99 of the ArrayCast](https://www.arraycast.com/episodes/episode99-selection)
 - [Symbols in J (s:)](https://code.jsoftware.com/wiki/Vocabulary/sco)
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

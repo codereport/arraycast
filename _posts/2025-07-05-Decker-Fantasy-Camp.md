@@ -130,7 +130,7 @@ Thanks to Bob Therriault, Marshall Lochbaum, Adám Brudzewsky and Conor Hoekstra
 - [Parksville Sandcastle Competition](https://www.parksvillebeachfest.ca/festival-info/about-us/)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

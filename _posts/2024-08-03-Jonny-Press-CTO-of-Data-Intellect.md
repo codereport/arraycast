@@ -101,7 +101,7 @@ Thanks to Bob Therriault, Stephen Taylor and Adám Brudzewsky for gathering thes
 - [k wiki](https://wiki.k-language.dev/wiki/Main_Page)
 - Contact AT ArrayCast DOT Com (edited)
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

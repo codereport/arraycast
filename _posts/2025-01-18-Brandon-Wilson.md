@@ -120,7 +120,7 @@ Thanks to Bob Therriault, Stephen Taylor, Richard Park, and Conor Hoekstra for g
 - [JQJQ Code](https://github.com/wader/jqjq)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript

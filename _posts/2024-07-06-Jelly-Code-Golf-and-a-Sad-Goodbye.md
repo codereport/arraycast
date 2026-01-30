@@ -130,7 +130,7 @@ Thanks to Bob Therriault, Conor Hoekstra, Marshall Lochbaum, Jay Bates and Adám
 - [Beginner exercises in Jelly](https://golfingsuccess.github.io/jelly-hypertraining/)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript
@@ -311,7 +311,7 @@ Yeah. Jelly is what introduced me to APL.
 
 So you come into APL and you say, "What a weird language. It's so verbose yet comprehensible."
 
-00:23:31
+**00:23:31**
 
 Yes.
 

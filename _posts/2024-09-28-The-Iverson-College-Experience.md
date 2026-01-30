@@ -106,7 +106,7 @@ Thanks to Bob Therriault for gathering these links:
 - [Westwood Lake](https://www.nanaimo.ca/parks-search/Parks/32-Westwood-Lake-Park)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript
@@ -315,7 +315,7 @@ Yes. At first, I didn't want to present anything. I was planning to just come he
 
 Did you prefer that to the regular, you know, sort of just up there talking presentation format?
 
-00:20:00
+**00:20:00**
 
 Yes, very strongly.
 

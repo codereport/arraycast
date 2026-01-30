@@ -110,7 +110,7 @@ Thanks to Bob Therriault and Madeline Vergani for gathering these links:
 - [Omnibar](https://omnibar.rubenverg.com/?ig=true&in=true)
 - Contact AT ArrayCast DOT Com
 
-<details>
+<details markdown="1">
 <summary><strong>Transcript</strong> (click to expand)</summary>
 
 Transcript
