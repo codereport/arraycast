@@ -107,6 +107,14 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  max-height:calc(100vh - 100px);
+  overflow-y:auto;
+  scrollbar-width:none; /* Firefox */
+  -ms-overflow-style:none; /* IE/Edge */
+}
+
+header::-webkit-scrollbar {
+  display:none; /* Chrome, Safari, Opera */
 }
 
 header ul {
