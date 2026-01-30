@@ -14,14 +14,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ "/" | relative_url }}"><img id="logo" src="{{site.logo | relative_url}}" alt="The Array Cast Logo" title="Home"/></a><a id="rss" href="{{ "/podcast.rss" | relative_url }}"><img src="{{ "/assets/img/rss.svg" | relative_url }}" alt="RSS" title="RSS feed"></a>
+        <div id="icons"><a href="{{ "/podcast.rss" | relative_url }}"><img src="{{ "/assets/img/rss.svg" | relative_url }}" alt="RSS" title="RSS feed"></a><a href="{{ site.github_repo }}" target="_blank"><img src="{{ "/assets/img/github.svg" | relative_url }}" alt="GitHub" title="Contribute on GitHub"></a></div>
+        <a href="{{ "/" | relative_url }}"><img id="logo" src="{{site.logo | relative_url}}" alt="The Array Cast Logo" title="Home"/></a>
         <p>{{ site.description }}</p>
         <hr>
         <p><strong>Host:</strong> <a href="https://www.youtube.com/codereport" target="_blank">Conor Hoekstra</a> is the host of ArrayCast and ADSP: The Podcast, and runs the code_report YouTube channel.</p>
         <p><strong>Co-host:</strong> <a href="https://abrudz.github.io" target="_blank">Adám Brudzewsky</a> is head of language design at Dyalog Ltd and a long-time APL enthusiast.</p>
         <p>The Array Cast explores the world of array programming languages including APL, J, K, Q, BQN, Uiua, and more.</p>
         <hr>
-        <p>Send feedback to <a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>.
+        <p>Send feedback to <a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>.<br><br>To suggest a correction, <a href="{{ site.github_repo }}" target="_blank">open an issue or PR on GitHub</a>.</p>
       </header>
       <section>
 

@@ -11,8 +11,15 @@ img#logo {
 	max-width:75%;
 }
 
-a#rss {
+#icons {
 	float: right;
+	text-align: center;
+}
+
+#icons a {
+	display: block;
+	margin-bottom: 0.5em;
+	line-height: 1;
 }
 
 p img {
