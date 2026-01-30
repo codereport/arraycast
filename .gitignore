@@ -2,6 +2,7 @@
 _site/
 *-cache/
 .jekyll-metadata
+.sass-cache/
 
 # Ruby
 .bundle/
@@ -10,9 +11,22 @@ _site/
 .ruby-version
 *.gem
 Gemfile.lock
+vendor/
+
+# Python (scraping scripts)
+__pycache__/
+*.py
+*.pyc
+.venv/
+.uv/
+
+# Data files
+*.json
 
 # Files
 .analysis
 .DS_Store
 *.swp
 *~
+.env
+.env.*

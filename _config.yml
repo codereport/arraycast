@@ -1,12 +1,12 @@
-title: The APL Show podcast
-description: Inspired by Ken Iverson’s paper “Notation as a Tool of Thought”, this podcast explores various aspects of notation, in the context of the APL programming language. 
-author: Adám Brudzewsky &amp; Richard Park
-email: contact@apl.show
+title: The Array Cast
+description: A podcast about the array programming languages. Discussing APL, J, K, Q, BQN, and other array languages.
+author: Conor Hoekstra &amp; Adám Brudzewsky
+email: contact@arraycast.com
 lang: en
-copyright: "&#x2117; &amp; &#xA9; 2022–23 Brudzewsky &amp; Park"
-logo: /assets/img/logo.png
+copyright: "&#x2117; &amp; &#xA9; 2021–2026 The Array Cast"
+logo: /assets/img/logo.webp
+url: "https://www.arraycast.com"
 # baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "https://apl.show" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

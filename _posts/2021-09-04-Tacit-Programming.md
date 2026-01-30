@@ -1,0 +1,30 @@
+---
+title: "Episode 9: Tacit Programming"
+date: 2021-09-04 00:00:00 +0000
+episode: 9
+keywords:
+- array-programming
+- array-languages
+- apl
+- jlang
+- tacit
+- point-free
+- fork
+- hook
+mp3-url: "/assets/audio/episode0.mp3"
+episode-type: full
+explicit: "no"
+block: "no"
+layout: podcast
+excerpt_separator: <!--more-->
+---
+<!--more-->
+
+**Host:** Conor Hoekstra
+
+**Panel:** Stephen Taylor, Adám Brudzewsky, and Bob Therriault
+
+---
+
+[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-09-tacit-programming)
+

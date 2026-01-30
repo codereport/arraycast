@@ -1,32 +1,30 @@
-# Podcast Pages
+# The Array Cast
 
-Have your own podcast you want to host? Do it on GitHub!
-Podcast Pages provides a template to host your own podcast using GitHub Pages and [Jekyll](https://jekyllrb.com/).
+A podcast about the array programming languages - discussing APL, J, K, Q, BQN, Uiua, and more.
 
-## Getting Started
+**Website:** [https://www.arraycast.com](https://www.arraycast.com)
 
-### Set Up
+## About
 
-1. Fork this project, or click "Use this template" to copy this into your own GitHub repo.
-1. Fill out details in `./_config.yml`
-1. Change the categories under `./podcast.rss` (See [iTunes help page for more info](https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12))
-    ```
-    <itunes:category text="Business">
-        <itunes:category text="Careers" />
-    </itunes:category>
-    ```
-1. Upload your first podcast
-1. Publish using GitHub pages
-1. Submit rss feed link found at `<your-url.github.io>/podcast.rss` to podcast providers (ie. iTunes, Spotify, etc.)
+The Array Cast explores the world of array programming languages. Hosted by Conor Hoekstra with co-host Adám Brudzewsky and a rotating panel of array language enthusiasts.
 
-### For each new podcast
+## Local Development
 
-1. Upload the `.mp3` file under `./assets/audio/`
-1. Create a new `.md` file containing your podcast details under `./_posts/`
-1. Fill out details in the template provided
-1. Commit and push
-1. ...
-1. Profit
+```bash
+# Install dependencies
+bundle install
+
+# Run locally
+bundle exec jekyll serve
+```
+
+## Adding New Episodes
+
+1. Upload the `.mp3` file to `./assets/audio/`
+2. Create a new `.md` file under `./_posts/` with format `YYYY-MM-DD-Episode-Title.md`
+3. Fill out the front matter (title, date, episode number, etc.)
+4. Commit and push
 
 ## License
+
 See the [LICENSE](LICENSE) file.

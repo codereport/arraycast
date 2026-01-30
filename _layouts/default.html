@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="alternate" type="application/rss+xml" title="Podcast" href="https://apl.show/podcast.rss"/>
+    <link rel="alternate" type="application/rss+xml" title="Podcast" href="{{ site.url }}/podcast.rss"/>
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -14,14 +14,14 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="/"><img id="logo" src="{{site.logo | relative_url}}" alt="Logo" title="Home"/></a><a id="rss" href="/podcast.rss"><img src="/assets/img/rss.svg" alt="RSS" title="RSS feed"></a>
+        <a href="/"><img id="logo" src="{{site.logo | relative_url}}" alt="The Array Cast Logo" title="Home"/></a><a id="rss" href="/podcast.rss"><img src="/assets/img/rss.svg" alt="RSS" title="RSS feed"></a>
         <p>{{ site.description }}</p>
         <hr>
-        <p><a href="https://rikedyp.uk/" target="_blank">Richard</a> <a href="https://www.youtube.com/rikedyp" target="_blank"><img src="/assets/img/yt.svg" alt="YouTube" title="YouTube channel"></a> is the media manager and an APL instructor at Dyalog Ltd, has taught APL at multiple schools, and created <a href="https://course.dyalog.com/" target="_blank">an online self-study course</a>.</p>
-        <p><a href="https://abrudz.github.io" target="_blank">Adám</a> <a href="https://www.youtube.com/a_brudz" target="_blank"><img src="/assets/img/yt.svg" alt="YouTube" title="YouTube channel"></a> is head of language design at Dyalog Ltd, launched the <a href="https://apl.wiki/APL_Orchard">APL Orchard</a> chat room and the <a href="https://apl.wiki/APLcart">APLcart</a> code phrase search, and is the co-author of the <a href="https://xpqz.github.io/cultivations">APL Cultivations</a> book.</p>
-        <p>Both are regular presenters at various APL events, and recurring panellists on the <a href="https://apl.wiki/Array_Cast">Array Cast</a> podcast.</p>
+        <p><strong>Host:</strong> <a href="https://www.youtube.com/codereport" target="_blank">Conor Hoekstra</a> is the host of ArrayCast and ADSP: The Podcast, and runs the code_report YouTube channel.</p>
+        <p><strong>Co-host:</strong> <a href="https://abrudz.github.io" target="_blank">Adám Brudzewsky</a> is head of language design at Dyalog Ltd and a long-time APL enthusiast.</p>
+        <p>The Array Cast explores the world of array programming languages including APL, J, K, Q, BQN, Uiua, and more.</p>
         <hr>
-        <p>Send feedback to <a href="mailto:contact@apl.show" target="_blank">contact@apl.show</a>.
+        <p>Send feedback to <a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>.
       </header>
       <section>
 
