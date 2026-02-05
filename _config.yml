@@ -6,13 +6,9 @@ github_repo: https://github.com/codereport/arraycast
 lang: en
 copyright: "&#x2117; &amp; &#xA9; 2021–2026 The Array Cast"
 logo: /assets/img/logo.webp
-# For temporary deployment at codereport.github.io/arraycast/:
-url: "https://codereport.github.io"
-baseurl: "/arraycast"
-
-# For final deployment at www.arraycast.com, uncomment below and comment above:
-# url: "https://www.arraycast.com"
-# baseurl: ""
+# For deployment at www.arraycast.com:
+url: "https://www.arraycast.com"
+baseurl: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
