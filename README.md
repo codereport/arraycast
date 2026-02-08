@@ -1,6 +1,6 @@
 # The Array Cast
 
-A podcast about the array programming languages - discussing APL, J, K, Q, BQN, Uiua, and more.
+ArrayCast is a podcast that explores the world of array programming languages including APL, J, BQN, K, Q, Uiua and more!
 
 **Website:** [https://www.arraycast.com](https://www.arraycast.com)
 
