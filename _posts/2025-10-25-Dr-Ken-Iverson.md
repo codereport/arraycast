@@ -8,7 +8,7 @@ keywords:
 - apl
 - ken-iverson
 - history
-mp3-url: "/assets/audio/episode117.mp3"
+buzzsprout-id: 18616981
 episode-type: full
 explicit: "no"
 block: "no"

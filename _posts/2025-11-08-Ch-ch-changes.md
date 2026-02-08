@@ -6,7 +6,7 @@ keywords:
 - array-programming
 - array-languages
 - modernity
-mp3-url: "/assets/audio/episode118.mp3"
+buzzsprout-id: 18616979
 episode-type: full
 explicit: "no"
 block: "no"

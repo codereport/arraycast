@@ -10,9 +10,14 @@ layout: default
 </h2>
 
 <section>
+    {% if page.buzzsprout-id %}
+    <div id="buzzsprout-player-{{ page.buzzsprout-id }}"></div>
+    <script src="https://www.buzzsprout.com/2592851/episodes/{{ page.buzzsprout-id }}.js?container_id=buzzsprout-player-{{ page.buzzsprout-id }}&player=small" type="text/javascript" charset="utf-8"></script>
+    {% else %}
     <audio class="podcast" preload="auto" controls>
       <source src="{{ page.mp3-url | prepend: site.baseurl | prepend: site.url }}" type="audio/mp3" />
     </audio>
+    {% endif %}
 </section>
 
 <h3>Notes</h3>
