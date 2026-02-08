@@ -16,7 +16,7 @@ block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-In this episode we look back at our first year of the Array Cast podcast.
+In this episode we look back at our first year of ArrayCast.
 <!--more-->
 
 **Host:** Conor Hoekstra

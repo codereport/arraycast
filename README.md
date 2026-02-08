@@ -1,4 +1,4 @@
-# The Array Cast
+# ArrayCast
 
 ArrayCast is a podcast that explores the world of array programming languages including APL, J, BQN, K, Q, Uiua and more!
 
@@ -6,7 +6,7 @@ ArrayCast is a podcast that explores the world of array programming languages in
 
 ## About
 
-The Array Cast explores the world of array programming languages. Hosted by Conor Hoekstra with co-host Adám Brudzewsky and a rotating panel of array language enthusiasts.
+ArrayCast explores the world of array programming languages. Hosted by Conor Hoekstra with co-host Adám Brudzewsky and a rotating panel of array language enthusiasts.
 
 ## Local Development
 

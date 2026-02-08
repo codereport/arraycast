@@ -20,7 +20,7 @@ block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-In this episode, we talk to Troels Henriksen about Futhark a very interesting array language that compiles to GPU's and multi-core CPU's. Apparently, it’s an array language because we talked about it on the Array Cast!
+In this episode, we talk to Troels Henriksen about Futhark a very interesting array language that compiles to GPU's and multi-core CPU's. Apparently, it’s an array language because we talked about it on ArrayCast!
 <!--more-->
 
 **Host:** Conor Hoekstra
