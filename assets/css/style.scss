@@ -30,7 +30,7 @@ p img {
 	html {
 		filter: invert(1) hue-rotate(180deg);
 	}
-	img {
+	img:not([alt="GitHub"]) {
 		filter: invert(1) hue-rotate(180deg);
 	}
 }
