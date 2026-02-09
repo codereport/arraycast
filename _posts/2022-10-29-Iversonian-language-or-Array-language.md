@@ -18,6 +18,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode39-iverson-or-array-language"
 ---
 In this episode, what makes an array language an Iversonian array language? Also, we discover other languages along the way.
 <!--more-->

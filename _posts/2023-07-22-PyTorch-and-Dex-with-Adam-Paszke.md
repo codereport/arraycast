@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode58-adam-paszke"
 ---
 PyTorch and Dex with Adam Paszke. A view from inside the production team. Can the Array languages learn anything from the ascendency of PyTorch and Dex?
 <!--more-->

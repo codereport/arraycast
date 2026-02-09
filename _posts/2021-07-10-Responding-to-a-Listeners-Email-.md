@@ -11,6 +11,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode-04-responding-to-listeners-email"
 ---
 <!--more-->
 

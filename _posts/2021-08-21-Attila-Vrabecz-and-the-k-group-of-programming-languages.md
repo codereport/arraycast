@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode-08-attila-vrabecz-and-the-k-group-of-programming-languages"
 ---
 <!--more-->
 

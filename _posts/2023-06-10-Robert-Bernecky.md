@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode55-bob-bernecky"
 ---
 Robert Bernecky, builder of the APEX APL compiler and an APL pioneer, is the guest on this episode of ArrayCast.
 <!--more-->

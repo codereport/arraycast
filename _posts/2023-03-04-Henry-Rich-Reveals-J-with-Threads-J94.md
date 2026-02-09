@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode48-henry-rich"
 ---
 J9.4 is released with multiple threads, faster large number calculations and error message improvements.
 <!--more-->

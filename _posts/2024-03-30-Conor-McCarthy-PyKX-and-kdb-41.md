@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode76-conor-mccarthy"
 ---
 Conor McCarthy, the head architect of the KX-Python interface PyKX, tells us about version 4.1 of kdb+.
 <!--more-->

@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode33-joao-araujo"
 ---
 In this episode we talk to João Araújo about how Tools of Thought technology can benefit the array languages through community building.
 <!--more-->

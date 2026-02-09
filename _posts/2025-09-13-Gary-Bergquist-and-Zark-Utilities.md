@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode114-gary-bergquist"
 ---
 Gary Bergquist and Zark UtilitiesTo Gary Bergquist APL is more than the primitives. It is the whole top down approach of developing utilities.
 <!--more-->

@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode61-lynn-sutherland-and-nial"
 ---
 Lynn Sutherland, who worked on the array language Nial during its initial development in the 1980's, is the guest on this episode of ArrayCast.
 <!--more-->

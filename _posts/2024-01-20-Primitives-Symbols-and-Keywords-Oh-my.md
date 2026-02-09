@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode71-primitives"
 ---
 The original plan was to talk about tacit programming, but we never got around to it. Instead we discovered that naming things is indeed one of the hard problems of computing.
 <!--more-->

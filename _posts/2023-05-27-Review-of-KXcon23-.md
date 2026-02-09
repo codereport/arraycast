@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode54-kxcon23"
 ---
 Nick Psaris joins the panel to review the recent KXcon '23 that he and Conor attended.
 <!--more-->

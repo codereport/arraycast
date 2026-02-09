@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode26-stevan-apter"
 ---
 In our twenty-sixth episode, we talk to Stevan Apter, a master k programmer and creator of the nsl.com blog.
 <!--more-->

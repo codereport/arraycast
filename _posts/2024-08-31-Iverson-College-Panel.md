@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode87-iversonsession"
 ---
 Iverson College in Cambridge. https://www.arraycast.com/episodes/episode87-iversonsession
 <!--more-->

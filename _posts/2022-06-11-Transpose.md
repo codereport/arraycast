@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode29-transpose"
 ---
 In this episode we explore monadic and dyadic transpose and the ways it is interpreted in APL, BQN and J.
 <!--more-->

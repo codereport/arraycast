@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode115-pepe"
 ---
 Tacit to the LimitJose Mario Quintana (Pepe) is the master of tacit J. He has even developed a version of J that allows more freedom in tacit expressions.
 <!--more-->

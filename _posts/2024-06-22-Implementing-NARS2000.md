@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode82-nars2000-implementation"
 ---
 Implementing NARS2000The journey can be as important as the destination when you are implementing an experimental array language like NARS2000.
 <!--more-->

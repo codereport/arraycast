@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode98-phineas-porter"
 ---
 Conor's title for this episode is "My Life as a Quant - Phineas Porter and q"If you are interested in array languages in the workplace, this is for you.
 <!--more-->

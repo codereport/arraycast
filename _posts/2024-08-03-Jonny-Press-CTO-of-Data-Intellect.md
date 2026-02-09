@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode85-jonnypress"
 ---
 Jonny Press has a long history of working with the q language from First Derivatives to KX Systems and now as CTO of Data Intellect. There are some stories to tell and Jonny is a story teller.
 <!--more-->

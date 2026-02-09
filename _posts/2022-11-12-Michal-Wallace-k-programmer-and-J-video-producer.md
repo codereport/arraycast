@@ -18,6 +18,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode40-michal-wallace"
 ---
 In this episode, we talk to Michal Wallace AKA tangentstorm, a k3 programmer for 1010data who also produces videos about J.
 <!--more-->

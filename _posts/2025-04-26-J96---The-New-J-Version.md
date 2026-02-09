@@ -15,6 +15,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode104-j96"
 ---
 J9.6 - The New J Version of JFor the 7th time our guest is Henry Rich, the maintainer of the J language. Henry tells us all about the new J Version 9.6
 <!--more-->

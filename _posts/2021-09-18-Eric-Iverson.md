@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode10-eric-iverson"
 ---
 <!--more-->
 

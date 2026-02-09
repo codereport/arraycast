@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode95-aoc"
 ---
 Not many spoilers, but a few hints and lots of discussion around Advent of Code.
 <!--more-->

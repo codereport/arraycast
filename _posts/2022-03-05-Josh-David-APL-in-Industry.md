@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode22-josh-david"
 ---
 In our twenty-second episode, Josh David, North American technical consultant for Dyalog Ltd. tells us about being an APL practitioner in Research and Development.
 <!--more-->

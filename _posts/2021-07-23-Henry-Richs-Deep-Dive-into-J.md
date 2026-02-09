@@ -14,6 +14,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode-06-henry-richs-deep-dive-into-j"
 ---
 <!--more-->
 

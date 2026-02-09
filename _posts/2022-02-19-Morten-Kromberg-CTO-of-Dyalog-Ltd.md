@@ -15,6 +15,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode21-morten-kromberg"
 ---
 In our twenty-first episode, Morten Kromberg, CTO of Dyalog Ltd. talks about his path through the world of APL from programming a Commodore Pet to managing at Dyalog Ltd, including an announcement about Dyalog’s future licensing.
 <!--more-->

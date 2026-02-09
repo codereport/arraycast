@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode50-fold"
 ---
 Henry Rich returns to talk about Fold and other conjunctions that facilitate functional programming.
 <!--more-->

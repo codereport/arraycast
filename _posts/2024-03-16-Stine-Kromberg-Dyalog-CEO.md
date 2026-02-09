@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode75-stine-kromberg"
 ---
 Stine Kromberg, the new CEO of Dyalog Ltd. unveils the new Dyalog Forge as way for APL enthusiasts to promote the language and looks at the business of promoting the array languages.
 <!--more-->

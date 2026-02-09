@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode89-iversonreflect"
 ---
 Participants of the 2024 Iverson College reflect.https://www.arraycast.com/episodes/episode89-iversonreflect 01:16:14
 <!--more-->

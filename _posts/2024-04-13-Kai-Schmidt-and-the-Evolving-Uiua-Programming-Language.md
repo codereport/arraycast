@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode77-uiua"
 ---
 Uiua is Kai Schmidt's stack-based array language that has seen strong growth and much change in it first months.
 <!--more-->

@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode111-ideal-array-language"
 ---
 Asher Mancinelli's Ideal Array LanguageThe ways that we represent arrays can influence the speed of our languages.
 <!--more-->

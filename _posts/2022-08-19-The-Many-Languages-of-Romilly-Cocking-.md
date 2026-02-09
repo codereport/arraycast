@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode34-romilly-cocking"
 ---
 In this episode, we talk to Romilly Cocking about APL, Smalltalk, Python, Clojure and Pop2 . What is Pop2? Listen and find out.
 <!--more-->

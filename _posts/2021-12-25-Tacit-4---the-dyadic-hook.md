@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode17-tacit4-the-dyadic-hook"
 ---
 In our seventeenth episode, we returned to our discussion of tacit programming and tackled the description of the dyadic hook and found that J is not the only language that has this language construct.
 <!--more-->

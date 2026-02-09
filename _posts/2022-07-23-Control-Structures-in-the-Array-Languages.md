@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode32-control-structures"
 ---
 In this episode we discuss the use of control structures within the array languages with new panelist Marshall Lochbaum.
 <!--more-->

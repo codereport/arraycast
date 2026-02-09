@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode86-paulteetor"
 ---
 Paul Teetor, author of the R Cookbook is the guest on this episode of ArrayCast. https://www.arraycast.com/episodes/episode86-paulteetor
 <!--more-->

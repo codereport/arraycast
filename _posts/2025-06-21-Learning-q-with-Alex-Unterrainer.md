@@ -18,6 +18,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode108-alex-unterrainer"
 ---
 Alex Unterrainer tells us about being a q developer and his learning site DefconQ.tech
 <!--more-->

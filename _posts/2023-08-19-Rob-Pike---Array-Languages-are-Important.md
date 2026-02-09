@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode60-rob-pike"
 ---
 Rob Pike, co-creator of the Go language and UTF-8, tells us why every programmer should know about the array languages.
 <!--more-->

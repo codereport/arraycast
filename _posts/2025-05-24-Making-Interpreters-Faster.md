@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode106-interpreters"
 ---
 Making Interpreters FasterOur guests are Henry Rich and Geoff Streeter in this deep discussion of how interpreters for array languages are optimized.
 <!--more-->

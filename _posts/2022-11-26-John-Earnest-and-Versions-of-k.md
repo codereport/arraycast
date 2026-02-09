@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode41-john-earnest"
 ---
 In this episode, we talk to John Earnest, creator of the ok.js k6 interpreter and an expert on k programming, about many aspects of array programming, including the relationship between k and Forth.
 <!--more-->

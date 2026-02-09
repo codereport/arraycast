@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode59-raul-miller"
 ---
 Raul Miller joins the ArrayCast to discuss precision in the world of computing.
 <!--more-->

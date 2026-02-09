@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode91-ipsharpdoc"
 ---
 I.P. Sharp Associates - A Company Ahead of its TimeArchival interviews by Whitney Smith and ArrayCast content provide insight into this important Canadian company.
 <!--more-->

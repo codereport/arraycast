@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode90-ryanhamilton"
 ---
 May you live in interesting times and the possibilities they represent. Ryan Hamilton of TimeStored discusses the adaptations that may be required.
 <!--more-->

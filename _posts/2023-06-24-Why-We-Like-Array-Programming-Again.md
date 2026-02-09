@@ -16,6 +16,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode56-why-we-like-array-programming"
 ---
 An encore performance of our first episode which is a really good episode to use to help your friends understand why you like Array Programming
 <!--more-->

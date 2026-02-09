@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode46-michael-higginson"
 ---
 On this episode we speak to Michael Higginson, a q programmer who one the professional class of the most recent Dyalog competition.
 <!--more-->

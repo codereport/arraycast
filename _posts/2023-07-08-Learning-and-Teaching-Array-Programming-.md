@@ -19,6 +19,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode57-learning-and-teaching-array-languages"
 ---
 On this episode we discuss in detail the challenges of teaching and learning the array languages and explore the role of diagrams in programming.
 <!--more-->

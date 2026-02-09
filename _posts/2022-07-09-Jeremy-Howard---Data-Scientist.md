@@ -17,6 +17,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode31-jeremy-howard"
 ---
 In this episode our guest is Jeremy Howard, entrepreneur and data scientist. A video version is also available on his Youtube channel. https://youtu.be/0AlSPyGWNr4
 <!--more-->

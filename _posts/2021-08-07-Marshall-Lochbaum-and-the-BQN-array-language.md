@@ -15,6 +15,7 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
+redirect_from: "/episodes/episode-07-marshall-lochbaum-and-the-bqn-array-language"
 ---
 <!--more-->
 
