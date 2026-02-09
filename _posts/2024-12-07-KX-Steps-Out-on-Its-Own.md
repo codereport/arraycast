@@ -29,7 +29,6 @@ Ashok Reddy announces a change to the corporate structure of KX and the challeng
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode94-kx)
 
 ## Show Notes
 

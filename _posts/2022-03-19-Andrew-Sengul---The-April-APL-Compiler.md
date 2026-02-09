@@ -30,7 +30,6 @@ In our twenty-third episode, Andrew Sengul, creator of the April language tells 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode23-andrew-sengul)
 
 ## Show Notes
 

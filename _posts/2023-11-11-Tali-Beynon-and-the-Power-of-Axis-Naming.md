@@ -27,7 +27,6 @@ Tali Beynon is our guest and he tells us about his explorations of named axes an
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode66-tali-beynon)
 
 ## Show Notes
 

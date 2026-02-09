@@ -30,7 +30,6 @@ Tali Beynon returns and continues his explorations of named axes and then moves 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode67-tali-beynon-rainbow)
 
 ## Show Notes
 

@@ -29,7 +29,6 @@ Kap is an array programming language written in Kotlin. We discuss the choices t
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode72-kap)
 
 ## Show Notes
 

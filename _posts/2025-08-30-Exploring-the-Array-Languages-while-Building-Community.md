@@ -29,7 +29,6 @@ Exploring the Array Languages while Building CommunityAlex Alejandre is a modera
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode113-exploringbuilding)
 
 ## Show Notes
 

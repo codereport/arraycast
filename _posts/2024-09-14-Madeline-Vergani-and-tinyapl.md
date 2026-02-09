@@ -31,7 +31,6 @@ Madeline Vergani walks us through the development of her exploratory combinator 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode88-tinyapl)
 
 ## Show Notes
 

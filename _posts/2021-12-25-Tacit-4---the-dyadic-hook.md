@@ -28,7 +28,6 @@ In our seventeenth episode, we returned to our discussion of tacit programming a
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode17-tacit4-the-dyadic-hook)
 
 ## Show Notes
 

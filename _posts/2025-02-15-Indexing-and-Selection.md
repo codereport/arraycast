@@ -28,7 +28,6 @@ Selecting elements from arrays is foundational for the array languages. This epi
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode99-selection)
 
 ## Show Notes
 

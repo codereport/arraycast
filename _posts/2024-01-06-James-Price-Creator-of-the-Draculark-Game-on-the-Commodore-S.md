@@ -30,7 +30,6 @@ James Price is an engaging story-teller and retro-programmer who develops games 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode70-james-price)
 
 ## Show Notes
 

@@ -31,7 +31,6 @@ Julia - an Array LanguageOur guest is Miguel Raz (@miguelraz) an advocate for th
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode103-julia)
 
 ## Show Notes
 

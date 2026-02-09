@@ -32,7 +32,6 @@ Asher Mancinelli's Ideal Array LanguageThe ways that we represent arrays can inf
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode111-ideal-array-language)
 
 ## Show Notes
 

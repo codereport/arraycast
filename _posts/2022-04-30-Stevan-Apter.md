@@ -30,7 +30,6 @@ In our twenty-sixth episode, we talk to Stevan Apter, a master k programmer and 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode26-stevan-apter)
 
 ## Show Notes
 

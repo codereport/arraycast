@@ -32,7 +32,6 @@ In this episode, we talk to Romilly Cocking about APL, Smalltalk, Python, Clojur
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode34-romilly-cocking)
 
 ## Show Notes
 

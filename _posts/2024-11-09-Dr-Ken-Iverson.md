@@ -23,7 +23,6 @@ Dr. Ken IversonIn 1982, journalist Whitney Smith sat down and talked to ken Iver
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode92-iverson)
 
 ## Show Notes
 

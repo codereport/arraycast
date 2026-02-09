@@ -30,7 +30,6 @@ How easy is it to make games with the array languages and what examples do we ha
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode65-games)
 
 ## Show Notes
 

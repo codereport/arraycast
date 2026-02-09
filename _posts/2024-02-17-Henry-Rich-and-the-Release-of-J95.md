@@ -32,7 +32,6 @@ Henry Rich and the Release of J9.5Henry joins us once again to tell about the ch
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode73-j95)
 
 ## Show Notes
 

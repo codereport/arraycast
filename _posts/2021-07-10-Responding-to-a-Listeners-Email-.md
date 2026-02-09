@@ -21,5 +21,4 @@ redirect_from: "/episodes/episode-04-responding-to-listeners-email"
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-04-responding-to-listeners-email)
 

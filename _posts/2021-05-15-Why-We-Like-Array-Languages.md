@@ -18,7 +18,6 @@ There are lots of reasons to like the array languages APL, J and k/q! Listen and
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-00-why-i-like-array-languages)
 
 ## Show Notes
 

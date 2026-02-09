@@ -30,7 +30,6 @@ The Goal Array LanguageOur guest is Yon Fernández de Retana (anaseto) who is th
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode102-goal)
 
 ## Show Notes
 

@@ -27,7 +27,6 @@ In this episode we discuss the use of control structures within the array langua
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode32-control-structures)
 
 ## Show Notes
 

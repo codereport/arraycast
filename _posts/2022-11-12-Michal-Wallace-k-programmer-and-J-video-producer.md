@@ -31,7 +31,6 @@ In this episode, we talk to Michal Wallace AKA tangentstorm, a k3 programmer for
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode40-michal-wallace)
 
 ## Show Notes
 

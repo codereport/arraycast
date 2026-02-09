@@ -29,7 +29,6 @@ In our eighteenth episode, Henry Rich fills us in on the updates that J903, the 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode18-henry-rich-presents-j903)
 
 ## Show Notes
 

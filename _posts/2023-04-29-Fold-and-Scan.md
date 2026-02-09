@@ -30,7 +30,6 @@ We take a deep look at the Scan and Fold operators in k, q, BQN and other array 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode52-fold-and-scan)
 
 ## Show Notes
 

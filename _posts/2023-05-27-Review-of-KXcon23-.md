@@ -27,7 +27,6 @@ Nick Psaris joins the panel to review the recent KXcon '23 that he and Conor att
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode54-kxcon23)
 
 ## Show Notes
 

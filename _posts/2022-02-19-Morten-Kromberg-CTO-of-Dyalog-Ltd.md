@@ -28,7 +28,6 @@ In our twenty-first episode, Morten Kromberg, CTO of Dyalog Ltd. talks about his
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode21-morten-kromberg)
 
 ## Show Notes
 

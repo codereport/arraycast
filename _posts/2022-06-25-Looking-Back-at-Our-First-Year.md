@@ -26,7 +26,6 @@ In this episode we look back at our first year of ArrayCast.
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode30-our-first-year)
 
 ## Show Notes
 

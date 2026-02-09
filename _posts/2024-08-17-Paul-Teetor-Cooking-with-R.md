@@ -30,7 +30,6 @@ Paul Teetor, author of the R Cookbook is the guest on this episode of ArrayCast.
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode86-paulteetor)
 
 ## Show Notes
 

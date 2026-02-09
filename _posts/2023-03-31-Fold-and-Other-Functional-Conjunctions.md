@@ -30,7 +30,6 @@ Henry Rich returns to talk about Fold and other conjunctions that facilitate fun
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode50-fold)
 
 ## Show Notes
 

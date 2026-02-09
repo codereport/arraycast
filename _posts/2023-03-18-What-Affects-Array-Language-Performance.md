@@ -28,7 +28,6 @@ What things affect the performance of the array languages and is performance rea
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode49-performance)
 
 ## Show Notes
 

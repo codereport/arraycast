@@ -29,7 +29,6 @@ In this episode, we talk about how to raise the profile of the array languages a
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode38-array-language-profile)
 
 ## Show Notes
 

@@ -27,7 +27,6 @@ redirect_from: "/episodes/episode-07-marshall-lochbaum-and-the-bqn-array-languag
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-07-marshall-lochbaum-and-the-bqn-array-language)
 
 ## Show Notes
 

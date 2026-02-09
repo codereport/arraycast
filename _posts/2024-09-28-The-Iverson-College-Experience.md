@@ -28,7 +28,6 @@ Participants of the 2024 Iverson College reflect.https://www.arraycast.com/episo
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode89-iversonreflect)
 
 ## Show Notes
 

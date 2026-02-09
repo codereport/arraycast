@@ -30,7 +30,6 @@ On this episode we speak to Michael Higginson, a q programmer who one the profes
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode46-michael-higginson)
 
 ## Show Notes
 

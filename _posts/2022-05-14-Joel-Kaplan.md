@@ -32,7 +32,6 @@ In the first episode of our second season, we talk to Joel Kaplan, at Morgan Sta
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode27-joel-kaplan)
 
 ## Show Notes
 

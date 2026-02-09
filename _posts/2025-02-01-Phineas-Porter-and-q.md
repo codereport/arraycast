@@ -29,7 +29,6 @@ Conor's title for this episode is "My Life as a Quant - Phineas Porter and q"If 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode98-phineas-porter)
 
 ## Show Notes
 

@@ -26,7 +26,6 @@ redirect_from: "/episodes/episode-06-henry-richs-deep-dive-into-j"
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-06-henry-richs-deep-dive-into-j)
 
 ## Show Notes
 

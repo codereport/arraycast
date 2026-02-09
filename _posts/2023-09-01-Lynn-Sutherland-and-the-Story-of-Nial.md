@@ -30,7 +30,6 @@ Lynn Sutherland, who worked on the array language Nial during its initial develo
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode61-lynn-sutherland-and-nial)
 
 ## Show Notes
 

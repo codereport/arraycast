@@ -27,7 +27,6 @@ redirect_from: "/episodes/episode-09-tacit-programming"
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-09-tacit-programming)
 
 ## Show Notes
 

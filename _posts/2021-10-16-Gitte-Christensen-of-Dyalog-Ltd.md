@@ -28,7 +28,6 @@ In our twelfth episode, we talk to Gitte Christensen, the CEO of Dyalog Ltd. abo
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode12-gitte-christensen)
 
 ## Show Notes
 

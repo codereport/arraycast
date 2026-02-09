@@ -28,7 +28,6 @@ In this episode we explore monadic and dyadic transpose and the ways it is inter
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode29-transpose)
 
 ## Show Notes
 

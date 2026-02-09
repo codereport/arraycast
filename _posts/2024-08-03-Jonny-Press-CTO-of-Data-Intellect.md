@@ -27,7 +27,6 @@ Jonny Press has a long history of working with the q language from First Derivat
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode85-jonnypress)
 
 ## Show Notes
 

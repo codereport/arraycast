@@ -32,7 +32,6 @@ Implementing NARS2000The journey can be as important as the destination when you
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode82-nars2000-implementation)
 
 ## Show Notes
 

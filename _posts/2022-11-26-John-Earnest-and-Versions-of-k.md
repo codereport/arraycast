@@ -32,7 +32,6 @@ In this episode, we talk to John Earnest, creator of the ok.js k6 interpreter an
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode41-john-earnest)
 
 ## Show Notes
 

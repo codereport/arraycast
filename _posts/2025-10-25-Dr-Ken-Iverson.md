@@ -23,7 +23,6 @@ In 1982, journalist Whitney Smith sat down and talked to Dr. Ken Iverson about a
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode117-iverson)
 
 ## Show Notes
 

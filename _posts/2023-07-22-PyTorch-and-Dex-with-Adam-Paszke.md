@@ -30,7 +30,6 @@ PyTorch and Dex with Adam Paszke. A view from inside the production team. Can th
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode58-adam-paszke)
 
 ## Show Notes
 

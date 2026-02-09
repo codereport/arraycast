@@ -32,7 +32,6 @@ In this episode, Nick Psaris explains why Q is such a good language for big data
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode42-nick-psaris-q)
 
 ## Show Notes
 

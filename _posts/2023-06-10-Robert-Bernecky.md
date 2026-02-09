@@ -30,7 +30,6 @@ Robert Bernecky, builder of the APEX APL compiler and an APL pioneer, is the gue
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode55-bob-bernecky)
 
 ## Show Notes
 

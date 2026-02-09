@@ -32,7 +32,6 @@ Conor McCarthy, the head architect of the KX-Python interface PyKX, tells us abo
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode76-conor-mccarthy)
 
 ## Show Notes
 

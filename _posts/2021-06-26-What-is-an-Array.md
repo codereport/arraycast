@@ -21,7 +21,6 @@ redirect_from: "/episodes/episode-03-what-is-an-array"
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-03-what-is-an-array)
 
 ## Show Notes
 

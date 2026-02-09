@@ -21,7 +21,6 @@ redirect_from: "/episodes/episode-01-loops-and-learning-array-languages"
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-01-loops-and-learning-array-languages)
 
 ## Show Notes
 

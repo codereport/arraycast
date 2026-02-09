@@ -30,7 +30,6 @@ In our twenty-fifth episode, we talk to Vanessa McHale, a polyglot programmer wi
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode25-vanessa-mchale)
 
 ## Show Notes
 

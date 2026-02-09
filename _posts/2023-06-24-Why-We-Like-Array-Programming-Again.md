@@ -27,7 +27,6 @@ An encore performance of our first episode which is a really good episode to use
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode56-why-we-like-array-programming)
 
 ## Show Notes
 

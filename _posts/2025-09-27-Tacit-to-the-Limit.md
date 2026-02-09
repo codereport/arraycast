@@ -32,7 +32,6 @@ Tacit to the LimitJose Mario Quintana (Pepe) is the master of tacit J. He has ev
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode115-pepe)
 
 ## Show Notes
 

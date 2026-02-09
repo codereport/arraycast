@@ -32,7 +32,6 @@ The 100th Episode with Aaron HsuAaron talks about his APL compiler, Co-Dfns and 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode100-100hsu)
 
 ## Show Notes
 

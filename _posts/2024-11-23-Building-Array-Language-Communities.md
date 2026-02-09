@@ -27,7 +27,6 @@ A discussion about the challenges and approaches to trying to build Array langua
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode93-communities)
 
 ## Show Notes
 

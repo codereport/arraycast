@@ -31,7 +31,6 @@ Alex Unterrainer tells us about being a q developer and his learning site Defcon
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode108-alex-unterrainer)
 
 ## Show Notes
 

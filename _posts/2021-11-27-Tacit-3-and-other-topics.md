@@ -30,7 +30,6 @@ In our fifteenth episode, we start off with a programming challenge and then rev
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode15-tacit-3-and-other-topics)
 
 ## Show Notes
 

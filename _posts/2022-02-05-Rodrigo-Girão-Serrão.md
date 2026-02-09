@@ -29,7 +29,6 @@ In our twentieth episode, Rodrigo Girão Serrão, talks about the ways that APL 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode20-rodrigo-girao-serrao)
 
 ## Show Notes
 

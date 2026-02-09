@@ -30,7 +30,6 @@ Today we talk about recreational programming and advice about how to decide on w
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode44-language-choice-and-recreational-programming)
 
 ## Show Notes
 

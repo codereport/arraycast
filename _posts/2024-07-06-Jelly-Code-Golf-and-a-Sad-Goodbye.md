@@ -31,7 +31,6 @@ We spend some time remembering Raghu Ranganathan (razetime) who recently passed 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode83-jelly)
 
 ## Show Notes
 

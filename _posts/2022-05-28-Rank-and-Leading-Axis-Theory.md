@@ -29,7 +29,6 @@ In this episode we explore the concepts of rank and leading axis theory and the 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode28-rank-and-leading-axis)
 
 ## Show Notes
 

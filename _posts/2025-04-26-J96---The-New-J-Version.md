@@ -28,7 +28,6 @@ J9.6 - The New J Version of JFor the 7th time our guest is Henry Rich, the maint
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode104-j96)
 
 ## Show Notes
 

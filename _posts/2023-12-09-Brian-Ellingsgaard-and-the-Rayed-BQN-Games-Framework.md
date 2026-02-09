@@ -29,7 +29,6 @@ Brian Ellingsgaard tells us about developing a games framework on BQN and we all
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode68-brian-ellingsgaard)
 
 ## Show Notes
 

@@ -29,7 +29,6 @@ May you live in interesting times and the possibilities they represent. Ryan Ham
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode90-ryanhamilton)
 
 ## Show Notes
 

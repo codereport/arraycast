@@ -30,7 +30,6 @@ Marshall Lochbaum tells us all about Singeli, a fast intermediate representation
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode62-what-is-singeli)
 
 ## Show Notes
 

@@ -31,7 +31,6 @@ Single Assignment CSven-Bodo Scholz explains the motivation for the SAC (Single 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode107-sac)
 
 ## Show Notes
 

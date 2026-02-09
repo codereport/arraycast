@@ -29,7 +29,6 @@ Stine Kromberg, the new CEO of Dyalog Ltd. unveils the new Dyalog Forge as way f
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode75-stine-kromberg)
 
 ## Show Notes
 

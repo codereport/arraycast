@@ -30,7 +30,6 @@ Iverson College in Cambridge. https://www.arraycast.com/episodes/episode87-ivers
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode87-iversonsession)
 
 ## Show Notes
 

@@ -30,7 +30,6 @@ On this episode we discuss in detail the challenges of teaching and learning the
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode57-learning-and-teaching-array-languages)
 
 ## Show Notes
 

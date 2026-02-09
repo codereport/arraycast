@@ -30,7 +30,6 @@ In this episode we talk to João Araújo about how Tools of Thought technology c
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode33-joao-araujo)
 
 ## Show Notes
 

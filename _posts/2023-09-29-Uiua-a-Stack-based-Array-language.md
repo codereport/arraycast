@@ -29,7 +29,6 @@ Kai Schmidt tells us all about Uiua (wee-wah), a very new stack based tacit arra
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode63-uiua)
 
 ## Show Notes
 

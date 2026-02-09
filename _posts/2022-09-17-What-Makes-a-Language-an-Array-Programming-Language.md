@@ -31,7 +31,6 @@ In this episode, we discuss what makes an array language an array language, comp
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode36-what-makes-an-array-language)
 
 ## Show Notes
 

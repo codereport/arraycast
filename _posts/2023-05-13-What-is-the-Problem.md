@@ -30,7 +30,6 @@ On this episode of ArrayCast k programmer John Earnest joins us as a panellist t
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode53-what-is-the-problem)
 
 ## Show Notes
 

@@ -26,7 +26,6 @@ redirect_from: "/episodes/episode10-eric-iverson"
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode10-eric-iverson)
 
 ## Show Notes
 

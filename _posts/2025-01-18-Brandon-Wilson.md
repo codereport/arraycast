@@ -29,7 +29,6 @@ On this episode of the ArrayCast our guest is Brandon Wilson.Brandon studied the
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode97-brandon-wilson)
 
 ## Show Notes
 

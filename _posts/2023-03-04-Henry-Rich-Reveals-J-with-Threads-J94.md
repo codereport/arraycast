@@ -30,7 +30,6 @@ J9.4 is released with multiple threads, faster large number calculations and err
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode48-henry-rich)
 
 ## Show Notes
 

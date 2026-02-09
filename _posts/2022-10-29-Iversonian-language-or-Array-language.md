@@ -29,7 +29,6 @@ In this episode, what makes an array language an Iversonian array language? Also
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode39-iverson-or-array-language)
 
 ## Show Notes
 

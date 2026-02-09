@@ -32,7 +32,6 @@ On this episode we speak to Ashok Reddy, CEO of KX, about his experience in soft
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode45-ashok-reddy-kx)
 
 ## Show Notes
 

@@ -27,7 +27,6 @@ In our sixteenth episode, we spoke with Brooke Allen, a very successful APL prog
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode16-brooke-allen-a-life-of-adventure)
 
 ## Show Notes
 

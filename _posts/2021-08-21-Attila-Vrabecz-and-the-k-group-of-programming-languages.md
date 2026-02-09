@@ -28,7 +28,6 @@ redirect_from: "/episodes/episode-08-attila-vrabecz-and-the-k-group-of-programmi
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-08-attila-vrabecz-and-the-k-group-of-programming-languages)
 
 ## Show Notes
 

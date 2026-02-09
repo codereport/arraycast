@@ -30,7 +30,6 @@ Implementing ReplicateWe do our first deep dive into implementing primitives by 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode110-replicate)
 
 ## Show Notes
 

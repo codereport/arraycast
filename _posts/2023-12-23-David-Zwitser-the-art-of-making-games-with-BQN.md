@@ -30,7 +30,6 @@ David Zwitser is an artist who is using the BQN array language to create games. 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode69-david-zwitser)
 
 ## Show Notes
 

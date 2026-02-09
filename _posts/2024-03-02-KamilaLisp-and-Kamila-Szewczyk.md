@@ -30,7 +30,6 @@ For this episode, we spoke with wunderkind Kamila Szewczyk, creator of the Kamil
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode74-kamilalisp)
 
 ## Show Notes
 

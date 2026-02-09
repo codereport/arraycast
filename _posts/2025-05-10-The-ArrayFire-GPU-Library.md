@@ -30,7 +30,6 @@ The ArrayFire GPU LibraryOur guests are John Melonakos and Umar Arshad of ArrayF
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode105-arrayfire)
 
 ## Show Notes
 

@@ -27,7 +27,6 @@ Thinking in VectorsStephen is delivering a talk on how to think in vectors and w
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode81-vectors)
 
 ## Show Notes
 

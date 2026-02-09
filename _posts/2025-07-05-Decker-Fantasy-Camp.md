@@ -32,7 +32,6 @@ John Earnest returns with news of a new Decker Fantasy Camp as well as reasons t
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode109-deckerfantasycamp)
 
 ## Show Notes
 

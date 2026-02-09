@@ -32,7 +32,6 @@ Making Interpreters FasterOur guests are Henry Rich and Geoff Streeter in this d
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode106-interpreters)
 
 ## Show Notes
 

@@ -23,7 +23,6 @@ In this episode we have discussion about technology's role in our world and bid 
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode118-changes)
 
 ## Show Notes
 

@@ -29,7 +29,6 @@ Christopher Augustus and Steve Thames from proglangcast and their future project
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode78-proglangcast)
 
 ## Show Notes
 

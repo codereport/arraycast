@@ -28,7 +28,6 @@ A follow up email from Henry Rich gets us started and we find there is a place f
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode51-naming-is-hard)
 
 ## Show Notes
 

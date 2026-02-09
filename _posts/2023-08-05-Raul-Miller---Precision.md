@@ -32,7 +32,6 @@ Raul Miller joins the ArrayCast to discuss precision in the world of computing.
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode59-raul-miller)
 
 ## Show Notes
 

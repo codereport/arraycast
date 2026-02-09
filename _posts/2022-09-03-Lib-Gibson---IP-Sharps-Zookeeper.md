@@ -31,7 +31,6 @@ In this episode, we talk to Lib Gibson about being the ‘Zookeeper’ for IP Sh
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode35-lib-gibson)
 
 ## Show Notes
 

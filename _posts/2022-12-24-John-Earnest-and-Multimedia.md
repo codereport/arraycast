@@ -32,7 +32,6 @@ John Earnest returns to talk about his work extending the array languages into o
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode43-john-earnest-decker)
 
 ## Show Notes
 

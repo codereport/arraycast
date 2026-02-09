@@ -30,7 +30,6 @@ The original plan was to talk about tacit programming, but we never got around t
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode71-primitives)
 
 ## Show Notes
 

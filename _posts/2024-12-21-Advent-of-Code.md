@@ -32,7 +32,6 @@ Not many spoilers, but a few hints and lots of discussion around Advent of Code.
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode95-aoc)
 
 ## Show Notes
 

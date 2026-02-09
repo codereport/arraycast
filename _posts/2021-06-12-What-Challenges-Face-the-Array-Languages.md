@@ -21,7 +21,6 @@ redirect_from: "/episodes/episode-02-challenges-facing-the-array-languages"
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode-02-challenges-facing-the-array-languages)
 
 ## Show Notes
 

@@ -30,7 +30,6 @@ Uiua is Kai Schmidt's stack-based array language that has seen strong growth and
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode77-uiua)
 
 ## Show Notes
 

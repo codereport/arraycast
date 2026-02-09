@@ -30,7 +30,6 @@ Rob Pike, co-creator of the Go language and UTF-8, tells us why every programmer
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode60-rob-pike)
 
 ## Show Notes
 

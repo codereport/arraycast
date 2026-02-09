@@ -28,7 +28,6 @@ Dan Bricklin, VisiCalc and APLWe had no idea how much APL had influenced Dan Bri
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode101-bricklin)
 
 ## Show Notes
 

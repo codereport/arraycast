@@ -32,7 +32,6 @@ Gary Bergquist and Zark UtilitiesTo Gary Bergquist APL is more than the primitiv
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode114-gary-bergquist)
 
 ## Show Notes
 

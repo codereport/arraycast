@@ -32,7 +32,6 @@ In this episode, we talk to Troels Henriksen about Futhark a very interesting ar
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode37-futhark)
 
 ## Show Notes
 

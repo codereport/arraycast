@@ -25,7 +25,6 @@ I.P. Sharp Associates - A Company Ahead of its TimeArchival interviews by Whitne
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode91-ipsharpdoc)
 
 ## Show Notes
 

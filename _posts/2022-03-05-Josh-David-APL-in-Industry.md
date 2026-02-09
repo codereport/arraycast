@@ -29,7 +29,6 @@ In our twenty-second episode, Josh David, North American technical consultant fo
 
 ---
 
-[Original episode on ArrayCast](https://www.arraycast.com/episodes/episode22-josh-david)
 
 ## Show Notes
 
