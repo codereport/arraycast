@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode62-what-is-singeli"
+redirect_from:
+  - "/episodes/episode62-what-is-singeli"
+  - "/episode62-show-notes"
 ---
 Marshall Lochbaum tells us all about Singeli, a fast intermediate representation language that can support the array languages in an array friendly way.
 <!--more-->

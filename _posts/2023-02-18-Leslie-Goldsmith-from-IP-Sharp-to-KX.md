@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode47-leslie-goldsmith"
+redirect_from:
+  - "/episodes/episode47-leslie-goldsmith"
+  - "/episode47-show-notes"
 ---
 Leslie Goldsmith wrote I.P. Sharp's secure email system when he was 17 and that was just the start of his career.
 <!--more-->

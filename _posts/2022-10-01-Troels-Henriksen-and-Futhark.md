@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode37-futhark"
+redirect_from:
+  - "/episodes/episode37-futhark"
+  - "/episode37-show-notes"
 ---
 In this episode, we talk to Troels Henriksen about Futhark a very interesting array language that compiles to GPU's and multi-core CPU's. Apparently, it’s an array language because we talked about it on ArrayCast!
 <!--more-->

@@ -16,7 +16,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode18-henry-rich-presents-j903"
+redirect_from:
+  - "/episodes/episode18-henry-rich-presents-j903"
+  - "/episode18-show-notes"
 ---
 In our eighteenth episode, Henry Rich fills us in on the updates that J903, the most recent version of J, provides.
 <!--more-->

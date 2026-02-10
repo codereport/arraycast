@@ -16,7 +16,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode78-proglangcast"
+redirect_from:
+  - "/episodes/episode78-proglangcast"
+  - "/episode78-show-notes"
 ---
 Christopher Augustus and Steve Thames from proglangcast and their future project proglangbase that will provide detailed analysis of programming language strengths and weaknesses.
 <!--more-->

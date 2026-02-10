@@ -17,7 +17,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode99-selection"
+redirect_from:
+  - "/episodes/episode99-selection"
+  - "/episode99-show-notes"
 ---
 Selecting elements from arrays is foundational for the array languages. This episode is about the evolution of selecting and indexing with APL.
 <!--more-->

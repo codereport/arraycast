@@ -17,7 +17,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode49-performance"
+redirect_from:
+  - "/episodes/episode49-performance"
+  - "/episode49-show-notes"
 ---
 What things affect the performance of the array languages and is performance really that important for most users.
 <!--more-->

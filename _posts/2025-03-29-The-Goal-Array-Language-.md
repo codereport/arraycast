@@ -17,7 +17,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode102-goal"
+redirect_from:
+  - "/episodes/episode102-goal"
+  - "/episode102-show-notes"
 ---
 The Goal Array LanguageOur guest is Yon Fernández de Retana (anaseto) who is the creator of Goal, an array language written in Go and particularly targeted at text manipulation.
 <!--more-->

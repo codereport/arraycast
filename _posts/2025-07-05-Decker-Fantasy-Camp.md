@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode109-deckerfantasycamp"
+redirect_from:
+  - "/episodes/episode109-deckerfantasycamp"
+  - "/episode109-show-notes"
 ---
 John Earnest returns with news of a new Decker Fantasy Camp as well as reasons that Decker and Lil are making serious progress in promoting the array languages.
 <!--more-->

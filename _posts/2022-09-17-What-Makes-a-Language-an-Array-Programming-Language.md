@@ -20,7 +20,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode36-what-makes-an-array-language"
+redirect_from:
+  - "/episodes/episode36-what-makes-an-array-language"
+  - "/episode36-show-notes"
 ---
 In this episode, we discuss what makes an array language an array language, complete with visual aids.
 <!--more-->

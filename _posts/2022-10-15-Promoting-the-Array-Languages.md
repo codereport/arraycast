@@ -18,7 +18,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode38-array-language-profile"
+redirect_from:
+  - "/episodes/episode38-array-language-profile"
+  - "/episode38-show-notes"
 ---
 In this episode, we talk about how to raise the profile of the array languages and make them more accessible to developers and the general public.
 <!--more-->

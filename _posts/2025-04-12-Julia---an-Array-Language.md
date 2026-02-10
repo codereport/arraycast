@@ -18,7 +18,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode103-julia"
+redirect_from:
+  - "/episodes/episode103-julia"
+  - "/episode103-show-notes"
 ---
 Julia - an Array LanguageOur guest is Miguel Raz (@miguelraz) an advocate for the Julia language and the multiple dispatch approach.
 <!--more-->

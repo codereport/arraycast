@@ -18,7 +18,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode107-sac"
+redirect_from:
+  - "/episodes/episode107-sac"
+  - "/episode107-show-notes"
 ---
 Single Assignment CSven-Bodo Scholz explains the motivation for the SAC (Single Assignment C) Compiler and other aspects of High Performance Computing
 <!--more-->

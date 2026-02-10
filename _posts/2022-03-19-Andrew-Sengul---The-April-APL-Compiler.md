@@ -17,7 +17,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode23-andrew-sengul"
+redirect_from:
+  - "/episodes/episode23-andrew-sengul"
+  - "/episode23-show-notes"
 ---
 In our twenty-third episode, Andrew Sengul, creator of the April language tells us about the advantages of combining Lisp and APL.
 <!--more-->

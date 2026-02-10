@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode44-language-choice-and-recreational-programming"
+redirect_from:
+  - "/episodes/episode44-language-choice-and-recreational-programming"
+  - "/episode44-show-notes"
 ---
 Today we talk about recreational programming and advice about how to decide on which array language to learn.
 <!--more-->

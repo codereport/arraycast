@@ -11,7 +11,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode-02-challenges-facing-the-array-languages"
+redirect_from:
+  - "/episodes/episode-02-challenges-facing-the-array-languages"
+  - "/episode3-show-notes"
 ---
 <!--more-->
 

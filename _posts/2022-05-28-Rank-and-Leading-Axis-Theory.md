@@ -18,7 +18,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode28-rank-and-leading-axis"
+redirect_from:
+  - "/episodes/episode28-rank-and-leading-axis"
+  - "/episode28-show-notes"
 ---
 In this episode we explore the concepts of rank and leading axis theory and the ways it is interpreted in APL, BQN and J.
 <!--more-->

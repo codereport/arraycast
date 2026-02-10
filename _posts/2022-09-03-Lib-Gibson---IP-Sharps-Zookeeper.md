@@ -18,7 +18,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode35-lib-gibson"
+redirect_from:
+  - "/episodes/episode35-lib-gibson"
+  - "/episode35-show-notes"
 ---
 In this episode, we talk to Lib Gibson about being the ‘Zookeeper’ for IP Sharp and Clay Christensen’s theory of disruption.
 <!--more-->

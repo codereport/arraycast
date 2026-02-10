@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode67-tali-beynon-rainbow"
+redirect_from:
+  - "/episodes/episode67-tali-beynon-rainbow"
+  - "/episode67-show-notes"
 ---
 Tali Beynon returns and continues his explorations of named axes and then moves on to Category Theory and interface augmented educational tools.
 <!--more-->

@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode52-fold-and-scan"
+redirect_from:
+  - "/episodes/episode52-fold-and-scan"
+  - "/episode52-show-notes"
 ---
 We take a deep look at the Scan and Fold operators in k, q, BQN and other array languages.
 <!--more-->

@@ -17,7 +17,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode51-naming-is-hard"
+redirect_from:
+  - "/episodes/episode51-naming-is-hard"
+  - "/episode51-show-notes"
 ---
 A follow up email from Henry Rich gets us started and we find there is a place for everyone in the world of computer languages.
 <!--more-->

@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode53-what-is-the-problem"
+redirect_from:
+  - "/episodes/episode53-what-is-the-problem"
+  - "/episode53-show-notes"
 ---
 On this episode of ArrayCast k programmer John Earnest joins us as a panellist to look at problem solving with the array languages. Conor provides the problem.
 <!--more-->

@@ -14,7 +14,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode92-iverson"
+redirect_from:
+  - "/episodes/episode92-iverson"
+  - "/episode92-show-notes"
 ---
 Dr. Ken IversonIn 1982, journalist Whitney Smith sat down and talked to ken Iverson about a variety of topics. From sentient computers to education. Iverson's perception is far-reaching and accurate of many of the technological situations we find ourselves in today. Ken Iverson
 <!--more-->

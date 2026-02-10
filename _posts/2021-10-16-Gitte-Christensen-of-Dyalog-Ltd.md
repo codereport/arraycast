@@ -17,7 +17,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode12-gitte-christensen"
+redirect_from:
+  - "/episodes/episode12-gitte-christensen"
+  - "/episode12-show-notes"
 ---
 In our twelfth episode, we talk to Gitte Christensen, the CEO of Dyalog Ltd. about her experience of APL and the power of personal contact when building communities.
 <!--more-->

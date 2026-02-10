@@ -12,7 +12,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode118-changes"
+redirect_from:
+  - "/episodes/episode118-changes"
+  - "/episode118-show-notes"
 ---
 In this episode we have discussion about technology's role in our world and bid a fond farewell to Bob, Stephen and Marshall.
 <!--more-->

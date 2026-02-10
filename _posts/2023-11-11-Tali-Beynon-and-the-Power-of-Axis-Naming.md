@@ -16,7 +16,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode66-tali-beynon"
+redirect_from:
+  - "/episodes/episode66-tali-beynon"
+  - "/episode66-show-notes"
 ---
 Tali Beynon is our guest and he tells us about his explorations of named axes and the opportunity that they present for the array languages.
 <!--more-->

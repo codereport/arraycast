@@ -15,7 +15,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode101-bricklin"
+redirect_from:
+  - "/episodes/episode101-bricklin"
+  - "/episode101-show-notes"
 ---
 Dan Bricklin, VisiCalc and APLWe had no idea how much APL had influenced Dan Bricklin, co-creator of VisiCalc. He has great insight on the path ahead as well.
 <!--more-->

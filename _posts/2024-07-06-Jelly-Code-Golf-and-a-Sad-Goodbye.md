@@ -18,7 +18,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode83-jelly"
+redirect_from:
+  - "/episodes/episode83-jelly"
+  - "/episode83-show-notes"
 ---
 We spend some time remembering Raghu Ranganathan (razetime) who recently passed away and then explore the world of code golfing languages with Jay Bates (caird coinheringaahing).
 <!--more-->

@@ -16,7 +16,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode72-kap"
+redirect_from:
+  - "/episodes/episode72-kap"
+  - "/episode72-show-notes"
 ---
 Kap is an array programming language written in Kotlin. We discuss the choices that Elias Mårtenson made as the language evolved.
 <!--more-->

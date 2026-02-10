@@ -17,7 +17,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode105-arrayfire"
+redirect_from:
+  - "/episodes/episode105-arrayfire"
+  - "/episode105-show-notes"
 ---
 The ArrayFire GPU LibraryOur guests are John Melonakos and Umar Arshad of ArrayFire as we discuss the challenges of implementing GPU performance for higher level languages.
 <!--more-->

@@ -16,7 +16,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode20-rodrigo-girao-serrao"
+redirect_from:
+  - "/episodes/episode20-rodrigo-girao-serrao"
+  - "/episode20-show-notes"
 ---
 In our twentieth episode, Rodrigo Girão Serrão, talks about the ways that APL programming and mathematics have changed his understanding of other languages . Also, a tangent into the world of Wordle.
 <!--more-->

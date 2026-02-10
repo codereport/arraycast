@@ -16,7 +16,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode16-brooke-allen-a-life-of-adventure"
+redirect_from:
+  - "/episodes/episode16-brooke-allen-a-life-of-adventure"
+  - "/episode16-show-notes"
 ---
 In our sixteenth episode, we spoke with Brooke Allen, a very successful APL programmer and Wall Street entrepreneur, about his views on what it takes to make a successful life using the tools the array languages provide.
 <!--more-->

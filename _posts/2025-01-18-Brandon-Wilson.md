@@ -16,7 +16,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode97-brandon-wilson"
+redirect_from:
+  - "/episodes/episode97-brandon-wilson"
+  - "/episode97-show-notes"
 ---
 On this episode of the ArrayCast our guest is Brandon Wilson.Brandon studied the Co-dfns compiler with Aaron Hsu and is using APL to write a YAML parser. This is a deep dive into manipulating data structures.
 <!--more-->

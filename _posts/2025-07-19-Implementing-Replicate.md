@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode110-replicate"
+redirect_from:
+  - "/episodes/episode110-replicate"
+  - "/episode110-show-notes"
 ---
 Implementing ReplicateWe do our first deep dive into implementing primitives by looking at Copy/Replicate
 <!--more-->

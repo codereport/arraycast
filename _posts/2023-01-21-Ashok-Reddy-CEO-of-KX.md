@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode45-ashok-reddy-kx"
+redirect_from:
+  - "/episodes/episode45-ashok-reddy-kx"
+  - "/episode45-show-notes"
 ---
 On this episode we speak to Ashok Reddy, CEO of KX, about his experience in software development and the roles that KX, q and time-series computing will play in the future.
 <!--more-->

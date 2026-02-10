@@ -11,7 +11,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode-03-what-is-an-array"
+redirect_from:
+  - "/episodes/episode-03-what-is-an-array"
+  - "/episode4-show-notes"
 ---
 <!--more-->
 

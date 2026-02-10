@@ -16,7 +16,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode93-communities"
+redirect_from:
+  - "/episodes/episode93-communities"
+  - "/episode93-show-notes"
 ---
 A discussion about the challenges and approaches to trying to build Array language communities. Community is vital to language survival.
 <!--more-->

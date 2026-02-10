@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode100-100hsu"
+redirect_from:
+  - "/episodes/episode100-100hsu"
+  - "/episode100-show-notes"
 ---
 The 100th Episode with Aaron HsuAaron talks about his APL compiler, Co-Dfns and many other things.
 <!--more-->

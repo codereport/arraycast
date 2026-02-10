@@ -11,7 +11,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode-01-loops-and-learning-array-languages"
+redirect_from:
+  - "/episodes/episode-01-loops-and-learning-array-languages"
+  - "/episode2-show-notes"
 ---
 <!--more-->
 

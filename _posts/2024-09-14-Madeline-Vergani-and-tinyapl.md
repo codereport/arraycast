@@ -18,7 +18,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode88-tinyapl"
+redirect_from:
+  - "/episodes/episode88-tinyapl"
+  - "/episode88-show-notes"
 ---
 Madeline Vergani walks us through the development of her exploratory combinator array language, tinyapl.
 <!--more-->

@@ -19,7 +19,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode15-tacit-3-and-other-topics"
+redirect_from:
+  - "/episodes/episode15-tacit-3-and-other-topics"
+  - "/episode15-show-notes"
 ---
 In our fifteenth episode, we start off with a programming challenge and then revisit test driven development in the array languages and finally, if you can stay with it, we look at some of our favourite tacit expressions.
 <!--more-->

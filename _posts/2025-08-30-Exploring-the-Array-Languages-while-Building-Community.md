@@ -16,7 +16,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode113-exploringbuilding"
+redirect_from:
+  - "/episodes/episode113-exploringbuilding"
+  - "/episode113-show-notes"
 ---
 Exploring the Array Languages while Building CommunityAlex Alejandre is a moderator on the apljk subreddit who is exploring the array languages and looking for ways to move the community forward.
 <!--more-->
