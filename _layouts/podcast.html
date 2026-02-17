@@ -20,6 +20,10 @@ layout: default
     {% endif %}
 </section>
 
+{% if page.buzzsprout-id %}
+<p><a href="https://www.buzzsprout.com/2592851/episodes/{{ page.buzzsprout-id }}.mp3">Direct Download Link</a></p>
+{% endif %}
+
 <h3>Notes</h3>
 {{content}}
 
