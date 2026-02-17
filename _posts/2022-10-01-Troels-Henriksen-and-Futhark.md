@@ -2,6 +2,7 @@
 title: "Episode 37: Troels Henriksen and Futhark"
 date: 2022-10-01 00:00:00 +0000
 episode: 37
+buzzsprout-id: 18617090
 keywords:
 - array-programming
 - array-languages

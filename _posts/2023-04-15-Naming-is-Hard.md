@@ -2,6 +2,7 @@
 title: "Episode 51: Naming is Hard"
 date: 2023-04-15 00:00:00 +0000
 episode: 51
+buzzsprout-id: 18617076
 keywords:
 - array-programming
 - array-languages

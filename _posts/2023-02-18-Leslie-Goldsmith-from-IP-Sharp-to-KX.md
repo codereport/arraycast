@@ -2,6 +2,7 @@
 title: "Episode 47: Leslie Goldsmith, from I.P. Sharp to KX"
 date: 2023-02-18 00:00:00 +0000
 episode: 47
+buzzsprout-id: 18617080
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 17: Tacit #4 - the dyadic hook"
 date: 2021-12-25 00:00:00 +0000
 episode: 17
+buzzsprout-id: 18621515
 keywords:
 - array-programming
 - array-languages

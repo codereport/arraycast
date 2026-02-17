@@ -2,6 +2,7 @@
 title: "Episode 87: Iverson College Panel"
 date: 2024-08-31 00:00:00 +0000
 episode: 87
+buzzsprout-id: 18617040
 keywords:
 - array-programming
 - array-languages

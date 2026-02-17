@@ -2,6 +2,7 @@
 title: "Episode 114: Gary Bergquist and Zark Utilities"
 date: 2025-09-13 00:00:00 +0000
 episode: 114
+buzzsprout-id: 18617013
 keywords:
 - array-programming
 - array-languages

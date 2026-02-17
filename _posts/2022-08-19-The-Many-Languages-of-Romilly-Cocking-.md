@@ -2,6 +2,7 @@
 title: "Episode 34: The Many Languages of Romilly Cocking "
 date: 2022-08-19 00:00:00 +0000
 episode: 34
+buzzsprout-id: 18617093
 keywords:
 - array-programming
 - array-languages

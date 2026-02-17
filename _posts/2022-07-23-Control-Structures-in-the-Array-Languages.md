@@ -2,6 +2,7 @@
 title: "Episode 32: Control Structures in the Array Languages"
 date: 2022-07-23 00:00:00 +0000
 episode: 32
+buzzsprout-id: 18617095
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 49: What Affects Array Language Performance?"
 date: 2023-03-18 00:00:00 +0000
 episode: 49
+buzzsprout-id: 18617078
 keywords:
 - array-programming
 - array-languages

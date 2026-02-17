@@ -2,6 +2,7 @@
 title: "Episode 74: KamilaLisp and Kamila Szewczyk"
 date: 2024-03-02 00:00:00 +0000
 episode: 74
+buzzsprout-id: 18617053
 keywords:
 - array-programming
 - array-languages

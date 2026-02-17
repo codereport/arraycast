@@ -2,6 +2,7 @@
 title: "Episode 9: Tacit Programming"
 date: 2021-09-04 00:00:00 +0000
 episode: 9
+buzzsprout-id: 18621523
 keywords:
 - array-programming
 - array-languages

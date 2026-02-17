@@ -2,6 +2,7 @@
 title: "Episode 39: Iversonian language or Array language?"
 date: 2022-10-29 00:00:00 +0000
 episode: 39
+buzzsprout-id: 18617088
 keywords:
 - array-programming
 - array-languages

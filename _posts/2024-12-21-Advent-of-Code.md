@@ -2,6 +2,7 @@
 title: "Episode 95: Advent of Code?"
 date: 2024-12-21 00:00:00 +0000
 episode: 95
+buzzsprout-id: 18617032
 keywords:
 - array-programming
 - array-languages

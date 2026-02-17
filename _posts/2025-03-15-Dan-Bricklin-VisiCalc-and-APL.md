@@ -2,6 +2,7 @@
 title: "Episode 101: Dan Bricklin, VisiCalc and APL"
 date: 2025-03-15 00:00:00 +0000
 episode: 101
+buzzsprout-id: 18617026
 keywords:
 - array-programming
 - array-languages

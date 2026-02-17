@@ -2,6 +2,7 @@
 title: "Episode 43: John Earnest and Multimedia"
 date: 2022-12-24 00:00:00 +0000
 episode: 43
+buzzsprout-id: 18617084
 keywords:
 - array-programming
 - array-languages

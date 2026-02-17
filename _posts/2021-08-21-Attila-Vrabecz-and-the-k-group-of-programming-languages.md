@@ -2,6 +2,7 @@
 title: "Episode 8: Attila Vrabecz and the k group of programming languages."
 date: 2021-08-21 00:00:00 +0000
 episode: 8
+buzzsprout-id: 18621524
 keywords:
 - array-programming
 - array-languages

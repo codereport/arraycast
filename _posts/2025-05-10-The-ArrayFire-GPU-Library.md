@@ -2,6 +2,7 @@
 title: "Episode 105: The ArrayFire GPU Library"
 date: 2025-05-10 00:00:00 +0000
 episode: 105
+buzzsprout-id: 18617022
 keywords:
 - array-programming
 - array-languages

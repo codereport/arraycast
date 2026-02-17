@@ -2,6 +2,7 @@
 title: "Episode 91: I.P. Sharp Associates - A Company Ahead of its Time"
 date: 2024-10-26 00:00:00 +0000
 episode: 91
+buzzsprout-id: 18617036
 keywords:
 - array-programming
 - array-languages

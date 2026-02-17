@@ -2,6 +2,7 @@
 title: "Episode 65: Introduction to Games in the Array Languages"
 date: 2023-10-28 00:00:00 +0000
 episode: 65
+buzzsprout-id: 18617062
 keywords:
 - array-programming
 - array-languages

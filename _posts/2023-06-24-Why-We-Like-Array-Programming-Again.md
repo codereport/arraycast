@@ -2,6 +2,7 @@
 title: "Episode 56: Why We Like Array Programming (Again)"
 date: 2023-06-24 00:00:00 +0000
 episode: 56
+buzzsprout-id: 18617071
 keywords:
 - array-programming
 - array-languages

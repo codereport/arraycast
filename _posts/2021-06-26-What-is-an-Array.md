@@ -2,6 +2,7 @@
 title: "Episode 4: What is an Array?"
 date: 2021-06-26 00:00:00 +0000
 episode: 4
+buzzsprout-id: 18621528
 keywords:
 - array-programming
 - array-languages

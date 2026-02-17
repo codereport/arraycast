@@ -2,6 +2,7 @@
 title: "Episode 103: Julia - an Array Language"
 date: 2025-04-12 00:00:00 +0000
 episode: 103
+buzzsprout-id: 18617024
 keywords:
 - array-programming
 - array-languages

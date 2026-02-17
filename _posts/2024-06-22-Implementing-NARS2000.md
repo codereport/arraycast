@@ -2,6 +2,7 @@
 title: "Episode 82: Implementing NARS2000"
 date: 2024-06-22 00:00:00 +0000
 episode: 82
+buzzsprout-id: 18617045
 keywords:
 - array-programming
 - array-languages

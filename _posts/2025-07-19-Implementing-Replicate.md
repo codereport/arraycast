@@ -2,6 +2,7 @@
 title: "Episode 110: Implementing Replicate"
 date: 2025-07-19 00:00:00 +0000
 episode: 110
+buzzsprout-id: 18617017
 keywords:
 - array-programming
 - array-languages

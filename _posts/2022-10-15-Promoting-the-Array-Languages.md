@@ -2,6 +2,7 @@
 title: "Episode 38: Promoting the Array Languages"
 date: 2022-10-15 00:00:00 +0000
 episode: 38
+buzzsprout-id: 18617089
 keywords:
 - array-programming
 - array-languages

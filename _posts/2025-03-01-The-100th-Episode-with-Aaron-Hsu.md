@@ -2,6 +2,7 @@
 title: "Episode 100: The 100th Episode with Aaron Hsu"
 date: 2025-03-01 00:00:00 +0000
 episode: 100
+buzzsprout-id: 18617027
 keywords:
 - array-programming
 - array-languages

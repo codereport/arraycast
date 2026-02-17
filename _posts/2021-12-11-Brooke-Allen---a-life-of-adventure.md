@@ -2,6 +2,7 @@
 title: "Episode 16: Brooke Allen - a life of adventure"
 date: 2021-12-11 00:00:00 +0000
 episode: 16
+buzzsprout-id: 18621516
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 90: Ryan Hamilton and the Future of Array Languages"
 date: 2024-10-12 00:00:00 +0000
 episode: 90
+buzzsprout-id: 18617037
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 55: Robert Bernecky"
 date: 2023-06-10 00:00:00 +0000
 episode: 55
+buzzsprout-id: 18617072
 keywords:
 - array-programming
 - array-languages

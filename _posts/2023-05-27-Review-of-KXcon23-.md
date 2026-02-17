@@ -2,6 +2,7 @@
 title: "Episode 54: Review of KXcon’23 "
 date: 2023-05-27 00:00:00 +0000
 episode: 54
+buzzsprout-id: 18617073
 keywords:
 - array-programming
 - array-languages

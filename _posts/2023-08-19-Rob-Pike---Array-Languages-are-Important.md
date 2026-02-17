@@ -2,6 +2,7 @@
 title: "Episode 60: Rob Pike - Array Languages are Important"
 date: 2023-08-19 00:00:00 +0000
 episode: 60
+buzzsprout-id: 18617067
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 102: The Goal Array Language "
 date: 2025-03-29 00:00:00 +0000
 episode: 102
+buzzsprout-id: 18617025
 keywords:
 - array-programming
 - array-languages

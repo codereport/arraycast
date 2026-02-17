@@ -2,6 +2,7 @@
 title: "Episode 68: Brian Ellingsgaard and the Rayed-BQN Games Framework"
 date: 2023-12-09 00:00:00 +0000
 episode: 68
+buzzsprout-id: 18617059
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 93: Building Array Language Communities"
 date: 2024-11-23 00:00:00 +0000
 episode: 93
+buzzsprout-id: 18617034
 keywords:
 - array-programming
 - array-languages

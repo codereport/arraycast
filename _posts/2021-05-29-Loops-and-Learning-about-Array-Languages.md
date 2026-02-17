@@ -2,6 +2,7 @@
 title: "Episode 2: Loops and Learning about Array Languages"
 date: 2021-05-29 00:00:00 +0000
 episode: 2
+buzzsprout-id: 18621530
 keywords:
 - array-programming
 - array-languages

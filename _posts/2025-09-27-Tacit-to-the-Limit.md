@@ -2,6 +2,7 @@
 title: "Episode 115: Tacit to the Limit"
 date: 2025-09-27 00:00:00 +0000
 episode: 115
+buzzsprout-id: 18617012
 keywords:
 - array-programming
 - array-languages

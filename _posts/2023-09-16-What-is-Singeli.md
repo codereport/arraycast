@@ -2,6 +2,7 @@
 title: "Episode 62: What is Singeli?"
 date: 2023-09-16 00:00:00 +0000
 episode: 62
+buzzsprout-id: 18617065
 keywords:
 - array-programming
 - array-languages

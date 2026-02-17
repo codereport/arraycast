@@ -2,6 +2,7 @@
 title: "Episode 111: Asher Mancinelli's Ideal Array Language"
 date: 2025-08-02 00:00:00 +0000
 episode: 111
+buzzsprout-id: 18617016
 keywords:
 - array-programming
 - array-languages

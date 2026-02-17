@@ -2,6 +2,7 @@
 title: "Episode 104: J9.6 - The New J Version"
 date: 2025-04-26 00:00:00 +0000
 episode: 104
+buzzsprout-id: 18617023
 keywords:
 - array-programming
 - array-languages

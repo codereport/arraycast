@@ -2,6 +2,7 @@
 title: "Episode 72: Elias Mårtenson and the Kap array programming language."
 date: 2024-02-03 00:00:00 +0000
 episode: 72
+buzzsprout-id: 18617055
 keywords:
 - array-programming
 - array-languages

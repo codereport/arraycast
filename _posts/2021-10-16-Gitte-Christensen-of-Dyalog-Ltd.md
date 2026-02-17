@@ -2,6 +2,7 @@
 title: "Episode 12: Gitte Christensen of Dyalog Ltd."
 date: 2021-10-16 00:00:00 +0000
 episode: 12
+buzzsprout-id: 18621520
 keywords:
 - array-programming
 - array-languages

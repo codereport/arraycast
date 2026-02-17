@@ -2,6 +2,7 @@
 title: "Episode 6: Henry Rich's Deep Dive into J"
 date: 2021-07-23 00:00:00 +0000
 episode: 6
+buzzsprout-id: 18621526
 keywords:
 - array-programming
 - array-languages

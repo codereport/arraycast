@@ -2,6 +2,7 @@
 title: "Episode 42: Nick Psaris and the q language"
 date: 2022-12-10 00:00:00 +0000
 episode: 42
+buzzsprout-id: 18617085
 keywords:
 - array-programming
 - array-languages

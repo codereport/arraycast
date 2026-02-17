@@ -2,6 +2,7 @@
 title: "Episode 45: Ashok Reddy, CEO of KX"
 date: 2023-01-21 00:00:00 +0000
 episode: 45
+buzzsprout-id: 18617082
 keywords:
 - array-programming
 - array-languages

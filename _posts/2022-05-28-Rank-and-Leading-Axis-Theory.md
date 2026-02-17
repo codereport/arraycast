@@ -2,6 +2,7 @@
 title: "Episode 28: Rank and Leading Axis Theory"
 date: 2022-05-28 00:00:00 +0000
 episode: 28
+buzzsprout-id: 18617099
 keywords:
 - array-programming
 - array-languages

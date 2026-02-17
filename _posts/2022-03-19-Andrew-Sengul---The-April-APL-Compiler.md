@@ -2,6 +2,7 @@
 title: "Episode 23: Andrew Sengul - The April APL Compiler"
 date: 2022-03-19 00:00:00 +0000
 episode: 23
+buzzsprout-id: 18617104
 keywords:
 - array-programming
 - array-languages

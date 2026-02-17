@@ -2,6 +2,7 @@
 title: "Episode 44: Choosing an Array Language / The Games We Play"
 date: 2023-01-07 00:00:00 +0000
 episode: 44
+buzzsprout-id: 18617083
 keywords:
 - array-programming
 - array-languages

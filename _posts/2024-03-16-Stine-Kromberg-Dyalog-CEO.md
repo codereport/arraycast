@@ -2,6 +2,7 @@
 title: "Episode 75: Stine Kromberg, Dyalog CEO."
 date: 2024-03-16 00:00:00 +0000
 episode: 75
+buzzsprout-id: 18617052
 keywords:
 - array-programming
 - array-languages

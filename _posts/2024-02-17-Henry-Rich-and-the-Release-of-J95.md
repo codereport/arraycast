@@ -2,6 +2,7 @@
 title: "Episode 73: Henry Rich and the Release of J9.5"
 date: 2024-02-17 00:00:00 +0000
 episode: 73
+buzzsprout-id: 18617054
 keywords:
 - array-programming
 - array-languages

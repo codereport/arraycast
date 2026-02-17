@@ -2,6 +2,7 @@
 title: "Episode 22: Josh David, APL in Industry"
 date: 2022-03-05 00:00:00 +0000
 episode: 22
+buzzsprout-id: 18617105
 keywords:
 - array-programming
 - array-languages

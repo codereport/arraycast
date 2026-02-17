@@ -2,6 +2,7 @@
 title: "Episode 106: Making Interpreters Faster"
 date: 2025-05-24 00:00:00 +0000
 episode: 106
+buzzsprout-id: 18617021
 keywords:
 - array-programming
 - array-languages

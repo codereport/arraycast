@@ -2,6 +2,7 @@
 title: "Episode 88: Madeline Vergani and tinyapl"
 date: 2024-09-14 00:00:00 +0000
 episode: 88
+buzzsprout-id: 18617039
 keywords:
 - array-programming
 - array-languages

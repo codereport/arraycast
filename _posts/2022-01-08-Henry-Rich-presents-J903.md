@@ -2,6 +2,7 @@
 title: "Episode 18: Henry Rich presents J903"
 date: 2022-01-08 00:00:00 +0000
 episode: 18
+buzzsprout-id: 18621514
 keywords:
 - array-programming
 - array-languages

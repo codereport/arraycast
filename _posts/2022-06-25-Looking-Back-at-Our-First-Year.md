@@ -2,6 +2,7 @@
 title: "Episode 30: Looking Back at Our First Year"
 date: 2022-06-25 00:00:00 +0000
 episode: 30
+buzzsprout-id: 18617097
 keywords:
 - array-programming
 - array-languages

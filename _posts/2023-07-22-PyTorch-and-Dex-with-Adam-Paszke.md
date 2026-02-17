@@ -2,6 +2,7 @@
 title: "Episode 58: PyTorch and Dex with Adam Paszke"
 date: 2023-07-22 00:00:00 +0000
 episode: 58
+buzzsprout-id: 18617069
 keywords:
 - array-programming
 - array-languages

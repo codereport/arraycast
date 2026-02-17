@@ -2,6 +2,7 @@
 title: "Episode 71: Primitives, Symbols and Keywords… Oh my!"
 date: 2024-01-20 00:00:00 +0000
 episode: 71
+buzzsprout-id: 18617056
 keywords:
 - array-programming
 - array-languages

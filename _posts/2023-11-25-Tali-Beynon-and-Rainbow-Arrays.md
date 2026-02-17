@@ -2,6 +2,7 @@
 title: "Episode 67: Tali Beynon and Rainbow Arrays"
 date: 2023-11-25 00:00:00 +0000
 episode: 67
+buzzsprout-id: 18617060
 keywords:
 - array-programming
 - array-languages

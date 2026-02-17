@@ -2,6 +2,7 @@
 title: "Episode 21: Morten Kromberg, CTO of Dyalog Ltd."
 date: 2022-02-19 00:00:00 +0000
 episode: 21
+buzzsprout-id: 18617106
 keywords:
 - array-programming
 - array-languages

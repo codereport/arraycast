@@ -2,6 +2,7 @@
 title: "Episode 40: Michal Wallace, k programmer and J video producer"
 date: 2022-11-12 00:00:00 +0000
 episode: 40
+buzzsprout-id: 18617087
 keywords:
 - array-programming
 - array-languages

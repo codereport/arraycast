@@ -2,6 +2,7 @@
 title: "Episode 20: Rodrigo Girão Serrão"
 date: 2022-02-05 00:00:00 +0000
 episode: 20
+buzzsprout-id: 18617107
 keywords:
 - array-programming
 - array-languages

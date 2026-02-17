@@ -2,6 +2,7 @@
 title: "Episode 113: Exploring the Array Languages while Building Community"
 date: 2025-08-30 00:00:00 +0000
 episode: 113
+buzzsprout-id: 18617014
 keywords:
 - array-programming
 - array-languages

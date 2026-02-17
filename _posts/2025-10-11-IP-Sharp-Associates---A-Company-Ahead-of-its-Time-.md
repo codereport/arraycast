@@ -2,6 +2,7 @@
 title: "Episode 116: I.P. Sharp Associates - A Company Ahead of its Time "
 date: 2025-10-11 00:00:00 +0000
 episode: 116
+buzzsprout-id: 18617011
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 15: Tacit #3 (and other topics)"
 date: 2021-11-27 00:00:00 +0000
 episode: 15
+buzzsprout-id: 18621517
 keywords:
 - array-programming
 - array-languages

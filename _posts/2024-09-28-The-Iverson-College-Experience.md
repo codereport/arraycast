@@ -2,6 +2,7 @@
 title: "Episode 89: The Iverson College Experience"
 date: 2024-09-28 00:00:00 +0000
 episode: 89
+buzzsprout-id: 18617038
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 85: Jonny Press, CTO of Data Intellect"
 date: 2024-08-03 00:00:00 +0000
 episode: 85
+buzzsprout-id: 18617042
 keywords:
 - array-programming
 - array-languages

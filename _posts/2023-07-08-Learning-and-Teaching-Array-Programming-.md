@@ -2,6 +2,7 @@
 title: "Episode 57: Learning and Teaching Array Programming "
 date: 2023-07-08 00:00:00 +0000
 episode: 57
+buzzsprout-id: 18617070
 keywords:
 - array-programming
 - array-languages

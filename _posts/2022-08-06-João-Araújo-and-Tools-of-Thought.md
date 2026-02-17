@@ -2,6 +2,7 @@
 title: "Episode 33: João Araújo and Tools of Thought"
 date: 2022-08-06 00:00:00 +0000
 episode: 33
+buzzsprout-id: 18617094
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 83: Jelly, Code Golf and a Sad Goodbye"
 date: 2024-07-06 00:00:00 +0000
 episode: 83
+buzzsprout-id: 18617044
 keywords:
 - array-programming
 - array-languages

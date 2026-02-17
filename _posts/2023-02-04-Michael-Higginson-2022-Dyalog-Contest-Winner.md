@@ -2,6 +2,7 @@
 title: "Episode 46: Michael Higginson, 2022 Dyalog Contest Winner"
 date: 2023-02-04 00:00:00 +0000
 episode: 46
+buzzsprout-id: 18617081
 keywords:
 - array-programming
 - array-languages

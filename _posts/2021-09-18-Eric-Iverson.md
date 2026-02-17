@@ -2,6 +2,7 @@
 title: "Episode 10: Eric Iverson"
 date: 2021-09-18 00:00:00 +0000
 episode: 10
+buzzsprout-id: 18621522
 keywords:
 - array-programming
 - array-languages

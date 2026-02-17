@@ -2,6 +2,7 @@
 title: "Episode 66: Tali Beynon and the Power of Axis Naming"
 date: 2023-11-11 00:00:00 +0000
 episode: 66
+buzzsprout-id: 18617061
 keywords:
 - array-programming
 - array-languages

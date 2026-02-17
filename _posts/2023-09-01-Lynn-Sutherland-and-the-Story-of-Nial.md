@@ -2,6 +2,7 @@
 title: "Episode 61: Lynn Sutherland and the Story of Nial"
 date: 2023-09-01 00:00:00 +0000
 episode: 61
+buzzsprout-id: 18617066
 keywords:
 - array-programming
 - array-languages

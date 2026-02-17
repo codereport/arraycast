@@ -2,6 +2,7 @@
 title: "Episode 50: Fold and Other Functional Conjunctions"
 date: 2023-03-31 00:00:00 +0000
 episode: 50
+buzzsprout-id: 18617077
 keywords:
 - array-programming
 - array-languages

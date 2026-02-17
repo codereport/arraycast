@@ -2,6 +2,7 @@
 title: "Episode 5: Responding to a Listener's Email"
 date: 2021-07-10 00:00:00 +0000
 episode: 5
+buzzsprout-id: 18621527
 keywords:
 - array-programming
 - array-languages

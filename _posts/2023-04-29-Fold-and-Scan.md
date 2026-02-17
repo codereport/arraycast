@@ -2,6 +2,7 @@
 title: "Episode 52: Fold and Scan"
 date: 2023-04-29 00:00:00 +0000
 episode: 52
+buzzsprout-id: 18617075
 keywords:
 - array-programming
 - array-languages

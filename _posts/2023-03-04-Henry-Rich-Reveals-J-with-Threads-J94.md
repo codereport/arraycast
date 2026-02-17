@@ -2,6 +2,7 @@
 title: "Episode 48: Henry Rich Reveals J with Threads J9.4"
 date: 2023-03-04 00:00:00 +0000
 episode: 48
+buzzsprout-id: 18617079
 keywords:
 - array-programming
 - array-languages

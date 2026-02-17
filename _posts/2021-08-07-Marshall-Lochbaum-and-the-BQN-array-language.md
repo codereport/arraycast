@@ -2,6 +2,7 @@
 title: "Episode 7: Marshall Lochbaum and the BQN array language."
 date: 2021-08-07 00:00:00 +0000
 episode: 7
+buzzsprout-id: 18621525
 keywords:
 - array-programming
 - array-languages

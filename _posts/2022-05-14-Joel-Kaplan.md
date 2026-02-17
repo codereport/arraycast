@@ -2,6 +2,7 @@
 title: "Episode 27: Joel Kaplan"
 date: 2022-05-14 00:00:00 +0000
 episode: 27
+buzzsprout-id: 18617100
 keywords:
 - array-programming
 - array-languages

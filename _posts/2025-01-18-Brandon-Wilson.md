@@ -2,6 +2,7 @@
 title: "Episode 97: Brandon Wilson"
 date: 2025-01-18 00:00:00 +0000
 episode: 97
+buzzsprout-id: 18617030
 keywords:
 - array-programming
 - array-languages

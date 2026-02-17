@@ -2,6 +2,7 @@
 title: "Episode 108: Learning q with Alex Unterrainer"
 date: 2025-06-21 00:00:00 +0000
 episode: 108
+buzzsprout-id: 18617019
 keywords:
 - array-programming
 - array-languages

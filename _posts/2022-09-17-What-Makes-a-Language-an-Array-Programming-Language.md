@@ -2,6 +2,7 @@
 title: "Episode 36: What Makes a Language an Array Programming Language?"
 date: 2022-09-17 00:00:00 +0000
 episode: 36
+buzzsprout-id: 18617091
 keywords:
 - array-programming
 - array-languages

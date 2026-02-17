@@ -2,6 +2,7 @@
 title: "Episode 99: Indexing and Selection"
 date: 2025-02-15 00:00:00 +0000
 episode: 99
+buzzsprout-id: 18617028
 keywords:
 - array-programming
 - array-languages

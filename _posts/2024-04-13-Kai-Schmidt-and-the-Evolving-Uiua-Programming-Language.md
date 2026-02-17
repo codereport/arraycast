@@ -2,6 +2,7 @@
 title: "Episode 77: Kai Schmidt and the Evolving Uiua Programming Language"
 date: 2024-04-13 00:00:00 +0000
 episode: 77
+buzzsprout-id: 18617050
 keywords:
 - array-programming
 - array-languages

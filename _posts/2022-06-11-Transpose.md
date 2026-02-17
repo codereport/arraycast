@@ -2,6 +2,7 @@
 title: "Episode 29: Transpose"
 date: 2022-06-11 00:00:00 +0000
 episode: 29
+buzzsprout-id: 18617098
 keywords:
 - array-programming
 - array-languages

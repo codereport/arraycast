@@ -2,6 +2,7 @@
 title: "Episode 35: Lib Gibson - IP Sharp’s ‘Zookeeper’"
 date: 2022-09-03 00:00:00 +0000
 episode: 35
+buzzsprout-id: 18617092
 keywords:
 - array-programming
 - array-languages

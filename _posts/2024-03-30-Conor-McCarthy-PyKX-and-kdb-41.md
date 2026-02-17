@@ -2,6 +2,7 @@
 title: "Episode 76: Conor McCarthy, PyKX and kdb+ 4.1"
 date: 2024-03-30 00:00:00 +0000
 episode: 76
+buzzsprout-id: 18617051
 keywords:
 - array-programming
 - array-languages

@@ -2,6 +2,7 @@
 title: "Episode 81: Thinking in Vectors"
 date: 2024-06-06 00:00:00 +0000
 episode: 81
+buzzsprout-id: 18617046
 keywords:
 - array-programming
 - array-languages

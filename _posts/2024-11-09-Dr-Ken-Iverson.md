@@ -2,6 +2,7 @@
 title: "Episode 92: Dr. Ken Iverson"
 date: 2024-11-09 00:00:00 +0000
 episode: 92
+buzzsprout-id: 18617035
 keywords:
 - array-programming
 - array-languages

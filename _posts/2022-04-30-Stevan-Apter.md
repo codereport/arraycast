@@ -2,6 +2,7 @@
 title: "Episode 26: Stevan Apter"
 date: 2022-04-30 00:00:00 +0000
 episode: 26
+buzzsprout-id: 18617101
 keywords:
 - array-programming
 - array-languages

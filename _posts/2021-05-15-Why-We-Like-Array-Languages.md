@@ -2,6 +2,7 @@
 title: "Episode 1: Why We Like Array Languages"
 date: 2021-05-15 00:00:00 +0000
 episode: 1
+buzzsprout-id: 18621531
 keywords:
 - array-programming
 - array-languages

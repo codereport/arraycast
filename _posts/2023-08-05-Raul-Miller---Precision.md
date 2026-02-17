@@ -2,6 +2,7 @@
 title: "Episode 59: Raul Miller - Precision"
 date: 2023-08-05 00:00:00 +0000
 episode: 59
+buzzsprout-id: 18617068
 keywords:
 - array-programming
 - array-languages

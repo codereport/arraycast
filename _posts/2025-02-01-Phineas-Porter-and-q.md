@@ -2,6 +2,7 @@
 title: "Episode 98: Phineas Porter and q"
 date: 2025-02-01 00:00:00 +0000
 episode: 98
+buzzsprout-id: 18617029
 keywords:
 - array-programming
 - array-languages

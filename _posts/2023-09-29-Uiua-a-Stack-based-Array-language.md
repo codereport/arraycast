@@ -2,6 +2,7 @@
 title: "Episode 63: Uiua, a Stack based Array language"
 date: 2023-09-29 00:00:00 +0000
 episode: 63
+buzzsprout-id: 18617064
 keywords:
 - array-programming
 - array-languages

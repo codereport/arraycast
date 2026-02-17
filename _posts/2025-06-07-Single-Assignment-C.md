@@ -2,6 +2,7 @@
 title: "Episode 107: Single Assignment C"
 date: 2025-06-07 00:00:00 +0000
 episode: 107
+buzzsprout-id: 18617020
 keywords:
 - array-programming
 - array-languages

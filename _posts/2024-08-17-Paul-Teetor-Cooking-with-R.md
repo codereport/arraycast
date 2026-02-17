@@ -2,6 +2,7 @@
 title: "Episode 86: Paul Teetor, Cooking with R"
 date: 2024-08-17 00:00:00 +0000
 episode: 86
+buzzsprout-id: 18617041
 keywords:
 - array-programming
 - array-languages

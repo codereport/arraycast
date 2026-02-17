@@ -2,6 +2,7 @@
 title: "Episode 3: What Challenges Face the Array Languages?"
 date: 2021-06-12 00:00:00 +0000
 episode: 3
+buzzsprout-id: 18621529
 keywords:
 - array-programming
 - array-languages

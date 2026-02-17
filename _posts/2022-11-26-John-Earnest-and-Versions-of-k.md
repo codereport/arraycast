@@ -2,6 +2,7 @@
 title: "Episode 41: John Earnest and Versions of k"
 date: 2022-11-26 00:00:00 +0000
 episode: 41
+buzzsprout-id: 18617086
 keywords:
 - array-programming
 - array-languages

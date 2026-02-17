@@ -2,6 +2,7 @@
 title: "Episode 69: David Zwitser, the art of making games with BQN."
 date: 2023-12-23 00:00:00 +0000
 episode: 69
+buzzsprout-id: 18617058
 keywords:
 - array-programming
 - array-languages
