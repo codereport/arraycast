@@ -20,7 +20,9 @@ explicit: "no"
 block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
-redirect_from: "/episodes/episode65-games"
+redirect_from:
+  - "/episodes/episode65-games"
+  - "/episode65-show-notes"
 ---
 How easy is it to make games with the array languages and what examples do we have of games that are being made.
 <!--more-->

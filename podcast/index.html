@@ -1,0 +1,25 @@
+---
+layout: null
+permalink: /podcast/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting…</title>
+  <script>
+    if (window.location.search.indexOf('format=rss') !== -1) {
+      window.location.replace('{{ site.url }}/podcast.rss');
+    } else {
+      window.location.replace('{{ site.url }}/');
+    }
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0;url={{ site.url }}/">
+  </noscript>
+</head>
+<body>
+  <p>The ArrayCast website was redesigned in 2025. Redirecting to the <a href="{{ site.url }}/">homepage</a>…</p>
+  <p>Looking for the RSS feed? It's now at <a href="{{ site.url }}/podcast.rss">{{ site.url }}/podcast.rss</a>.</p>
+</body>
+</html>
