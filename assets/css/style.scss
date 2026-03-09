@@ -33,4 +33,10 @@ p img {
 	img:not([alt="GitHub"]) {
 		filter: invert(1) hue-rotate(180deg);
 	}
+	div[id^="buzzsprout-player"] {
+		filter: invert(1) hue-rotate(180deg);
+	}
+	iframe {
+		filter: invert(1) hue-rotate(180deg);
+	}
 }
