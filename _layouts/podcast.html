@@ -21,6 +21,9 @@ layout: default
 </section>
 
 {% if page.buzzsprout-id %}
+{% if page.episode >= 123 %}
+<p><a href="https://www.buzzsprout.com/2592851/{{ page.buzzsprout-id }}/transcript">Transcript Link</a></p>
+{% endif %}
 <p><a href="https://www.buzzsprout.com/2592851/episodes/{{ page.buzzsprout-id }}.mp3">Direct Download Link</a></p>
 {% endif %}
 
