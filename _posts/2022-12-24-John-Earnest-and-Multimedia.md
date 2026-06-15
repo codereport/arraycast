@@ -38,8 +38,6 @@ John Earnest returns to talk about his work extending the array languages into o
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-43-show-notes)
-
 - [https://twitter.com/a_brudz/status/1607653845445873664](https://twitter.com/a_brudz/status/1607653845445873664)
 - [https://beyondloom.com/](https://beyondloom.com/)
 - [https://github.com/JohnEarnest/ok/tree/gh-pages/ike](https://github.com/JohnEarnest/ok/tree/gh-pages/ike)

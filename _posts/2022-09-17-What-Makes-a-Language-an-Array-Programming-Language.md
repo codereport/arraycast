@@ -37,8 +37,6 @@ In this episode, we discuss what makes an array language an array language, comp
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-36-show-notes)
-
 - [https://community.kx.com/t5/New-kdb-q-users-question-forum/Vector-programming-in-q-online-workshop-Sun-25-Sep/td-p/13067](https://community.kx.com/t5/New-kdb-q-users-question-forum/Vector-programming-in-q-online-workshop-Sun-25-Sep/td-p/13067)
 - [https://apl.news/](https://apl.news/)
 - [https://www.youtube.com/playlist?list=PLYKQVqyrAEj9zSwnh4K28nCApruWA1j_m](https://www.youtube.com/playlist?list=PLYKQVqyrAEj9zSwnh4K28nCApruWA1j_m)

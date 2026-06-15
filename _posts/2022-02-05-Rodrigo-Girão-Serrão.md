@@ -35,8 +35,6 @@ In our twentieth episode, Rodrigo Girão Serrão, talks about the ways that APL 
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-20-show-notes)
-
 - [https://github.com/jsoftware/math_arrayfire](https://github.com/jsoftware/math_arrayfire)
 - [http://www.jsoftware.com/pipermail/programming/2022-February/059906.html](http://www.jsoftware.com/pipermail/programming/2022-February/059906.html)
 - [https://aplwiki.com/wiki/APL_logo](https://aplwiki.com/wiki/APL_logo)

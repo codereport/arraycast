@@ -38,8 +38,6 @@ In this episode, we talk to Romilly Cocking about APL, Smalltalk, Python, Clojur
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-34-show-notes)
-
 - [https://en.wikipedia.org/wiki/Byte_(magazine)](https://en.wikipedia.org/wiki/Byte_(magazine))
 - [https://orgmode.org/](https://orgmode.org/)
 - [https://www.meetup.com/en-AU/programming-languages-toronto-meetup/events/287695788/](https://www.meetup.com/en-AU/programming-languages-toronto-meetup/events/287695788/)

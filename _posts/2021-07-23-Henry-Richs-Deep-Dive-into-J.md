@@ -32,8 +32,6 @@ redirect_from:
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-6-show-notes)
-
 - [Ian Sharp (1932-2021)](https://www.jsoftware.com/papers/SharpQA.htm)
 - [Whitney Smith interview with Ian Sharp](http://www.snakeisland.com/IanSharpInterviewDraft.mp4)
 - [Dissect](https://code.jsoftware.com/wiki/Vocabulary/Dissect)

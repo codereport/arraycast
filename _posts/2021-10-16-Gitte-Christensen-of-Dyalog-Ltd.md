@@ -34,8 +34,6 @@ In our twelfth episode, we talk to Gitte Christensen, the CEO of Dyalog Ltd. abo
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-12-show-notes)
-
 - [Dyalog 21 November 8-9](https://www.dyalog.com/user-meetings/dyalog21.htm)
 - [APL Campfire](https://aplwiki.com/wiki/APL_Campfire)
 - [APL Logo Design](https://apl.wiki/APL_Logo)

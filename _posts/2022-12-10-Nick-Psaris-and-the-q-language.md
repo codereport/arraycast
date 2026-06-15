@@ -38,8 +38,6 @@ In this episode, Nick Psaris explains why Q is such a good language for big data
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-42-show-notes)
-
 - [https://www.youtube.com/watch?v=SxSd2Hma_Ro&list=PLYKQVqyrAEj8Q7BdOgakZCAGf6ReO1cue](https://www.youtube.com/watch?v=SxSd2Hma_Ro&list=PLYKQVqyrAEj8Q7BdOgakZCAGf6ReO1cue)
 - [https://twitter.com/a_brudz/status/1600523637253185541](https://twitter.com/a_brudz/status/1600523637253185541)
 - [https://mlochbaum.github.io/BQN/community/aoc.html](https://mlochbaum.github.io/BQN/community/aoc.html)

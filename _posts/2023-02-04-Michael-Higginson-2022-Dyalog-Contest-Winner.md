@@ -36,8 +36,6 @@ On this episode we speak to Michael Higginson, a q programmer who one the profes
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-46-show-notes)
-
 - [https://apl.show/](https://apl.show/)
 - [https://aplwiki.com/wiki/APL_Campfire](https://aplwiki.com/wiki/APL_Campfire)
 - [https://www.dyalog.com/apl-seeds-user-meetings/aplseeds23.htm](https://www.dyalog.com/apl-seeds-user-meetings/aplseeds23.htm)

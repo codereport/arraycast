@@ -34,8 +34,6 @@ redirect_from:
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-8-show-notes)
-
 - [Time Complexity of Algorithms](https://en.wikipedia.org/wiki/Time_complexity)
 - [APL Orchard](https://apl.chat)
 - [Array Programming Languages (Wikipedia)](https://en.wikipedia.org/wiki/Array_programming)

@@ -36,8 +36,6 @@ In our fifteenth episode, we start off with a programming challenge and then rev
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-15-show-notes)
-
 - [https://code.jsoftware.com/wiki/Main_Page](https://code.jsoftware.com/wiki/Main_Page)
 - [https://apl.wiki](https://apl.wiki/)
 - [https://vector.org.uk/](https://vector.org.uk/)

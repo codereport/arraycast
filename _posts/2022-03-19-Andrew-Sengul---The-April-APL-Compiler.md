@@ -36,8 +36,6 @@ In our twenty-third episode, Andrew Sengul, creator of the April language tells 
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-23-show-notes)
-
 - [https://jsoftware.github.io/j-playground/bin/html/emj.html](https://jsoftware.github.io/j-playground/bin/html/emj.html)
 - [https://www.youtube.com/watch?v=vyILnD0e2IE](https://www.youtube.com/watch?v=vyILnD0e2IE)
 - [https://adspthepodcast.com/](https://adspthepodcast.com/)

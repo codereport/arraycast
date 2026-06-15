@@ -38,8 +38,6 @@ In the first episode of our second season, we talk to Joel Kaplan, at Morgan Sta
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-27-show-notes)
-
 - [https://code.jsoftware.com/wiki/System/Forums](https://code.jsoftware.com/wiki/System/Forums)
 - [https://www.youtube.com/watch?v=Ni0Kj3Xjk1k&t=1s](https://www.youtube.com/watch?v=Ni0Kj3Xjk1k&t=1s)
 - [https://www.morganstanley.com/](https://www.morganstanley.com/)

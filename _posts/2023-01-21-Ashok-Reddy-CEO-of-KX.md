@@ -38,8 +38,6 @@ On this episode we speak to Ashok Reddy, CEO of KX, about his experience in soft
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-45-show-notes)
-
 - [https://github.com/mlochbaum/bqn-libs/blob/master/json.bqn](https://github.com/mlochbaum/bqn-libs/blob/master/json.bqn)
 - [https://www.youtube.com/watch?v=KOuwZEtHZ_U](https://www.youtube.com/watch?v=KOuwZEtHZ_U)
 - [https://www.ajbell.co.uk/articles/latestnews/248261/fd-technologies-appoints-ashok-reddy-ceo-kx-division](https://www.ajbell.co.uk/articles/latestnews/248261/fd-technologies-appoints-ashok-reddy-ceo-kx-division)

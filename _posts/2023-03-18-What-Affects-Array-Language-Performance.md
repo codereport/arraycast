@@ -34,8 +34,6 @@ What things affect the performance of the array languages and is performance rea
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-49-show-notes)
-
 - [https://contest.dyalog.com/](https://contest.dyalog.com/)
 - [https://open.kattis.com/](https://open.kattis.com/)
 - [https://www.dyalog.com/apl-seeds-user-meetings/aplseeds23.htm](https://www.dyalog.com/apl-seeds-user-meetings/aplseeds23.htm)

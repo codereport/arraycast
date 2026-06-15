@@ -36,8 +36,6 @@ In our twenty-fifth episode, we talk to Vanessa McHale, a polyglot programmer wi
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-25-show-notes)
-
 - [https://code.jsoftware.com/wiki/System/Installation#J904_BETA](https://code.jsoftware.com/wiki/System/Installation#J904_BETA)
 - [https://www.acm.org/articles/bulletins/2022/april/50-years-backfile](https://www.acm.org/articles/bulletins/2022/april/50-years-backfile)
 - [https://bqnpad.mechanize.systems/](https://bqnpad.mechanize.systems/)

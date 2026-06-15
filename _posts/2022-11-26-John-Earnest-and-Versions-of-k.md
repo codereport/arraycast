@@ -38,8 +38,6 @@ In this episode, we talk to John Earnest, creator of the ok.js k6 interpreter an
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-41-show-notes)
-
 - [https://cs.unc.edu/news-article/remembering-department-founder-dr-frederick-p-brooks-jr/](https://cs.unc.edu/news-article/remembering-department-founder-dr-frederick-p-brooks-jr/)
 - [http://www.jsoftware.com/pipermail/chat/2022-November/009134.html](http://www.jsoftware.com/pipermail/chat/2022-November/009134.html)
 - [http://archive.vector.org.uk/art10001240](http://archive.vector.org.uk/art10001240)

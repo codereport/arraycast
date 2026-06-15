@@ -34,8 +34,6 @@ In our seventeenth episode, we returned to our discussion of tacit programming a
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-17-show-notes)
-
 - [https://apl.wiki/Ken_Iverson](https://apl.wiki/Ken_Iverson)
 - [https://code.jsoftware.com/wiki/System/Installation/J903](https://code.jsoftware.com/wiki/System/Installation/J903)
 - [https://apl.wiki/APL_logo](https://apl.wiki/APL_logo)

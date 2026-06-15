@@ -34,8 +34,6 @@ In our twenty-first episode, Morten Kromberg, CTO of Dyalog Ltd. talks about his
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-21-show-notes)
-
 - [TryAPL.org](http://tryapl.org/)
 - [https://tryapl.org/](https://tryapl.org/)
 - [https://www.youtube.com/watch?v=aV936cVrN0I](https://www.youtube.com/watch?v=aV936cVrN0I)

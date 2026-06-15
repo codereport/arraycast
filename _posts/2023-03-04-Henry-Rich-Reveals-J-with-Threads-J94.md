@@ -36,8 +36,6 @@ J9.4 is released with multiple threads, faster large number calculations and err
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-48-show-notes)
-
 - [https://www.youtube.com/watch?v=SUzMb5PdGBM](https://www.youtube.com/watch?v=SUzMb5PdGBM)
 - [https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
 - [https://apl.show/2023/02/24/Primitives-Extravaganza.html](https://apl.show/2023/02/24/Primitives-Extravaganza.html)

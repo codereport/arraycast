@@ -36,8 +36,6 @@ Today we talk about recreational programming and advice about how to decide on w
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-44-show-notes)
-
 - [https://twitter.com/a_brudz/status/1607653845445873664](https://twitter.com/a_brudz/status/1607653845445873664)
 - [https://mlochbaum.github.io/bqncrate/](https://mlochbaum.github.io/bqncrate/)
 - [https://aplcart.info](https://aplcart.info/)

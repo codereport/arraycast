@@ -37,8 +37,6 @@ In this episode, we talk to Michal Wallace AKA tangentstorm, a k3 programmer for
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-40-show-notes)
-
 - [https://www.youtube.com/watch?v=R_dpMVyyCEo&list=PLYKQVqyrAEj8Q7BdOgakZCAGf6ReO1cue](https://www.youtube.com/watch?v=R_dpMVyyCEo&list=PLYKQVqyrAEj8Q7BdOgakZCAGf6ReO1cue)
 - [https://abrudz.github.io/aplnaatot/](https://abrudz.github.io/aplnaatot/)
 - [https://dyalog.tv/Dyalog22/](https://dyalog.tv/Dyalog22/)

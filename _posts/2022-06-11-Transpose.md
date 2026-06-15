@@ -34,8 +34,6 @@ In this episode we explore monadic and dyadic transpose and the ways it is inter
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-29-show-notes)
-
 - [awesome-q.org](http://awesome-q.org/)
 - [https://github.com/StephenTaylor-Kx/awesome-q](https://github.com/StephenTaylor-Kx/awesome-q)
 - [https://www.reddit.com/r/apljk/comments/v5cr09/blog_post_square_joy_preorder/](https://www.reddit.com/r/apljk/comments/v5cr09/blog_post_square_joy_preorder/)

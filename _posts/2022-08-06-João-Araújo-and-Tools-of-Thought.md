@@ -36,8 +36,6 @@ In this episode we talk to João Araújo about how Tools of Thought technology c
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-33-show-notes)
-
 - [https://www.youtube.com/watch?v=dWqixYyb52Q](https://www.youtube.com/watch?v=dWqixYyb52Q)
 - [https://www.youtube.com/watch?v=vxibe2QOA0s](https://www.youtube.com/watch?v=vxibe2QOA0s)
 - [https://britishaplassociation.org/](https://britishaplassociation.org/)

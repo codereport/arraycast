@@ -32,8 +32,6 @@ In this episode we look back at our first year of ArrayCast.
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-30-show-notes)
-
 - [https://aplwiki.com/wiki/APL_logo](https://aplwiki.com/wiki/APL_logo)
 - [https://www.redbubble.com/shop/ap/113247610](https://www.redbubble.com/shop/ap/113247610)
 - [https://esolangconf.com/](https://esolangconf.com/)

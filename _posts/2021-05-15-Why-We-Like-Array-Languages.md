@@ -24,8 +24,6 @@ There are lots of reasons to like the array languages APL, J and k/q! Listen and
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-1-show-notes)
-
 - [Larry Breed (Wikipedia)](https://en.wikipedia.org/wiki/Lawrence_M._Breed)
 - [No Stinking Loops - Stevan Apter](http://nsl.com/)
 - [J for C Programmers - Henry Rich](https://www.jsoftware.com/help/jforc/contents.htm)

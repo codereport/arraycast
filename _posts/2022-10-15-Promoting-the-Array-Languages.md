@@ -35,8 +35,6 @@ In this episode, we talk about how to raise the profile of the array languages a
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-38-show-notes)
-
 - [https://www.dyalog.com/user-meetings/dyalog22.htm](https://www.dyalog.com/user-meetings/dyalog22.htm)
 - [https://www.youtube.com/watch?v=8oKAHQsh1oM](https://www.youtube.com/watch?v=8oKAHQsh1oM)
 - [https://en.wikipedia.org/wiki/1975_British_Mount_Everest_Southwest_Face_expedition](https://en.wikipedia.org/wiki/1975_British_Mount_Everest_Southwest_Face_expedition)

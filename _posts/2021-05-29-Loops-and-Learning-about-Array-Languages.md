@@ -27,8 +27,6 @@ redirect_from:
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-2-show-notes)
-
 - [10 Most(ly Dead) Influential Programming Languages](https://www.hillelwayne.com/post/influential-dead-languages/)
 - [Pharo Launcher](https://pharo-project.github.io/pharo-launcher/)
 - [tatin APL Package Manager in Development](https://tatin.dev)

@@ -36,8 +36,6 @@ In our twenty-sixth episode, we talk to Stevan Apter, a master k programmer and 
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-26-show-notes)
-
 - [APL Farm](https://discord.com/channels/821509511977762827/882836109661470771)
 - [https://www.finnapl.fi/tapahtu.htm](https://www.finnapl.fi/tapahtu.htm)
 - [https://apl-germany.de/apl-germany-spring-meeting-on-5th-and-6th-of-may-2022/](https://apl-germany.de/apl-germany-spring-meeting-on-5th-and-6th-of-may-2022/)

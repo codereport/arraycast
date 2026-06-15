@@ -35,8 +35,6 @@ In our twenty-second episode, Josh David, North American technical consultant fo
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-22-show-notes)
-
 - [https://www.dyalog.com/apl-seeds-user-meetings/aplseeds22.htm](https://www.dyalog.com/apl-seeds-user-meetings/aplseeds22.htm)
 - [https://apl.wiki/APL_Quest](https://apl.wiki/APL_Quest)
 - [https://apl.wiki/APL_Orchard](https://apl.wiki/APL_Orchard)

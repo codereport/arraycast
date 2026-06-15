@@ -33,8 +33,6 @@ In this episode we discuss the use of control structures within the array langua
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-32-show-notes)
-
 - [https://contest.dyalog.com/?goto=welcome](https://contest.dyalog.com/?goto=welcome)
 - [https://www.dyalog.com/user-meetings/dyalog22.htm](https://www.dyalog.com/user-meetings/dyalog22.htm)
 - [https://apl.wiki/Iverson_Notation](https://apl.wiki/Iverson_Notation)

@@ -37,8 +37,6 @@ In this episode, we talk to Lib Gibson about being the ‘Zookeeper’ for IP Sh
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-35-show-notes)
-
 - [https://www.dyalog.com/news/151/420/2022-APL-Problem-Solving-Competition-Winners.htm](https://www.dyalog.com/news/151/420/2022-APL-Problem-Solving-Competition-Winners.htm)
 - [https://code.jsoftware.com/wiki/J_Logos](https://code.jsoftware.com/wiki/J_Logos)
 - [https://code.jsoftware.com/wiki/File:B.USLETTER.pdf](https://code.jsoftware.com/wiki/File:B.USLETTER.pdf)

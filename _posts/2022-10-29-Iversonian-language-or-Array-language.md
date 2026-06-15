@@ -35,8 +35,6 @@ In this episode, what makes an array language an Iversonian array language? Also
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-39-show-notes)
-
 - [https://code2.jsoftware.com/wiki/Main_Page](https://code2.jsoftware.com/wiki/Main_Page)
 - [https://dyalog.tv/Dyalog22/](https://dyalog.tv/Dyalog22/)
 - [https://www.youtube.com/watch?v=R_dpMVyyCEo&list=PLYKQVqyrAEj8Q7BdOgakZCAGf6ReO1cue](https://www.youtube.com/watch?v=R_dpMVyyCEo&list=PLYKQVqyrAEj8Q7BdOgakZCAGf6ReO1cue)

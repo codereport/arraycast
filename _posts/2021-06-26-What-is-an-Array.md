@@ -27,8 +27,6 @@ redirect_from:
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-4-show-notes)
-
 - [Jean Iverson (1925-2021)](http://www.jsoftware.com/pipermail/programming/2021-June/058312.html)
 - [J phrases](https://www.jsoftware.com/help/phrases/contents.htm)
 - [Special Combinations in J](https://code.jsoftware.com/wiki/Vocabulary/SpecialCombinations)

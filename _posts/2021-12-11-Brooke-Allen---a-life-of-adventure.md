@@ -33,8 +33,6 @@ In our sixteenth episode, we spoke with Brooke Allen, a very successful APL prog
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-16-show-notes)
-
 - [https://dyalog.tv/Dyalog21](https://dyalog.tv/Dyalog21)
 - [https://apl.wiki/APL_∊_BCN](https://apl.wiki/APL_∊_BCN)
 - [https://apl.wiki/Advent_of_Code](https://apl.wiki/Advent_of_Code)

@@ -35,8 +35,6 @@ In our eighteenth episode, Henry Rich fills us in on the updates that J903, the 
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-18-show-notes)
-
 - [https://www.functionalconf.com/](https://www.functionalconf.com/)
 - [https://www.youtube.com/watch?v=uEEJDq6cNTs](https://www.youtube.com/watch?v=uEEJDq6cNTs)
 - [https://code.jsoftware.com/wiki/System/ReleaseNotes/J903](https://code.jsoftware.com/wiki/System/ReleaseNotes/J903)

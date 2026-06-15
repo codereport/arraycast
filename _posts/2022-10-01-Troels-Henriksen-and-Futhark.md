@@ -38,8 +38,6 @@ In this episode, we talk to Troels Henriksen about Futhark a very interesting ar
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-37-show-notes)
-
 - [https://adspthepodcast.com/2022/09/23/Episode-96.html](https://adspthepodcast.com/2022/09/23/Episode-96.html)
 - [https://esolangconf.com/](https://esolangconf.com/)
 - [https://sigkill.dk/](https://sigkill.dk/)

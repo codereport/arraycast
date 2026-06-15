@@ -35,8 +35,6 @@ In this episode we explore the concepts of rank and leading axis theory and the 
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-28-show-notes)
-
 - [https://aplwiki.com/wiki/APL_logo](https://aplwiki.com/wiki/APL_logo)
 - [https://bonfire.com/store/apl-stuff/](https://bonfire.com/store/apl-stuff/)
 - [https://redbubble.com/shop/ap/111813275](https://redbubble.com/shop/ap/111813275)

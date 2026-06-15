@@ -27,8 +27,6 @@ redirect_from:
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-3-show-notes)
-
 - [Nested Array Theory - Scholes](https://aplwiki.com/wiki/Array_model#Nested_array_theory)
 - [What is an Array - Hui](https://www.jsoftware.com/papers/array.htm)
 - [Is a Scalar an Array - Hui and Rich](https://code.jsoftware.com/wiki/Essays/Scalars)

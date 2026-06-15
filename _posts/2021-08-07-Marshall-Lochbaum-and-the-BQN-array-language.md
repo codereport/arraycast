@@ -33,8 +33,6 @@ redirect_from:
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-7-show-notes)
-
 - [Stack Overflow Developer Survey:](https://stackoverflow.blog/2021/08/02/2021-stack-overflow-developer-survey-results/)
 - [Most loved/dreaded programming languages:](https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)
 - [Top-paying programming languages](https://insights.stackoverflow.com/survey/2021#section-top-paying-technologies-top-paying-technologies)

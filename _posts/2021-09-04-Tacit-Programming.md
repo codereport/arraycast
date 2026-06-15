@@ -33,8 +33,6 @@ redirect_from:
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-9-show-notes)
-
 - [Larry Breed Obituary](https://www.paloaltoonline.com/obituaries/memorials/lawrence-larry-moser-breed?o=6845)
 - [Larry Breed Memorial on Zoom - Sept. 12, 1:00pm PDT](https://zoom.us/j/670796753?mc_cid=5edda9c5b1&mc_eid=ca3625e5aa&pwd=cTBiY0toMUl1ZEZaK0ZETjU0YitJZz09)
 - [The Ridiculously Early J Morning Show (twitch)](https://www.twitch.tv/tangentstorm/)

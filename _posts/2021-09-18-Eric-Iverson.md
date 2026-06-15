@@ -32,8 +32,6 @@ redirect_from:
 
 ## Show Notes
 
-[Source](https://www.arraycast.com/episode-10-show-notes)
-
 - [The Ridiculously Early J Morning Show (youtube)](https://www.youtube.com/playlist?list=PLMVwLeG3bKmmctpRZt7u7hL8d82Jr1Av4)
 - [The Ridiculously Early J Morning Show (twitch)](https://www.twitch.tv/tangentstorm/)
 - [Eric_Iverson](https://apl.wiki/Eric_Iverson)
