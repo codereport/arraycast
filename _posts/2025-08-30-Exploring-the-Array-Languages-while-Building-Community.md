@@ -89,7 +89,7 @@ Thanks to Bob Therriault, Mark Shure, and Alex Alejandre for gathering these lin
 
 - [Catherine Lathwell's YouTube](https://www.youtube.com/@cjlathwell)
 - [J 2014 Conference](https://code.jsoftware.com/wiki/Community/Conference2014)
-- [Eric Iverson Episode #10 on the ArrayCast](https://www.arraycast.com/episode-10-transcript)
+- [Eric Iverson Episode #10 on the ArrayCast](https://www.arraycast.com/episodes/episode10-eric-iverson)
 - [IP Sharp Associates Episode #91 on the ArrayCast](https://www.arraycast.com/episodes/episode91-ipsharpdoc)
 - [Video Origins of APL](https://www.youtube.com/watch?v=8kUQWuK1L4w)
 - [Campfire Episodes](https://aplwiki.com/wiki/APL_Campfire)
