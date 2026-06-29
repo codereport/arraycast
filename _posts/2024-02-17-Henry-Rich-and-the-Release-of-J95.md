@@ -23,6 +23,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode73-j95"
   - "/episode73-show-notes"
+  - "/episode-73-transcript"
 ---
 Henry Rich and the Release of J9.5Henry joins us once again to tell about the challenges he faced developing the newest version of J - also his feelings on tacit programming.
 <!--more-->

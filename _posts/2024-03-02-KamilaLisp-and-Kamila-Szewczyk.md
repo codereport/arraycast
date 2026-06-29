@@ -21,6 +21,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode74-kamilalisp"
   - "/episode74-show-notes"
+  - "/episode-74-transcript"
 ---
 For this episode, we spoke with wunderkind Kamila Szewczyk, creator of the KamilaLisp experimental language.
 <!--more-->

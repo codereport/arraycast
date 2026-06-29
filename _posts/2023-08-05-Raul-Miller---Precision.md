@@ -23,6 +23,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode59-raul-miller"
   - "/episode59-show-notes"
+  - "/episode-59-transcript"
 ---
 Raul Miller joins the ArrayCast to discuss precision in the world of computing.
 <!--more-->

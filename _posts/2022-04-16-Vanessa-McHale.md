@@ -21,6 +21,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode25-vanessa-mchale"
   - "/episode25-show-notes"
+  - "/episode-25-transcript"
 ---
 In our twenty-fifth episode, we talk to Vanessa McHale, a polyglot programmer with experience in Haskell, Futhark, J and many other programming languages.
 <!--more-->

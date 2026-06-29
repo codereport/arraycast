@@ -20,6 +20,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode81-vectors"
   - "/episode81-show-notes"
+  - "/episode81-transcript"
 ---
 Thinking in VectorsStephen is delivering a talk on how to think in vectors and we reflect on what thinking in vectors might mean.
 <!--more-->

@@ -23,6 +23,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode42-nick-psaris-q"
   - "/episode42-show-notes"
+  - "/episode-42-transcript"
 ---
 In this episode, Nick Psaris explains why Q is such a good language for big data mining and gaining employment through array language expertise.
 <!--more-->

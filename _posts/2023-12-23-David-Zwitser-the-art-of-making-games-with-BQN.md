@@ -23,6 +23,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode69-david-zwitser"
   - "/episode69-show-notes"
+  - "/episode-69-transcript"
 ---
 David Zwitser is an artist who is using the BQN array language to create games. We explore his views on Art, Games and exploring computing as a non-computer scientist.
 <!--more-->

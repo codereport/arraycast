@@ -15,6 +15,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode-02-challenges-facing-the-array-languages"
   - "/episode3-show-notes"
+  - "/episode-2-transcript"
 ---
 <!--more-->
 

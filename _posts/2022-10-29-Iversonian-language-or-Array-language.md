@@ -22,6 +22,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode39-iverson-or-array-language"
   - "/episode39-show-notes"
+  - "/episode-39-transcript"
 ---
 In this episode, what makes an array language an Iversonian array language? Also, we discover other languages along the way.
 <!--more-->

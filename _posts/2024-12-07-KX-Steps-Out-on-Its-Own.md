@@ -20,6 +20,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode94-kx"
   - "/episode94-show-notes"
+  - "/episode94-transcript"
 ---
 Ashok Reddy announces a change to the corporate structure of KX and the challenges and opportunities ahead.
 <!--more-->

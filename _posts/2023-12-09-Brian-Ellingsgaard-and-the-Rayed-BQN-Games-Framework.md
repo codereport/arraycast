@@ -22,6 +22,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode68-brian-ellingsgaard"
   - "/episode68-show-notes"
+  - "/episode-68-transcript"
 ---
 Brian Ellingsgaard tells us about developing a games framework on BQN and we all discuss the challenges of Advent of Code.
 <!--more-->

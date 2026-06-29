@@ -15,6 +15,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode-04-responding-to-listeners-email"
   - "/episode5-show-notes"
+  - "/episode-4-transcript"
 ---
 <!--more-->
 

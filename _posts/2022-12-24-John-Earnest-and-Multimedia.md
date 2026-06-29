@@ -23,6 +23,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode43-john-earnest-decker"
   - "/episode43-show-notes"
+  - "/episode-43-transcript"
 ---
 John Earnest returns to talk about his work extending the array languages into other domains and his new project, Decker.
 <!--more-->

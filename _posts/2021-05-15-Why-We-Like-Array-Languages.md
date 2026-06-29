@@ -15,6 +15,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode-00-why-i-like-array-languages"
   - "/episode1-show-notes"
+  - "/episode-0-transcript"
 ---
 There are lots of reasons to like the array languages APL, J and k/q! Listen and find out more.
 <!--more-->

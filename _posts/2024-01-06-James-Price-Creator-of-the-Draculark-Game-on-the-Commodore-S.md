@@ -23,6 +23,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode70-james-price"
   - "/episode70-show-notes"
+  - "/episode-70-transcript"
 ---
 James Price is an engaging story-teller and retro-programmer who develops games in APL for the Commodore Super Pet.
 <!--more-->

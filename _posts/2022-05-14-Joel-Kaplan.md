@@ -23,6 +23,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode27-joel-kaplan"
   - "/episode27-show-notes"
+  - "/episode-27-transcript"
 ---
 In the first episode of our second season, we talk to Joel Kaplan, at Morgan Stanley during the development of A and co-founder of 1010data.
 <!--more-->

@@ -19,6 +19,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode-07-marshall-lochbaum-and-the-bqn-array-language"
   - "/episode7-show-notes"
+  - "/episode-7-transcript"
 ---
 <!--more-->
 

@@ -22,6 +22,7 @@ excerpt_separator: <!--more-->
 redirect_from:
   - "/episodes/episode63-uiua"
   - "/episode63-show-notes"
+  - "/episode-63-transcript"
 ---
 Kai Schmidt tells us all about Uiua (wee-wah), a very new stack based tacit array language.
 <!--more-->
